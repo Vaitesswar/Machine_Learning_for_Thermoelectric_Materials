@@ -47,8 +47,7 @@ Inorganic Materials. Sci. Data 4, 170085 (2017)_ who published an electronic tra
 The different machine learning models and inverse design algorithmic model can be found under "Models" folder.
 
 ## Training & Testing ##
-Run the respective machine learning .py files to train and test the models. Ensure that the paths to the respective external files are
-set correctly.
-
+Run the respective machine learning .py files to train and test the models in Jupyter Notebook using "Restart & Run All" command. Ensure that the paths to the respective external files are set correctly.
+ 
 ## References ##
 Crystal graph convolutional neural networks. Available at: https://github.com/txie-93/cgcnn.
