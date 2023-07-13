@@ -27,7 +27,7 @@ and inputs as shown. (B) Random forest model, being the most accurate among the 
 property (e.g. TiGePt, ZrInAu, NbFeSb, ZrSiPd and ZrSiPt) outside the training set.
 
 ## Methodology ##
-![Image 2](https://github.com/Vaitesswar/Machine_Learning_for_Thermoelectric_Materials/assets/81757215/6281bd78-431b-4301-81d9-5370f67ad625)
+![Image 2](https://github.com/Vaitesswar/Machine_Learning_for_Thermoelectric_Materials/assets/81757215/22bb0e7a-103c-446d-bd65-453e3ee8f497)
 The 3 phases involved in the forward model training are retrieving data from open-source material databases, processing the retrieved data to obtain the necessary features and developing optimized forward machine learning models based on these features 
 
 ## Prerequisites ##
@@ -38,12 +38,12 @@ The code is built with the following libraries:
 - PyTorch 1.3
 
 ## Data Preparation ##
-In this project, the dataset was obtained from the work of (Ricci, F. et al. An Ab Initio Electronic Transport Database for
-Inorganic Materials. Sci. Data 4, 170085 (2017).) who published an electronic transport database for inorganic materials. This dataset was developed by retrieving the electronic band structures from Materials Project and utilizing them to compute the thermoelectric properties of materials using a BTE package called BoltzTrap 27 . This dataset contains more than 23,000 entries of multi-level data for 8059 materials and is stored in separate json files. Particularly, there would be multiple entries for each material, each with a different temperature, doping level and carrier type. These 23,000 json files were flattened and compiled into a single csv file for ease of use for ML application. The flattened dataset was augmented with atomic properties data, retrieved from Materials Project Database (MPD) 21 using the Matminer 19,20 Python package. In short, CGCNN has a total of 15 input features while DNN, XG Boost and RF models have a total of 26 input features. The data can be found in "Data" folder.
+In this project, the dataset was obtained from the work of _Ricci, F. et al. An Ab Initio Electronic Transport Database for
+Inorganic Materials. Sci. Data 4, 170085 (2017)_ who published an electronic transport database for inorganic materials. This dataset was developed by retrieving the electronic band structures from Materials Project and utilizing them to compute the thermoelectric properties of materials using a BTE package called BoltzTrap 27 . This dataset contains more than 23,000 entries of multi-level data for 8059 materials and is stored in separate json files. Particularly, there would be multiple entries for each material, each with a different temperature, doping level and carrier type. These 23,000 json files were flattened and compiled into a single csv file for ease of use for ML application. The flattened dataset was augmented with atomic properties data, retrieved from Materials Project Database (MPD) 21 using the Matminer 19,20 Python package. In short, CGCNN has a total of 15 input features while DNN, XG Boost and RF models have a total of 26 input features. The data can be found in "Data" folder.
 
 ## Models ##
 The different machine learning models and inverse design algorithmic model can be found under "Models" folder.
 
 ## Training & Testing ##
-Run the respective machine learning .py files to train and test the models. Ensure that the paths to the respective external files are\
+Run the respective machine learning .py files to train and test the models. Ensure that the paths to the respective external files are
 set correctly.
