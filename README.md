@@ -36,6 +36,8 @@ The code is built with the following libraries:
 - Python 3.6
 - Anaconda
 - PyTorch 1.3
+- Scikit-learn
+- Pymatgen
 
 ## Data Preparation ##
 In this project, the dataset was obtained from the work of _Ricci, F. et al. An Ab Initio Electronic Transport Database for
