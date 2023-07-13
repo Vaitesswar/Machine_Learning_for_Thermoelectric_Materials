@@ -26,6 +26,10 @@ XG Boost (XGB) were trained independently for predicting power factor of thermoe
 and inputs as shown. (B) Random forest model, being the most accurate among the 4, was used to discover numerous new materials with good thermoelectric 
 property (e.g. TiGePt, ZrInAu, NbFeSb, ZrSiPd and ZrSiPt) outside the training set.
 
+## Methodology ##
+![Image 2](https://github.com/Vaitesswar/Machine_Learning_for_Thermoelectric_Materials/assets/81757215/6281bd78-431b-4301-81d9-5370f67ad625)
+The 3 phases involved in the forward model training are retrieving data from open-source material databases, processing the retrieved data to obtain the necessary features and developing optimized forward machine learning models based on these features 
+
 ## Prerequisites ##
 The code is built with the following libraries:
 
@@ -34,30 +38,12 @@ The code is built with the following libraries:
 - PyTorch 1.3
 
 ## Data Preparation ##
-The  json skeleton data for NW+UCLA dataset was obtained from the following link and was provided in CTR-GCN's Github page.
-https://github.com/Uason-Chen/CTR-GCN
-
-The skeleton data for NTU RGB+D and NTU RGB+D 120 datasets was obtained by extracting the 3D coordinates from raw .skeleton files obtained
-from NTU ROSE lab.
-https://rose1.ntu.edu.sg/dataset/actionRecognition/
-
-Process the data using the appropriate Python files in data_gen folder for the different datasets. Note that the motion and bone data is preprocessed for NTU datasets. On the other hand, bone and motion data are processed during runtime for NW-UCLA dataset as seen in feeder_ucla.py in feeders folder.
+In this project, the dataset was obtained from the work of (Ricci, F. et al. An Ab Initio Electronic Transport Database for
+Inorganic Materials. Sci. Data 4, 170085 (2017).) who published an electronic transport database for inorganic materials. This dataset was developed by retrieving the electronic band structures from Materials Project and utilizing them to compute the thermoelectric properties of materials using a BTE package called BoltzTrap 27 . This dataset contains more than 23,000 entries of multi-level data for 8059 materials and is stored in separate json files. Particularly, there would be multiple entries for each material, each with a different temperature, doping level and carrier type. These 23,000 json files were flattened and compiled into a single csv file for ease of use for ML application. The flattened dataset was augmented with atomic properties data, retrieved from Materials Project Database (MPD) 21 using the Matminer 19,20 Python package. In short, CGCNN has a total of 15 input features while DNN, XG Boost and RF models have a total of 26 input features. The data can be found in "Data" folder.
 
 ## Models ##
-The GCN models can be found under "models" folder for each dataset.
+The different machine learning models and inverse design algorithmic model can be found under "Models" folder.
 
-## Training ##
-Prior to training, change lines 25 and 27 of training.py file in training folder to the appropriate model architecture and feeder respectively. Note that the feeder file varies for NTU and NW-UCLA datasets. The parameters of optimizer, training schedule and path to input data can be changed in main.py file. "processor" class will take in the parameters and will start training the model upon initiating "processor.start" command in main.py file.
-
-## Testing ##
-In main.py, update the "phase" attribute from "train" to "test" and specify the path to weights of the pretrained model in "weights" attribute.
-
-## Pretrained weights and Test Results ##
-The individual model weights and the predicted action labels for the test samples can be found in the "model weights and results" folder.
-
-## Citing paper ##
-Please refer to the following link for the full details of this model.
-- https://dr.ntu.edu.sg/handle/10356/156866
-
-If you find the repository or paper useful, please cite as follows.
-- U S Vaitesswar (2022). Skeleton-based human action recognition with graph neural networks. Master's thesis, Nanyang Technological University, Singapore. https://hdl.handle.net/10356/156866
+## Training & Testing ##
+Run the respective machine learning .py files to train and test the models. Ensure that the paths to the respective external files are\
+set correctly.
