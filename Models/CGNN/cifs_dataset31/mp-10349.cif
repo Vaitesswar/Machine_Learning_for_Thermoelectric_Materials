@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Na2SnTeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49467886
+_cell_length_b   5.56400893
+_cell_length_c   9.56176716
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   125.08345720
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2SnTeO6
+_chemical_formula_sum   'Na4 Sn2 Te2 O12'
+_cell_volume   239.21542587
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.258650  0.040108  0.250346  1
+  Na  Na1  1  0.741350  0.540108  0.249654  1
+  Na  Na2  1  0.258650  0.459892  0.750346  1
+  Na  Na3  1  0.741350  0.959892  0.749654  1
+  Sn  Sn4  1  0.500000  0.500000  0.500000  1
+  Sn  Sn5  1  0.500000  0.000000  0.000000  1
+  Te  Te6  1  0.000000  0.500000  0.000000  1
+  Te  Te7  1  0.000000  0.000000  0.500000  1
+  O  O8  1  0.664891  0.804360  0.454081  1
+  O  O9  1  0.335109  0.304360  0.045919  1
+  O  O10  1  0.335109  0.195640  0.545919  1
+  O  O11  1  0.664891  0.695640  0.954081  1
+  O  O12  1  0.760350  0.287572  0.451705  1
+  O  O13  1  0.239650  0.787572  0.048295  1
+  O  O14  1  0.239650  0.712428  0.548295  1
+  O  O15  1  0.760350  0.212428  0.951705  1
+  O  O16  1  0.149721  0.472821  0.240960  1
+  O  O17  1  0.850279  0.972821  0.259040  1
+  O  O18  1  0.850279  0.527179  0.759040  1
+  O  O19  1  0.149721  0.027179  0.740960  1

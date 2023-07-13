@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MgCuP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.84435928
+_cell_length_b   6.52167553
+_cell_length_c   7.13797113
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCuP
+_chemical_formula_sum   'Mg4 Cu4 P4'
+_cell_volume   178.96081271
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.750000  0.468810  0.679542  1
+  Mg  Mg1  1  0.250000  0.531190  0.320458  1
+  Mg  Mg2  1  0.750000  0.968810  0.820458  1
+  Mg  Mg3  1  0.250000  0.031190  0.179542  1
+  Cu  Cu4  1  0.250000  0.127565  0.561364  1
+  Cu  Cu5  1  0.250000  0.627565  0.938636  1
+  Cu  Cu6  1  0.750000  0.372435  0.061364  1
+  Cu  Cu7  1  0.750000  0.872435  0.438636  1
+  P  P8  1  0.750000  0.246167  0.377886  1
+  P  P9  1  0.250000  0.253833  0.877886  1
+  P  P10  1  0.250000  0.753833  0.622114  1
+  P  P11  1  0.750000  0.746167  0.122114  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmAsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.83651884
+_cell_length_b   6.83651884
+_cell_length_c   6.83651884
+_cell_angle_alpha   135.93767818
+_cell_angle_beta   135.93767818
+_cell_angle_gamma   64.07670045
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmAsO4
+_chemical_formula_sum   'Sm2 As2 O8'
+_cell_volume   152.44840013
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.000000  0.000000  0.000000  1
+  Sm  Sm1  1  0.750000  0.250000  0.500000  1
+  As  As2  1  0.500000  0.500000  0.000000  1
+  As  As3  1  0.250000  0.750000  0.500000  1
+  O  O4  1  0.172263  0.564003  0.892647  1
+  O  O5  1  0.314003  0.921356  0.891740  1
+  O  O6  1  0.029617  0.422263  0.108260  1
+  O  O7  1  0.671356  0.279617  0.107353  1
+  O  O8  1  0.078644  0.970383  0.392647  1
+  O  O9  1  0.720383  0.827737  0.391740  1
+  O  O10  1  0.435997  0.328644  0.608260  1
+  O  O11  1  0.577737  0.685997  0.607353  1

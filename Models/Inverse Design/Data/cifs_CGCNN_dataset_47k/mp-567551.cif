@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_SiC
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.09414053
+_cell_length_b   3.09414053
+_cell_length_c   40.48348898
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiC
+_chemical_formula_sum   'Si16 C16'
+_cell_volume   335.65153320
+_cell_formula_units_Z   16
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.333333  0.666667  0.812485  1
+  Si  Si1  1  0.333333  0.666667  0.562516  1
+  Si  Si2  1  0.000000  0.000000  0.375013  1
+  Si  Si3  1  0.666667  0.333333  0.937438  1
+  Si  Si4  1  0.666667  0.333333  0.062516  1
+  Si  Si5  1  0.000000  0.000000  0.249974  1
+  Si  Si6  1  0.000000  0.000000  0.875013  1
+  Si  Si7  1  0.666667  0.333333  0.687479  1
+  Si  Si8  1  0.666667  0.333333  0.499982  1
+  Si  Si9  1  0.333333  0.666667  0.437438  1
+  Si  Si10  1  0.333333  0.666667  0.999982  1
+  Si  Si11  1  0.000000  0.000000  0.749974  1
+  Si  Si12  1  0.666667  0.333333  0.312485  1
+  Si  Si13  1  0.000000  0.000000  0.624942  1
+  Si  Si14  1  0.333333  0.666667  0.187479  1
+  Si  Si15  1  0.000000  0.000000  0.124942  1
+  C  C16  1  0.000000  0.000000  0.171818  1
+  C  C17  1  0.333333  0.666667  0.484316  1
+  C  C18  1  0.666667  0.333333  0.359477  1
+  C  C19  1  0.333333  0.666667  0.046978  1
+  C  C20  1  0.666667  0.333333  0.546978  1
+  C  C21  1  0.000000  0.000000  0.921883  1
+  C  C22  1  0.333333  0.666667  0.609381  1
+  C  C23  1  0.666667  0.333333  0.734474  1
+  C  C24  1  0.000000  0.000000  0.421883  1
+  C  C25  1  0.666667  0.333333  0.984316  1
+  C  C26  1  0.000000  0.000000  0.796804  1
+  C  C27  1  0.666667  0.333333  0.109381  1
+  C  C28  1  0.333333  0.666667  0.859477  1
+  C  C29  1  0.000000  0.000000  0.296804  1
+  C  C30  1  0.000000  0.000000  0.671818  1
+  C  C31  1  0.333333  0.666667  0.234474  1

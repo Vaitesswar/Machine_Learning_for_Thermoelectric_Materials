@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiCeO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81744551
+_cell_length_b   6.07216304
+_cell_length_c   5.88969460
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   104.06199136
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCeO2
+_chemical_formula_sum   'Li4 Ce4 O8'
+_cell_volume   201.81582437
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.818288  0.867513  0.334450  1
+  Li  Li1  1  0.681712  0.367513  0.665550  1
+  Li  Li2  1  0.181712  0.132487  0.665550  1
+  Li  Li3  1  0.318288  0.632487  0.334450  1
+  Ce  Ce4  1  0.695031  0.927500  0.798654  1
+  Ce  Ce5  1  0.195031  0.572500  0.798654  1
+  Ce  Ce6  1  0.304969  0.072500  0.201346  1
+  Ce  Ce7  1  0.804969  0.427500  0.201346  1
+  O  O8  1  0.013524  0.753098  0.089594  1
+  O  O9  1  0.306345  0.862726  0.566713  1
+  O  O10  1  0.486476  0.253098  0.910406  1
+  O  O11  1  0.986476  0.246902  0.910406  1
+  O  O12  1  0.693655  0.137274  0.433287  1
+  O  O13  1  0.193655  0.362726  0.433287  1
+  O  O14  1  0.806345  0.637274  0.566713  1
+  O  O15  1  0.513524  0.746902  0.089594  1

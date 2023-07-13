@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_HgBrO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.88205155
+_cell_length_b   9.88205155
+_cell_length_c   9.07243897
+_cell_angle_alpha   74.30829490
+_cell_angle_beta   105.69170510
+_cell_angle_gamma   152.31877387
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HgBrO3
+_chemical_formula_sum   'Hg4 Br4 O12'
+_cell_volume   395.28895021
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.906314  0.036811  0.512366  1
+  Hg  Hg1  1  0.036811  0.906314  0.987634  1
+  Hg  Hg2  1  0.093686  0.963189  0.487634  1
+  Hg  Hg3  1  0.963189  0.093686  0.012366  1
+  Br  Br4  1  0.262593  0.609147  0.163172  1
+  Br  Br5  1  0.609147  0.262593  0.336828  1
+  Br  Br6  1  0.737407  0.390853  0.836828  1
+  Br  Br7  1  0.390853  0.737407  0.663172  1
+  O  O8  1  0.484782  0.664528  0.198240  1
+  O  O9  1  0.664528  0.484782  0.301760  1
+  O  O10  1  0.515218  0.335472  0.801760  1
+  O  O11  1  0.335472  0.515218  0.698240  1
+  O  O12  1  0.104285  0.458702  0.326440  1
+  O  O13  1  0.458702  0.104285  0.173560  1
+  O  O14  1  0.895715  0.541298  0.673560  1
+  O  O15  1  0.541298  0.895715  0.826440  1
+  O  O16  1  0.677002  0.019978  0.541514  1
+  O  O17  1  0.019978  0.677002  0.958486  1
+  O  O18  1  0.322998  0.980022  0.458486  1
+  O  O19  1  0.980022  0.322998  0.041514  1

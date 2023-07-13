@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_TeRhCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.05483841
+_cell_length_b   7.05483841
+_cell_length_c   6.75683979
+_cell_angle_alpha   63.40409394
+_cell_angle_beta   116.59590606
+_cell_angle_gamma   149.43012105
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TeRhCl
+_chemical_formula_sum   'Te2 Rh2 Cl2'
+_cell_volume   151.49861591
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.859798  0.140202  0.527374  1
+  Te  Te1  1  0.140202  0.859798  0.472626  1
+  Rh  Rh2  1  0.250775  0.749225  0.246847  1
+  Rh  Rh3  1  0.749225  0.250775  0.753153  1
+  Cl  Cl4  1  0.362436  0.637564  0.031815  1
+  Cl  Cl5  1  0.637564  0.362436  0.968185  1

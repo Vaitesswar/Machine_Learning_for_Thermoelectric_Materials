@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_In4SbTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.64088939
+_cell_length_b   7.64088939
+_cell_length_c   6.21888572
+_cell_angle_alpha   65.98629560
+_cell_angle_beta   114.01370440
+_cell_angle_gamma   70.66823640
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In4SbTe3
+_chemical_formula_sum   'In4 Sb1 Te3'
+_cell_volume   243.43620953
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.004085  0.995915  0.001429  1
+  In  In1  1  0.496178  0.503822  0.991751  1
+  In  In2  1  0.249130  0.246661  0.497358  1
+  In  In3  1  0.753339  0.750870  0.497358  1
+  Sb  Sb4  1  0.999182  0.000818  0.496492  1
+  Te  Te5  1  0.751513  0.745217  0.005914  1
+  Te  Te6  1  0.254783  0.248487  0.005914  1
+  Te  Te7  1  0.504944  0.495056  0.501475  1

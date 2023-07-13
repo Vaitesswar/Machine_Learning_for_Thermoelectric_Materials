@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfRe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28338548
+_cell_length_b   5.28338548
+_cell_length_c   8.64738455
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfRe2
+_chemical_formula_sum   'Hf4 Re8'
+_cell_volume   209.04510405
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.333333  0.666667  0.061979  1
+  Hf  Hf1  1  0.666667  0.333333  0.561979  1
+  Hf  Hf2  1  0.666667  0.333333  0.938021  1
+  Hf  Hf3  1  0.333333  0.666667  0.438021  1
+  Re  Re4  1  0.000000  0.000000  0.000000  1
+  Re  Re5  1  0.000000  0.000000  0.500000  1
+  Re  Re6  1  0.828122  0.656245  0.250000  1
+  Re  Re7  1  0.171878  0.828122  0.750000  1
+  Re  Re8  1  0.656245  0.828122  0.750000  1
+  Re  Re9  1  0.343755  0.171878  0.250000  1
+  Re  Re10  1  0.828122  0.171878  0.250000  1
+  Re  Re11  1  0.171878  0.343755  0.750000  1

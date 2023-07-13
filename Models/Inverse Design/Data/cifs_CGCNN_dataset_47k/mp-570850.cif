@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_LiCa2InGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.45844902
+_cell_length_b   7.27825692
+_cell_length_c   16.96051207
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCa2InGe2
+_chemical_formula_sum   'Li4 Ca8 In4 Ge8'
+_cell_volume   550.36416339
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250000  0.986919  0.432387  1
+  Li  Li1  1  0.750000  0.513081  0.932387  1
+  Li  Li2  1  0.250000  0.486919  0.067613  1
+  Li  Li3  1  0.750000  0.013081  0.567613  1
+  Ca  Ca4  1  0.750000  0.157409  0.062328  1
+  Ca  Ca5  1  0.250000  0.991013  0.720790  1
+  Ca  Ca6  1  0.250000  0.342591  0.562328  1
+  Ca  Ca7  1  0.750000  0.657409  0.437672  1
+  Ca  Ca8  1  0.250000  0.842591  0.937672  1
+  Ca  Ca9  1  0.750000  0.008987  0.279210  1
+  Ca  Ca10  1  0.750000  0.508987  0.220790  1
+  Ca  Ca11  1  0.250000  0.491013  0.779210  1
+  In  In12  1  0.250000  0.340574  0.346912  1
+  In  In13  1  0.750000  0.159426  0.846912  1
+  In  In14  1  0.250000  0.840574  0.153088  1
+  In  In15  1  0.750000  0.659426  0.653088  1
+  Ge  Ge16  1  0.250000  0.224633  0.185399  1
+  Ge  Ge17  1  0.250000  0.273558  0.937154  1
+  Ge  Ge18  1  0.750000  0.726442  0.062846  1
+  Ge  Ge19  1  0.750000  0.275367  0.685399  1
+  Ge  Ge20  1  0.750000  0.775367  0.814601  1
+  Ge  Ge21  1  0.750000  0.226442  0.437154  1
+  Ge  Ge22  1  0.250000  0.773558  0.562846  1
+  Ge  Ge23  1  0.250000  0.724633  0.314601  1

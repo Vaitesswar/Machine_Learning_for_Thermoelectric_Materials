@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SiCl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.02708966
+_cell_length_b   7.18939575
+_cell_length_c   13.79623183
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiCl2
+_chemical_formula_sum   'Si4 Cl8'
+_cell_volume   399.43321241
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.475488  0.336228  0.510754  1
+  Si  Si1  1  0.975488  0.163772  0.489246  1
+  Si  Si2  1  0.524512  0.836228  0.989246  1
+  Si  Si3  1  0.024512  0.663772  0.010754  1
+  Cl  Cl4  1  0.473392  0.551038  0.411774  1
+  Cl  Cl5  1  0.973392  0.948962  0.588226  1
+  Cl  Cl6  1  0.526608  0.051038  0.088226  1
+  Cl  Cl7  1  0.026608  0.448962  0.911774  1
+  Cl  Cl8  1  0.473706  0.442415  0.649670  1
+  Cl  Cl9  1  0.973706  0.057585  0.350330  1
+  Cl  Cl10  1  0.526294  0.942415  0.850330  1
+  Cl  Cl11  1  0.026294  0.557585  0.149670  1

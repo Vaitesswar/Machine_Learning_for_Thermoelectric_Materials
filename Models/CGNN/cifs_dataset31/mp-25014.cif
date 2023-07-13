@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_MnGeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.67296785
+_cell_length_b   5.67296785
+_cell_length_c   5.67296785
+_cell_angle_alpha   53.49300472
+_cell_angle_beta   53.49300472
+_cell_angle_gamma   53.49300472
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnGeO3
+_chemical_formula_sum   'Mn2 Ge2 O6'
+_cell_volume   109.44026904
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.634324  0.634324  0.634324  1
+  Mn  Mn1  1  0.365676  0.365676  0.365676  1
+  Ge  Ge2  1  0.157170  0.157170  0.157170  1
+  Ge  Ge3  1  0.842830  0.842830  0.842830  1
+  O  O4  1  0.560688  0.958411  0.204111  1
+  O  O5  1  0.204111  0.560688  0.958411  1
+  O  O6  1  0.958411  0.204111  0.560688  1
+  O  O7  1  0.439312  0.041589  0.795889  1
+  O  O8  1  0.795889  0.439312  0.041589  1
+  O  O9  1  0.041589  0.795889  0.439312  1

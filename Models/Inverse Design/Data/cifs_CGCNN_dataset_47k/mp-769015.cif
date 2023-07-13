@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_DyGaO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.12098756
+_cell_length_b   6.12098756
+_cell_length_c   11.72040022
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyGaO3
+_chemical_formula_sum   'Dy6 Ga6 O18'
+_cell_volume   380.29101696
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.333333  0.666667  0.229510  1
+  Dy  Dy1  1  0.000000  0.000000  0.271307  1
+  Dy  Dy2  1  0.000000  0.000000  0.771307  1
+  Dy  Dy3  1  0.333333  0.666667  0.729510  1
+  Dy  Dy4  1  0.666667  0.333333  0.729510  1
+  Dy  Dy5  1  0.666667  0.333333  0.229510  1
+  Ga  Ga6  1  0.000000  0.665747  0.496724  1
+  Ga  Ga7  1  0.000000  0.334253  0.996724  1
+  Ga  Ga8  1  0.334253  0.334253  0.496724  1
+  Ga  Ga9  1  0.665747  0.665747  0.996724  1
+  Ga  Ga10  1  0.334253  0.000000  0.996724  1
+  Ga  Ga11  1  0.665747  0.000000  0.496724  1
+  O  O12  1  0.000000  0.693192  0.659426  1
+  O  O13  1  0.000000  0.640690  0.335223  1
+  O  O14  1  0.000000  0.359310  0.835223  1
+  O  O15  1  0.000000  0.306808  0.159426  1
+  O  O16  1  0.333333  0.666667  0.016546  1
+  O  O17  1  0.333333  0.666667  0.516546  1
+  O  O18  1  0.000000  0.000000  0.473769  1
+  O  O19  1  0.000000  0.000000  0.973769  1
+  O  O20  1  0.306808  0.306808  0.659426  1
+  O  O21  1  0.359310  0.359310  0.335223  1
+  O  O22  1  0.306808  0.000000  0.159426  1
+  O  O23  1  0.640690  0.640690  0.835223  1
+  O  O24  1  0.693192  0.693192  0.159426  1
+  O  O25  1  0.359310  0.000000  0.835223  1
+  O  O26  1  0.666667  0.333333  0.516546  1
+  O  O27  1  0.666667  0.333333  0.016546  1
+  O  O28  1  0.640690  0.000000  0.335223  1
+  O  O29  1  0.693192  0.000000  0.659426  1

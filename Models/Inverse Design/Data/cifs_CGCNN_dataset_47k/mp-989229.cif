@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_MgH8(ClO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.85708397
+_cell_length_b   6.85708397
+_cell_length_c   6.06050482
+_cell_angle_alpha   72.31875425
+_cell_angle_beta   107.68124575
+_cell_angle_gamma   106.91263244
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgH8(ClO6)2
+_chemical_formula_sum   'Mg1 H8 Cl2 O12'
+_cell_volume   252.40471384
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.990297  0.990297  0.500000  1
+  H  H1  1  0.288829  0.900306  0.372304  1
+  H  H2  1  0.093244  0.828790  0.180207  1
+  H  H3  1  0.622865  0.712651  0.362879  1
+  H  H4  1  0.712651  0.622865  0.637121  1
+  H  H5  1  0.268980  0.362930  0.364517  1
+  H  H6  1  0.900306  0.288829  0.627696  1
+  H  H7  1  0.362930  0.268980  0.635483  1
+  H  H8  1  0.828790  0.093244  0.819793  1
+  Cl  Cl9  1  0.282683  0.684045  0.908017  1
+  Cl  Cl10  1  0.684045  0.282683  0.091983  1
+  O  O11  1  0.135801  0.861840  0.336561  1
+  O  O12  1  0.135229  0.826254  0.855574  1
+  O  O13  1  0.455099  0.796140  0.797045  1
+  O  O14  1  0.739067  0.739067  0.500000  1
+  O  O15  1  0.359498  0.629782  0.169033  1
+  O  O16  1  0.169401  0.496313  0.826291  1
+  O  O17  1  0.796140  0.455099  0.202955  1
+  O  O18  1  0.629782  0.359498  0.830967  1
+  O  O19  1  0.244156  0.244156  0.500000  1
+  O  O20  1  0.496313  0.169401  0.173709  1
+  O  O21  1  0.861840  0.135801  0.663439  1
+  O  O22  1  0.826254  0.135229  0.144426  1

@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_CaH8(ClO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08954075
+_cell_length_b   7.79408718
+_cell_length_c   8.93868575
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   109.92771925
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaH8(ClO2)2
+_chemical_formula_sum   'Ca2 H16 Cl4 O8'
+_cell_volume   398.84881545
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.500000  0.500000  0.500000  1
+  Ca  Ca1  1  0.500000  0.000000  0.000000  1
+  H  H2  1  0.609684  0.439904  0.194612  1
+  H  H3  1  0.390316  0.939904  0.305388  1
+  H  H4  1  0.390316  0.560096  0.805388  1
+  H  H5  1  0.609684  0.060096  0.694612  1
+  H  H6  1  0.403776  0.571581  0.147892  1
+  H  H7  1  0.596224  0.071581  0.352108  1
+  H  H8  1  0.596224  0.428419  0.852108  1
+  H  H9  1  0.403776  0.928419  0.647892  1
+  H  H10  1  0.081090  0.271623  0.469535  1
+  H  H11  1  0.918910  0.771623  0.030465  1
+  H  H12  1  0.918910  0.728377  0.530465  1
+  H  H13  1  0.081090  0.228377  0.969535  1
+  H  H14  1  0.917675  0.798410  0.202989  1
+  H  H15  1  0.082325  0.298410  0.297011  1
+  H  H16  1  0.917675  0.701590  0.702989  1
+  H  H17  1  0.082325  0.201590  0.797011  1
+  Cl  Cl18  1  0.201655  0.783964  0.433971  1
+  Cl  Cl19  1  0.798345  0.283964  0.066029  1
+  Cl  Cl20  1  0.798345  0.216036  0.566029  1
+  Cl  Cl21  1  0.201655  0.716036  0.933971  1
+  O  O22  1  0.506771  0.504814  0.238660  1
+  O  O23  1  0.493229  0.004814  0.261340  1
+  O  O24  1  0.493229  0.495186  0.761340  1
+  O  O25  1  0.506771  0.995186  0.738660  1
+  O  O26  1  0.181993  0.308753  0.409716  1
+  O  O27  1  0.818007  0.808753  0.090284  1
+  O  O28  1  0.818007  0.691247  0.590284  1
+  O  O29  1  0.181993  0.191247  0.909716  1

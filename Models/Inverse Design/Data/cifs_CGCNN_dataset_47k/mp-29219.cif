@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_Ba2(Ni3B2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54455153
+_cell_length_b   7.54455153
+_cell_length_c   7.54455153
+_cell_angle_alpha   83.41999041
+_cell_angle_beta   83.41999041
+_cell_angle_gamma   83.41999041
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2(Ni3B2)3
+_chemical_formula_sum   'Ba4 Ni18 B12'
+_cell_volume   421.55318571
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.377129  0.377129  0.377129  1
+  Ba  Ba1  1  0.122871  0.122871  0.122871  1
+  Ba  Ba2  1  0.622871  0.622871  0.622871  1
+  Ba  Ba3  1  0.877129  0.877129  0.877129  1
+  Ni  Ni4  1  0.608510  0.067310  0.576123  1
+  Ni  Ni5  1  0.432690  0.891490  0.923877  1
+  Ni  Ni6  1  0.576123  0.608510  0.067310  1
+  Ni  Ni7  1  0.891490  0.923877  0.432690  1
+  Ni  Ni8  1  0.932690  0.423877  0.391490  1
+  Ni  Ni9  1  0.391490  0.932690  0.423877  1
+  Ni  Ni10  1  0.423877  0.391490  0.932690  1
+  Ni  Ni11  1  0.567310  0.108510  0.076123  1
+  Ni  Ni12  1  0.076123  0.567310  0.108510  1
+  Ni  Ni13  1  0.108510  0.076123  0.567310  1
+  Ni  Ni14  1  0.784501  0.715499  0.250000  1
+  Ni  Ni15  1  0.715499  0.250000  0.784501  1
+  Ni  Ni16  1  0.250000  0.784501  0.715499  1
+  Ni  Ni17  1  0.215499  0.284501  0.750000  1
+  Ni  Ni18  1  0.284501  0.750000  0.215499  1
+  Ni  Ni19  1  0.750000  0.215499  0.284501  1
+  Ni  Ni20  1  0.923877  0.432690  0.891490  1
+  Ni  Ni21  1  0.067310  0.576123  0.608510  1
+  B  B22  1  0.152534  0.812229  0.465487  1
+  B  B23  1  0.812229  0.465487  0.152534  1
+  B  B24  1  0.465487  0.152534  0.812229  1
+  B  B25  1  0.687771  0.347466  0.034513  1
+  B  B26  1  0.847466  0.187771  0.534513  1
+  B  B27  1  0.187771  0.534513  0.847466  1
+  B  B28  1  0.534513  0.847466  0.187771  1
+  B  B29  1  0.312229  0.652534  0.965487  1
+  B  B30  1  0.652534  0.965487  0.312229  1
+  B  B31  1  0.965487  0.312229  0.652534  1
+  B  B32  1  0.347466  0.034513  0.687771  1
+  B  B33  1  0.034513  0.687771  0.347466  1

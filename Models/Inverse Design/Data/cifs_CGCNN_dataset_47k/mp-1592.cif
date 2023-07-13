@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ag2Te
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.04571044
+_cell_length_b   4.53278284
+_cell_length_c   9.16023176
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   122.00723193
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ag2Te
+_chemical_formula_sum   'Ag8 Te4'
+_cell_volume   283.28396898
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.531815  0.126477  0.157070  1
+  Ag  Ag1  1  0.468185  0.626477  0.342930  1
+  Ag  Ag2  1  0.468185  0.873523  0.842930  1
+  Ag  Ag3  1  0.531815  0.373523  0.657070  1
+  Ag  Ag4  1  0.834917  0.857178  0.844544  1
+  Ag  Ag5  1  0.165083  0.357178  0.655456  1
+  Ag  Ag6  1  0.165083  0.142822  0.155456  1
+  Ag  Ag7  1  0.834917  0.642822  0.344544  1
+  Te  Te8  1  0.772696  0.145651  0.529946  1
+  Te  Te9  1  0.227304  0.645651  0.970054  1
+  Te  Te10  1  0.227304  0.854349  0.470054  1
+  Te  Te11  1  0.772696  0.354349  0.029946  1

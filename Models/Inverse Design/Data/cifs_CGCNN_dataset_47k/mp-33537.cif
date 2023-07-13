@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Fe2MoO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.18918467
+_cell_length_b   6.18918467
+_cell_length_c   6.18918467
+_cell_angle_alpha   121.08539090
+_cell_angle_beta   118.40413559
+_cell_angle_gamma   90.45821732
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe2MoO4
+_chemical_formula_sum   'Fe4 Mo2 O8'
+_cell_volume   168.16982997
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.882531  0.632531  0.750000  1
+  Fe  Fe1  1  0.117469  0.367469  0.250000  1
+  Fe  Fe2  1  0.500000  0.500000  0.000000  1
+  Fe  Fe3  1  0.500000  0.000000  0.500000  1
+  Mo  Mo4  1  0.000000  0.000000  0.500000  1
+  Mo  Mo5  1  0.500000  0.000000  0.000000  1
+  O  O6  1  0.251356  0.245663  0.994307  1
+  O  O7  1  0.251356  0.757049  0.505693  1
+  O  O8  1  0.254617  0.249125  0.505492  1
+  O  O9  1  0.743633  0.249125  0.994508  1
+  O  O10  1  0.256367  0.750875  0.005492  1
+  O  O11  1  0.745383  0.750875  0.494508  1
+  O  O12  1  0.748644  0.242951  0.494307  1
+  O  O13  1  0.748644  0.754337  0.005693  1

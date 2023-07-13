@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ce2MgNi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.53327298
+_cell_length_b   7.53327298
+_cell_length_c   3.61498285
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2MgNi2
+_chemical_formula_sum   'Ce4 Mg2 Ni4'
+_cell_volume   205.15100621
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.831167  0.331167  0.500000  1
+  Ce  Ce1  1  0.331167  0.168833  0.500000  1
+  Ce  Ce2  1  0.668833  0.831167  0.500000  1
+  Ce  Ce3  1  0.168833  0.668833  0.500000  1
+  Mg  Mg4  1  0.000000  0.000000  0.000000  1
+  Mg  Mg5  1  0.500000  0.500000  0.000000  1
+  Ni  Ni6  1  0.628368  0.128368  0.000000  1
+  Ni  Ni7  1  0.128368  0.371632  0.000000  1
+  Ni  Ni8  1  0.371632  0.871632  0.000000  1
+  Ni  Ni9  1  0.871632  0.628368  0.000000  1

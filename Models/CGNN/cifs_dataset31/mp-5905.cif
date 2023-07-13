@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Y2BeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.56306662
+_cell_length_b   10.02650022
+_cell_length_c   10.47543971
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y2BeO4
+_chemical_formula_sum   'Y8 Be4 O16'
+_cell_volume   374.23600809
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.250000  0.412189  0.617440  1
+  Y  Y1  1  0.750000  0.587811  0.382560  1
+  Y  Y2  1  0.750000  0.912189  0.882560  1
+  Y  Y3  1  0.250000  0.087811  0.117440  1
+  Y  Y4  1  0.250000  0.820624  0.590378  1
+  Y  Y5  1  0.750000  0.179376  0.409622  1
+  Y  Y6  1  0.750000  0.320624  0.909622  1
+  Y  Y7  1  0.250000  0.679376  0.090378  1
+  Be  Be8  1  0.250000  0.125860  0.693148  1
+  Be  Be9  1  0.750000  0.874140  0.306852  1
+  Be  Be10  1  0.750000  0.625860  0.806852  1
+  Be  Be11  1  0.250000  0.374140  0.193148  1
+  O  O12  1  0.250000  0.150483  0.545353  1
+  O  O13  1  0.750000  0.849517  0.454647  1
+  O  O14  1  0.750000  0.650483  0.954647  1
+  O  O15  1  0.250000  0.349517  0.045353  1
+  O  O16  1  0.250000  0.245885  0.277697  1
+  O  O17  1  0.750000  0.754115  0.722303  1
+  O  O18  1  0.750000  0.745885  0.222303  1
+  O  O19  1  0.250000  0.254115  0.777697  1
+  O  O20  1  0.750000  0.016913  0.252317  1
+  O  O21  1  0.250000  0.983087  0.747683  1
+  O  O22  1  0.250000  0.516913  0.247683  1
+  O  O23  1  0.750000  0.483087  0.752317  1
+  O  O24  1  0.750000  0.113635  0.986584  1
+  O  O25  1  0.250000  0.886365  0.013416  1
+  O  O26  1  0.250000  0.613635  0.513416  1
+  O  O27  1  0.750000  0.386365  0.486584  1

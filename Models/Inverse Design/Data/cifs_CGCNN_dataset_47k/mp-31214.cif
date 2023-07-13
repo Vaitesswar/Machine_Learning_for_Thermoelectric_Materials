@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Ti3P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.95669186
+_cell_length_b   9.95669186
+_cell_length_c   4.97903587
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti3P
+_chemical_formula_sum   'Ti24 P8'
+_cell_volume   493.60027000
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.971663  0.860700  0.280900  1
+  Ti  Ti1  1  0.360700  0.528337  0.780900  1
+  Ti  Ti2  1  0.639300  0.471663  0.780900  1
+  Ti  Ti3  1  0.028337  0.139300  0.280900  1
+  Ti  Ti4  1  0.528337  0.639300  0.219100  1
+  Ti  Ti5  1  0.139300  0.971663  0.719100  1
+  Ti  Ti6  1  0.860700  0.028337  0.719100  1
+  Ti  Ti7  1  0.471663  0.360700  0.219100  1
+  Ti  Ti8  1  0.819047  0.283662  0.009993  1
+  Ti  Ti9  1  0.783662  0.680953  0.509993  1
+  Ti  Ti10  1  0.216338  0.319047  0.509993  1
+  Ti  Ti11  1  0.180953  0.716338  0.009993  1
+  Ti  Ti12  1  0.680953  0.216338  0.490007  1
+  Ti  Ti13  1  0.716338  0.819047  0.990007  1
+  Ti  Ti14  1  0.283662  0.180953  0.990007  1
+  Ti  Ti15  1  0.319047  0.783662  0.490007  1
+  Ti  Ti16  1  0.916833  0.393078  0.534963  1
+  Ti  Ti17  1  0.893078  0.583167  0.034963  1
+  Ti  Ti18  1  0.106922  0.416833  0.034963  1
+  Ti  Ti19  1  0.083167  0.606922  0.534963  1
+  Ti  Ti20  1  0.583167  0.106922  0.965037  1
+  Ti  Ti21  1  0.606922  0.916833  0.465037  1
+  Ti  Ti22  1  0.393078  0.083167  0.465037  1
+  Ti  Ti23  1  0.416833  0.893078  0.965037  1
+  P  P24  1  0.458601  0.293189  0.713935  1
+  P  P25  1  0.793189  0.041399  0.213935  1
+  P  P26  1  0.206811  0.958601  0.213935  1
+  P  P27  1  0.541399  0.706811  0.713935  1
+  P  P28  1  0.041399  0.206811  0.786065  1
+  P  P29  1  0.706811  0.458601  0.286065  1
+  P  P30  1  0.293189  0.541399  0.286065  1
+  P  P31  1  0.958601  0.793189  0.786065  1

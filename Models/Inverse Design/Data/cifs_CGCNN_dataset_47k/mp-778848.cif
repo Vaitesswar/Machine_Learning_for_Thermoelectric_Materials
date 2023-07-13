@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_In3NO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.59776570
+_cell_length_b   6.59776570
+_cell_length_c   6.59776570
+_cell_angle_alpha   59.32398033
+_cell_angle_beta   59.32398033
+_cell_angle_gamma   59.32398033
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In3NO3
+_chemical_formula_sum   'In6 N2 O6'
+_cell_volume   199.95835237
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.000000  0.500000  0.000000  1
+  In  In1  1  0.364894  0.364894  0.364894  1
+  In  In2  1  1.000000  0.000000  0.000000  1
+  In  In3  1  0.635106  0.635106  0.635106  1
+  In  In4  1  0.000000  0.000000  0.500000  1
+  In  In5  1  0.500000  0.000000  0.000000  1
+  N  N6  1  0.233731  0.233731  0.233731  1
+  N  N7  1  0.766269  0.766269  0.766269  1
+  O  O8  1  0.232818  0.760554  0.760554  1
+  O  O9  1  0.760554  0.760554  0.232818  1
+  O  O10  1  0.239446  0.767182  0.239446  1
+  O  O11  1  0.239446  0.239446  0.767182  1
+  O  O12  1  0.767182  0.239446  0.239446  1
+  O  O13  1  0.760554  0.232818  0.760554  1

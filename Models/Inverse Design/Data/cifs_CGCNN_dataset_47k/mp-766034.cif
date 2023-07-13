@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Sr5(IrO3)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.14655796
+_cell_length_b   8.14655796
+_cell_length_c   8.14655796
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr5(IrO3)6
+_chemical_formula_sum   'Sr5 Ir6 O18'
+_cell_volume   416.19855164
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.500000  1.000000  0.000000  1
+  Sr  Sr1  1  0.000000  0.000000  0.000000  1
+  Sr  Sr2  1  1.000000  0.500000  0.000000  1
+  Sr  Sr3  1  0.500000  0.500000  0.500000  1
+  Sr  Sr4  1  1.000000  1.000000  0.500000  1
+  Ir  Ir5  1  0.844867  0.500000  0.344867  1
+  Ir  Ir6  1  0.655133  0.155133  0.500000  1
+  Ir  Ir7  1  0.500000  0.655133  0.155133  1
+  Ir  Ir8  1  0.500000  0.344867  0.844867  1
+  Ir  Ir9  1  0.155133  0.500000  0.655133  1
+  Ir  Ir10  1  0.344867  0.844867  0.500000  1
+  O  O11  1  0.711550  0.334953  0.046503  1
+  O  O12  1  0.623403  0.288450  0.334953  1
+  O  O13  1  0.348131  1.000000  0.348131  1
+  O  O14  1  0.651869  1.000000  0.651869  1
+  O  O15  1  0.953497  0.288450  0.665047  1
+  O  O16  1  0.348131  0.348131  0.000000  1
+  O  O17  1  0.651869  0.651869  0.000000  1
+  O  O18  1  0.711550  0.665047  0.376597  1
+  O  O19  1  0.665047  0.376597  0.711550  1
+  O  O20  1  0.334953  0.046503  0.711550  1
+  O  O21  1  0.334953  0.623403  0.288450  1
+  O  O22  1  0.665047  0.953497  0.288450  1
+  O  O23  1  0.288450  0.334953  0.623403  1
+  O  O24  1  1.000000  0.348131  0.348131  1
+  O  O25  1  0.046503  0.711550  0.334953  1
+  O  O26  1  0.376597  0.711550  0.665047  1
+  O  O27  1  1.000000  0.651869  0.651869  1
+  O  O28  1  0.288450  0.665047  0.953497  1

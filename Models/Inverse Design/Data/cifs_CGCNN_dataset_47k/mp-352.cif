@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14231893
+_cell_length_b   5.19514767
+_cell_length_c   5.32603802
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   99.67453089
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfO2
+_chemical_formula_sum   'Hf4 O8'
+_cell_volume   140.26212262
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.724041  0.542681  0.792109  1
+  Hf  Hf1  1  0.275959  0.042681  0.707891  1
+  Hf  Hf2  1  0.275959  0.457319  0.207891  1
+  Hf  Hf3  1  0.724041  0.957319  0.292109  1
+  O  O4  1  0.551113  0.257397  0.522292  1
+  O  O5  1  0.448887  0.757397  0.977708  1
+  O  O6  1  0.448887  0.742603  0.477708  1
+  O  O7  1  0.551113  0.242603  0.022292  1
+  O  O8  1  0.932151  0.669878  0.152906  1
+  O  O9  1  0.067849  0.169878  0.347094  1
+  O  O10  1  0.067849  0.330122  0.847094  1
+  O  O11  1  0.932151  0.830122  0.652906  1

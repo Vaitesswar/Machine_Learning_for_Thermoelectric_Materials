@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ca2BeSi2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.48500862
+_cell_length_b   7.48500862
+_cell_length_c   5.04397925
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2BeSi2O7
+_chemical_formula_sum   'Ca4 Be2 Si4 O14'
+_cell_volume   282.59072326
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.835567  0.664433  0.514552  1
+  Ca  Ca1  1  0.335567  0.835567  0.485448  1
+  Ca  Ca2  1  0.664433  0.164433  0.485448  1
+  Ca  Ca3  1  0.164433  0.335567  0.514552  1
+  Be  Be4  1  0.000000  0.000000  0.000000  1
+  Be  Be5  1  0.500000  0.500000  0.000000  1
+  Si  Si6  1  0.647319  0.852681  0.961393  1
+  Si  Si7  1  0.147319  0.647319  0.038607  1
+  Si  Si8  1  0.852681  0.352681  0.038607  1
+  Si  Si9  1  0.352681  0.147319  0.961393  1
+  O  O10  1  0.164471  0.086774  0.819804  1
+  O  O11  1  0.835529  0.913226  0.819804  1
+  O  O12  1  0.913226  0.164471  0.180196  1
+  O  O13  1  0.086774  0.835529  0.180196  1
+  O  O14  1  0.664471  0.413226  0.180196  1
+  O  O15  1  0.586774  0.664471  0.819804  1
+  O  O16  1  0.413226  0.335529  0.819804  1
+  O  O17  1  0.335529  0.586774  0.180196  1
+  O  O18  1  0.500000  0.000000  0.833323  1
+  O  O19  1  0.000000  0.500000  0.166677  1
+  O  O20  1  0.359854  0.140146  0.281941  1
+  O  O21  1  0.859854  0.359854  0.718059  1
+  O  O22  1  0.140146  0.640146  0.718059  1
+  O  O23  1  0.640146  0.859854  0.281941  1

@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_KLaSi(CN2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.98008619
+_cell_length_b   7.67515594
+_cell_length_c   9.52586602
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLaSi(CN2)4
+_chemical_formula_sum   'K2 La2 Si2 C8 N16'
+_cell_volume   510.33160159
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.921655  0.000000  0.000000  1
+  K  K1  1  0.078345  0.500000  0.500000  1
+  La  La2  1  0.259058  0.000000  0.500000  1
+  La  La3  1  0.740942  0.500000  0.000000  1
+  Si  Si4  1  0.751780  0.000000  0.500000  1
+  Si  Si5  1  0.248220  0.500000  0.000000  1
+  C  C6  1  0.872615  0.785570  0.700360  1
+  C  C7  1  0.364151  0.672493  0.771029  1
+  C  C8  1  0.364151  0.327507  0.228971  1
+  C  C9  1  0.127385  0.714430  0.200360  1
+  C  C10  1  0.127385  0.285570  0.799640  1
+  C  C11  1  0.872615  0.214430  0.299640  1
+  C  C12  1  0.635849  0.827507  0.271029  1
+  C  C13  1  0.635849  0.172493  0.728971  1
+  N  N14  1  0.911676  0.135170  0.413325  1
+  N  N15  1  0.672385  0.239688  0.839172  1
+  N  N16  1  0.672385  0.760312  0.160828  1
+  N  N17  1  0.155919  0.791109  0.307623  1
+  N  N18  1  0.327615  0.260312  0.339172  1
+  N  N19  1  0.327615  0.739688  0.660828  1
+  N  N20  1  0.088324  0.635170  0.086675  1
+  N  N21  1  0.155919  0.208891  0.692377  1
+  N  N22  1  0.593243  0.099970  0.612960  1
+  N  N23  1  0.844081  0.291109  0.192377  1
+  N  N24  1  0.844081  0.708891  0.807623  1
+  N  N25  1  0.088324  0.364830  0.913325  1
+  N  N26  1  0.406757  0.400030  0.112960  1
+  N  N27  1  0.593243  0.900030  0.387040  1
+  N  N28  1  0.406757  0.599970  0.887040  1
+  N  N29  1  0.911676  0.864830  0.586675  1

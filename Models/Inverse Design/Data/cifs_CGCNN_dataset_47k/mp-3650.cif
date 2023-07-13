@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfCu2Te3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.41967822
+_cell_length_b   10.41967822
+_cell_length_c   7.32530295
+_cell_angle_alpha   81.69673807
+_cell_angle_beta   98.30326193
+_cell_angle_gamma   157.41857095
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfCu2Te3
+_chemical_formula_sum   'Hf2 Cu4 Te6'
+_cell_volume   302.06475595
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.354048  0.645952  0.945471  1
+  Hf  Hf1  1  0.645952  0.354048  0.054529  1
+  Cu  Cu2  1  0.286586  0.713414  0.574174  1
+  Cu  Cu3  1  0.713414  0.286586  0.425826  1
+  Cu  Cu4  1  0.951223  0.048777  0.850635  1
+  Cu  Cu5  1  0.048777  0.951223  0.149365  1
+  Te  Te6  1  0.249424  0.750576  0.214462  1
+  Te  Te7  1  0.081388  0.918612  0.820094  1
+  Te  Te8  1  0.416380  0.583620  0.635183  1
+  Te  Te9  1  0.750576  0.249424  0.785538  1
+  Te  Te10  1  0.583620  0.416380  0.364817  1
+  Te  Te11  1  0.918612  0.081388  0.179906  1

@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_AlZnH4O2F5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.20733701
+_cell_length_b   7.20733701
+_cell_length_c   7.20733701
+_cell_angle_alpha   126.44363736
+_cell_angle_beta   119.27228768
+_cell_angle_gamma   85.23941390
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlZnH4O2F5
+_chemical_formula_sum   'Al2 Zn2 H8 O4 F10'
+_cell_volume   250.97208264
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.500000  0.000000  0.500000  1
+  Al  Al1  1  0.000000  0.000000  0.000000  1
+  Zn  Zn2  1  0.000000  0.000000  0.500000  1
+  Zn  Zn3  1  0.500000  0.500000  0.500000  1
+  H  H4  1  0.482052  0.215126  0.016304  1
+  H  H5  1  0.017948  0.534253  0.233074  1
+  H  H6  1  0.301178  0.784874  0.766926  1
+  H  H7  1  0.198822  0.465747  0.983696  1
+  H  H8  1  0.698822  0.215126  0.233074  1
+  H  H9  1  0.982052  0.465747  0.766926  1
+  H  H10  1  0.517948  0.784874  0.983696  1
+  H  H11  1  0.801178  0.534253  0.016304  1
+  O  O12  1  0.569646  0.278158  0.208512  1
+  O  O13  1  0.069646  0.361133  0.791488  1
+  O  O14  1  0.930354  0.638867  0.208512  1
+  O  O15  1  0.430354  0.721842  0.791488  1
+  F  F16  1  0.655012  0.927232  0.338747  1
+  F  F17  1  0.750000  0.057857  0.807857  1
+  F  F18  1  0.250000  0.942143  0.192143  1
+  F  F19  1  0.588485  0.316266  0.661253  1
+  F  F20  1  0.411515  0.683734  0.338747  1
+  F  F21  1  0.844988  0.683734  0.772219  1
+  F  F22  1  0.155012  0.316266  0.227781  1
+  F  F23  1  0.344988  0.072768  0.661253  1
+  F  F24  1  0.911515  0.072768  0.227781  1
+  F  F25  1  0.088485  0.927232  0.772219  1

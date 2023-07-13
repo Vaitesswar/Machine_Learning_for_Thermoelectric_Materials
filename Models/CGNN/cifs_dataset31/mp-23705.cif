@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Na3AlH6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34582837
+_cell_length_b   5.54309454
+_cell_length_c   9.38352507
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   124.75487781
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3AlH6
+_chemical_formula_sum   'Na6 Al2 H12'
+_cell_volume   228.45091698
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.500000  0.000000  0.500000  1
+  Na  Na1  1  0.500000  0.500000  0.000000  1
+  Na  Na2  1  0.264726  0.046924  0.753946  1
+  Na  Na3  1  0.735274  0.546924  0.746054  1
+  Na  Na4  1  0.735274  0.953076  0.246054  1
+  Na  Na5  1  0.264726  0.453076  0.253946  1
+  Al  Al6  1  0.000000  0.000000  0.000000  1
+  Al  Al7  1  0.000000  0.500000  0.500000  1
+  H  H8  1  0.775915  0.232931  0.436392  1
+  H  H9  1  0.224085  0.732931  0.063608  1
+  H  H10  1  0.224085  0.767069  0.563608  1
+  H  H11  1  0.775915  0.267069  0.936392  1
+  H  H12  1  0.315373  0.169213  0.043612  1
+  H  H13  1  0.684627  0.669213  0.456388  1
+  H  H14  1  0.684627  0.830787  0.956388  1
+  H  H15  1  0.315373  0.330787  0.543612  1
+  H  H16  1  0.116216  0.047930  0.216230  1
+  H  H17  1  0.883784  0.547930  0.283770  1
+  H  H18  1  0.883784  0.952070  0.783770  1
+  H  H19  1  0.116216  0.452070  0.716230  1

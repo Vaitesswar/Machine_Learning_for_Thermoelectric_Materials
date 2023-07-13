@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na3Mn2SbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.56242276
+_cell_length_b   5.56242276
+_cell_length_c   5.77816647
+_cell_angle_alpha   80.65675123
+_cell_angle_beta   99.34324877
+_cell_angle_gamma   60.10448859
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na3Mn2SbO6
+_chemical_formula_sum   'Na3 Mn2 Sb1 O6'
+_cell_volume   146.61997431
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.500000  0.500000  0.500000  1
+  Na  Na1  1  0.827671  0.827671  0.500000  1
+  Na  Na2  1  0.172329  0.172329  0.500000  1
+  Mn  Mn3  1  0.666128  0.666128  0.000000  1
+  Mn  Mn4  1  0.333872  0.333872  0.000000  1
+  Sb  Sb5  1  0.000000  0.000000  0.000000  1
+  O  O6  1  0.375211  0.931011  0.208599  1
+  O  O7  1  0.235921  0.764079  0.794337  1
+  O  O8  1  0.764079  0.235921  0.205663  1
+  O  O9  1  0.068989  0.624789  0.208599  1
+  O  O10  1  0.931011  0.375211  0.791401  1
+  O  O11  1  0.624789  0.068989  0.791401  1

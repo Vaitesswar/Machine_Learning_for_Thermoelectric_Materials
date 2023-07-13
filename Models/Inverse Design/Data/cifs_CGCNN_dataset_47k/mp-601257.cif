@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_DyCuPbSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.06241081
+_cell_length_b   10.60762855
+_cell_length_c   13.62857670
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCuPbSe3
+_chemical_formula_sum   'Dy4 Cu4 Pb4 Se12'
+_cell_volume   587.29005323
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.250000  0.014274  0.757645  1
+  Dy  Dy1  1  0.750000  0.485726  0.257645  1
+  Dy  Dy2  1  0.750000  0.985726  0.242355  1
+  Dy  Dy3  1  0.250000  0.514274  0.742355  1
+  Cu  Cu4  1  0.250000  0.241051  0.277375  1
+  Cu  Cu5  1  0.750000  0.758949  0.722625  1
+  Cu  Cu6  1  0.750000  0.258949  0.777375  1
+  Cu  Cu7  1  0.250000  0.741051  0.222625  1
+  Pb  Pb8  1  0.750000  0.725291  0.004930  1
+  Pb  Pb9  1  0.250000  0.774709  0.504930  1
+  Pb  Pb10  1  0.250000  0.274709  0.995070  1
+  Pb  Pb11  1  0.750000  0.225291  0.495070  1
+  Se  Se12  1  0.750000  0.739614  0.330495  1
+  Se  Se13  1  0.250000  0.050849  0.384336  1
+  Se  Se14  1  0.750000  0.449151  0.884336  1
+  Se  Se15  1  0.750000  0.239614  0.169505  1
+  Se  Se16  1  0.750000  0.583796  0.605746  1
+  Se  Se17  1  0.250000  0.416204  0.394254  1
+  Se  Se18  1  0.750000  0.949151  0.615664  1
+  Se  Se19  1  0.250000  0.916204  0.105746  1
+  Se  Se20  1  0.250000  0.550849  0.115664  1
+  Se  Se21  1  0.250000  0.760386  0.830495  1
+  Se  Se22  1  0.250000  0.260386  0.669505  1
+  Se  Se23  1  0.750000  0.083796  0.894254  1

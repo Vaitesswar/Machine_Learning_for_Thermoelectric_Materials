@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_FeCoPO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.53003067
+_cell_length_b   7.41591638
+_cell_length_c   7.47954981
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeCoPO5
+_chemical_formula_sum   'Fe4 Co4 P4 O20'
+_cell_volume   362.20588635
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.750000  0.848179  0.716223  1
+  Fe  Fe1  1  0.250000  0.151821  0.283777  1
+  Fe  Fe2  1  0.750000  0.348179  0.783777  1
+  Fe  Fe3  1  0.250000  0.651821  0.216223  1
+  Co  Co4  1  0.000000  0.000000  0.000000  1
+  Co  Co5  1  0.500000  0.000000  0.000000  1
+  Co  Co6  1  0.500000  0.500000  0.500000  1
+  Co  Co7  1  0.000000  0.500000  0.500000  1
+  P  P8  1  0.750000  0.622677  0.133063  1
+  P  P9  1  0.250000  0.377323  0.866937  1
+  P  P10  1  0.750000  0.122677  0.366937  1
+  P  P11  1  0.250000  0.877323  0.633063  1
+  O  O12  1  0.750000  0.596439  0.643006  1
+  O  O13  1  0.250000  0.403561  0.356994  1
+  O  O14  1  0.750000  0.096439  0.856994  1
+  O  O15  1  0.250000  0.903561  0.143006  1
+  O  O16  1  0.750000  0.793715  0.010632  1
+  O  O17  1  0.250000  0.206285  0.989368  1
+  O  O18  1  0.750000  0.293715  0.489368  1
+  O  O19  1  0.250000  0.706285  0.510632  1
+  O  O20  1  0.750000  0.950170  0.478037  1
+  O  O21  1  0.250000  0.049830  0.521963  1
+  O  O22  1  0.750000  0.450170  0.021963  1
+  O  O23  1  0.250000  0.549830  0.978037  1
+  O  O24  1  0.940802  0.630047  0.257326  1
+  O  O25  1  0.440802  0.369953  0.742674  1
+  O  O26  1  0.559198  0.130047  0.242674  1
+  O  O27  1  0.059198  0.869953  0.757326  1
+  O  O28  1  0.059198  0.369953  0.742674  1
+  O  O29  1  0.559198  0.630047  0.257326  1
+  O  O30  1  0.440802  0.869953  0.757326  1
+  O  O31  1  0.940802  0.130047  0.242674  1

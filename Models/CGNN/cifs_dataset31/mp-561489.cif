@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_AgTeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.52890905
+_cell_length_b   7.52912558
+_cell_length_c   7.05462619
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   101.08991251
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgTeO3
+_chemical_formula_sum   'Ag4 Te4 O12'
+_cell_volume   288.18511135
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.000000  0.500000  0.000000  1
+  Ag  Ag1  1  0.000000  0.000000  0.000000  1
+  Ag  Ag2  1  0.442994  0.750000  0.186193  1
+  Ag  Ag3  1  0.557006  0.250000  0.813807  1
+  Te  Te4  1  0.480731  0.250000  0.317002  1
+  Te  Te5  1  0.519269  0.750000  0.682998  1
+  Te  Te6  1  0.000000  0.000000  0.500000  1
+  Te  Te7  1  0.000000  0.500000  0.500000  1
+  O  O8  1  0.768546  0.488137  0.673766  1
+  O  O9  1  0.260660  0.935583  0.723260  1
+  O  O10  1  0.336395  0.250000  0.054731  1
+  O  O11  1  0.104756  0.250000  0.563279  1
+  O  O12  1  0.768546  0.011863  0.673766  1
+  O  O13  1  0.895244  0.750000  0.436721  1
+  O  O14  1  0.260660  0.564417  0.723260  1
+  O  O15  1  0.739340  0.064417  0.276740  1
+  O  O16  1  0.231454  0.988137  0.326234  1
+  O  O17  1  0.231454  0.511863  0.326234  1
+  O  O18  1  0.739340  0.435583  0.276740  1
+  O  O19  1  0.663605  0.750000  0.945269  1

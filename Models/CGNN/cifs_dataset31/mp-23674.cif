@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_NaH4BrO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.64369744
+_cell_length_b   10.47120274
+_cell_length_c   6.80048999
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   113.44597269
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaH4BrO2
+_chemical_formula_sum   'Na4 H16 Br4 O8'
+_cell_volume   434.03249088
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.013142  0.667723  0.956729  1
+  Na  Na1  1  0.986858  0.332277  0.043271  1
+  Na  Na2  1  0.986858  0.167723  0.543271  1
+  Na  Na3  1  0.013142  0.832277  0.456729  1
+  H  H4  1  0.234810  0.962519  0.865164  1
+  H  H5  1  0.765190  0.462519  0.634836  1
+  H  H6  1  0.765190  0.037481  0.134836  1
+  H  H7  1  0.234810  0.537481  0.365164  1
+  H  H8  1  0.364830  0.015752  0.734986  1
+  H  H9  1  0.635170  0.515752  0.765014  1
+  H  H10  1  0.635170  0.984248  0.265014  1
+  H  H11  1  0.364830  0.484248  0.234986  1
+  H  H12  1  0.641506  0.789613  0.584563  1
+  H  H13  1  0.358494  0.289613  0.915437  1
+  H  H14  1  0.358494  0.210387  0.415437  1
+  H  H15  1  0.641506  0.710387  0.084563  1
+  H  H16  1  0.774569  0.597888  0.222850  1
+  H  H17  1  0.225431  0.097888  0.277150  1
+  H  H18  1  0.225431  0.402112  0.777150  1
+  H  H19  1  0.774569  0.902112  0.722850  1
+  Br  Br20  1  0.299259  0.885386  0.210184  1
+  Br  Br21  1  0.700741  0.385386  0.289816  1
+  Br  Br22  1  0.700741  0.114614  0.789816  1
+  Br  Br23  1  0.299259  0.614614  0.710184  1
+  O  O24  1  0.783373  0.010730  0.280298  1
+  O  O25  1  0.208466  0.314184  0.822091  1
+  O  O26  1  0.208466  0.185816  0.322091  1
+  O  O27  1  0.791534  0.685816  0.177909  1
+  O  O28  1  0.216627  0.510730  0.219702  1
+  O  O29  1  0.216627  0.989270  0.719702  1
+  O  O30  1  0.783373  0.489270  0.780298  1
+  O  O31  1  0.791534  0.814184  0.677909  1

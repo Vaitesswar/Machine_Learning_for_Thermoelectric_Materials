@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_AlTlSiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.57979343
+_cell_length_b   7.36809310
+_cell_length_c   9.12810024
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlTlSiO4
+_chemical_formula_sum   'Al4 Tl4 Si4 O16'
+_cell_volume   375.27845062
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.250000  0.999317  0.567769  1
+  Al  Al1  1  0.250000  0.500683  0.067769  1
+  Al  Al2  1  0.750000  0.499317  0.932231  1
+  Al  Al3  1  0.750000  0.000683  0.432231  1
+  Tl  Tl4  1  0.250000  0.626214  0.748179  1
+  Tl  Tl5  1  0.750000  0.126214  0.751821  1
+  Tl  Tl6  1  0.750000  0.373786  0.251821  1
+  Tl  Tl7  1  0.250000  0.873786  0.248179  1
+  Si  Si8  1  0.750000  0.813437  0.086706  1
+  Si  Si9  1  0.750000  0.686563  0.586706  1
+  Si  Si10  1  0.250000  0.313437  0.413294  1
+  Si  Si11  1  0.250000  0.186563  0.913294  1
+  O  O12  1  0.031311  0.148095  0.442468  1
+  O  O13  1  0.250000  0.107641  0.744141  1
+  O  O14  1  0.750000  0.607641  0.755859  1
+  O  O15  1  0.750000  0.541117  0.462719  1
+  O  O16  1  0.250000  0.041117  0.037281  1
+  O  O17  1  0.968689  0.648095  0.057532  1
+  O  O18  1  0.468689  0.351905  0.942468  1
+  O  O19  1  0.468689  0.148095  0.442468  1
+  O  O20  1  0.250000  0.392359  0.244141  1
+  O  O21  1  0.750000  0.958883  0.962719  1
+  O  O22  1  0.250000  0.458883  0.537281  1
+  O  O23  1  0.531311  0.648095  0.057532  1
+  O  O24  1  0.531311  0.851905  0.557532  1
+  O  O25  1  0.031311  0.351905  0.942468  1
+  O  O26  1  0.750000  0.892359  0.255859  1
+  O  O27  1  0.968689  0.851905  0.557532  1

@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_SmCuTeS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.56711656
+_cell_length_b   7.59395090
+_cell_length_c   12.70286111
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmCuTeS
+_chemical_formula_sum   'Sm8 Cu8 Te8 S8'
+_cell_volume   729.96116918
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.022399  0.259477  0.931629  1
+  Sm  Sm1  1  0.522399  0.240523  0.068371  1
+  Sm  Sm2  1  0.977601  0.740523  0.068371  1
+  Sm  Sm3  1  0.977601  0.759477  0.568371  1
+  Sm  Sm4  1  0.477601  0.759477  0.931629  1
+  Sm  Sm5  1  0.022399  0.240523  0.431629  1
+  Sm  Sm6  1  0.522399  0.259477  0.568371  1
+  Sm  Sm7  1  0.477601  0.740523  0.431629  1
+  Cu  Cu8  1  0.669455  0.428818  0.790779  1
+  Cu  Cu9  1  0.169455  0.428818  0.709221  1
+  Cu  Cu10  1  0.669455  0.071182  0.290779  1
+  Cu  Cu11  1  0.830545  0.928818  0.790779  1
+  Cu  Cu12  1  0.330545  0.928818  0.709221  1
+  Cu  Cu13  1  0.830545  0.571182  0.290779  1
+  Cu  Cu14  1  0.169455  0.071182  0.209221  1
+  Cu  Cu15  1  0.330545  0.571182  0.209221  1
+  Te  Te16  1  0.390739  0.277979  0.307265  1
+  Te  Te17  1  0.109261  0.722021  0.807265  1
+  Te  Te18  1  0.109261  0.777979  0.307265  1
+  Te  Te19  1  0.609261  0.722021  0.692735  1
+  Te  Te20  1  0.609261  0.777979  0.192735  1
+  Te  Te21  1  0.890739  0.277979  0.192735  1
+  Te  Te22  1  0.390739  0.222021  0.807265  1
+  Te  Te23  1  0.890739  0.222021  0.692735  1
+  S  S24  1  0.259895  0.502018  0.038242  1
+  S  S25  1  0.759895  0.502018  0.461758  1
+  S  S26  1  0.240105  0.497982  0.538242  1
+  S  S27  1  0.259895  0.997982  0.538242  1
+  S  S28  1  0.740105  0.497982  0.961758  1
+  S  S29  1  0.240105  0.002018  0.038242  1
+  S  S30  1  0.759895  0.997982  0.961758  1
+  S  S31  1  0.740105  0.002018  0.461758  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr(SmS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.47120878
+_cell_length_b   7.47120878
+_cell_length_c   7.47120878
+_cell_angle_alpha   109.40500404
+_cell_angle_beta   109.40500404
+_cell_angle_gamma   109.60373515
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(SmS2)2
+_chemical_formula_sum   'Sr2 Sm4 S8'
+_cell_volume   321.03248873
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  1.000000  1.000000  0.000000  1
+  Sr  Sr1  1  0.250000  0.750000  0.500000  1
+  Sm  Sm2  1  0.125000  0.501004  0.876004  1
+  Sm  Sm3  1  0.498996  0.375000  0.623996  1
+  Sm  Sm4  1  0.625000  0.248996  0.123996  1
+  Sm  Sm5  1  0.751004  0.875000  0.376004  1
+  S  S6  1  0.862347  0.614305  0.097161  1
+  S  S7  1  0.864305  0.612347  0.597161  1
+  S  S8  1  0.015186  0.267143  0.402839  1
+  S  S9  1  0.234814  0.137653  0.751957  1
+  S  S10  1  0.387653  0.984814  0.251957  1
+  S  S11  1  0.517143  0.765186  0.902839  1
+  S  S12  1  0.385695  0.482857  0.248043  1
+  S  S13  1  0.732857  0.135695  0.748043  1

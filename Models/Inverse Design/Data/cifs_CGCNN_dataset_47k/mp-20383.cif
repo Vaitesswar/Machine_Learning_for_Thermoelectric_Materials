@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TbSiIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26600418
+_cell_length_b   6.92696245
+_cell_length_c   7.41592801
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TbSiIr
+_chemical_formula_sum   'Tb4 Si4 Ir4'
+_cell_volume   219.14401555
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tb  Tb0  1  0.750000  0.501729  0.813634  1
+  Tb  Tb1  1  0.250000  0.998271  0.313634  1
+  Tb  Tb2  1  0.750000  0.001729  0.686366  1
+  Tb  Tb3  1  0.250000  0.498271  0.186366  1
+  Si  Si4  1  0.250000  0.800117  0.891999  1
+  Si  Si5  1  0.250000  0.300117  0.608001  1
+  Si  Si6  1  0.750000  0.199883  0.108001  1
+  Si  Si7  1  0.750000  0.699883  0.391999  1
+  Ir  Ir8  1  0.250000  0.656098  0.569518  1
+  Ir  Ir9  1  0.250000  0.156098  0.930482  1
+  Ir  Ir10  1  0.750000  0.843902  0.069518  1
+  Ir  Ir11  1  0.750000  0.343902  0.430482  1

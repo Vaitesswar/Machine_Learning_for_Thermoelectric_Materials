@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Er2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.74469022
+_cell_length_b   7.09391158
+_cell_length_c   8.71767172
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er2Pt
+_chemical_formula_sum   'Er8 Pt4'
+_cell_volume   293.42299424
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.750000  0.644045  0.079626  1
+  Er  Er1  1  0.250000  0.355955  0.920374  1
+  Er  Er2  1  0.750000  0.144045  0.420374  1
+  Er  Er3  1  0.250000  0.855955  0.579626  1
+  Er  Er4  1  0.750000  0.510428  0.667645  1
+  Er  Er5  1  0.250000  0.489572  0.332355  1
+  Er  Er6  1  0.750000  0.010428  0.832355  1
+  Er  Er7  1  0.250000  0.989572  0.167645  1
+  Pt  Pt8  1  0.750000  0.240838  0.094061  1
+  Pt  Pt9  1  0.250000  0.759162  0.905939  1
+  Pt  Pt10  1  0.750000  0.740838  0.405939  1
+  Pt  Pt11  1  0.250000  0.259162  0.594061  1

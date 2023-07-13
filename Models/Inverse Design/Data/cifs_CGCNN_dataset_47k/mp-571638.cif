@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Rb2Cu(BrCl)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.05374851
+_cell_length_b   9.05374851
+_cell_length_c   7.31605665
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   132.35207308
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Cu(BrCl)2
+_chemical_formula_sum   'Rb4 Cu2 Br4 Cl4'
+_cell_volume   443.18963081
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.866832  0.133168  0.500000  1
+  Rb  Rb1  1  0.366832  0.633168  1.000000  1
+  Rb  Rb2  1  0.133168  0.866832  0.500000  1
+  Rb  Rb3  1  0.633168  0.366832  0.000000  1
+  Cu  Cu4  1  0.000000  0.000000  0.000000  1
+  Cu  Cu5  1  0.500000  0.500000  0.500000  1
+  Br  Br6  1  0.845442  0.154558  0.000000  1
+  Br  Br7  1  0.154558  0.845442  0.000000  1
+  Br  Br8  1  0.345442  0.654558  0.500000  1
+  Br  Br9  1  0.654558  0.345442  0.500000  1
+  Cl  Cl10  1  0.781401  0.781401  0.218580  1
+  Cl  Cl11  1  0.218599  0.218599  0.781420  1
+  Cl  Cl12  1  0.281401  0.281401  0.281420  1
+  Cl  Cl13  1  0.718599  0.718599  0.718580  1

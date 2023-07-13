@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_DyCoO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.23396212
+_cell_length_b   5.70056697
+_cell_length_c   7.35461962
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyCoO3
+_chemical_formula_sum   'Dy4 Co4 O12'
+_cell_volume   219.43648767
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.524364  0.583175  0.250000  1
+  Dy  Dy1  1  0.975636  0.083175  0.250000  1
+  Dy  Dy2  1  0.475636  0.416825  0.750000  1
+  Dy  Dy3  1  0.024364  0.916825  0.750000  1
+  Co  Co4  1  0.000000  0.500000  0.000000  1
+  Co  Co5  1  0.500000  0.000000  0.500000  1
+  Co  Co6  1  0.000000  0.500000  0.500000  1
+  Co  Co7  1  0.500000  0.000000  0.000000  1
+  O  O8  1  0.390135  0.969502  0.250000  1
+  O  O9  1  0.109865  0.469502  0.250000  1
+  O  O10  1  0.609865  0.030498  0.750000  1
+  O  O11  1  0.890135  0.530498  0.750000  1
+  O  O12  1  0.800096  0.813893  0.052663  1
+  O  O13  1  0.699904  0.313893  0.447337  1
+  O  O14  1  0.199904  0.186107  0.552663  1
+  O  O15  1  0.300096  0.686107  0.947337  1
+  O  O16  1  0.199904  0.186107  0.947337  1
+  O  O17  1  0.300096  0.686107  0.552663  1
+  O  O18  1  0.800096  0.813893  0.447337  1
+  O  O19  1  0.699904  0.313893  0.052663  1

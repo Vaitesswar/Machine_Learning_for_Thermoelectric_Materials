@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_CsCa(NO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60668869
+_cell_length_b   5.60668869
+_cell_length_c   5.60668869
+_cell_angle_alpha   89.74481638
+_cell_angle_beta   89.74481638
+_cell_angle_gamma   89.74481638
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsCa(NO2)3
+_chemical_formula_sum   'Cs1 Ca1 N3 O6'
+_cell_volume   176.24079513
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.999843  0.999843  0.999843  1
+  Ca  Ca1  1  0.467568  0.467568  0.467568  1
+  N  N2  1  0.930682  0.516988  0.489734  1
+  N  N3  1  0.516988  0.489734  0.930682  1
+  N  N4  1  0.489734  0.930682  0.516988  1
+  O  O5  1  0.678047  0.055241  0.519477  1
+  O  O6  1  0.519477  0.678047  0.055241  1
+  O  O7  1  0.508264  0.295801  0.049917  1
+  O  O8  1  0.295801  0.049917  0.508264  1
+  O  O9  1  0.055241  0.519477  0.678047  1
+  O  O10  1  0.049917  0.508264  0.295801  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_ZrMn2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.94519611
+_cell_length_b   4.94519611
+_cell_length_c   16.41528585
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrMn2
+_chemical_formula_sum   'Zr8 Mn16'
+_cell_volume   347.65311075
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.000000  0.000000  0.093023  1
+  Zr  Zr1  1  0.000000  0.000000  0.593023  1
+  Zr  Zr2  1  0.000000  0.000000  0.906977  1
+  Zr  Zr3  1  0.000000  0.000000  0.406977  1
+  Zr  Zr4  1  0.333333  0.666667  0.843349  1
+  Zr  Zr5  1  0.666667  0.333333  0.343349  1
+  Zr  Zr6  1  0.666667  0.333333  0.156651  1
+  Zr  Zr7  1  0.333333  0.666667  0.656651  1
+  Mn  Mn8  1  0.333333  0.666667  0.125057  1
+  Mn  Mn9  1  0.666667  0.333333  0.625057  1
+  Mn  Mn10  1  0.666667  0.333333  0.874943  1
+  Mn  Mn11  1  0.333333  0.666667  0.374943  1
+  Mn  Mn12  1  0.500000  0.000000  0.000000  1
+  Mn  Mn13  1  0.500000  0.500000  0.500000  1
+  Mn  Mn14  1  0.000000  0.500000  0.500000  1
+  Mn  Mn15  1  0.000000  0.500000  0.000000  1
+  Mn  Mn16  1  0.500000  0.500000  0.000000  1
+  Mn  Mn17  1  0.500000  0.000000  0.500000  1
+  Mn  Mn18  1  0.163941  0.327883  0.250000  1
+  Mn  Mn19  1  0.836059  0.163941  0.750000  1
+  Mn  Mn20  1  0.327883  0.163941  0.750000  1
+  Mn  Mn21  1  0.672117  0.836059  0.250000  1
+  Mn  Mn22  1  0.163941  0.836059  0.250000  1
+  Mn  Mn23  1  0.836059  0.672117  0.750000  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Ce(In2Au)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.73720501
+_cell_length_b   7.47453177
+_cell_length_c   18.83660812
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce(In2Au)2
+_chemical_formula_sum   'Ce4 In16 Au8'
+_cell_volume   666.97395431
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.750000  0.978050  0.859394  1
+  Ce  Ce1  1  0.250000  0.021950  0.140606  1
+  Ce  Ce2  1  0.250000  0.478050  0.640606  1
+  Ce  Ce3  1  0.750000  0.521950  0.359394  1
+  In  In4  1  0.250000  0.266338  0.811388  1
+  In  In5  1  0.750000  0.733662  0.188612  1
+  In  In6  1  0.750000  0.766338  0.688612  1
+  In  In7  1  0.250000  0.233662  0.311388  1
+  In  In8  1  0.250000  0.678248  0.815250  1
+  In  In9  1  0.750000  0.321752  0.184750  1
+  In  In10  1  0.750000  0.178248  0.684750  1
+  In  In11  1  0.250000  0.821752  0.315250  1
+  In  In12  1  0.250000  0.145318  0.964889  1
+  In  In13  1  0.750000  0.854682  0.035111  1
+  In  In14  1  0.750000  0.645318  0.535111  1
+  In  In15  1  0.250000  0.354682  0.464889  1
+  In  In16  1  0.250000  0.487263  0.067837  1
+  In  In17  1  0.750000  0.512737  0.932163  1
+  In  In18  1  0.750000  0.987263  0.432163  1
+  In  In19  1  0.250000  0.012737  0.567837  1
+  Au  Au20  1  0.250000  0.758875  0.961537  1
+  Au  Au21  1  0.750000  0.241125  0.038463  1
+  Au  Au22  1  0.750000  0.258875  0.538463  1
+  Au  Au23  1  0.250000  0.741125  0.461537  1
+  Au  Au24  1  0.250000  0.968549  0.718096  1
+  Au  Au25  1  0.750000  0.031451  0.281904  1
+  Au  Au26  1  0.750000  0.468549  0.781904  1
+  Au  Au27  1  0.250000  0.531451  0.218096  1

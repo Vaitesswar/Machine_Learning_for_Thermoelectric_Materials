@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ca2PrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.62090824
+_cell_length_b   5.96481539
+_cell_length_c   9.97998723
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2PrO4
+_chemical_formula_sum   'Ca4 Pr2 O8'
+_cell_volume   215.54825517
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.500000  0.059351  0.325789  1
+  Ca  Ca1  1  0.500000  0.440649  0.825789  1
+  Ca  Ca2  1  0.500000  0.559351  0.174211  1
+  Ca  Ca3  1  0.500000  0.940649  0.674211  1
+  Pr  Pr4  1  0.000000  0.000000  0.000000  1
+  Pr  Pr5  1  0.000000  0.500000  0.500000  1
+  O  O6  1  0.000000  0.162769  0.785777  1
+  O  O7  1  0.500000  0.251676  0.038732  1
+  O  O8  1  0.500000  0.248324  0.538732  1
+  O  O9  1  0.000000  0.337231  0.285777  1
+  O  O10  1  0.000000  0.662769  0.714223  1
+  O  O11  1  0.500000  0.751676  0.461268  1
+  O  O12  1  0.500000  0.748324  0.961268  1
+  O  O13  1  0.000000  0.837231  0.214223  1

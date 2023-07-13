@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CuHgSeBr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.32798859
+_cell_length_b   9.82333519
+_cell_length_c   10.30739872
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuHgSeBr
+_chemical_formula_sum   'Cu4 Hg4 Se4 Br4'
+_cell_volume   438.22196964
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.000000  0.217596  0.098979  1
+  Cu  Cu1  1  0.000000  0.217596  0.401021  1
+  Cu  Cu2  1  0.000000  0.782404  0.598979  1
+  Cu  Cu3  1  0.000000  0.782404  0.901021  1
+  Hg  Hg4  1  0.500000  0.790088  0.250000  1
+  Hg  Hg5  1  0.500000  0.500000  0.500000  1
+  Hg  Hg6  1  0.500000  0.209912  0.750000  1
+  Hg  Hg7  1  0.500000  0.500000  0.000000  1
+  Se  Se8  1  0.500000  0.759417  0.497692  1
+  Se  Se9  1  0.500000  0.240583  0.502308  1
+  Se  Se10  1  0.500000  0.759417  0.002308  1
+  Se  Se11  1  0.500000  0.240583  0.997692  1
+  Br  Br12  1  0.000000  0.977717  0.750000  1
+  Br  Br13  1  0.000000  0.022283  0.250000  1
+  Br  Br14  1  0.000000  0.567024  0.750000  1
+  Br  Br15  1  0.000000  0.432976  0.250000  1

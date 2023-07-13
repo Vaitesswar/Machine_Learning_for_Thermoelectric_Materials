@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiVO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.48215698
+_cell_length_b   5.48215698
+_cell_length_c   5.48215698
+_cell_angle_alpha   107.47856323
+_cell_angle_beta   107.47856323
+_cell_angle_gamma   113.53455629
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiVO4
+_chemical_formula_sum   'Ti2 V2 O8'
+_cell_volume   126.35107687
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.744761  0.244761  0.500000  1
+  Ti  Ti1  1  0.494761  0.494761  0.000000  1
+  V  V2  1  0.249393  0.749393  0.500000  1
+  V  V3  1  0.999393  0.999393  0.000000  1
+  O  O4  1  0.545442  0.748821  0.796620  1
+  O  O5  1  0.058890  0.254102  0.804788  1
+  O  O6  1  0.998821  0.702201  0.703380  1
+  O  O7  1  0.504102  0.199314  0.695212  1
+  O  O8  1  0.998821  0.295442  0.296620  1
+  O  O9  1  0.504102  0.808890  0.304788  1
+  O  O10  1  0.952201  0.748821  0.203380  1
+  O  O11  1  0.449314  0.254102  0.195212  1

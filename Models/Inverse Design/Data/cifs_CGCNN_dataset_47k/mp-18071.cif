@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ce3SiAgSe7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.79232739
+_cell_length_b   10.79232739
+_cell_length_c   6.06507083
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3SiAgSe7
+_chemical_formula_sum   'Ce6 Si2 Ag2 Se14'
+_cell_volume   611.78205171
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.125558  0.356900  0.740076  1
+  Ce  Ce1  1  0.768658  0.125558  0.240076  1
+  Ce  Ce2  1  0.356900  0.231342  0.240076  1
+  Ce  Ce3  1  0.643100  0.768658  0.740076  1
+  Ce  Ce4  1  0.231342  0.874442  0.740076  1
+  Ce  Ce5  1  0.874442  0.643100  0.240076  1
+  Si  Si6  1  0.333333  0.666667  0.330951  1
+  Si  Si7  1  0.666667  0.333333  0.830951  1
+  Ag  Ag8  1  0.000000  0.000000  0.184995  1
+  Ag  Ag9  1  0.000000  0.000000  0.684995  1
+  Se  Se10  1  0.522349  0.108593  0.980086  1
+  Se  Se11  1  0.477651  0.891407  0.480086  1
+  Se  Se12  1  0.108593  0.586245  0.480086  1
+  Se  Se13  1  0.586245  0.477651  0.980086  1
+  Se  Se14  1  0.093969  0.269569  0.226714  1
+  Se  Se15  1  0.824400  0.093969  0.726714  1
+  Se  Se16  1  0.413755  0.522349  0.480086  1
+  Se  Se17  1  0.891407  0.413755  0.980086  1
+  Se  Se18  1  0.333333  0.666667  0.956137  1
+  Se  Se19  1  0.666667  0.333333  0.456137  1
+  Se  Se20  1  0.906031  0.730431  0.726714  1
+  Se  Se21  1  0.175600  0.906031  0.226714  1
+  Se  Se22  1  0.730431  0.824400  0.226714  1
+  Se  Se23  1  0.269569  0.175600  0.726714  1

@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_ErCoSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.36162445
+_cell_length_b   8.36162445
+_cell_length_c   3.96470005
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   152.33961802
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErCoSi2
+_chemical_formula_sum   'Er2 Co2 Si4'
+_cell_volume   128.68401086
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.107507  0.892493  0.250000  1
+  Er  Er1  1  0.892493  0.107507  0.750000  1
+  Co  Co2  1  0.678443  0.321557  0.750000  1
+  Co  Co3  1  0.321557  0.678443  0.250000  1
+  Si  Si4  1  0.750094  0.249906  0.250000  1
+  Si  Si5  1  0.249906  0.750094  0.750000  1
+  Si  Si6  1  0.542120  0.457880  0.750000  1
+  Si  Si7  1  0.457880  0.542120  0.250000  1

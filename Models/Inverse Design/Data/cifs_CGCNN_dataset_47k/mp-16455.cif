@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_BaNd2ZnS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.85355657
+_cell_length_b   8.85355657
+_cell_length_c   8.85355657
+_cell_angle_alpha   126.89762035
+_cell_angle_beta   126.89762035
+_cell_angle_gamma   78.41777455
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaNd2ZnS5
+_chemical_formula_sum   'Ba2 Nd4 Zn2 S10'
+_cell_volume   429.77241341
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.750000  0.750000  0.000000  1
+  Ba  Ba1  1  0.250000  0.250000  0.000000  1
+  Nd  Nd2  1  0.837917  0.662083  0.500000  1
+  Nd  Nd3  1  0.662083  0.162083  0.824166  1
+  Nd  Nd4  1  0.337917  0.837917  0.175834  1
+  Nd  Nd5  1  0.162083  0.337917  0.500000  1
+  Zn  Zn6  1  0.250000  0.750000  0.500000  1
+  Zn  Zn7  1  0.750000  0.250000  0.500000  1
+  S  S8  1  0.984687  0.484687  0.202679  1
+  S  S9  1  0.717992  0.217992  0.202679  1
+  S  S10  1  0.015313  0.515313  0.797321  1
+  S  S11  1  0.515313  0.717992  0.500000  1
+  S  S12  1  0.217992  0.015313  0.500000  1
+  S  S13  1  0.484687  0.282008  0.500000  1
+  S  S14  1  0.782008  0.984687  0.500000  1
+  S  S15  1  0.282008  0.782008  0.797321  1
+  S  S16  1  0.000000  0.000000  0.000000  1
+  S  S17  1  0.500000  0.500000  0.000000  1

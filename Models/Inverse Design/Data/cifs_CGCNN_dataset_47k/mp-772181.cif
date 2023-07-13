@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Cs3GaO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.33009459
+_cell_length_b   9.33009459
+_cell_length_c   9.33009459
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs3GaO3
+_chemical_formula_sum   'Cs12 Ga4 O12'
+_cell_volume   812.19093912
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.010110  0.010110  0.010110  1
+  Cs  Cs1  1  0.222223  0.277777  0.722223  1
+  Cs  Cs2  1  0.245004  0.745004  0.754996  1
+  Cs  Cs3  1  0.254996  0.254996  0.254996  1
+  Cs  Cs4  1  0.277777  0.722223  0.222223  1
+  Cs  Cs5  1  0.489890  0.989890  0.510110  1
+  Cs  Cs6  1  0.510110  0.489890  0.989890  1
+  Cs  Cs7  1  0.722223  0.222223  0.277777  1
+  Cs  Cs8  1  0.745004  0.754996  0.245004  1
+  Cs  Cs9  1  0.754996  0.245004  0.745004  1
+  Cs  Cs10  1  0.777777  0.777777  0.777777  1
+  Cs  Cs11  1  0.989890  0.510110  0.489890  1
+  Ga  Ga12  1  0.964823  0.035177  0.535177  1
+  Ga  Ga13  1  0.535177  0.964823  0.035177  1
+  Ga  Ga14  1  0.464823  0.464823  0.464823  1
+  Ga  Ga15  1  0.035177  0.535177  0.964823  1
+  O  O16  1  0.014158  0.199702  0.443579  1
+  O  O17  1  0.056421  0.985842  0.699702  1
+  O  O18  1  0.199702  0.443579  0.014158  1
+  O  O19  1  0.300298  0.556421  0.514158  1
+  O  O20  1  0.443579  0.014158  0.199702  1
+  O  O21  1  0.485842  0.800298  0.943579  1
+  O  O22  1  0.514158  0.300298  0.556421  1
+  O  O23  1  0.556421  0.514158  0.300298  1
+  O  O24  1  0.699702  0.056421  0.985842  1
+  O  O25  1  0.800298  0.943579  0.485842  1
+  O  O26  1  0.943579  0.485842  0.800298  1
+  O  O27  1  0.985842  0.699702  0.056421  1

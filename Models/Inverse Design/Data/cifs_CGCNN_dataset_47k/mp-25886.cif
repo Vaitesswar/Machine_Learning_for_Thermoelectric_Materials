@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CuPO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.23593683
+_cell_length_b   6.07352980
+_cell_length_c   5.51131844
+_cell_angle_alpha   77.13701301
+_cell_angle_beta   54.91427144
+_cell_angle_gamma   47.94871555
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuPO4
+_chemical_formula_sum   'Cu2 P2 O8'
+_cell_volume   141.81884113
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.026006  0.473994  0.026006  1
+  Cu  Cu1  1  0.776006  0.223994  0.776006  1
+  P  P2  1  0.389234  0.110766  0.389234  1
+  P  P3  1  0.139234  0.860766  0.139234  1
+  O  O4  1  0.060983  0.757463  0.003572  1
+  O  O5  1  0.356183  0.280092  0.604182  1
+  O  O6  1  0.604182  0.759542  0.356183  1
+  O  O7  1  0.490458  0.645818  0.969908  1
+  O  O8  1  0.969908  0.893817  0.490458  1
+  O  O9  1  0.492537  0.189017  0.072019  1
+  O  O10  1  0.003572  0.177981  0.060983  1
+  O  O11  1  0.072019  0.246428  0.492537  1

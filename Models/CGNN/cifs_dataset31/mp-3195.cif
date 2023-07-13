@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Sr11(CdSb2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   16.85528946
+_cell_length_b   16.85528946
+_cell_length_c   12.76217449
+_cell_angle_alpha   70.29066715
+_cell_angle_beta   109.70933285
+_cell_angle_gamma   163.52296357
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr11(CdSb2)6
+_chemical_formula_sum   'Sr11 Cd6 Sb12'
+_cell_volume   966.82367535
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.981021  0.018979  0.318885  1
+  Sr  Sr1  1  0.018979  0.981021  0.681115  1
+  Sr  Sr2  1  0.886416  0.113584  0.493936  1
+  Sr  Sr3  1  0.113584  0.886416  0.506064  1
+  Sr  Sr4  1  0.873792  0.126208  0.984465  1
+  Sr  Sr5  1  0.126208  0.873792  0.015535  1
+  Sr  Sr6  1  0.799419  0.200581  0.656864  1
+  Sr  Sr7  1  0.200581  0.799419  0.343136  1
+  Sr  Sr8  1  0.721872  0.278128  0.866751  1
+  Sr  Sr9  1  0.278128  0.721872  0.133249  1
+  Sr  Sr10  1  0.000000  0.000000  0.000000  1
+  Cd  Cd11  1  0.452471  0.547529  0.755194  1
+  Cd  Cd12  1  0.399630  0.600370  0.254863  1
+  Cd  Cd13  1  0.600370  0.399630  0.745137  1
+  Cd  Cd14  1  0.547529  0.452471  0.244806  1
+  Cd  Cd15  1  0.219065  0.780935  0.666647  1
+  Cd  Cd16  1  0.780935  0.219065  0.333353  1
+  Sb  Sb17  1  0.546559  0.453441  0.884414  1
+  Sb  Sb18  1  0.453441  0.546559  0.115586  1
+  Sb  Sb19  1  0.543007  0.456993  0.500351  1
+  Sb  Sb20  1  0.456993  0.543007  0.499649  1
+  Sb  Sb21  1  0.295152  0.704848  0.865202  1
+  Sb  Sb22  1  0.704848  0.295152  0.134798  1
+  Sb  Sb23  1  0.309217  0.690783  0.470443  1
+  Sb  Sb24  1  0.690783  0.309217  0.529557  1
+  Sb  Sb25  1  0.849971  0.150029  0.216405  1
+  Sb  Sb26  1  0.090054  0.909946  0.232684  1
+  Sb  Sb27  1  0.909946  0.090054  0.767316  1
+  Sb  Sb28  1  0.150029  0.849971  0.783595  1

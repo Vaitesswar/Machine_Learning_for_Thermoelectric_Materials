@@ -1,0 +1,60 @@
+# generated using pymatgen
+data_Ta9(CoS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.35921190
+_cell_length_b   10.35921190
+_cell_length_c   6.61084441
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta9(CoS3)2
+_chemical_formula_sum   'Ta18 Co4 S12'
+_cell_volume   614.38556215
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.739680  0.191600  0.500000  1
+  Ta  Ta1  1  0.471413  0.260009  0.000000  1
+  Ta  Ta2  1  0.543253  0.543253  0.248629  1
+  Ta  Ta3  1  0.000000  0.456747  0.751371  1
+  Ta  Ta4  1  0.548080  0.808400  0.500000  1
+  Ta  Ta5  1  0.191600  0.739680  0.500000  1
+  Ta  Ta6  1  0.260320  0.451920  0.500000  1
+  Ta  Ta7  1  0.456747  0.000000  0.751371  1
+  Ta  Ta8  1  0.808400  0.548080  0.500000  1
+  Ta  Ta9  1  0.739991  0.211404  0.000000  1
+  Ta  Ta10  1  0.260009  0.471413  0.000000  1
+  Ta  Ta11  1  0.788596  0.528587  0.000000  1
+  Ta  Ta12  1  0.000000  0.456747  0.248629  1
+  Ta  Ta13  1  0.528587  0.788596  0.000000  1
+  Ta  Ta14  1  0.451920  0.260320  0.500000  1
+  Ta  Ta15  1  0.543253  0.543253  0.751371  1
+  Ta  Ta16  1  0.456747  0.000000  0.248629  1
+  Ta  Ta17  1  0.211404  0.739991  0.000000  1
+  Co  Co18  1  0.666667  0.333333  0.279042  1
+  Co  Co19  1  0.666667  0.333333  0.720958  1
+  Co  Co20  1  0.333333  0.666667  0.720958  1
+  Co  Co21  1  0.333333  0.666667  0.279042  1
+  S  S22  1  0.297010  0.297010  0.762056  1
+  S  S23  1  0.702990  0.000000  0.762056  1
+  S  S24  1  0.726656  0.726656  0.500000  1
+  S  S25  1  0.274647  0.000000  0.000000  1
+  S  S26  1  0.000000  0.702990  0.762056  1
+  S  S27  1  0.297010  0.297010  0.237944  1
+  S  S28  1  0.000000  0.702990  0.237944  1
+  S  S29  1  0.000000  0.273344  0.500000  1
+  S  S30  1  0.000000  0.274647  0.000000  1
+  S  S31  1  0.725353  0.725353  0.000000  1
+  S  S32  1  0.702990  0.000000  0.237944  1
+  S  S33  1  0.273344  0.000000  0.500000  1

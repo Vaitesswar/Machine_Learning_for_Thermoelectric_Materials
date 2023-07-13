@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_ErMoClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.28371332
+_cell_length_b   6.28371332
+_cell_length_c   6.89364096
+_cell_angle_alpha   75.85189351
+_cell_angle_beta   104.14810649
+_cell_angle_gamma   109.27634804
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ErMoClO4
+_chemical_formula_sum   'Er2 Mo2 Cl2 O8'
+_cell_volume   245.12335002
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.778392  0.221608  0.887514  1
+  Er  Er1  1  0.221608  0.778392  0.112486  1
+  Mo  Mo2  1  0.362173  0.637827  0.730871  1
+  Mo  Mo3  1  0.637827  0.362173  0.269129  1
+  Cl  Cl4  1  0.989762  0.010238  0.232133  1
+  Cl  Cl5  1  0.010238  0.989762  0.767867  1
+  O  O6  1  0.491665  0.892511  0.846448  1
+  O  O7  1  0.508335  0.107489  0.153552  1
+  O  O8  1  0.892511  0.491665  0.153552  1
+  O  O9  1  0.455790  0.544210  0.200770  1
+  O  O10  1  0.706627  0.293373  0.537231  1
+  O  O11  1  0.107489  0.508335  0.846448  1
+  O  O12  1  0.293373  0.706627  0.462769  1
+  O  O13  1  0.544210  0.455790  0.799230  1

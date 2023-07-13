@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_YSiNO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.08987832
+_cell_length_b   7.08987832
+_cell_length_c   9.20397013
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.32818799
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YSiNO2
+_chemical_formula_sum   'Y6 Si6 N6 O12'
+_cell_volume   399.33524887
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.825005  0.174995  0.500000  1
+  Y  Y1  1  0.174995  0.825005  1.000000  1
+  Y  Y2  1  0.825005  0.174995  0.000000  1
+  Y  Y3  1  0.174995  0.825005  0.500000  1
+  Y  Y4  1  0.500000  0.500000  0.500000  1
+  Y  Y5  1  0.500000  0.500000  0.000000  1
+  Si  Si6  1  0.164888  0.409347  0.250000  1
+  Si  Si7  1  0.590653  0.835112  0.750000  1
+  Si  Si8  1  0.916424  0.916424  0.250000  1
+  Si  Si9  1  0.835112  0.590653  0.750000  1
+  Si  Si10  1  0.083576  0.083576  0.750000  1
+  Si  Si11  1  0.409347  0.164888  0.250000  1
+  N  N12  1  0.598139  0.598139  0.750000  1
+  N  N13  1  0.836608  0.073875  0.750000  1
+  N  N14  1  0.073875  0.836608  0.750000  1
+  N  N15  1  0.926125  0.163392  0.250000  1
+  N  N16  1  0.401861  0.401861  0.250000  1
+  N  N17  1  0.163392  0.926125  0.250000  1
+  O  O18  1  0.165859  0.525658  0.094288  1
+  O  O19  1  0.474342  0.834141  0.905712  1
+  O  O20  1  0.474342  0.834141  0.594288  1
+  O  O21  1  0.525658  0.165859  0.094288  1
+  O  O22  1  0.803388  0.803388  0.408576  1
+  O  O23  1  0.834141  0.474342  0.905712  1
+  O  O24  1  0.834141  0.474342  0.594288  1
+  O  O25  1  0.196612  0.196612  0.591424  1
+  O  O26  1  0.196612  0.196612  0.908576  1
+  O  O27  1  0.803388  0.803388  0.091424  1
+  O  O28  1  0.525658  0.165859  0.405712  1
+  O  O29  1  0.165859  0.525658  0.405712  1

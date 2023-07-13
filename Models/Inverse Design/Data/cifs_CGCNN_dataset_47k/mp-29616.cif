@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CsCrCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.42028559
+_cell_length_b   7.42028559
+_cell_length_c   6.31714193
+_cell_angle_alpha   88.81918329
+_cell_angle_beta   91.18081671
+_cell_angle_gamma   120.48658399
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsCrCl3
+_chemical_formula_sum   'Cs2 Cr2 Cl6'
+_cell_volume   299.65377719
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.332946  0.667054  0.253352  1
+  Cs  Cs1  1  0.667054  0.332946  0.746648  1
+  Cr  Cr2  1  1.000000  1.000000  0.500000  1
+  Cr  Cr3  1  0.000000  0.000000  0.000000  1
+  Cl  Cl4  1  0.695892  0.845969  0.769126  1
+  Cl  Cl5  1  0.845969  0.695892  0.230874  1
+  Cl  Cl6  1  0.304108  0.154031  0.230874  1
+  Cl  Cl7  1  0.154031  0.304108  0.769126  1
+  Cl  Cl8  1  0.842373  0.157627  0.293688  1
+  Cl  Cl9  1  0.157627  0.842373  0.706312  1

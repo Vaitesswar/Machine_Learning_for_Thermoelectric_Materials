@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ce(GeIr)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26310385
+_cell_length_b   4.26310385
+_cell_length_c   10.21560381
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce(GeIr)2
+_chemical_formula_sum   'Ce2 Ge4 Ir4'
+_cell_volume   185.65893974
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.500000  0.000000  0.256514  1
+  Ce  Ce1  1  0.000000  0.500000  0.743486  1
+  Ge  Ge2  1  0.500000  0.000000  0.868387  1
+  Ge  Ge3  1  0.000000  0.500000  0.131613  1
+  Ge  Ge4  1  0.000000  0.000000  0.500000  1
+  Ge  Ge5  1  0.500000  0.500000  0.500000  1
+  Ir  Ir6  1  0.000000  0.000000  0.000000  1
+  Ir  Ir7  1  0.000000  0.500000  0.371543  1
+  Ir  Ir8  1  0.500000  0.500000  0.000000  1
+  Ir  Ir9  1  0.500000  0.000000  0.628457  1

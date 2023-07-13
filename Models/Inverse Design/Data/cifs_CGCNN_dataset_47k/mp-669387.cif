@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Sr2P6Rh7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.20545971
+_cell_length_b   11.20545971
+_cell_length_c   4.14668793
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2P6Rh7
+_chemical_formula_sum   'Sr4 P12 Rh14'
+_cell_volume   520.66778713
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.161462  0.661462  0.751311  1
+  Sr  Sr1  1  0.338538  0.161462  0.248689  1
+  Sr  Sr2  1  0.661462  0.838538  0.248689  1
+  Sr  Sr3  1  0.838538  0.338538  0.751311  1
+  P  P4  1  0.858066  0.110934  0.276466  1
+  P  P5  1  0.358066  0.389066  0.723534  1
+  P  P6  1  0.572613  0.072613  0.765374  1
+  P  P7  1  0.641934  0.610934  0.723534  1
+  P  P8  1  0.610934  0.358066  0.276466  1
+  P  P9  1  0.072613  0.427387  0.234626  1
+  P  P10  1  0.389066  0.641934  0.276466  1
+  P  P11  1  0.927387  0.572613  0.234626  1
+  P  P12  1  0.110934  0.141934  0.723534  1
+  P  P13  1  0.427387  0.927387  0.765374  1
+  P  P14  1  0.141934  0.889066  0.276466  1
+  P  P15  1  0.889066  0.858066  0.723534  1
+  Rh  Rh16  1  0.537441  0.276148  0.755619  1
+  Rh  Rh17  1  0.037441  0.223852  0.244381  1
+  Rh  Rh18  1  0.723852  0.537441  0.244381  1
+  Rh  Rh19  1  0.276148  0.462559  0.244381  1
+  Rh  Rh20  1  0.347492  0.847492  0.263597  1
+  Rh  Rh21  1  0.847492  0.652508  0.736403  1
+  Rh  Rh22  1  0.962559  0.776148  0.244381  1
+  Rh  Rh23  1  0.223852  0.962559  0.755619  1
+  Rh  Rh24  1  0.776148  0.037441  0.755619  1
+  Rh  Rh25  1  0.000000  0.000000  0.000000  1
+  Rh  Rh26  1  0.152508  0.347492  0.736403  1
+  Rh  Rh27  1  0.462559  0.723852  0.755619  1
+  Rh  Rh28  1  0.500000  0.500000  0.000000  1
+  Rh  Rh29  1  0.652508  0.152508  0.263597  1

@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_BaGe2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74273467
+_cell_length_b   5.74273467
+_cell_length_c   14.61231301
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.44550083
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaGe2O5
+_chemical_formula_sum   'Ba4 Ge8 O20'
+_cell_volume   411.12617800
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.162057  0.837943  0.581229  1
+  Ba  Ba1  1  0.837943  0.162057  0.418771  1
+  Ba  Ba2  1  0.337943  0.662057  0.081229  1
+  Ba  Ba3  1  0.662057  0.337943  0.918771  1
+  Ge  Ge4  1  0.494757  0.505243  0.641526  1
+  Ge  Ge5  1  0.505243  0.494757  0.358474  1
+  Ge  Ge6  1  0.005243  0.994757  0.141526  1
+  Ge  Ge7  1  0.994757  0.005243  0.858474  1
+  Ge  Ge8  1  0.827168  0.172832  0.683271  1
+  Ge  Ge9  1  0.172832  0.827168  0.316729  1
+  Ge  Ge10  1  0.672832  0.327168  0.183271  1
+  Ge  Ge11  1  0.327168  0.672832  0.816729  1
+  O  O12  1  0.335059  0.152760  0.406195  1
+  O  O13  1  0.152760  0.335059  0.593805  1
+  O  O14  1  0.164941  0.347240  0.906195  1
+  O  O15  1  0.347240  0.164941  0.093805  1
+  O  O16  1  0.664941  0.847240  0.593805  1
+  O  O17  1  0.847240  0.664941  0.406195  1
+  O  O18  1  0.835059  0.652760  0.093805  1
+  O  O19  1  0.652760  0.835059  0.906195  1
+  O  O20  1  0.001669  0.498331  0.750000  1
+  O  O21  1  0.498331  0.001669  0.250000  1
+  O  O22  1  0.998331  0.501669  0.250000  1
+  O  O23  1  0.501669  0.998331  0.750000  1
+  O  O24  1  0.493885  0.506115  0.761245  1
+  O  O25  1  0.506115  0.493885  0.238755  1
+  O  O26  1  0.006115  0.993885  0.261245  1
+  O  O27  1  0.993885  0.006115  0.738755  1
+  O  O28  1  0.166123  0.833877  0.898675  1
+  O  O29  1  0.833877  0.166123  0.101325  1
+  O  O30  1  0.333877  0.666123  0.398675  1
+  O  O31  1  0.666123  0.333877  0.601325  1

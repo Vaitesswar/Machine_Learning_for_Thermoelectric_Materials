@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ScCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.14060416
+_cell_length_b   5.14060416
+_cell_length_c   6.65246795
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   112.74037092
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScCrO4
+_chemical_formula_sum   'Sc2 Cr2 O8'
+_cell_volume   162.13145961
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.000000  0.000000  0.000000  1
+  Sc  Sc1  1  0.000000  0.000000  0.500000  1
+  Cr  Cr2  1  0.641012  0.358988  0.250000  1
+  Cr  Cr3  1  0.358988  0.641012  0.750000  1
+  O  O4  1  0.213695  0.266683  0.750000  1
+  O  O5  1  0.266683  0.213695  0.250000  1
+  O  O6  1  0.760378  0.239622  0.048911  1
+  O  O7  1  0.760378  0.239622  0.451089  1
+  O  O8  1  0.239622  0.760378  0.548911  1
+  O  O9  1  0.239622  0.760378  0.951089  1
+  O  O10  1  0.786305  0.733317  0.250000  1
+  O  O11  1  0.733317  0.786305  0.750000  1

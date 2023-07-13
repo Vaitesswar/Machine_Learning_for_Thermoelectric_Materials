@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_SrHg2(ClO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.45403614
+_cell_length_b   7.16406124
+_cell_length_c   11.78532996
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   122.09364113
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrHg2(ClO)2
+_chemical_formula_sum   'Sr4 Hg8 Cl8 O8'
+_cell_volume   604.70183726
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.651498  0.376352  0.375414  1
+  Sr  Sr1  1  0.348502  0.623648  0.624586  1
+  Sr  Sr2  1  0.651498  0.123648  0.875414  1
+  Sr  Sr3  1  0.348502  0.876352  0.124586  1
+  Hg  Hg4  1  0.895366  0.669779  0.867822  1
+  Hg  Hg5  1  0.735001  0.936660  0.606608  1
+  Hg  Hg6  1  0.264999  0.436660  0.893392  1
+  Hg  Hg7  1  0.895366  0.830221  0.367822  1
+  Hg  Hg8  1  0.104634  0.330221  0.132178  1
+  Hg  Hg9  1  0.104634  0.169779  0.632178  1
+  Hg  Hg10  1  0.264999  0.063340  0.393392  1
+  Hg  Hg11  1  0.735001  0.563340  0.106608  1
+  Cl  Cl12  1  0.954550  0.600040  0.612483  1
+  Cl  Cl13  1  0.587843  0.180992  0.126868  1
+  Cl  Cl14  1  0.045450  0.399960  0.387517  1
+  Cl  Cl15  1  0.045450  0.100040  0.887517  1
+  Cl  Cl16  1  0.954550  0.899960  0.112483  1
+  Cl  Cl17  1  0.412157  0.680992  0.373132  1
+  Cl  Cl18  1  0.412157  0.819008  0.873132  1
+  Cl  Cl19  1  0.587843  0.319008  0.626868  1
+  O  O20  1  0.349097  0.318070  0.770184  1
+  O  O21  1  0.826552  0.078599  0.496888  1
+  O  O22  1  0.349097  0.181930  0.270184  1
+  O  O23  1  0.173448  0.921401  0.503112  1
+  O  O24  1  0.650903  0.818070  0.729816  1
+  O  O25  1  0.826552  0.421401  0.996888  1
+  O  O26  1  0.650903  0.681930  0.229816  1
+  O  O27  1  0.173448  0.578599  0.003112  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Be(CoO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   2.89340037
+_cell_length_b   8.99803460
+_cell_length_c   9.30374110
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be(CoO2)2
+_chemical_formula_sum   'Be4 Co8 O16'
+_cell_volume   242.22212412
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.750000  0.645956  0.110647  1
+  Be  Be1  1  0.250000  0.854044  0.610647  1
+  Be  Be2  1  0.750000  0.145956  0.389353  1
+  Be  Be3  1  0.250000  0.354044  0.889353  1
+  Co  Co4  1  0.750000  0.629168  0.798746  1
+  Co  Co5  1  0.750000  0.619031  0.429740  1
+  Co  Co6  1  0.250000  0.880969  0.929740  1
+  Co  Co7  1  0.250000  0.870832  0.298746  1
+  Co  Co8  1  0.750000  0.129168  0.701254  1
+  Co  Co9  1  0.750000  0.119031  0.070260  1
+  Co  Co10  1  0.250000  0.380969  0.570260  1
+  Co  Co11  1  0.250000  0.370832  0.201254  1
+  O  O12  1  0.750000  0.516632  0.614635  1
+  O  O13  1  0.750000  0.479270  0.125374  1
+  O  O14  1  0.250000  0.765580  0.751770  1
+  O  O15  1  0.750000  0.745032  0.973254  1
+  O  O16  1  0.250000  0.754968  0.473254  1
+  O  O17  1  0.750000  0.734420  0.251770  1
+  O  O18  1  0.250000  0.020730  0.625374  1
+  O  O19  1  0.250000  0.983368  0.114635  1
+  O  O20  1  0.750000  0.016632  0.885365  1
+  O  O21  1  0.750000  0.979270  0.374626  1
+  O  O22  1  0.250000  0.265580  0.748230  1
+  O  O23  1  0.750000  0.245032  0.526746  1
+  O  O24  1  0.250000  0.254968  0.026746  1
+  O  O25  1  0.750000  0.234420  0.248230  1
+  O  O26  1  0.250000  0.520730  0.874626  1
+  O  O27  1  0.250000  0.483368  0.385365  1

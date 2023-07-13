@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Na5LaO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63230252
+_cell_length_b   7.67661348
+_cell_length_c   8.13079848
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na5LaO4
+_chemical_formula_sum   'Na10 La2 O8'
+_cell_volume   351.55141070
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.252395  0.740469  0.690960  1
+  Na  Na1  1  0.252395  0.259531  0.690960  1
+  Na  Na2  1  0.782258  0.000000  0.500000  1
+  Na  Na3  1  0.252395  0.259531  0.309040  1
+  Na  Na4  1  0.252395  0.740469  0.309040  1
+  Na  Na5  1  0.747605  0.240469  0.190960  1
+  Na  Na6  1  0.747605  0.759531  0.190960  1
+  Na  Na7  1  0.217742  0.500000  0.000000  1
+  Na  Na8  1  0.747605  0.240469  0.809040  1
+  Na  Na9  1  0.747605  0.759531  0.809040  1
+  La  La10  1  0.778086  0.500000  0.500000  1
+  La  La11  1  0.221914  0.000000  0.000000  1
+  O  O12  1  0.996221  0.500000  0.740775  1
+  O  O13  1  0.556456  0.256365  0.500000  1
+  O  O14  1  0.556456  0.743635  0.500000  1
+  O  O15  1  0.996221  0.500000  0.259225  1
+  O  O16  1  0.003779  0.000000  0.240775  1
+  O  O17  1  0.443544  0.243635  0.000000  1
+  O  O18  1  0.443544  0.756365  0.000000  1
+  O  O19  1  0.003779  0.000000  0.759225  1

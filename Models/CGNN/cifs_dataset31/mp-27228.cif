@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Tl6Si2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.93271422
+_cell_length_b   9.93271422
+_cell_length_c   8.11057800
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl6Si2O7
+_chemical_formula_sum   'Tl12 Si4 O14'
+_cell_volume   692.97619711
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.036651  0.354535  0.369764  1
+  Tl  Tl1  1  0.317883  0.963349  0.369764  1
+  Tl  Tl2  1  0.645465  0.682117  0.369764  1
+  Tl  Tl3  1  0.963349  0.645465  0.630236  1
+  Tl  Tl4  1  0.682117  0.036651  0.630236  1
+  Tl  Tl5  1  0.354535  0.317883  0.630236  1
+  Tl  Tl6  1  0.051560  0.363579  0.878120  1
+  Tl  Tl7  1  0.312018  0.948440  0.878120  1
+  Tl  Tl8  1  0.636421  0.687982  0.878120  1
+  Tl  Tl9  1  0.948440  0.636421  0.121880  1
+  Tl  Tl10  1  0.687982  0.051560  0.121880  1
+  Tl  Tl11  1  0.363579  0.312018  0.121880  1
+  Si  Si12  1  0.333333  0.666667  0.170459  1
+  Si  Si13  1  0.666667  0.333333  0.416990  1
+  Si  Si14  1  0.333333  0.666667  0.583010  1
+  Si  Si15  1  0.666667  0.333333  0.829541  1
+  O  O16  1  0.848935  0.447867  0.884407  1
+  O  O17  1  0.552133  0.401069  0.884407  1
+  O  O18  1  0.598931  0.151065  0.884407  1
+  O  O19  1  0.401069  0.848935  0.115593  1
+  O  O20  1  0.666667  0.333333  0.623097  1
+  O  O21  1  0.333333  0.666667  0.376903  1
+  O  O22  1  0.598364  0.151315  0.361093  1
+  O  O23  1  0.552950  0.401636  0.361093  1
+  O  O24  1  0.848685  0.447050  0.361093  1
+  O  O25  1  0.401636  0.848685  0.638907  1
+  O  O26  1  0.447050  0.598364  0.638907  1
+  O  O27  1  0.151315  0.552950  0.638907  1
+  O  O28  1  0.151065  0.552133  0.115593  1
+  O  O29  1  0.447867  0.598931  0.115593  1

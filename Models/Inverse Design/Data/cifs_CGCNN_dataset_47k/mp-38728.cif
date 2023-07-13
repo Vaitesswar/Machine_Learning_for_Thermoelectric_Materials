@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr(ErS2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.35091207
+_cell_length_b   7.35091207
+_cell_length_c   7.35091207
+_cell_angle_alpha   109.42310938
+_cell_angle_beta   109.42310938
+_cell_angle_gamma   109.56748605
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(ErS2)2
+_chemical_formula_sum   'Sr2 Er4 S8'
+_cell_volume   305.77422440
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  1.000000  1.000000  0.000000  1
+  Sr  Sr1  1  0.250000  0.750000  0.500000  1
+  Er  Er2  1  0.125000  0.493134  0.868134  1
+  Er  Er3  1  0.625000  0.256866  0.131866  1
+  Er  Er4  1  0.506866  0.375000  0.631866  1
+  Er  Er5  1  0.743134  0.875000  0.368134  1
+  S  S6  1  0.855652  0.610583  0.100362  1
+  S  S7  1  0.394348  0.994710  0.254931  1
+  S  S8  1  0.005290  0.260220  0.399638  1
+  S  S9  1  0.244710  0.144348  0.754931  1
+  S  S10  1  0.510220  0.755290  0.899638  1
+  S  S11  1  0.389417  0.489779  0.245069  1
+  S  S12  1  0.739779  0.139417  0.745069  1
+  S  S13  1  0.860583  0.605652  0.600362  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaCa(GaO2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76963013
+_cell_length_b   6.76963013
+_cell_length_c   6.76963013
+_cell_angle_alpha   134.46655103
+_cell_angle_beta   103.99265955
+_cell_angle_gamma   93.30835821
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCa(GaO2)4
+_chemical_formula_sum   'Ba1 Ca1 Ga4 O8'
+_cell_volume   202.95438504
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.000000  0.005370  0.005370  1
+  Ca  Ca1  1  0.500000  0.932167  0.432167  1
+  Ga  Ga2  1  0.124478  0.293652  0.751847  1
+  Ga  Ga3  1  0.458195  0.627370  0.751847  1
+  Ga  Ga4  1  0.875522  0.627370  0.169175  1
+  Ga  Ga5  1  0.541805  0.293652  0.169175  1
+  O  O6  1  0.540129  0.937958  0.809289  1
+  O  O7  1  0.459871  0.269159  0.397829  1
+  O  O8  1  0.191029  0.574237  0.765266  1
+  O  O9  1  0.808971  0.574237  0.383208  1
+  O  O10  1  0.871330  0.269159  0.809289  1
+  O  O11  1  0.128670  0.937958  0.397829  1
+  O  O12  1  0.670819  0.759424  0.088605  1
+  O  O13  1  0.329181  0.417786  0.088605  1

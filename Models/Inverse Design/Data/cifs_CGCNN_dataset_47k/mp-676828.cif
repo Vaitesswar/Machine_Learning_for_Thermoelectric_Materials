@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ZnCuAs
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.14954400
+_cell_length_b   5.93013637
+_cell_length_c   8.45545886
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnCuAs
+_chemical_formula_sum   'Zn4 Cu4 As4'
+_cell_volume   208.06653502
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.781430  0.031732  0.866667  1
+  Zn  Zn1  1  0.281430  0.531732  0.633333  1
+  Zn  Zn2  1  0.718570  0.031732  0.366667  1
+  Zn  Zn3  1  0.218570  0.531732  0.133333  1
+  Cu  Cu4  1  0.282165  0.019787  0.637269  1
+  Cu  Cu5  1  0.717835  0.519787  0.362731  1
+  Cu  Cu6  1  0.217835  0.019787  0.137269  1
+  Cu  Cu7  1  0.782165  0.519787  0.862731  1
+  As  As8  1  0.276900  0.776540  0.886457  1
+  As  As9  1  0.776900  0.276540  0.613543  1
+  As  As10  1  0.223100  0.776540  0.386457  1
+  As  As11  1  0.723100  0.276540  0.113543  1

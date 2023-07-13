@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_LiFeCO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.61236910
+_cell_length_b   5.44823185
+_cell_length_c   10.53650770
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   98.08986258
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiFeCO4
+_chemical_formula_sum   'Li4 Fe4 C4 O16'
+_cell_volume   375.80785990
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.116400  0.650371  0.793223  1
+  Li  Li1  1  0.116400  0.849629  0.293223  1
+  Li  Li2  1  0.883600  0.150371  0.706777  1
+  Li  Li3  1  0.883600  0.349629  0.206777  1
+  Fe  Fe4  1  0.513415  0.860309  0.845808  1
+  Fe  Fe5  1  0.486585  0.360309  0.654192  1
+  Fe  Fe6  1  0.513415  0.639691  0.345808  1
+  Fe  Fe7  1  0.486585  0.139691  0.154192  1
+  C  C8  1  0.203203  0.190018  0.925428  1
+  C  C9  1  0.203203  0.309982  0.425428  1
+  C  C10  1  0.796797  0.690018  0.574572  1
+  C  C11  1  0.796797  0.809982  0.074572  1
+  O  O12  1  0.080218  0.297076  0.840610  1
+  O  O13  1  0.080218  0.202924  0.340610  1
+  O  O14  1  0.257685  0.956897  0.910890  1
+  O  O15  1  0.257685  0.543103  0.410890  1
+  O  O16  1  0.282149  0.197850  0.529831  1
+  O  O17  1  0.386114  0.625460  0.734259  1
+  O  O18  1  0.282149  0.302150  0.029831  1
+  O  O19  1  0.386114  0.874540  0.234259  1
+  O  O20  1  0.613886  0.125460  0.765741  1
+  O  O21  1  0.717851  0.697850  0.970169  1
+  O  O22  1  0.613886  0.374540  0.265741  1
+  O  O23  1  0.717851  0.802150  0.470169  1
+  O  O24  1  0.742315  0.456897  0.589110  1
+  O  O25  1  0.742315  0.043103  0.089110  1
+  O  O26  1  0.919782  0.797076  0.659390  1
+  O  O27  1  0.919782  0.702924  0.159390  1

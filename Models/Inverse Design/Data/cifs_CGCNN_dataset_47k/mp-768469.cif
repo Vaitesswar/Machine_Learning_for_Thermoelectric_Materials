@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_TmGaO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02952835
+_cell_length_b   6.02952835
+_cell_length_c   11.66974091
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TmGaO3
+_chemical_formula_sum   'Tm6 Ga6 O18'
+_cell_volume   367.41639306
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tm  Tm0  1  0.333333  0.666667  0.233704  1
+  Tm  Tm1  1  0.000000  0.000000  0.275141  1
+  Tm  Tm2  1  0.000000  0.000000  0.775141  1
+  Tm  Tm3  1  0.333333  0.666667  0.733704  1
+  Tm  Tm4  1  0.666667  0.333333  0.733704  1
+  Tm  Tm5  1  0.666667  0.333333  0.233704  1
+  Ga  Ga6  1  0.000000  0.665831  0.500805  1
+  Ga  Ga7  1  0.000000  0.334169  0.000805  1
+  Ga  Ga8  1  0.334169  0.334169  0.500805  1
+  Ga  Ga9  1  0.334169  0.000000  0.000805  1
+  Ga  Ga10  1  0.665831  0.665831  0.000805  1
+  Ga  Ga11  1  0.665831  0.000000  0.500805  1
+  O  O12  1  0.000000  0.693620  0.664941  1
+  O  O13  1  0.000000  0.640071  0.338064  1
+  O  O14  1  0.000000  0.359929  0.838064  1
+  O  O15  1  0.000000  0.306380  0.164941  1
+  O  O16  1  0.333333  0.666667  0.021760  1
+  O  O17  1  0.000000  0.000000  0.476399  1
+  O  O18  1  0.000000  0.000000  0.976399  1
+  O  O19  1  0.333333  0.666667  0.521760  1
+  O  O20  1  0.306380  0.306380  0.664941  1
+  O  O21  1  0.359929  0.359929  0.338064  1
+  O  O22  1  0.306380  0.000000  0.164941  1
+  O  O23  1  0.640071  0.640071  0.838064  1
+  O  O24  1  0.693620  0.693620  0.164941  1
+  O  O25  1  0.359929  0.000000  0.838064  1
+  O  O26  1  0.666667  0.333333  0.521760  1
+  O  O27  1  0.666667  0.333333  0.021760  1
+  O  O28  1  0.640071  0.000000  0.338064  1
+  O  O29  1  0.693620  0.000000  0.664941  1

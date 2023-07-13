@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_SiNi2P
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.98469118
+_cell_length_b   5.87091340
+_cell_length_c   13.66675314
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiNi2P
+_chemical_formula_sum   'Si8 Ni16 P8'
+_cell_volume   399.95329728
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.819420  0.921673  0.059749  1
+  Si  Si1  1  0.319420  0.078327  0.440251  1
+  Si  Si2  1  0.680580  0.421673  0.940251  1
+  Si  Si3  1  0.180580  0.578327  0.559749  1
+  Si  Si4  1  0.180580  0.078327  0.940251  1
+  Si  Si5  1  0.680580  0.921673  0.559749  1
+  Si  Si6  1  0.319420  0.578327  0.059749  1
+  Si  Si7  1  0.819420  0.421673  0.440251  1
+  Ni  Ni8  1  0.988037  0.803425  0.434801  1
+  Ni  Ni9  1  0.488037  0.196575  0.065199  1
+  Ni  Ni10  1  0.511963  0.303425  0.565199  1
+  Ni  Ni11  1  0.011963  0.696575  0.934801  1
+  Ni  Ni12  1  0.011963  0.196575  0.565199  1
+  Ni  Ni13  1  0.511963  0.803425  0.934801  1
+  Ni  Ni14  1  0.488037  0.696575  0.434801  1
+  Ni  Ni15  1  0.988037  0.303425  0.065199  1
+  Ni  Ni16  1  0.984594  0.803059  0.677556  1
+  Ni  Ni17  1  0.484594  0.196941  0.822444  1
+  Ni  Ni18  1  0.515406  0.303059  0.322444  1
+  Ni  Ni19  1  0.015406  0.696941  0.177556  1
+  Ni  Ni20  1  0.015406  0.196941  0.322444  1
+  Ni  Ni21  1  0.515406  0.803059  0.177556  1
+  Ni  Ni22  1  0.484594  0.696941  0.677556  1
+  Ni  Ni23  1  0.984594  0.303059  0.822444  1
+  P  P24  1  0.684168  0.938485  0.319134  1
+  P  P25  1  0.184168  0.061515  0.180866  1
+  P  P26  1  0.815832  0.438485  0.680866  1
+  P  P27  1  0.315832  0.561515  0.819134  1
+  P  P28  1  0.315832  0.061515  0.680866  1
+  P  P29  1  0.815832  0.938485  0.819134  1
+  P  P30  1  0.184168  0.561515  0.319134  1
+  P  P31  1  0.684168  0.438485  0.180866  1

@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NaCaFe2(SiO3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.63363427
+_cell_length_b   7.63363427
+_cell_length_c   5.35256811
+_cell_angle_alpha   58.88741748
+_cell_angle_beta   121.11258252
+_cell_angle_gamma   107.57436511
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCaFe2(SiO3)4
+_chemical_formula_sum   'Na1 Ca1 Fe2 Si4 O12'
+_cell_volume   228.36749141
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.699310  0.699310  0.000000  1
+  Ca  Ca1  1  0.300796  0.300796  0.500000  1
+  Fe  Fe2  1  0.092166  0.092166  0.000000  1
+  Fe  Fe3  1  0.898748  0.898748  0.500000  1
+  Si  Si4  1  0.622262  0.197693  0.405288  1
+  Si  Si5  1  0.197693  0.622262  0.594712  1
+  Si  Si6  1  0.802838  0.381180  0.909484  1
+  Si  Si7  1  0.381180  0.802838  0.090516  1
+  O  O8  1  0.337953  0.631423  0.954138  1
+  O  O9  1  0.390488  0.116386  0.344282  1
+  O  O10  1  0.798934  0.029310  0.649544  1
+  O  O11  1  0.029310  0.798934  0.350456  1
+  O  O12  1  0.116386  0.390488  0.655718  1
+  O  O13  1  0.631423  0.337953  0.045862  1
+  O  O14  1  0.358975  0.667241  0.437469  1
+  O  O15  1  0.891647  0.614274  0.838110  1
+  O  O16  1  0.967389  0.201019  0.175632  1
+  O  O17  1  0.201019  0.967389  0.824368  1
+  O  O18  1  0.614274  0.891647  0.161890  1
+  O  O19  1  0.667241  0.358975  0.562531  1

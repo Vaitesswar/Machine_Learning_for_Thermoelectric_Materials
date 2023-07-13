@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_TaTe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.85799984
+_cell_length_b   7.85799984
+_cell_length_c   9.66651914
+_cell_angle_alpha   67.90179955
+_cell_angle_beta   112.09820045
+_cell_angle_gamma   153.01041545
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaTe2
+_chemical_formula_sum   'Ta3 Te6'
+_cell_volume   249.79217674
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.000000  0.000000  0.000000  1
+  Ta  Ta1  1  0.362021  0.637979  0.712765  1
+  Ta  Ta2  1  0.637979  0.362021  0.287235  1
+  Te  Te3  1  0.354280  0.645720  0.985876  1
+  Te  Te4  1  0.645720  0.354280  0.014124  1
+  Te  Te5  1  0.707110  0.292890  0.616132  1
+  Te  Te6  1  0.292890  0.707110  0.383868  1
+  Te  Te7  1  0.007922  0.992078  0.305759  1
+  Te  Te8  1  0.992078  0.007922  0.694241  1

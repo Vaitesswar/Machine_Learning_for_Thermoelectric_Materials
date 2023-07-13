@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Ca2FeWO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63073919
+_cell_length_b   5.63073919
+_cell_length_c   5.63073919
+_cell_angle_alpha   119.94201614
+_cell_angle_beta   118.16153260
+_cell_angle_gamma   91.65709404
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca2FeWO6
+_chemical_formula_sum   'Ca2 Fe1 W1 O6'
+_cell_volume   127.94946989
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.208150  0.749603  0.458547  1
+  Ca  Ca1  1  0.708944  0.250397  0.458547  1
+  Fe  Fe2  1  0.517547  0.500000  0.017547  1
+  W  W3  1  0.023500  1.000000  0.023500  1
+  O  O4  1  0.790727  0.753770  0.036957  1
+  O  O5  1  0.283187  0.246230  0.036957  1
+  O  O6  1  0.800329  0.747414  0.547742  1
+  O  O7  1  0.800329  0.252586  0.052915  1
+  O  O8  1  0.277644  0.769299  0.046943  1
+  O  O9  1  0.277644  0.230701  0.508346  1

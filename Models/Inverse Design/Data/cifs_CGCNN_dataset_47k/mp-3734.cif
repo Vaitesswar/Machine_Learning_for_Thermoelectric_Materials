@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_NdSi2Ni
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.47093022
+_cell_length_b   8.47093022
+_cell_length_c   4.06843960
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   151.67014081
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdSi2Ni
+_chemical_formula_sum   'Nd2 Si4 Ni2'
+_cell_volume   138.53812671
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.106568  0.893432  0.250000  1
+  Nd  Nd1  1  0.893432  0.106568  0.750000  1
+  Si  Si2  1  0.750006  0.249994  0.250000  1
+  Si  Si3  1  0.249994  0.750006  0.750000  1
+  Si  Si4  1  0.540547  0.459453  0.750000  1
+  Si  Si5  1  0.459453  0.540547  0.250000  1
+  Ni  Ni6  1  0.681203  0.318797  0.750000  1
+  Ni  Ni7  1  0.318797  0.681203  0.250000  1

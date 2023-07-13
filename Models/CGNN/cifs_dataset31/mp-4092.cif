@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_SrSeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.97487977
+_cell_length_b   7.48098038
+_cell_length_c   8.78246191
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   126.69163353
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrSeO4
+_chemical_formula_sum   'Sr4 Se4 O16'
+_cell_volume   367.46132624
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.815487  0.655891  0.718400  1
+  Sr  Sr1  1  0.184513  0.155891  0.781600  1
+  Sr  Sr2  1  0.184513  0.344109  0.281600  1
+  Sr  Sr3  1  0.815487  0.844109  0.218400  1
+  Se  Se4  1  0.306588  0.663751  0.693881  1
+  Se  Se5  1  0.693412  0.163751  0.806119  1
+  Se  Se6  1  0.693412  0.336249  0.306119  1
+  Se  Se7  1  0.306588  0.836249  0.193881  1
+  O  O8  1  0.586787  0.714214  0.875817  1
+  O  O9  1  0.413213  0.214214  0.624183  1
+  O  O10  1  0.413213  0.285786  0.124183  1
+  O  O11  1  0.586787  0.785786  0.375817  1
+  O  O12  1  0.331426  0.606328  0.521979  1
+  O  O13  1  0.668574  0.106328  0.978021  1
+  O  O14  1  0.668574  0.393672  0.478021  1
+  O  O15  1  0.331426  0.893672  0.021979  1
+  O  O16  1  0.187011  0.994853  0.247740  1
+  O  O17  1  0.812989  0.494853  0.252260  1
+  O  O18  1  0.812989  0.005147  0.752260  1
+  O  O19  1  0.187011  0.505147  0.747740  1
+  O  O20  1  0.114835  0.662922  0.113491  1
+  O  O21  1  0.885165  0.162922  0.386509  1
+  O  O22  1  0.885165  0.337078  0.886509  1
+  O  O23  1  0.114835  0.837078  0.613491  1

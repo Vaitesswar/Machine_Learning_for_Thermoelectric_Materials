@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_La2Te4Pb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.45073089
+_cell_length_b   8.45073089
+_cell_length_c   8.45073089
+_cell_angle_alpha   109.55082881
+_cell_angle_beta   109.55082881
+_cell_angle_gamma   109.31212134
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La2Te4Pb
+_chemical_formula_sum   'La4 Te8 Pb2'
+_cell_volume   464.57775960
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.503794  0.125000  0.878794  1
+  La  La1  1  0.246206  0.625000  0.121206  1
+  La  La2  1  0.375000  0.496206  0.621206  1
+  La  La3  1  0.875000  0.753794  0.378794  1
+  Te  Te4  1  0.620062  0.868033  0.096040  1
+  Te  Te5  1  0.618033  0.870062  0.596040  1
+  Te  Te6  1  0.978007  0.381967  0.252029  1
+  Te  Te7  1  0.274022  0.021993  0.403960  1
+  Te  Te8  1  0.131967  0.228007  0.752029  1
+  Te  Te9  1  0.771993  0.524022  0.903960  1
+  Te  Te10  1  0.475978  0.379938  0.247971  1
+  Te  Te11  1  0.129938  0.725978  0.747971  1
+  Pb  Pb12  1  1.000000  1.000000  0.000000  1
+  Pb  Pb13  1  0.750000  0.250000  0.500000  1

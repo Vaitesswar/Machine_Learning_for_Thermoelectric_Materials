@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_NdNiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.43176205
+_cell_length_b   5.49584938
+_cell_length_c   7.70942855
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdNiO3
+_chemical_formula_sum   'Nd4 Ni4 O12'
+_cell_volume   230.14298738
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.010955  0.952550  0.750000  1
+  Nd  Nd1  1  0.489045  0.452550  0.750000  1
+  Nd  Nd2  1  0.510955  0.547450  0.250000  1
+  Nd  Nd3  1  0.989045  0.047450  0.250000  1
+  Ni  Ni4  1  0.500000  0.000000  0.500000  1
+  Ni  Ni5  1  0.000000  0.500000  0.000000  1
+  Ni  Ni6  1  0.000000  0.500000  0.500000  1
+  Ni  Ni7  1  0.500000  0.000000  0.000000  1
+  O  O8  1  0.713785  0.287556  0.457001  1
+  O  O9  1  0.786215  0.787556  0.042999  1
+  O  O10  1  0.213785  0.212444  0.542999  1
+  O  O11  1  0.286215  0.712444  0.957001  1
+  O  O12  1  0.286215  0.712444  0.542999  1
+  O  O13  1  0.213785  0.212444  0.957001  1
+  O  O14  1  0.786215  0.787556  0.457001  1
+  O  O15  1  0.713785  0.287556  0.042999  1
+  O  O16  1  0.078979  0.485649  0.250000  1
+  O  O17  1  0.421021  0.985649  0.250000  1
+  O  O18  1  0.578979  0.014351  0.750000  1
+  O  O19  1  0.921021  0.514351  0.750000  1

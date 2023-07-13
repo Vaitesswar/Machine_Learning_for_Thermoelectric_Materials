@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Co2TeCl2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.05981268
+_cell_length_b   6.74321947
+_cell_length_c   8.52884286
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   105.27933069
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co2TeCl2O3
+_chemical_formula_sum   'Co4 Te2 Cl4 O6'
+_cell_volume   280.71315269
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.766802  0.250000  0.224906  1
+  Co  Co1  1  0.233198  0.750000  0.775094  1
+  Co  Co2  1  0.000000  0.500000  0.000000  1
+  Co  Co3  1  0.000000  0.000000  0.000000  1
+  Te  Te4  1  0.593183  0.750000  0.245904  1
+  Te  Te5  1  0.406817  0.250000  0.754096  1
+  Cl  Cl6  1  0.839248  0.250000  0.502981  1
+  Cl  Cl7  1  0.254386  0.250000  0.200156  1
+  Cl  Cl8  1  0.745614  0.750000  0.799844  1
+  Cl  Cl9  1  0.160752  0.750000  0.497019  1
+  O  O10  1  0.238796  0.037814  0.838627  1
+  O  O11  1  0.761204  0.537814  0.161373  1
+  O  O12  1  0.761204  0.962186  0.161373  1
+  O  O13  1  0.250984  0.750000  0.072363  1
+  O  O14  1  0.749016  0.250000  0.927637  1
+  O  O15  1  0.238796  0.462186  0.838627  1

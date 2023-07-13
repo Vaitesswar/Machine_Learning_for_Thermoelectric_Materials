@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Hg2As3Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.31419710
+_cell_length_b   6.31419710
+_cell_length_c   8.38777079
+_cell_angle_alpha   84.39328686
+_cell_angle_beta   95.60671314
+_cell_angle_gamma   82.27134329
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg2As3Br
+_chemical_formula_sum   'Hg4 As6 Br2'
+_cell_volume   327.70008331
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.407415  0.858323  0.340691  1
+  Hg  Hg1  1  0.858323  0.407415  0.159309  1
+  Hg  Hg2  1  0.141677  0.592585  0.840691  1
+  Hg  Hg3  1  0.592585  0.141677  0.659309  1
+  As  As4  1  0.188435  0.933347  0.982994  1
+  As  As5  1  0.933347  0.188435  0.517006  1
+  As  As6  1  0.811565  0.066653  0.017006  1
+  As  As7  1  0.796039  0.796039  0.250000  1
+  As  As8  1  0.203961  0.203961  0.750000  1
+  As  As9  1  0.066653  0.811565  0.482994  1
+  Br  Br10  1  0.364958  0.364958  0.250000  1
+  Br  Br11  1  0.635042  0.635042  0.750000  1

@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_BaLi4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.84385430
+_cell_length_b   10.84385430
+_cell_length_c   8.73791453
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaLi4
+_chemical_formula_sum   'Ba6 Li24'
+_cell_volume   889.82739420
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.471658  0.943315  0.250000  1
+  Ba  Ba1  1  0.056685  0.528342  0.250000  1
+  Ba  Ba2  1  0.471658  0.528342  0.250000  1
+  Ba  Ba3  1  0.528342  0.056685  0.750000  1
+  Ba  Ba4  1  0.943315  0.471658  0.750000  1
+  Ba  Ba5  1  0.528342  0.471658  0.750000  1
+  Li  Li6  1  0.000000  0.000000  0.500000  1
+  Li  Li7  1  0.000000  0.000000  0.000000  1
+  Li  Li8  1  0.333333  0.666667  0.915183  1
+  Li  Li9  1  0.666667  0.333333  0.084817  1
+  Li  Li10  1  0.666667  0.333333  0.415183  1
+  Li  Li11  1  0.333333  0.666667  0.584817  1
+  Li  Li12  1  0.099420  0.198841  0.250000  1
+  Li  Li13  1  0.801159  0.900580  0.250000  1
+  Li  Li14  1  0.099420  0.900580  0.250000  1
+  Li  Li15  1  0.900580  0.801159  0.750000  1
+  Li  Li16  1  0.198841  0.099420  0.750000  1
+  Li  Li17  1  0.900580  0.099420  0.750000  1
+  Li  Li18  1  0.163330  0.326661  0.933352  1
+  Li  Li19  1  0.673339  0.836670  0.933352  1
+  Li  Li20  1  0.163330  0.836670  0.933352  1
+  Li  Li21  1  0.836670  0.673339  0.066648  1
+  Li  Li22  1  0.326661  0.163330  0.066648  1
+  Li  Li23  1  0.836670  0.163330  0.066648  1
+  Li  Li24  1  0.836670  0.673339  0.433352  1
+  Li  Li25  1  0.326661  0.163330  0.433352  1
+  Li  Li26  1  0.836670  0.163330  0.433352  1
+  Li  Li27  1  0.163330  0.326661  0.566648  1
+  Li  Li28  1  0.673339  0.836670  0.566648  1
+  Li  Li29  1  0.163330  0.836670  0.566648  1

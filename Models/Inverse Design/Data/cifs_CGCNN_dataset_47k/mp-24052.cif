@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_CaMgNiH4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.72144082
+_cell_length_b   6.72144082
+_cell_length_c   6.72144082
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMgNiH4
+_chemical_formula_sum   'Ca4 Mg4 Ni4 H16'
+_cell_volume   303.65968523
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.673470  0.826530  0.173470  1
+  Ca  Ca1  1  0.826530  0.173470  0.673470  1
+  Ca  Ca2  1  0.173470  0.673470  0.826530  1
+  Ca  Ca3  1  0.326530  0.326530  0.326530  1
+  Mg  Mg4  1  0.337975  0.162025  0.837975  1
+  Mg  Mg5  1  0.162025  0.837975  0.337975  1
+  Mg  Mg6  1  0.837975  0.337975  0.162025  1
+  Mg  Mg7  1  0.662025  0.662025  0.662025  1
+  Ni  Ni8  1  0.952809  0.547191  0.452809  1
+  Ni  Ni9  1  0.547191  0.452809  0.952809  1
+  Ni  Ni10  1  0.452809  0.952809  0.547191  1
+  Ni  Ni11  1  0.047191  0.047191  0.047191  1
+  H  H12  1  0.449868  0.436032  0.737921  1
+  H  H13  1  0.949868  0.063968  0.262079  1
+  H  H14  1  0.550132  0.936032  0.762079  1
+  H  H15  1  0.063968  0.262079  0.949868  1
+  H  H16  1  0.762079  0.550132  0.936032  1
+  H  H17  1  0.262079  0.949868  0.063968  1
+  H  H18  1  0.436032  0.737921  0.449868  1
+  H  H19  1  0.737921  0.449868  0.436032  1
+  H  H20  1  0.936032  0.762079  0.550132  1
+  H  H21  1  0.563968  0.237921  0.050132  1
+  H  H22  1  0.237921  0.050132  0.563968  1
+  H  H23  1  0.050132  0.563968  0.237921  1
+  H  H24  1  0.910304  0.910304  0.910304  1
+  H  H25  1  0.589696  0.089696  0.410304  1
+  H  H26  1  0.410304  0.589696  0.089696  1
+  H  H27  1  0.089696  0.410304  0.589696  1

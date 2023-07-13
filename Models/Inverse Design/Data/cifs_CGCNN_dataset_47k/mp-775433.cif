@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Li2Ni(PS3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98751271
+_cell_length_b   5.99243639
+_cell_length_c   7.29351829
+_cell_angle_alpha   82.47210427
+_cell_angle_beta   105.78090739
+_cell_angle_gamma   119.94497096
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2Ni(PS3)2
+_chemical_formula_sum   'Li2 Ni1 P2 S6'
+_cell_volume   218.20540846
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.668960  0.333170  0.996207  1
+  Li  Li1  1  0.574811  0.995904  0.488615  1
+  Ni  Ni2  1  0.341102  0.668415  0.996173  1
+  P  P3  1  0.064197  0.002093  0.162320  1
+  P  P4  1  0.962805  0.998695  0.849979  1
+  S  S5  1  0.116164  0.688111  0.236134  1
+  S  S6  1  0.257222  0.974379  0.781671  1
+  S  S7  1  0.593989  0.684797  0.771350  1
+  S  S8  1  0.401461  0.342548  0.233561  1
+  S  S9  1  0.954141  0.333751  0.772725  1
+  S  S10  1  0.731658  0.978138  0.211262  1

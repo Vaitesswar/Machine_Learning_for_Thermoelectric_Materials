@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_KLiNiO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81144137
+_cell_length_b   5.81144137
+_cell_length_c   8.22029128
+_cell_angle_alpha   62.47626388
+_cell_angle_beta   117.52373612
+_cell_angle_gamma   146.80782034
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLiNiO2
+_chemical_formula_sum   'K2 Li2 Ni2 O4'
+_cell_volume   133.14719887
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.838309  0.161691  0.374653  1
+  K  K1  1  0.161691  0.838309  0.625347  1
+  Li  Li2  1  0.341766  0.658234  0.052518  1
+  Li  Li3  1  0.658234  0.341766  0.947482  1
+  Ni  Ni4  1  0.945922  0.054078  0.815490  1
+  Ni  Ni5  1  0.054078  0.945922  0.184510  1
+  O  O6  1  0.824400  0.175600  0.917617  1
+  O  O7  1  0.536898  0.463102  0.297734  1
+  O  O8  1  0.463102  0.536898  0.702266  1
+  O  O9  1  0.175600  0.824400  0.082383  1

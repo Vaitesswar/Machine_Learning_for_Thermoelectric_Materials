@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_AgHg2AsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37460931
+_cell_length_b   8.97024286
+_cell_length_c   9.85700958
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AgHg2AsO4
+_chemical_formula_sum   'Ag4 Hg8 As4 O16'
+_cell_volume   563.64148779
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ag  Ag0  1  0.500000  0.029613  0.856294  1
+  Ag  Ag1  1  0.500000  0.470387  0.356294  1
+  Ag  Ag2  1  0.500000  0.529613  0.643706  1
+  Ag  Ag3  1  0.500000  0.970387  0.143706  1
+  Hg  Hg4  1  0.288533  0.741911  0.468000  1
+  Hg  Hg5  1  0.711467  0.258089  0.532000  1
+  Hg  Hg6  1  0.288533  0.241911  0.032000  1
+  Hg  Hg7  1  0.288533  0.258089  0.532000  1
+  Hg  Hg8  1  0.711467  0.241911  0.032000  1
+  Hg  Hg9  1  0.711467  0.758089  0.968000  1
+  Hg  Hg10  1  0.288533  0.758089  0.968000  1
+  Hg  Hg11  1  0.711467  0.741911  0.468000  1
+  As  As12  1  0.000000  0.962363  0.712399  1
+  As  As13  1  0.000000  0.462363  0.787601  1
+  As  As14  1  0.000000  0.037637  0.287601  1
+  As  As15  1  0.000000  0.537637  0.212400  1
+  O  O16  1  0.000000  0.675583  0.087301  1
+  O  O17  1  0.232089  0.440444  0.195998  1
+  O  O18  1  0.000000  0.883161  0.872526  1
+  O  O19  1  0.000000  0.383161  0.627474  1
+  O  O20  1  0.000000  0.324417  0.912699  1
+  O  O21  1  0.232089  0.559556  0.804002  1
+  O  O22  1  0.000000  0.116839  0.127474  1
+  O  O23  1  0.232089  0.940444  0.304002  1
+  O  O24  1  0.000000  0.616839  0.372526  1
+  O  O25  1  0.232089  0.059556  0.695998  1
+  O  O26  1  0.767911  0.059556  0.695998  1
+  O  O27  1  0.000000  0.175583  0.412699  1
+  O  O28  1  0.767911  0.440444  0.195998  1
+  O  O29  1  0.000000  0.824417  0.587301  1
+  O  O30  1  0.767911  0.559556  0.804002  1
+  O  O31  1  0.767911  0.940444  0.304002  1

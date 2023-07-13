@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_LiTb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.02532223
+_cell_length_b   7.02532223
+_cell_length_c   5.54800145
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiTb3
+_chemical_formula_sum   'Li2 Tb6'
+_cell_volume   237.13720417
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.666667  0.333333  0.250000  1
+  Li  Li1  1  0.333333  0.666667  0.750000  1
+  Tb  Tb2  1  0.831022  0.168978  0.750000  1
+  Tb  Tb3  1  0.337956  0.168978  0.750000  1
+  Tb  Tb4  1  0.831022  0.662044  0.750000  1
+  Tb  Tb5  1  0.168978  0.831022  0.250000  1
+  Tb  Tb6  1  0.662044  0.831022  0.250000  1
+  Tb  Tb7  1  0.168978  0.337956  0.250000  1

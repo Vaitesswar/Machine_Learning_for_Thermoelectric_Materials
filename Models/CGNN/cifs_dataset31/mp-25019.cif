@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_DyMnO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.33032246
+_cell_length_b   5.86787887
+_cell_length_c   7.49917448
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyMnO3
+_chemical_formula_sum   'Dy4 Mn4 O12'
+_cell_volume   234.55682864
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.019164  0.917853  0.750000  1
+  Dy  Dy1  1  0.519164  0.582147  0.250000  1
+  Dy  Dy2  1  0.480836  0.417853  0.750000  1
+  Dy  Dy3  1  0.980836  0.082147  0.250000  1
+  Mn  Mn4  1  0.500000  0.000000  0.500000  1
+  Mn  Mn5  1  0.000000  0.500000  0.500000  1
+  Mn  Mn6  1  0.000000  0.500000  0.000000  1
+  Mn  Mn7  1  0.500000  0.000000  0.000000  1
+  O  O8  1  0.701202  0.325213  0.443202  1
+  O  O9  1  0.201202  0.174787  0.556798  1
+  O  O10  1  0.798798  0.825213  0.056798  1
+  O  O11  1  0.298798  0.674787  0.943202  1
+  O  O12  1  0.298798  0.674787  0.556798  1
+  O  O13  1  0.798798  0.825213  0.443202  1
+  O  O14  1  0.201202  0.174787  0.943202  1
+  O  O15  1  0.701202  0.325213  0.056798  1
+  O  O16  1  0.119000  0.458114  0.250000  1
+  O  O17  1  0.619000  0.041886  0.750000  1
+  O  O18  1  0.381000  0.958114  0.250000  1
+  O  O19  1  0.881000  0.541886  0.750000  1

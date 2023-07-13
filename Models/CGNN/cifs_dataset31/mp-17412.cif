@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_BaPr2O4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.66544559
+_cell_length_b   10.79125633
+_cell_length_c   12.68673383
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaPr2O4
+_chemical_formula_sum   'Ba4 Pr8 O16'
+_cell_volume   501.82074894
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.750000  0.248750  0.646688  1
+  Ba  Ba1  1  0.250000  0.751250  0.353312  1
+  Ba  Ba2  1  0.750000  0.748750  0.853312  1
+  Ba  Ba3  1  0.250000  0.251250  0.146688  1
+  Pr  Pr4  1  0.250000  0.919818  0.111297  1
+  Pr  Pr5  1  0.750000  0.080182  0.888703  1
+  Pr  Pr6  1  0.250000  0.419818  0.388703  1
+  Pr  Pr7  1  0.750000  0.580182  0.611297  1
+  Pr  Pr8  1  0.750000  0.575362  0.112852  1
+  Pr  Pr9  1  0.250000  0.424638  0.887148  1
+  Pr  Pr10  1  0.750000  0.075362  0.387148  1
+  Pr  Pr11  1  0.250000  0.924638  0.612852  1
+  O  O12  1  0.250000  0.928964  0.923309  1
+  O  O13  1  0.750000  0.071036  0.076691  1
+  O  O14  1  0.250000  0.428964  0.576691  1
+  O  O15  1  0.750000  0.571036  0.423309  1
+  O  O16  1  0.250000  0.014115  0.282849  1
+  O  O17  1  0.750000  0.985885  0.717151  1
+  O  O18  1  0.250000  0.514115  0.217151  1
+  O  O19  1  0.750000  0.485884  0.782849  1
+  O  O20  1  0.250000  0.623116  0.981362  1
+  O  O21  1  0.750000  0.376884  0.018638  1
+  O  O22  1  0.250000  0.123116  0.518638  1
+  O  O23  1  0.750000  0.876884  0.481362  1
+  O  O24  1  0.750000  0.788014  0.171518  1
+  O  O25  1  0.250000  0.211986  0.828482  1
+  O  O26  1  0.750000  0.288014  0.328482  1
+  O  O27  1  0.250000  0.711986  0.671518  1

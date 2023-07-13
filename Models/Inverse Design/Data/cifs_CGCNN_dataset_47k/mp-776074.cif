@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_CaGeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.01354411
+_cell_length_b   7.01354411
+_cell_length_c   10.99971602
+_cell_angle_alpha   71.99172481
+_cell_angle_beta   108.00827519
+_cell_angle_gamma   119.79651444
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaGeO3
+_chemical_formula_sum   'Ca6 Ge6 O18'
+_cell_volume   438.53839974
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  1.000000  0.500000  0.500000  1
+  Ca  Ca1  1  0.328735  0.154709  0.499365  1
+  Ca  Ca2  1  0.154709  0.328735  0.000635  1
+  Ca  Ca3  1  0.845291  0.671265  0.999365  1
+  Ca  Ca4  1  0.671265  0.845291  0.500635  1
+  Ca  Ca5  1  0.500000  1.000000  0.000000  1
+  Ge  Ge6  1  0.580886  0.312874  0.245135  1
+  Ge  Ge7  1  0.852204  0.852204  0.250000  1
+  Ge  Ge8  1  0.687126  0.419114  0.745135  1
+  Ge  Ge9  1  0.312874  0.580886  0.254865  1
+  Ge  Ge10  1  0.147796  0.147796  0.750000  1
+  Ge  Ge11  1  0.419114  0.687126  0.754865  1
+  O  O12  1  0.631658  0.167981  0.399860  1
+  O  O13  1  0.529197  0.278864  0.086552  1
+  O  O14  1  0.827675  0.581929  0.248074  1
+  O  O15  1  0.832019  0.368342  0.899860  1
+  O  O16  1  0.721136  0.470803  0.586552  1
+  O  O17  1  0.997161  0.890470  0.405432  1
+  O  O18  1  0.335637  0.335637  0.250000  1
+  O  O19  1  0.890470  0.997161  0.094568  1
+  O  O20  1  0.418071  0.172325  0.748074  1
+  O  O21  1  0.581929  0.827675  0.251926  1
+  O  O22  1  0.109530  0.002839  0.905432  1
+  O  O23  1  0.664363  0.664363  0.750000  1
+  O  O24  1  0.002839  0.109530  0.594568  1
+  O  O25  1  0.278864  0.529197  0.413448  1
+  O  O26  1  0.167981  0.631658  0.100140  1
+  O  O27  1  0.172325  0.418071  0.751926  1
+  O  O28  1  0.470803  0.721136  0.913448  1
+  O  O29  1  0.368342  0.832019  0.600140  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2PtO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55475870
+_cell_length_b   5.55475870
+_cell_length_c   5.46909933
+_cell_angle_alpha   79.20642439
+_cell_angle_beta   100.79357561
+_cell_angle_gamma   62.30523438
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2PtO3
+_chemical_formula_sum   'Na4 Pt2 O6'
+_cell_volume   139.28417771
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.914504  0.914504  0.250000  1
+  Na  Na1  1  0.240513  0.240513  0.250000  1
+  Na  Na2  1  0.085496  0.085496  0.750000  1
+  Na  Na3  1  0.759487  0.759487  0.750000  1
+  Pt  Pt4  1  0.584883  0.584883  0.250000  1
+  Pt  Pt5  1  0.415117  0.415117  0.750000  1
+  O  O6  1  0.628923  0.232781  0.502075  1
+  O  O7  1  0.371077  0.767219  0.497925  1
+  O  O8  1  0.232781  0.628923  0.997925  1
+  O  O9  1  0.000000  0.500000  0.500000  1
+  O  O10  1  0.767219  0.371077  0.002075  1
+  O  O11  1  0.500000  0.000000  0.000000  1

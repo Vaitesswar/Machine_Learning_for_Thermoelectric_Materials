@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na2GeS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.87339905
+_cell_length_b   15.61533938
+_cell_length_c   6.96167769
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   113.63600950
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2GeS3
+_chemical_formula_sum   'Na8 Ge4 S12'
+_cell_volume   584.92867994
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.983076  0.168293  0.451137  1
+  Na  Na1  1  0.016924  0.831707  0.548863  1
+  Na  Na2  1  0.483076  0.331707  0.451137  1
+  Na  Na3  1  0.516924  0.668293  0.548863  1
+  Na  Na4  1  0.835987  0.530407  0.215535  1
+  Na  Na5  1  0.664013  0.030407  0.784465  1
+  Na  Na6  1  0.164013  0.469593  0.784465  1
+  Na  Na7  1  0.335987  0.969593  0.215535  1
+  Ge  Ge8  1  0.150642  0.671546  0.950124  1
+  Ge  Ge9  1  0.349358  0.171546  0.049876  1
+  Ge  Ge10  1  0.849358  0.328454  0.049876  1
+  Ge  Ge11  1  0.650642  0.828454  0.950124  1
+  S  S12  1  0.551285  0.856279  0.616330  1
+  S  S13  1  0.051285  0.643721  0.616330  1
+  S  S14  1  0.948715  0.356279  0.383670  1
+  S  S15  1  0.448715  0.143721  0.383670  1
+  S  S16  1  0.830737  0.931193  0.174092  1
+  S  S17  1  0.669263  0.431193  0.825908  1
+  S  S18  1  0.169263  0.068807  0.825908  1
+  S  S19  1  0.330737  0.568807  0.174092  1
+  S  S20  1  0.804994  0.692906  0.020208  1
+  S  S21  1  0.695006  0.192906  0.979792  1
+  S  S22  1  0.195006  0.307094  0.979792  1
+  S  S23  1  0.304994  0.807094  0.020208  1

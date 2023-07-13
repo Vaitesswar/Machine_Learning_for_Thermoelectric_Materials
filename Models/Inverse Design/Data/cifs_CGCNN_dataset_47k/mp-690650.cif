@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_ZnH4(ClO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.43896939
+_cell_length_b   7.08844059
+_cell_length_c   8.66659770
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   132.08016361
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnH4(ClO3)2
+_chemical_formula_sum   'Zn2 H8 Cl4 O12'
+_cell_volume   293.59001229
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.000000  0.500000  0.500000  1
+  Zn  Zn1  1  0.000000  0.000000  0.000000  1
+  H  H2  1  0.201819  0.931972  0.804519  1
+  H  H3  1  0.201819  0.568028  0.304519  1
+  H  H4  1  0.798181  0.068028  0.195481  1
+  H  H5  1  0.798181  0.431972  0.695481  1
+  H  H6  1  0.755820  0.652434  0.643888  1
+  H  H7  1  0.755820  0.847566  0.143888  1
+  H  H8  1  0.244180  0.347566  0.356112  1
+  H  H9  1  0.244180  0.152434  0.856112  1
+  Cl  Cl10  1  0.354039  0.620179  0.080698  1
+  Cl  Cl11  1  0.354039  0.879821  0.580698  1
+  Cl  Cl12  1  0.645961  0.379821  0.919302  1
+  Cl  Cl13  1  0.645961  0.120179  0.419302  1
+  O  O14  1  0.216957  0.733465  0.152102  1
+  O  O15  1  0.216957  0.766535  0.652102  1
+  O  O16  1  0.783043  0.266535  0.847898  1
+  O  O17  1  0.783043  0.233465  0.347898  1
+  O  O18  1  0.680228  0.661591  0.224328  1
+  O  O19  1  0.680228  0.838409  0.724328  1
+  O  O20  1  0.319772  0.338409  0.775672  1
+  O  O21  1  0.319772  0.161591  0.275672  1
+  O  O22  1  0.809184  0.531213  0.619874  1
+  O  O23  1  0.809184  0.968787  0.119874  1
+  O  O24  1  0.190816  0.468787  0.380126  1
+  O  O25  1  0.190816  0.031213  0.880126  1

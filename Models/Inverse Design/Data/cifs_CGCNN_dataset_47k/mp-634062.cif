@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_RbCdH2I3O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55004282
+_cell_length_b   7.55004282
+_cell_length_c   8.98693993
+_cell_angle_alpha   89.63033741
+_cell_angle_beta   90.36966259
+_cell_angle_gamma   94.57011758
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCdH2I3O
+_chemical_formula_sum   'Rb2 Cd2 H4 I6 O2'
+_cell_volume   510.63539607
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.491865  0.287148  0.173987  1
+  Rb  Rb1  1  0.712852  0.508135  0.673987  1
+  Cd  Cd2  1  0.033505  0.034133  0.499950  1
+  Cd  Cd3  1  0.965867  0.966495  0.999950  1
+  H  H4  1  0.870345  0.512406  0.321975  1
+  H  H5  1  0.487594  0.129655  0.821975  1
+  H  H6  1  0.730622  0.652504  0.320807  1
+  H  H7  1  0.347496  0.269378  0.820807  1
+  I  I8  1  0.197190  0.378964  0.505445  1
+  I  I9  1  0.621036  0.802810  0.005445  1
+  I  I10  1  0.153753  0.832041  0.751320  1
+  I  I11  1  0.167959  0.846247  0.251320  1
+  I  I12  1  0.662050  0.009125  0.505752  1
+  I  I13  1  0.990875  0.337950  0.005752  1
+  O  O14  1  0.746029  0.529238  0.348264  1
+  O  O15  1  0.470762  0.253971  0.848264  1

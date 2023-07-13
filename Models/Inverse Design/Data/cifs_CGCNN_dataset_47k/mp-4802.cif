@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_La4Re6O19
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.92388566
+_cell_length_b   7.92388566
+_cell_length_c   7.92388566
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La4Re6O19
+_chemical_formula_sum   'La4 Re6 O19'
+_cell_volume   382.99465179
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.687023  0.000000  1.000000  1
+  La  La1  1  1.000000  1.000000  0.687023  1
+  La  La2  1  0.000000  0.687023  1.000000  1
+  La  La3  1  0.312977  0.312977  0.312977  1
+  Re  Re4  1  0.500000  0.632759  0.132759  1
+  Re  Re5  1  0.867241  0.500000  0.367241  1
+  Re  Re6  1  0.367241  0.867241  0.500000  1
+  Re  Re7  1  0.132759  0.500000  0.632759  1
+  Re  Re8  1  0.632759  0.132759  0.500000  1
+  Re  Re9  1  0.500000  0.367241  0.867241  1
+  O  O10  1  0.000000  0.000000  0.000000  1
+  O  O11  1  0.729305  0.356088  0.059790  1
+  O  O12  1  0.296297  0.669514  0.940210  1
+  O  O13  1  0.703703  0.643912  0.373217  1
+  O  O14  1  0.330486  0.626783  0.270695  1
+  O  O15  1  0.626783  0.270695  0.330486  1
+  O  O16  1  0.059790  0.729305  0.356088  1
+  O  O17  1  0.669514  0.940210  0.296297  1
+  O  O18  1  0.373217  0.703703  0.643912  1
+  O  O19  1  0.356088  0.059790  0.729305  1
+  O  O20  1  0.000000  0.321392  0.321392  1
+  O  O21  1  0.678608  0.678608  0.000000  1
+  O  O22  1  0.678608  1.000000  0.678608  1
+  O  O23  1  0.321392  0.321392  0.000000  1
+  O  O24  1  0.321392  1.000000  0.321392  1
+  O  O25  1  1.000000  0.678608  0.678608  1
+  O  O26  1  0.270695  0.330486  0.626783  1
+  O  O27  1  0.643912  0.373217  0.703703  1
+  O  O28  1  0.940210  0.296297  0.669514  1

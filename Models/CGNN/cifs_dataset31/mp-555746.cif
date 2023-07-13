@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_InAg3(PO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.23515816
+_cell_length_b   5.23515816
+_cell_length_c   7.45724301
+_cell_angle_alpha   86.46118558
+_cell_angle_beta   93.53881442
+_cell_angle_gamma   115.20427142
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   InAg3(PO4)2
+_chemical_formula_sum   'In1 Ag3 P2 O8'
+_cell_volume   184.42707537
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.000000  0.000000  0.000000  1
+  Ag  Ag1  1  0.668336  0.331664  0.679306  1
+  Ag  Ag2  1  0.331664  0.668336  0.320694  1
+  Ag  Ag3  1  1.000000  0.000000  0.500000  1
+  P  P4  1  0.338686  0.661314  0.790503  1
+  P  P5  1  0.661314  0.338686  0.209497  1
+  O  O6  1  0.755941  0.244059  0.392912  1
+  O  O7  1  0.237361  0.762639  0.949579  1
+  O  O8  1  0.779283  0.670264  0.203381  1
+  O  O9  1  0.670264  0.779283  0.796619  1
+  O  O10  1  0.762639  0.237361  0.050421  1
+  O  O11  1  0.329736  0.220717  0.203381  1
+  O  O12  1  0.220717  0.329736  0.796619  1
+  O  O13  1  0.244059  0.755941  0.607088  1

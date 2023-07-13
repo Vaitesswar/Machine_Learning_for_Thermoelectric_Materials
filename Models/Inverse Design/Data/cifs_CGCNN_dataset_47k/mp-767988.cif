@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_LiV(CO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.03348025
+_cell_length_b   8.03348025
+_cell_length_c   5.36848235
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiV(CO3)2
+_chemical_formula_sum   'Li3 V3 C6 O18'
+_cell_volume   300.04723046
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.337072  0.000000  1
+  Li  Li1  1  0.662928  0.662928  0.000000  1
+  Li  Li2  1  0.337072  0.000000  0.000000  1
+  V  V3  1  0.000000  0.670033  0.500000  1
+  V  V4  1  0.329967  0.329967  0.500000  1
+  V  V5  1  0.670033  0.000000  0.500000  1
+  C  C6  1  0.333333  0.666667  0.749176  1
+  C  C7  1  0.333333  0.666667  0.277452  1
+  C  C8  1  0.000000  0.000000  0.738673  1
+  C  C9  1  0.000000  0.000000  0.261327  1
+  C  C10  1  0.666667  0.333333  0.250824  1
+  C  C11  1  0.666667  0.333333  0.722548  1
+  O  O12  1  0.095326  0.906019  0.262357  1
+  O  O13  1  0.228724  0.745012  0.750648  1
+  O  O14  1  0.152814  0.577531  0.281538  1
+  O  O15  1  0.093981  0.189307  0.262357  1
+  O  O16  1  0.424717  0.847186  0.281538  1
+  O  O17  1  0.254988  0.483712  0.750648  1
+  O  O18  1  0.516288  0.771276  0.750648  1
+  O  O19  1  0.189307  0.093981  0.737643  1
+  O  O20  1  0.422469  0.575283  0.281538  1
+  O  O21  1  0.483712  0.254988  0.249352  1
+  O  O22  1  0.575283  0.422469  0.718462  1
+  O  O23  1  0.810693  0.904674  0.262357  1
+  O  O24  1  0.904674  0.810693  0.737643  1
+  O  O25  1  0.577531  0.152814  0.718462  1
+  O  O26  1  0.771276  0.516288  0.249352  1
+  O  O27  1  0.745012  0.228724  0.249352  1
+  O  O28  1  0.847186  0.424717  0.718462  1
+  O  O29  1  0.906019  0.095326  0.737643  1

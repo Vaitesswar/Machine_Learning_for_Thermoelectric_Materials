@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Na2ZnGeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42778373
+_cell_length_b   5.68000271
+_cell_length_c   9.02700065
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   127.08606745
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2ZnGeO4
+_chemical_formula_sum   'Na4 Zn2 Ge2 O8'
+_cell_volume   222.00910991
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.496463  0.178046  0.003425  1
+  Na  Na1  1  0.238760  0.675914  0.748162  1
+  Na  Na2  1  0.496463  0.821954  0.503425  1
+  Na  Na3  1  0.238760  0.324086  0.248162  1
+  Zn  Zn4  1  0.999472  0.812928  0.997959  1
+  Zn  Zn5  1  0.999472  0.187072  0.497959  1
+  Ge  Ge6  1  0.755737  0.314329  0.750619  1
+  Ge  Ge7  1  0.755737  0.685671  0.250619  1
+  O  O8  1  0.056638  0.705695  0.225268  1
+  O  O9  1  0.056638  0.294305  0.725268  1
+  O  O10  1  0.409198  0.204538  0.544552  1
+  O  O11  1  0.409198  0.795462  0.044552  1
+  O  O12  1  0.872856  0.152870  0.953717  1
+  O  O13  1  0.696876  0.382993  0.276298  1
+  O  O14  1  0.696876  0.617007  0.776298  1
+  O  O15  1  0.872856  0.847130  0.453717  1

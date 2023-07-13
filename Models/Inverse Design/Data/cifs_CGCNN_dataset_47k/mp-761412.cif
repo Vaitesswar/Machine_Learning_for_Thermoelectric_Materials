@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_BaMnO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75968742
+_cell_length_b   5.75968742
+_cell_length_c   14.31339465
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMnO3
+_chemical_formula_sum   'Ba6 Mn6 O18'
+_cell_volume   411.21704454
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.333333  0.666667  0.168268  1
+  Ba  Ba1  1  0.333333  0.666667  0.500000  1
+  Ba  Ba2  1  0.333333  0.666667  0.831732  1
+  Ba  Ba3  1  0.000000  0.000000  0.000000  1
+  Ba  Ba4  1  0.666667  0.333333  0.664493  1
+  Ba  Ba5  1  0.666667  0.333333  0.335507  1
+  Mn  Mn6  1  0.000000  0.000000  0.235110  1
+  Mn  Mn7  1  0.000000  0.000000  0.412398  1
+  Mn  Mn8  1  0.000000  0.000000  0.587602  1
+  Mn  Mn9  1  0.000000  0.000000  0.764890  1
+  Mn  Mn10  1  0.666667  0.333333  0.909195  1
+  Mn  Mn11  1  0.666667  0.333333  0.090805  1
+  O  O12  1  0.956763  0.478381  0.000000  1
+  O  O13  1  0.147610  0.852390  0.326486  1
+  O  O14  1  0.147610  0.852390  0.673514  1
+  O  O15  1  0.147610  0.295220  0.326486  1
+  O  O16  1  0.147610  0.295220  0.673514  1
+  O  O17  1  0.704780  0.852390  0.326486  1
+  O  O18  1  0.704780  0.852390  0.673514  1
+  O  O19  1  0.521619  0.478381  0.000000  1
+  O  O20  1  0.298055  0.149027  0.500000  1
+  O  O21  1  0.334797  0.167399  0.165088  1
+  O  O22  1  0.334797  0.167399  0.834912  1
+  O  O23  1  0.521619  0.043237  0.000000  1
+  O  O24  1  0.832601  0.665203  0.165088  1
+  O  O25  1  0.850973  0.701945  0.500000  1
+  O  O26  1  0.832601  0.665203  0.834912  1
+  O  O27  1  0.850973  0.149027  0.500000  1
+  O  O28  1  0.832601  0.167399  0.165088  1
+  O  O29  1  0.832601  0.167399  0.834912  1

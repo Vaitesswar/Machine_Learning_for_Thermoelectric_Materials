@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_CuPO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.70332771
+_cell_length_b   9.70332771
+_cell_length_c   9.70332771
+_cell_angle_alpha   114.89621607
+_cell_angle_beta   114.89621607
+_cell_angle_gamma   114.89621607
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuPO3
+_chemical_formula_sum   'Cu6 P6 O18'
+_cell_volume   516.11153217
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.053579  0.454147  0.648920  1
+  Cu  Cu1  1  0.545853  0.351080  0.946421  1
+  Cu  Cu2  1  0.351080  0.946421  0.545853  1
+  Cu  Cu3  1  0.648920  0.053579  0.454147  1
+  Cu  Cu4  1  0.454147  0.648920  0.053579  1
+  Cu  Cu5  1  0.946421  0.545853  0.351080  1
+  P  P6  1  0.061984  0.193656  0.831701  1
+  P  P7  1  0.168299  0.938016  0.806344  1
+  P  P8  1  0.806344  0.168299  0.938016  1
+  P  P9  1  0.193656  0.831701  0.061984  1
+  P  P10  1  0.831701  0.061984  0.193656  1
+  P  P11  1  0.938016  0.806344  0.168299  1
+  O  O12  1  0.005043  0.229425  0.968562  1
+  O  O13  1  0.112542  0.617919  0.896379  1
+  O  O14  1  0.031438  0.994957  0.770575  1
+  O  O15  1  0.304138  0.400019  0.995425  1
+  O  O16  1  0.004575  0.695862  0.599981  1
+  O  O17  1  0.382081  0.103621  0.887458  1
+  O  O18  1  0.103621  0.887458  0.382081  1
+  O  O19  1  0.770575  0.031438  0.994957  1
+  O  O20  1  0.599981  0.004575  0.695862  1
+  O  O21  1  0.400019  0.995425  0.304138  1
+  O  O22  1  0.229425  0.968562  0.005043  1
+  O  O23  1  0.896379  0.112542  0.617919  1
+  O  O24  1  0.617919  0.896379  0.112542  1
+  O  O25  1  0.995425  0.304138  0.400019  1
+  O  O26  1  0.695862  0.599981  0.004575  1
+  O  O27  1  0.968563  0.005043  0.229425  1
+  O  O28  1  0.887458  0.382081  0.103621  1
+  O  O29  1  0.994957  0.770575  0.031438  1

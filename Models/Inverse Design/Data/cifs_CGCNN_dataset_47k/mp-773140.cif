@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Co3NiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59458975
+_cell_length_b   5.59458975
+_cell_length_c   8.52457256
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co3NiO8
+_chemical_formula_sum   'Co6 Ni2 O16'
+_cell_volume   231.06796198
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.168112  0.831888  0.207691  1
+  Co  Co1  1  0.168112  0.336225  0.207691  1
+  Co  Co2  1  0.663775  0.831888  0.207691  1
+  Co  Co3  1  0.336225  0.168112  0.707691  1
+  Co  Co4  1  0.831888  0.663775  0.707691  1
+  Co  Co5  1  0.831888  0.168112  0.707691  1
+  Ni  Ni6  1  0.333333  0.666667  0.483405  1
+  Ni  Ni7  1  0.666667  0.333333  0.983405  1
+  O  O8  1  0.165664  0.834336  0.603974  1
+  O  O9  1  0.039964  0.519982  0.340783  1
+  O  O10  1  0.333333  0.666667  0.094188  1
+  O  O11  1  0.000000  0.000000  0.322519  1
+  O  O12  1  0.000000  0.000000  0.822519  1
+  O  O13  1  0.165664  0.331327  0.603974  1
+  O  O14  1  0.480018  0.960036  0.340783  1
+  O  O15  1  0.480018  0.519982  0.340783  1
+  O  O16  1  0.331327  0.165664  0.103974  1
+  O  O17  1  0.668673  0.834336  0.603974  1
+  O  O18  1  0.519982  0.480018  0.840783  1
+  O  O19  1  0.519982  0.039964  0.840783  1
+  O  O20  1  0.666667  0.333333  0.594188  1
+  O  O21  1  0.834336  0.668673  0.103974  1
+  O  O22  1  0.960036  0.480018  0.840783  1
+  O  O23  1  0.834336  0.165664  0.103974  1

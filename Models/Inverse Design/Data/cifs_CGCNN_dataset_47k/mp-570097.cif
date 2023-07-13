@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Sr(Li2P)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.23649436
+_cell_length_b   8.23649436
+_cell_length_c   8.23649436
+_cell_angle_alpha   30.22678415
+_cell_angle_beta   30.22678415
+_cell_angle_gamma   30.22678415
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(Li2P)2
+_chemical_formula_sum   'Sr1 Li4 P2'
+_cell_volume   125.47819360
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.000000  0.000000  0.000000  1
+  Li  Li1  1  0.570588  0.570588  0.570588  1
+  Li  Li2  1  0.862274  0.862274  0.862274  1
+  Li  Li3  1  0.429412  0.429412  0.429412  1
+  Li  Li4  1  0.137726  0.137726  0.137726  1
+  P  P5  1  0.246138  0.246138  0.246138  1
+  P  P6  1  0.753862  0.753862  0.753862  1

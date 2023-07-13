@@ -1,0 +1,33 @@
+# generated using pymatgen
+data_Ho2CdS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73828193
+_cell_length_b   6.73828193
+_cell_length_c   6.73828193
+_cell_angle_alpha   131.83619522
+_cell_angle_beta   131.83619522
+_cell_angle_gamma   70.48786208
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2CdS4
+_chemical_formula_sum   'Ho2 Cd1 S4'
+_cell_volume   166.41078779
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.000000  0.000000  0.000000  1
+  Ho  Ho1  1  0.750000  0.250000  0.500000  1
+  Cd  Cd2  1  0.250000  0.750000  0.500000  1
+  S  S3  1  0.506324  0.006324  0.500000  1
+  S  S4  1  0.993676  0.493676  0.500000  1
+  S  S5  1  0.246110  0.246110  0.000000  1
+  S  S6  1  0.753890  0.753890  0.000000  1

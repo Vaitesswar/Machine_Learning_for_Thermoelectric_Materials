@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_K2Al2O3F2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.04136530
+_cell_length_b   7.04136530
+_cell_length_c   6.18684070
+_cell_angle_alpha   88.97840342
+_cell_angle_beta   91.02159658
+_cell_angle_gamma   107.91398379
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Al2O3F2
+_chemical_formula_sum   'K4 Al4 O6 F4'
+_cell_volume   291.80633090
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.841764  0.158236  0.330182  1
+  K  K1  1  0.601557  0.398443  0.744142  1
+  K  K2  1  0.398443  0.601557  0.255858  1
+  K  K3  1  0.158236  0.841764  0.669818  1
+  Al  Al4  1  0.924316  0.673798  0.144793  1
+  Al  Al5  1  0.673798  0.924316  0.855207  1
+  Al  Al6  1  0.326202  0.075684  0.144793  1
+  Al  Al7  1  0.075684  0.326202  0.855207  1
+  O  O8  1  0.000000  0.500000  0.000000  1
+  O  O9  1  0.877905  0.122095  0.766833  1
+  O  O10  1  0.737853  0.737853  0.000000  1
+  O  O11  1  0.500000  0.000000  0.000000  1
+  O  O12  1  0.262147  0.262147  0.000000  1
+  O  O13  1  0.122095  0.877905  0.233167  1
+  F  F14  1  0.816491  0.553680  0.385981  1
+  F  F15  1  0.553680  0.816491  0.614019  1
+  F  F16  1  0.446320  0.183509  0.385981  1
+  F  F17  1  0.183509  0.446320  0.614019  1

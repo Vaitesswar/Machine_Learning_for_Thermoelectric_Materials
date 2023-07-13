@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Mg6Cu16Si7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.25237641
+_cell_length_b   8.25237641
+_cell_length_c   8.25237641
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg6Cu16Si7
+_chemical_formula_sum   'Mg6 Cu16 Si7'
+_cell_volume   397.39471638
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.702138  0.297862  0.297862  1
+  Mg  Mg1  1  0.297862  0.702138  0.297862  1
+  Mg  Mg2  1  0.702138  0.297862  0.702138  1
+  Mg  Mg3  1  0.702138  0.702138  0.297862  1
+  Mg  Mg4  1  0.297862  0.297862  0.702138  1
+  Mg  Mg5  1  0.297862  0.702138  0.702138  1
+  Cu  Cu6  1  0.880135  0.359594  0.880135  1
+  Cu  Cu7  1  0.119865  0.119865  0.119865  1
+  Cu  Cu8  1  0.119865  0.119865  0.640406  1
+  Cu  Cu9  1  0.640406  0.119865  0.119865  1
+  Cu  Cu10  1  0.880135  0.880135  0.359594  1
+  Cu  Cu11  1  0.359594  0.880135  0.880135  1
+  Cu  Cu12  1  0.880135  0.880135  0.880135  1
+  Cu  Cu13  1  0.119865  0.640406  0.119865  1
+  Cu  Cu14  1  0.667119  0.998643  0.667119  1
+  Cu  Cu15  1  0.332881  0.332881  0.332881  1
+  Cu  Cu16  1  0.332881  0.332881  0.001357  1
+  Cu  Cu17  1  0.001357  0.332881  0.332881  1
+  Cu  Cu18  1  0.667119  0.667119  0.998643  1
+  Cu  Cu19  1  0.998643  0.667119  0.667119  1
+  Cu  Cu20  1  0.667119  0.667119  0.667119  1
+  Cu  Cu21  1  0.332881  0.001357  0.332881  1
+  Si  Si22  1  0.000000  0.000000  0.000000  1
+  Si  Si23  1  1.000000  0.500000  0.500000  1
+  Si  Si24  1  0.000000  0.500000  1.000000  1
+  Si  Si25  1  0.500000  1.000000  0.500000  1
+  Si  Si26  1  0.500000  0.000000  0.000000  1
+  Si  Si27  1  0.500000  0.500000  1.000000  1
+  Si  Si28  1  1.000000  0.000000  0.500000  1

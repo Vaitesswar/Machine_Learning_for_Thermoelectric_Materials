@@ -1,0 +1,53 @@
+# generated using pymatgen
+data_MgZn2H12(BrO)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.49566816
+_cell_length_b   8.49566816
+_cell_length_c   8.49566816
+_cell_angle_alpha   121.58349886
+_cell_angle_beta   104.77856670
+_cell_angle_gamma   102.77807593
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgZn2H12(BrO)6
+_chemical_formula_sum   'Mg1 Zn2 H12 Br6 O6'
+_cell_volume   455.82997757
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.000000  0.000000  0.000000  1
+  Zn  Zn1  1  0.342395  0.842395  0.500000  1
+  Zn  Zn2  1  0.657605  0.157605  0.500000  1
+  H  H3  1  0.101989  0.163246  0.412375  1
+  H  H4  1  0.249129  0.836754  0.938742  1
+  H  H5  1  0.750871  0.689613  0.587625  1
+  H  H6  1  0.898011  0.310387  0.061258  1
+  H  H7  1  0.898011  0.836754  0.587625  1
+  H  H8  1  0.750871  0.163246  0.061258  1
+  H  H9  1  0.249129  0.310387  0.412375  1
+  H  H10  1  0.101989  0.689613  0.938742  1
+  H  H11  1  0.826161  0.749622  0.076539  1
+  H  H12  1  0.326916  0.250378  0.076539  1
+  H  H13  1  0.673084  0.749622  0.923461  1
+  H  H14  1  0.173839  0.250378  0.923461  1
+  Br  Br15  1  0.500000  0.223274  0.723274  1
+  Br  Br16  1  0.500000  0.776726  0.276726  1
+  Br  Br17  1  0.021083  0.712529  0.308555  1
+  Br  Br18  1  0.596026  0.287471  0.308555  1
+  Br  Br19  1  0.403974  0.712529  0.691445  1
+  Br  Br20  1  0.978917  0.287471  0.691445  1
+  O  O21  1  0.146590  0.175941  0.322531  1
+  O  O22  1  0.146590  0.824059  0.970649  1
+  O  O23  1  0.853410  0.824059  0.677469  1
+  O  O24  1  0.853410  0.175941  0.029351  1
+  O  O25  1  0.803923  0.803923  0.000000  1
+  O  O26  1  0.196077  0.196077  0.000000  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiSn4Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45002922
+_cell_length_b   7.45002922
+_cell_length_c   7.45002922
+_cell_angle_alpha   126.71004164
+_cell_angle_beta   126.71004164
+_cell_angle_gamma   78.72423689
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiSn4Ir
+_chemical_formula_sum   'Li2 Sn8 Ir2'
+_cell_volume   257.18672775
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.500000  0.500000  0.000000  1
+  Li  Li1  1  0.000000  0.000000  0.000000  1
+  Sn  Sn2  1  0.706291  0.523423  0.500000  1
+  Sn  Sn3  1  0.523423  0.023423  0.817131  1
+  Sn  Sn4  1  0.206291  0.706291  0.182869  1
+  Sn  Sn5  1  0.793709  0.293709  0.817131  1
+  Sn  Sn6  1  0.476577  0.976577  0.182869  1
+  Sn  Sn7  1  0.293709  0.476577  0.500000  1
+  Sn  Sn8  1  0.976577  0.793709  0.500000  1
+  Sn  Sn9  1  0.023423  0.206291  0.500000  1
+  Ir  Ir10  1  0.750000  0.750000  0.000000  1
+  Ir  Ir11  1  0.250000  0.250000  0.000000  1

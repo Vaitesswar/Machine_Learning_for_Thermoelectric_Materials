@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiCaGe2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.94106457
+_cell_length_b   8.07855097
+_cell_length_c   10.75581190
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCaGe2
+_chemical_formula_sum   'Li4 Ca4 Ge8'
+_cell_volume   342.44451810
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.250000  0.492208  0.110853  1
+  Li  Li1  1  0.250000  0.992208  0.389147  1
+  Li  Li2  1  0.750000  0.507792  0.889147  1
+  Li  Li3  1  0.750000  0.007792  0.610853  1
+  Ca  Ca4  1  0.750000  0.367554  0.363947  1
+  Ca  Ca5  1  0.250000  0.132446  0.863947  1
+  Ca  Ca6  1  0.250000  0.632446  0.636053  1
+  Ca  Ca7  1  0.750000  0.867554  0.136053  1
+  Ge  Ge8  1  0.250000  0.727472  0.937730  1
+  Ge  Ge9  1  0.250000  0.659672  0.320742  1
+  Ge  Ge10  1  0.750000  0.840328  0.820742  1
+  Ge  Ge11  1  0.250000  0.159672  0.179258  1
+  Ge  Ge12  1  0.750000  0.272528  0.062270  1
+  Ge  Ge13  1  0.250000  0.227472  0.562270  1
+  Ge  Ge14  1  0.750000  0.772528  0.437730  1
+  Ge  Ge15  1  0.750000  0.340328  0.679258  1

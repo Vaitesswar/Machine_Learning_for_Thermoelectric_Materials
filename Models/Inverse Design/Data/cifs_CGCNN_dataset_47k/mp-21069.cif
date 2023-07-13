@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_YSiRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.31497242
+_cell_length_b   7.01027578
+_cell_length_c   7.18880567
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YSiRu
+_chemical_formula_sum   'Y4 Si4 Ru4'
+_cell_volume   217.45523693
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.750000  0.510205  0.186728  1
+  Y  Y1  1  0.250000  0.989795  0.686728  1
+  Y  Y2  1  0.750000  0.010205  0.313272  1
+  Y  Y3  1  0.250000  0.489795  0.813272  1
+  Si  Si4  1  0.250000  0.803754  0.105749  1
+  Si  Si5  1  0.250000  0.303754  0.394251  1
+  Si  Si6  1  0.750000  0.196246  0.894251  1
+  Si  Si7  1  0.750000  0.696246  0.605749  1
+  Ru  Ru8  1  0.250000  0.153411  0.066551  1
+  Ru  Ru9  1  0.250000  0.653411  0.433449  1
+  Ru  Ru10  1  0.750000  0.346589  0.566551  1
+  Ru  Ru11  1  0.750000  0.846589  0.933449  1

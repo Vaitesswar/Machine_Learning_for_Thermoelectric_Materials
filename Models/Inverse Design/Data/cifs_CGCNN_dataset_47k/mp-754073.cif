@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Lu2TiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73783395
+_cell_length_b   5.73783395
+_cell_length_c   10.36085528
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   138.81765182
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Lu2TiO5
+_chemical_formula_sum   'Lu4 Ti2 O10'
+_cell_volume   224.60498381
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.142541  0.857459  0.431723  1
+  Lu  Lu1  1  0.142541  0.857459  0.068277  1
+  Lu  Lu2  1  0.857459  0.142541  0.568277  1
+  Lu  Lu3  1  0.857459  0.142541  0.931723  1
+  Ti  Ti4  1  0.175551  0.824449  0.750000  1
+  Ti  Ti5  1  0.824449  0.175551  0.250000  1
+  O  O6  1  0.051173  0.948827  0.877055  1
+  O  O7  1  0.051173  0.948827  0.622945  1
+  O  O8  1  0.705530  0.294470  0.412102  1
+  O  O9  1  0.705530  0.294470  0.087898  1
+  O  O10  1  0.267760  0.732240  0.250000  1
+  O  O11  1  0.732240  0.267760  0.750000  1
+  O  O12  1  0.294470  0.705530  0.587898  1
+  O  O13  1  0.294470  0.705530  0.912102  1
+  O  O14  1  0.948827  0.051173  0.122945  1
+  O  O15  1  0.948827  0.051173  0.377055  1

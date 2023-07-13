@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr(AlSe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.37864359
+_cell_length_b   6.37864359
+_cell_length_c   11.14119058
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   121.21620012
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr(AlSe2)2
+_chemical_formula_sum   'Sr2 Al4 Se8'
+_cell_volume   387.67249149
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.500000  0.500000  0.750000  1
+  Sr  Sr1  1  0.500000  0.500000  0.250000  1
+  Al  Al2  1  0.239473  0.758186  0.000000  1
+  Al  Al3  1  0.760527  0.241814  1.000000  1
+  Al  Al4  1  0.758186  0.239473  0.500000  1
+  Al  Al5  1  0.241814  0.760527  0.500000  1
+  Se  Se6  1  0.500000  0.000000  0.666168  1
+  Se  Se7  1  0.500000  0.000000  0.333832  1
+  Se  Se8  1  0.000000  0.500000  0.166168  1
+  Se  Se9  1  0.181004  0.350061  0.500000  1
+  Se  Se10  1  0.818996  0.649939  0.500000  1
+  Se  Se11  1  0.350061  0.181004  0.000000  1
+  Se  Se12  1  0.649939  0.818996  0.000000  1
+  Se  Se13  1  0.000000  0.500000  0.833832  1

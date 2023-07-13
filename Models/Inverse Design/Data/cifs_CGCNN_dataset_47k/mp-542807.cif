@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Cu2Te2Br2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.98172082
+_cell_length_b   7.98172082
+_cell_length_c   6.42249990
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu2Te2Br2O5
+_chemical_formula_sum   'Cu4 Te4 Br4 O10'
+_cell_volume   409.16377103
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.724234  0.534501  0.153065  1
+  Cu  Cu1  1  0.465499  0.724234  0.846935  1
+  Cu  Cu2  1  0.534501  0.275766  0.846935  1
+  Cu  Cu3  1  0.275766  0.465499  0.153065  1
+  Te  Te4  1  0.636208  0.180584  0.365622  1
+  Te  Te5  1  0.819416  0.636208  0.634378  1
+  Te  Te6  1  0.180584  0.363792  0.634378  1
+  Te  Te7  1  0.363792  0.819416  0.365622  1
+  Br  Br8  1  0.915323  0.765315  0.186825  1
+  Br  Br9  1  0.234685  0.915323  0.813175  1
+  Br  Br10  1  0.765315  0.084677  0.813175  1
+  Br  Br11  1  0.084677  0.234685  0.186825  1
+  O  O12  1  0.570146  0.331016  0.141724  1
+  O  O13  1  0.668984  0.570146  0.858276  1
+  O  O14  1  0.331016  0.429854  0.858276  1
+  O  O15  1  0.429854  0.668984  0.141724  1
+  O  O16  1  0.464425  0.241664  0.559023  1
+  O  O17  1  0.758336  0.464425  0.440977  1
+  O  O18  1  0.241664  0.535575  0.440977  1
+  O  O19  1  0.535575  0.758336  0.559023  1
+  O  O20  1  0.500000  0.000000  0.241263  1
+  O  O21  1  0.000000  0.500000  0.758737  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_KBaVO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.02528622
+_cell_length_b   7.88736386
+_cell_length_c   10.57497936
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KBaVO4
+_chemical_formula_sum   'K4 Ba4 V4 O16'
+_cell_volume   502.56135114
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.250000  0.336384  0.073411  1
+  K  K1  1  0.750000  0.663616  0.926589  1
+  K  K2  1  0.250000  0.836384  0.426589  1
+  K  K3  1  0.750000  0.163616  0.573411  1
+  Ba  Ba4  1  0.250000  0.002474  0.803761  1
+  Ba  Ba5  1  0.750000  0.997526  0.196239  1
+  Ba  Ba6  1  0.250000  0.502474  0.696239  1
+  Ba  Ba7  1  0.750000  0.497526  0.303761  1
+  V  V8  1  0.250000  0.772227  0.083296  1
+  V  V9  1  0.750000  0.227773  0.916704  1
+  V  V10  1  0.250000  0.272227  0.416704  1
+  V  V11  1  0.750000  0.727773  0.583296  1
+  O  O12  1  0.989245  0.292524  0.836989  1
+  O  O13  1  0.489245  0.707476  0.163011  1
+  O  O14  1  0.510755  0.792524  0.663011  1
+  O  O15  1  0.010755  0.207476  0.336989  1
+  O  O16  1  0.010755  0.707476  0.163011  1
+  O  O17  1  0.510755  0.292524  0.836989  1
+  O  O18  1  0.489245  0.207476  0.336989  1
+  O  O19  1  0.989245  0.792524  0.663011  1
+  O  O20  1  0.250000  0.688855  0.929584  1
+  O  O21  1  0.750000  0.311145  0.070416  1
+  O  O22  1  0.250000  0.188855  0.570416  1
+  O  O23  1  0.750000  0.811145  0.429584  1
+  O  O24  1  0.750000  0.508414  0.571722  1
+  O  O25  1  0.250000  0.491586  0.428278  1
+  O  O26  1  0.750000  0.008414  0.928278  1
+  O  O27  1  0.250000  0.991586  0.071722  1

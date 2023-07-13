@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Cu2OF2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22404300
+_cell_length_b   5.22404300
+_cell_length_c   13.95934771
+_cell_angle_alpha   88.36202846
+_cell_angle_beta   91.63797154
+_cell_angle_gamma   119.46315611
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu2OF2
+_chemical_formula_sum   'Cu12 O6 F12'
+_cell_volume   331.50897576
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.046061  0.061488  0.347558  1
+  Cu  Cu1  1  0.938512  0.953939  0.847558  1
+  Cu  Cu2  1  0.416865  0.689660  0.182537  1
+  Cu  Cu3  1  0.363856  0.667730  0.485212  1
+  Cu  Cu4  1  0.310340  0.583135  0.682537  1
+  Cu  Cu5  1  0.332270  0.636144  0.985212  1
+  Cu  Cu6  1  0.667730  0.363856  0.014788  1
+  Cu  Cu7  1  0.689660  0.416865  0.317463  1
+  Cu  Cu8  1  0.636144  0.332270  0.514788  1
+  Cu  Cu9  1  0.583135  0.310340  0.817463  1
+  Cu  Cu10  1  0.061488  0.046061  0.152442  1
+  Cu  Cu11  1  0.953939  0.938512  0.652442  1
+  O  O12  1  0.376682  0.392185  0.088209  1
+  O  O13  1  0.607815  0.623318  0.588209  1
+  O  O14  1  0.392185  0.376682  0.411791  1
+  O  O15  1  0.623318  0.607815  0.911791  1
+  O  O16  1  0.775437  0.775437  0.250000  1
+  O  O17  1  0.224563  0.224563  0.750000  1
+  F  F18  1  0.019445  0.371532  0.263210  1
+  F  F19  1  0.628468  0.980555  0.763210  1
+  F  F20  1  0.732037  0.059876  0.082045  1
+  F  F21  1  0.940124  0.267963  0.582045  1
+  F  F22  1  0.686940  0.095404  0.414024  1
+  F  F23  1  0.904596  0.313060  0.914024  1
+  F  F24  1  0.095404  0.686940  0.085976  1
+  F  F25  1  0.313060  0.904596  0.585976  1
+  F  F26  1  0.059876  0.732037  0.417955  1
+  F  F27  1  0.267963  0.940124  0.917955  1
+  F  F28  1  0.371532  0.019445  0.236790  1
+  F  F29  1  0.980555  0.628468  0.736790  1

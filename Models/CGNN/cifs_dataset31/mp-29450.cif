@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_CuSe3I
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.60054747
+_cell_length_b   9.60054747
+_cell_length_c   9.60054747
+_cell_angle_alpha   95.28363142
+_cell_angle_beta   95.28363142
+_cell_angle_gamma   95.28363142
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuSe3I
+_chemical_formula_sum   'Cu6 Se18 I6'
+_cell_volume   872.85906248
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.887286  0.390873  0.887286  1
+  Cu  Cu1  1  0.390873  0.887286  0.887286  1
+  Cu  Cu2  1  0.887286  0.887286  0.390873  1
+  Cu  Cu3  1  0.112714  0.112714  0.609127  1
+  Cu  Cu4  1  0.112714  0.609127  0.112714  1
+  Cu  Cu5  1  0.609127  0.112714  0.112714  1
+  Se  Se6  1  0.610869  0.875066  0.610869  1
+  Se  Se7  1  0.875066  0.610869  0.610869  1
+  Se  Se8  1  0.610869  0.610869  0.875066  1
+  Se  Se9  1  0.389131  0.389131  0.124934  1
+  Se  Se10  1  0.389131  0.124934  0.389131  1
+  Se  Se11  1  0.124934  0.389131  0.389131  1
+  Se  Se12  1  0.874181  0.137771  0.874181  1
+  Se  Se13  1  0.137771  0.874181  0.874181  1
+  Se  Se14  1  0.874181  0.874181  0.137771  1
+  Se  Se15  1  0.125819  0.125819  0.862229  1
+  Se  Se16  1  0.125819  0.862229  0.125819  1
+  Se  Se17  1  0.862229  0.125819  0.125819  1
+  Se  Se18  1  0.712699  0.453754  0.712699  1
+  Se  Se19  1  0.453754  0.712699  0.712699  1
+  Se  Se20  1  0.712699  0.712699  0.453754  1
+  Se  Se21  1  0.287301  0.287301  0.546246  1
+  Se  Se22  1  0.287301  0.546246  0.287301  1
+  Se  Se23  1  0.546246  0.287301  0.287301  1
+  I  I24  1  0.500000  0.147471  0.852529  1
+  I  I25  1  0.147471  0.852529  0.500000  1
+  I  I26  1  0.852529  0.500000  0.147471  1
+  I  I27  1  0.500000  0.852529  0.147471  1
+  I  I28  1  0.852529  0.147471  0.500000  1
+  I  I29  1  0.147471  0.500000  0.852529  1

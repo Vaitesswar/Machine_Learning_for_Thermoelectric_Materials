@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Cu3As
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.35458508
+_cell_length_b   8.35458508
+_cell_length_c   8.35458508
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu3As
+_chemical_formula_sum   'Cu24 As8'
+_cell_volume   448.90326811
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.694899  0.352150  0.784212  1
+  Cu  Cu1  1  0.147850  0.842749  0.432062  1
+  Cu  Cu2  1  0.715788  0.067938  0.910687  1
+  Cu  Cu3  1  0.805101  0.589313  0.657251  1
+  Cu  Cu4  1  0.589313  0.657251  0.805101  1
+  Cu  Cu5  1  0.657251  0.805101  0.589313  1
+  Cu  Cu6  1  0.194899  0.284212  0.852150  1
+  Cu  Cu7  1  0.932062  0.342749  0.647850  1
+  Cu  Cu8  1  0.305101  0.157251  0.089313  1
+  Cu  Cu9  1  0.842749  0.432062  0.147850  1
+  Cu  Cu10  1  0.784212  0.694899  0.352150  1
+  Cu  Cu11  1  0.352150  0.784212  0.694899  1
+  Cu  Cu12  1  0.910687  0.715788  0.067938  1
+  Cu  Cu13  1  0.067938  0.910687  0.715788  1
+  Cu  Cu14  1  0.432062  0.147850  0.842749  1
+  Cu  Cu15  1  0.215788  0.410687  0.567938  1
+  Cu  Cu16  1  0.647850  0.932062  0.342749  1
+  Cu  Cu17  1  0.284212  0.852150  0.194899  1
+  Cu  Cu18  1  0.410687  0.567938  0.215788  1
+  Cu  Cu19  1  0.342749  0.647850  0.932062  1
+  Cu  Cu20  1  0.852150  0.194899  0.284212  1
+  Cu  Cu21  1  0.089313  0.305101  0.157251  1
+  Cu  Cu22  1  0.157251  0.089313  0.305101  1
+  Cu  Cu23  1  0.567938  0.215788  0.410687  1
+  As  As24  1  0.437256  0.437256  0.437256  1
+  As  As25  1  0.562744  0.500000  0.000000  1
+  As  As26  1  0.500000  1.000000  0.562744  1
+  As  As27  1  1.000000  0.562744  0.500000  1
+  As  As28  1  0.500000  1.000000  0.062744  1
+  As  As29  1  1.000000  0.062744  0.500000  1
+  As  As30  1  0.062744  0.500000  0.000000  1
+  As  As31  1  0.937256  0.937256  0.937256  1

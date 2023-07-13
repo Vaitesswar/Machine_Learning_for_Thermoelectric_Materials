@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_ZnSiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.88675428
+_cell_length_b   6.88675428
+_cell_length_c   5.37290618
+_cell_angle_alpha   73.72493193
+_cell_angle_beta   106.27506807
+_cell_angle_gamma   93.43560196
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZnSiO3
+_chemical_formula_sum   'Zn4 Si4 O12'
+_cell_volume   234.76131277
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.116005  0.116005  0.250000  1
+  Zn  Zn1  1  0.768526  0.768526  0.250000  1
+  Zn  Zn2  1  0.231474  0.231474  0.750000  1
+  Zn  Zn3  1  0.883995  0.883995  0.750000  1
+  Si  Si4  1  0.384907  0.782517  0.767370  1
+  Si  Si5  1  0.615093  0.217483  0.232630  1
+  Si  Si6  1  0.217483  0.615093  0.267370  1
+  Si  Si7  1  0.782517  0.384907  0.732630  1
+  O  O8  1  0.328200  0.624392  0.029823  1
+  O  O9  1  0.375608  0.671800  0.529823  1
+  O  O10  1  0.624392  0.328200  0.470177  1
+  O  O11  1  0.855391  0.615719  0.625733  1
+  O  O12  1  0.384281  0.144609  0.125733  1
+  O  O13  1  0.965715  0.211569  0.858898  1
+  O  O14  1  0.788431  0.034285  0.358898  1
+  O  O15  1  0.671800  0.375608  0.970177  1
+  O  O16  1  0.144609  0.384281  0.374267  1
+  O  O17  1  0.615719  0.855391  0.874267  1
+  O  O18  1  0.034285  0.788431  0.141102  1
+  O  O19  1  0.211569  0.965715  0.641102  1

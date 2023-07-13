@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_K2S2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.16886292
+_cell_length_b   6.22908207
+_cell_length_c   7.73122492
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   101.56339755
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2S2O5
+_chemical_formula_sum   'K4 S4 O10'
+_cell_volume   338.23402866
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.355799  0.250000  0.325880  1
+  K  K1  1  0.644201  0.750000  0.674120  1
+  K  K2  1  0.784281  0.250000  0.070821  1
+  K  K3  1  0.215719  0.750000  0.929179  1
+  S  S4  1  0.972280  0.250000  0.680902  1
+  S  S5  1  0.027720  0.750000  0.319098  1
+  S  S6  1  0.304003  0.250000  0.760644  1
+  S  S7  1  0.695997  0.750000  0.239356  1
+  O  O8  1  0.359074  0.250000  0.956834  1
+  O  O9  1  0.640926  0.750000  0.043166  1
+  O  O10  1  0.632679  0.551940  0.318915  1
+  O  O11  1  0.367321  0.051940  0.681085  1
+  O  O12  1  0.367321  0.448060  0.681085  1
+  O  O13  1  0.632679  0.948060  0.318915  1
+  O  O14  1  0.072330  0.551407  0.223708  1
+  O  O15  1  0.927670  0.051407  0.776292  1
+  O  O16  1  0.072330  0.948593  0.223708  1
+  O  O17  1  0.927670  0.448593  0.776292  1

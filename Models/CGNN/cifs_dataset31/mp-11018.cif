@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_TlCd(NO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49494356
+_cell_length_b   5.49494356
+_cell_length_c   5.49494356
+_cell_angle_alpha   90.61279088
+_cell_angle_beta   90.61279088
+_cell_angle_gamma   90.61279088
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlCd(NO2)3
+_chemical_formula_sum   'Tl1 Cd1 N3 O6'
+_cell_volume   165.88787686
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.615446  0.615446  0.615446  1
+  Cd  Cd1  1  0.101694  0.101694  0.101694  1
+  N  N2  1  0.113372  0.557554  0.161412  1
+  N  N3  1  0.161412  0.113372  0.557554  1
+  N  N4  1  0.557554  0.161412  0.113372  1
+  O  O5  1  0.162866  0.311838  0.674034  1
+  O  O6  1  0.311838  0.674034  0.162866  1
+  O  O7  1  0.684256  0.150576  0.922285  1
+  O  O8  1  0.150576  0.922285  0.684256  1
+  O  O9  1  0.922285  0.684256  0.150576  1
+  O  O10  1  0.674034  0.162866  0.311838  1

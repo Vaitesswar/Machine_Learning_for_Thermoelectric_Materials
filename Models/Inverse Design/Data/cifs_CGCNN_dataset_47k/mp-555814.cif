@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sr2Cu2Te(BrO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.49412179
+_cell_length_b   5.25768003
+_cell_length_c   9.55689266
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   95.35120715
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Cu2Te(BrO3)2
+_chemical_formula_sum   'Sr4 Cu4 Te2 Br4 O12'
+_cell_volume   474.97281850
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.817948  0.102279  0.722618  1
+  Sr  Sr1  1  0.682052  0.602279  0.277382  1
+  Sr  Sr2  1  0.317948  0.397721  0.722618  1
+  Sr  Sr3  1  0.182052  0.897721  0.277382  1
+  Cu  Cu4  1  0.635299  0.517274  0.919088  1
+  Cu  Cu5  1  0.135299  0.982726  0.919088  1
+  Cu  Cu6  1  0.364701  0.482726  0.080912  1
+  Cu  Cu7  1  0.864701  0.017274  0.080912  1
+  Te  Te8  1  0.500000  0.000000  0.000000  1
+  Te  Te9  1  0.000000  0.500000  0.000000  1
+  Br  Br10  1  0.663553  0.611669  0.611318  1
+  Br  Br11  1  0.163553  0.888331  0.611318  1
+  Br  Br12  1  0.836447  0.111669  0.388682  1
+  Br  Br13  1  0.336447  0.388331  0.388682  1
+  O  O14  1  0.545719  0.297997  0.116501  1
+  O  O15  1  0.558342  0.187307  0.836149  1
+  O  O16  1  0.045719  0.202003  0.116501  1
+  O  O17  1  0.688104  0.831474  0.032977  1
+  O  O18  1  0.441658  0.812693  0.163851  1
+  O  O19  1  0.954281  0.797997  0.883499  1
+  O  O20  1  0.454281  0.702003  0.883499  1
+  O  O21  1  0.188104  0.668526  0.032977  1
+  O  O22  1  0.941658  0.687307  0.163851  1
+  O  O23  1  0.311896  0.168526  0.967023  1
+  O  O24  1  0.058342  0.312693  0.836149  1
+  O  O25  1  0.811896  0.331474  0.967023  1

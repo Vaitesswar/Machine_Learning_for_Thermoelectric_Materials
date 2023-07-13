@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaYCuTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.81701913
+_cell_length_b   7.81701913
+_cell_length_c   11.44982601
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   146.98226215
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaYCuTe3
+_chemical_formula_sum   'Ba2 Y2 Cu2 Te6'
+_cell_volume   381.23868885
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.750621  0.249379  0.250000  1
+  Ba  Ba1  1  0.249379  0.750621  0.750000  1
+  Y  Y2  1  0.000000  0.000000  0.500000  1
+  Y  Y3  1  0.000000  0.000000  0.000000  1
+  Cu  Cu4  1  0.532466  0.467534  0.750000  1
+  Cu  Cu5  1  0.467534  0.532466  0.250000  1
+  Te  Te6  1  0.636377  0.363623  0.938776  1
+  Te  Te7  1  0.070304  0.929696  0.250000  1
+  Te  Te8  1  0.363623  0.636377  0.438776  1
+  Te  Te9  1  0.363623  0.636377  0.061224  1
+  Te  Te10  1  0.636377  0.363623  0.561224  1
+  Te  Te11  1  0.929696  0.070304  0.750000  1

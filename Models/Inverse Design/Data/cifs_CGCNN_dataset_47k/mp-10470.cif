@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NbSiRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.77747066
+_cell_length_b   6.45341974
+_cell_length_c   7.36793911
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbSiRh
+_chemical_formula_sum   'Nb4 Si4 Rh4'
+_cell_volume   179.61269989
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.750000  0.974505  0.326574  1
+  Nb  Nb1  1  0.250000  0.525495  0.826574  1
+  Nb  Nb2  1  0.750000  0.474505  0.173426  1
+  Nb  Nb3  1  0.250000  0.025495  0.673426  1
+  Si  Si4  1  0.250000  0.768735  0.124589  1
+  Si  Si5  1  0.250000  0.268735  0.375411  1
+  Si  Si6  1  0.750000  0.231265  0.875411  1
+  Si  Si7  1  0.750000  0.731265  0.624589  1
+  Rh  Rh8  1  0.250000  0.145258  0.062547  1
+  Rh  Rh9  1  0.250000  0.645258  0.437453  1
+  Rh  Rh10  1  0.750000  0.354742  0.562547  1
+  Rh  Rh11  1  0.750000  0.854742  0.937453  1

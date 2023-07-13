@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_FeSO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.93481377
+_cell_length_b   7.93481377
+_cell_length_c   7.93481377
+_cell_angle_alpha   109.45582068
+_cell_angle_beta   109.45582068
+_cell_angle_gamma   109.45582068
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeSO3
+_chemical_formula_sum   'Fe6 S6 O18'
+_cell_volume   384.80056220
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.811810  0.132945  0.310904  1
+  Fe  Fe1  1  0.132945  0.310904  0.811810  1
+  Fe  Fe2  1  0.310904  0.811810  0.132945  1
+  Fe  Fe3  1  0.188190  0.867055  0.689096  1
+  Fe  Fe4  1  0.867055  0.689096  0.188190  1
+  Fe  Fe5  1  0.689096  0.188190  0.867055  1
+  S  S6  1  0.292007  0.146571  0.474684  1
+  S  S7  1  0.146571  0.474684  0.292007  1
+  S  S8  1  0.474684  0.292007  0.146571  1
+  S  S9  1  0.707993  0.853429  0.525316  1
+  S  S10  1  0.853429  0.525316  0.707993  1
+  S  S11  1  0.525316  0.707993  0.853429  1
+  O  O12  1  0.384710  0.084716  0.634962  1
+  O  O13  1  0.084716  0.634962  0.384710  1
+  O  O14  1  0.634962  0.384710  0.084716  1
+  O  O15  1  0.615290  0.915284  0.365038  1
+  O  O16  1  0.915284  0.365038  0.615290  1
+  O  O17  1  0.365038  0.615290  0.915284  1
+  O  O18  1  0.127653  0.185832  0.516003  1
+  O  O19  1  0.185832  0.516003  0.127653  1
+  O  O20  1  0.516003  0.127653  0.185832  1
+  O  O21  1  0.872347  0.814168  0.483997  1
+  O  O22  1  0.814168  0.483997  0.872347  1
+  O  O23  1  0.483997  0.872347  0.814168  1
+  O  O24  1  0.158510  0.937866  0.265627  1
+  O  O25  1  0.937866  0.265627  0.158510  1
+  O  O26  1  0.265627  0.158510  0.937866  1
+  O  O27  1  0.841490  0.062134  0.734373  1
+  O  O28  1  0.062134  0.734373  0.841490  1
+  O  O29  1  0.734373  0.841490  0.062134  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Na2MnCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.87850599
+_cell_length_b   6.96657846
+_cell_length_c   12.04935648
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2MnCl4
+_chemical_formula_sum   'Na4 Mn2 Cl8'
+_cell_volume   325.57260340
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.500000  0.083272  0.681269  1
+  Na  Na1  1  0.500000  0.916728  0.318731  1
+  Na  Na2  1  0.500000  0.416728  0.181269  1
+  Na  Na3  1  0.500000  0.583272  0.818731  1
+  Mn  Mn4  1  0.000000  0.500000  0.500000  1
+  Mn  Mn5  1  0.000000  0.000000  0.000000  1
+  Cl  Cl6  1  0.500000  0.737596  0.543956  1
+  Cl  Cl7  1  0.500000  0.262404  0.456044  1
+  Cl  Cl8  1  0.000000  0.122460  0.195042  1
+  Cl  Cl9  1  0.000000  0.877540  0.804958  1
+  Cl  Cl10  1  0.000000  0.622460  0.304958  1
+  Cl  Cl11  1  0.000000  0.377540  0.695042  1
+  Cl  Cl12  1  0.500000  0.237596  0.956044  1
+  Cl  Cl13  1  0.500000  0.762404  0.043956  1

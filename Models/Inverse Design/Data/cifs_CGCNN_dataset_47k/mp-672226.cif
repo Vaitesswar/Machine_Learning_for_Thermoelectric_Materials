@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaMnSi2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.41793683
+_cell_length_b   6.82999583
+_cell_length_c   13.23746579
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMnSi2
+_chemical_formula_sum   'Ba4 Mn4 Si8'
+_cell_volume   399.43378077
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.750000  0.266934  0.402322  1
+  Ba  Ba1  1  0.250000  0.233066  0.902322  1
+  Ba  Ba2  1  0.250000  0.733066  0.597678  1
+  Ba  Ba3  1  0.750000  0.766934  0.097678  1
+  Mn  Mn4  1  0.250000  0.278412  0.151342  1
+  Mn  Mn5  1  0.750000  0.721588  0.848658  1
+  Mn  Mn6  1  0.250000  0.778412  0.348658  1
+  Mn  Mn7  1  0.750000  0.221588  0.651342  1
+  Si  Si8  1  0.250000  0.527511  0.250983  1
+  Si  Si9  1  0.750000  0.274600  0.129486  1
+  Si  Si10  1  0.250000  0.725400  0.870514  1
+  Si  Si11  1  0.750000  0.972489  0.750983  1
+  Si  Si12  1  0.250000  0.225400  0.629486  1
+  Si  Si13  1  0.250000  0.027511  0.249017  1
+  Si  Si14  1  0.750000  0.472489  0.749017  1
+  Si  Si15  1  0.750000  0.774600  0.370514  1

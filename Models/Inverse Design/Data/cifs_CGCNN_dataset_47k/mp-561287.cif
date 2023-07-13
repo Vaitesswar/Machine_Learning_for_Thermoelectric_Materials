@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_SrMnV2(AgO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.75936602
+_cell_length_b   5.75936602
+_cell_length_c   13.93252046
+_cell_angle_alpha   89.30338006
+_cell_angle_beta   90.69661994
+_cell_angle_gamma   120.78624161
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrMnV2(AgO4)2
+_chemical_formula_sum   'Sr2 Mn2 V4 Ag4 O16'
+_cell_volume   396.98273665
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.917169  0.917169  0.750000  1
+  Sr  Sr1  1  0.082831  0.082831  0.250000  1
+  Mn  Mn2  1  1.000000  0.000000  0.500000  1
+  Mn  Mn3  1  0.000000  0.000000  0.000000  1
+  V  V4  1  0.634548  0.287540  0.869914  1
+  V  V5  1  0.287540  0.634548  0.630086  1
+  V  V6  1  0.365452  0.712460  0.130086  1
+  V  V7  1  0.712460  0.365452  0.369914  1
+  Ag  Ag8  1  0.611795  0.290055  0.595921  1
+  Ag  Ag9  1  0.290055  0.611795  0.904079  1
+  Ag  Ag10  1  0.388205  0.709945  0.404079  1
+  Ag  Ag11  1  0.709945  0.388205  0.095921  1
+  O  O12  1  0.579774  0.803142  0.558366  1
+  O  O13  1  0.803142  0.579774  0.941634  1
+  O  O14  1  0.420226  0.196858  0.441634  1
+  O  O15  1  0.196858  0.420226  0.058366  1
+  O  O16  1  0.724651  0.397668  0.753170  1
+  O  O17  1  0.397668  0.724651  0.746830  1
+  O  O18  1  0.275349  0.602332  0.246830  1
+  O  O19  1  0.602332  0.275349  0.253170  1
+  O  O20  1  0.749457  0.065960  0.900793  1
+  O  O21  1  0.065960  0.749457  0.599207  1
+  O  O22  1  0.250543  0.934040  0.099207  1
+  O  O23  1  0.934040  0.250543  0.400793  1
+  O  O24  1  0.280726  0.131443  0.881128  1
+  O  O25  1  0.131443  0.280726  0.618872  1
+  O  O26  1  0.719274  0.868557  0.118872  1
+  O  O27  1  0.868557  0.719274  0.381128  1

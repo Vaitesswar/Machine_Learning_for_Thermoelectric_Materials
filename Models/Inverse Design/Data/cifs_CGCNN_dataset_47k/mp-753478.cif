@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BiOF
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81773508
+_cell_length_b   5.77310194
+_cell_length_c   6.03810575
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   98.19814329
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BiOF
+_chemical_formula_sum   'Bi4 O4 F4'
+_cell_volume   200.72567646
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.289398  0.519443  0.699757  1
+  Bi  Bi1  1  0.789398  0.980557  0.699757  1
+  Bi  Bi2  1  0.210602  0.019443  0.300243  1
+  Bi  Bi3  1  0.710602  0.480557  0.300243  1
+  O  O4  1  0.010407  0.247491  0.530640  1
+  O  O5  1  0.510407  0.252509  0.530640  1
+  O  O6  1  0.489593  0.747491  0.469360  1
+  O  O7  1  0.989593  0.752509  0.469360  1
+  F  F8  1  0.135206  0.816124  0.939237  1
+  F  F9  1  0.635206  0.683876  0.939237  1
+  F  F10  1  0.364794  0.316124  0.060763  1
+  F  F11  1  0.864794  0.183876  0.060763  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeZnPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.34376405
+_cell_length_b   6.95261152
+_cell_length_c   8.12430705
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeZnPt
+_chemical_formula_sum   'Ce4 Zn4 Pt4'
+_cell_volume   245.35816735
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.750000  0.465344  0.806612  1
+  Ce  Ce1  1  0.250000  0.034656  0.306612  1
+  Ce  Ce2  1  0.750000  0.965344  0.693388  1
+  Ce  Ce3  1  0.250000  0.534656  0.193388  1
+  Zn  Zn4  1  0.250000  0.646158  0.565409  1
+  Zn  Zn5  1  0.250000  0.146158  0.934591  1
+  Zn  Zn6  1  0.750000  0.353842  0.434591  1
+  Zn  Zn7  1  0.750000  0.853842  0.065409  1
+  Pt  Pt8  1  0.250000  0.754676  0.886689  1
+  Pt  Pt9  1  0.250000  0.254676  0.613311  1
+  Pt  Pt10  1  0.750000  0.745324  0.386689  1
+  Pt  Pt11  1  0.750000  0.245324  0.113311  1

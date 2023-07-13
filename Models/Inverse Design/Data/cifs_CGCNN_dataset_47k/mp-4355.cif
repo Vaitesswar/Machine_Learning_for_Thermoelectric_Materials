@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_YTiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.34770626
+_cell_length_b   5.71762231
+_cell_length_c   7.70200937
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   YTiO3
+_chemical_formula_sum   'Y4 Ti4 O12'
+_cell_volume   235.49790640
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.022178  0.928484  0.750000  1
+  Y  Y1  1  0.522178  0.571516  0.250000  1
+  Y  Y2  1  0.477822  0.428484  0.750000  1
+  Y  Y3  1  0.977822  0.071516  0.250000  1
+  Ti  Ti4  1  0.000000  0.500000  0.500000  1
+  Ti  Ti5  1  0.500000  0.000000  0.500000  1
+  Ti  Ti6  1  0.500000  0.000000  0.000000  1
+  Ti  Ti7  1  0.000000  0.500000  0.000000  1
+  O  O8  1  0.690489  0.301852  0.442231  1
+  O  O9  1  0.190489  0.198148  0.557769  1
+  O  O10  1  0.809511  0.801852  0.057769  1
+  O  O11  1  0.309511  0.698148  0.942231  1
+  O  O12  1  0.309511  0.698148  0.557769  1
+  O  O13  1  0.809511  0.801852  0.442231  1
+  O  O14  1  0.190489  0.198148  0.942231  1
+  O  O15  1  0.690489  0.301852  0.057769  1
+  O  O16  1  0.120514  0.454654  0.250000  1
+  O  O17  1  0.620514  0.045346  0.750000  1
+  O  O18  1  0.379486  0.954654  0.250000  1
+  O  O19  1  0.879486  0.545346  0.750000  1

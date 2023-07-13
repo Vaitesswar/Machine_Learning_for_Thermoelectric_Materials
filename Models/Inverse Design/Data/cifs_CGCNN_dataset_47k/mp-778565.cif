@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li2AlFeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.03221002
+_cell_length_b   5.55062797
+_cell_length_c   6.27552205
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2AlFeO4
+_chemical_formula_sum   'Li4 Al2 Fe2 O8'
+_cell_volume   175.28741556
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.007017  0.166164  0.250217  1
+  Li  Li1  1  0.507017  0.833836  0.249783  1
+  Li  Li2  1  0.007017  0.166164  0.749783  1
+  Li  Li3  1  0.507017  0.833836  0.750217  1
+  Al  Al4  1  0.501030  0.332817  0.000000  1
+  Al  Al5  1  0.001030  0.667183  0.500000  1
+  Fe  Fe6  1  0.003822  0.665294  0.000000  1
+  Fe  Fe7  1  0.503822  0.334706  0.500000  1
+  O  O8  1  0.145621  0.346648  0.000000  1
+  O  O9  1  0.624738  0.635754  0.000000  1
+  O  O10  1  0.105373  0.818250  0.262028  1
+  O  O11  1  0.605373  0.181750  0.237972  1
+  O  O12  1  0.124738  0.364246  0.500000  1
+  O  O13  1  0.645621  0.653352  0.500000  1
+  O  O14  1  0.605373  0.181750  0.762028  1
+  O  O15  1  0.105373  0.818250  0.737972  1

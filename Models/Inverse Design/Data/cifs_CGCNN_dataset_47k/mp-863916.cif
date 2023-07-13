@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ta2Co4O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.20793073
+_cell_length_b   5.20793073
+_cell_length_c   14.31473640
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ta2Co4O9
+_chemical_formula_sum   'Ta4 Co8 O18'
+_cell_volume   336.23613458
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.000000  0.000000  0.643287  1
+  Ta  Ta1  1  0.000000  0.000000  0.856713  1
+  Ta  Ta2  1  0.000000  0.000000  0.143287  1
+  Ta  Ta3  1  0.000000  0.000000  0.356713  1
+  Co  Co4  1  0.333333  0.666667  0.514615  1
+  Co  Co5  1  0.333333  0.666667  0.808344  1
+  Co  Co6  1  0.333333  0.666667  0.308344  1
+  Co  Co7  1  0.333333  0.666667  0.014615  1
+  Co  Co8  1  0.666667  0.333333  0.691656  1
+  Co  Co9  1  0.666667  0.333333  0.191656  1
+  Co  Co10  1  0.666667  0.333333  0.485385  1
+  Co  Co11  1  0.666667  0.333333  0.985385  1
+  O  O12  1  0.000000  0.712293  0.250000  1
+  O  O13  1  0.021642  0.679997  0.915531  1
+  O  O14  1  0.320003  0.978358  0.415531  1
+  O  O15  1  0.000000  0.287707  0.750000  1
+  O  O16  1  0.021642  0.341645  0.415531  1
+  O  O17  1  0.320003  0.341645  0.915531  1
+  O  O18  1  0.287707  0.287707  0.250000  1
+  O  O19  1  0.341645  0.320003  0.584469  1
+  O  O20  1  0.658355  0.978358  0.915531  1
+  O  O21  1  0.287707  0.000000  0.750000  1
+  O  O22  1  0.341645  0.021642  0.084469  1
+  O  O23  1  0.658355  0.679997  0.415531  1
+  O  O24  1  0.712293  0.712293  0.750000  1
+  O  O25  1  0.679997  0.658355  0.084469  1
+  O  O26  1  0.978358  0.658355  0.584469  1
+  O  O27  1  0.679997  0.021642  0.584469  1
+  O  O28  1  0.712293  0.000000  0.250000  1
+  O  O29  1  0.978358  0.320003  0.084469  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ba2Na(CuO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.30711552
+_cell_length_b   8.45823401
+_cell_length_c   7.15746370
+_cell_angle_alpha   72.62923208
+_cell_angle_beta   60.15152862
+_cell_angle_gamma   47.21923930
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Na(CuO2)3
+_chemical_formula_sum   'Ba4 Na2 Cu6 O12'
+_cell_volume   357.99733948
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.250000  0.250000  0.250000  1
+  Ba  Ba1  1  0.750000  0.750000  0.750000  1
+  Ba  Ba2  1  0.768754  0.231246  0.768754  1
+  Ba  Ba3  1  0.231246  0.768754  0.231246  1
+  Na  Na4  1  0.330549  0.330549  0.669451  1
+  Na  Na5  1  0.669451  0.669451  0.330549  1
+  Cu  Cu6  1  0.300022  0.996827  0.699978  1
+  Cu  Cu7  1  0.003173  0.699978  0.996827  1
+  Cu  Cu8  1  0.996827  0.300022  0.003173  1
+  Cu  Cu9  1  0.699978  0.003173  0.300022  1
+  Cu  Cu10  1  0.690129  0.309871  0.309871  1
+  Cu  Cu11  1  0.309871  0.690129  0.690129  1
+  O  O12  1  0.683552  0.501834  0.092345  1
+  O  O13  1  0.722269  0.092345  0.501834  1
+  O  O14  1  0.092345  0.722269  0.683552  1
+  O  O15  1  0.501834  0.683552  0.722269  1
+  O  O16  1  0.316448  0.498166  0.907655  1
+  O  O17  1  0.277731  0.907655  0.498166  1
+  O  O18  1  0.305157  0.071602  0.928398  1
+  O  O19  1  0.498166  0.316448  0.277731  1
+  O  O20  1  0.071602  0.305157  0.694843  1
+  O  O21  1  0.928398  0.694843  0.305157  1
+  O  O22  1  0.694843  0.928398  0.071602  1
+  O  O23  1  0.907655  0.277731  0.316448  1

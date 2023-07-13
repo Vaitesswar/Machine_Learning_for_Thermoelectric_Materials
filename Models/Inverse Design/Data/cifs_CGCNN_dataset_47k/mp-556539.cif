@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_BaSb2Xe5F22
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.02185483
+_cell_length_b   9.46773721
+_cell_length_c   9.37958029
+_cell_angle_alpha   64.24406614
+_cell_angle_beta   58.30481769
+_cell_angle_gamma   57.45111617
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSb2Xe5F22
+_chemical_formula_sum   'Ba1 Sb2 Xe5 F22'
+_cell_volume   623.82924465
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.000000  0.000000  0.000000  1
+  Sb  Sb1  1  0.500000  1.000000  0.500000  1
+  Sb  Sb2  1  0.000000  0.500000  1.000000  1
+  Xe  Xe3  1  0.500000  0.000000  1.000000  1
+  Xe  Xe4  1  0.500000  0.500000  0.500000  1
+  Xe  Xe5  1  0.000000  1.000000  0.500000  1
+  Xe  Xe6  1  0.000000  0.500000  0.500000  1
+  Xe  Xe7  1  0.500000  0.500000  1.000000  1
+  F  F8  1  0.762455  0.586553  0.043596  1
+  F  F9  1  0.043596  0.607395  0.762455  1
+  F  F10  1  0.705171  0.952551  0.294829  1
+  F  F11  1  0.069983  0.930017  0.701972  1
+  F  F12  1  0.237545  0.413447  0.956404  1
+  F  F13  1  0.697826  0.059968  0.940032  1
+  F  F14  1  0.607395  0.043596  0.586553  1
+  F  F15  1  0.930017  0.069983  0.298028  1
+  F  F16  1  0.940032  0.302174  0.697826  1
+  F  F17  1  0.701972  0.298028  0.069983  1
+  F  F18  1  0.059968  0.697826  0.302174  1
+  F  F19  1  0.586553  0.762455  0.607395  1
+  F  F20  1  0.294829  0.047449  0.705171  1
+  F  F21  1  0.302174  0.940032  0.059968  1
+  F  F22  1  0.352607  0.647393  0.352607  1
+  F  F23  1  0.413447  0.237545  0.392605  1
+  F  F24  1  0.647393  0.352607  0.647393  1
+  F  F25  1  0.392605  0.956404  0.413447  1
+  F  F26  1  0.047449  0.294829  0.952551  1
+  F  F27  1  0.298028  0.701972  0.930017  1
+  F  F28  1  0.956404  0.392605  0.237545  1
+  F  F29  1  0.952551  0.705171  0.047449  1

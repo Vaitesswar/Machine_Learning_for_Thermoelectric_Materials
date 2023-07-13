@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_CoH12(BrO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.58466991
+_cell_length_b   6.58466991
+_cell_length_c   7.16769491
+_cell_angle_alpha   61.13359479
+_cell_angle_beta   118.86640521
+_cell_angle_gamma   113.40605394
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoH12(BrO3)2
+_chemical_formula_sum   'Co1 H12 Br2 O6'
+_cell_volume   232.81942107
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.000000  0.000000  0.000000  1
+  H  H1  1  0.804559  0.586906  0.265085  1
+  H  H2  1  0.586906  0.804559  0.734915  1
+  H  H3  1  0.195441  0.413094  0.734915  1
+  H  H4  1  0.413094  0.195441  0.265085  1
+  H  H5  1  0.690002  0.787547  0.212765  1
+  H  H6  1  0.787547  0.690002  0.787235  1
+  H  H7  1  0.309998  0.212453  0.787235  1
+  H  H8  1  0.212453  0.309998  0.212765  1
+  H  H9  1  0.269967  0.730033  0.823510  1
+  H  H10  1  0.730033  0.269967  0.176490  1
+  H  H11  1  0.192230  0.807770  0.555153  1
+  H  H12  1  0.807770  0.192230  0.444847  1
+  Br  Br13  1  0.284142  0.715858  0.156192  1
+  Br  Br14  1  0.715858  0.284142  0.843808  1
+  O  O15  1  0.840280  0.758615  0.240572  1
+  O  O16  1  0.758615  0.840280  0.759428  1
+  O  O17  1  0.159720  0.241385  0.759428  1
+  O  O18  1  0.241385  0.159720  0.240572  1
+  O  O19  1  0.289352  0.710648  0.704059  1
+  O  O20  1  0.710648  0.289352  0.295941  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NdH2ClO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.30131379
+_cell_length_b   3.89593148
+_cell_length_c   6.88595330
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   112.56324311
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NdH2ClO2
+_chemical_formula_sum   'Nd2 H4 Cl2 O4'
+_cell_volume   156.10721017
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nd  Nd0  1  0.691114  0.250000  0.367084  1
+  Nd  Nd1  1  0.308886  0.750000  0.632916  1
+  H  H2  1  0.307717  0.750000  0.195261  1
+  H  H3  1  0.692283  0.250000  0.804739  1
+  H  H4  1  0.883116  0.750000  0.716469  1
+  H  H5  1  0.116884  0.250000  0.283531  1
+  Cl  Cl6  1  0.750390  0.750000  0.055965  1
+  Cl  Cl7  1  0.249610  0.250000  0.944035  1
+  O  O8  1  0.100646  0.250000  0.418918  1
+  O  O9  1  0.899354  0.750000  0.581082  1
+  O  O10  1  0.571140  0.250000  0.663924  1
+  O  O11  1  0.428860  0.750000  0.336076  1

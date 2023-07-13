@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_Cu2SnTe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.55422378
+_cell_length_b   7.55422378
+_cell_length_c   7.55422378
+_cell_angle_alpha   146.05846603
+_cell_angle_beta   132.26132007
+_cell_angle_gamma   59.85958979
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu2SnTe3
+_chemical_formula_sum   'Cu2 Sn1 Te3'
+_cell_volume   176.50576007
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.590242  0.329693  0.260550  1
+  Cu  Cu1  1  0.930857  0.670307  0.260550  1
+  Sn  Sn2  1  0.233847  0.000000  0.233847  1
+  Te  Te3  1  0.161540  0.180290  0.981250  1
+  Te  Te4  1  0.800960  0.819710  0.981250  1
+  Te  Te5  1  0.540552  0.500000  0.040552  1

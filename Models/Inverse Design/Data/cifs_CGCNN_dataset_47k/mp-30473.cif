@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ca3Ga5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86476299
+_cell_length_b   5.86476299
+_cell_length_c   15.04904931
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   135.15867744
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca3Ga5
+_chemical_formula_sum   'Ca6 Ga10'
+_cell_volume   364.99667456
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.869680  0.130320  0.750000  1
+  Ca  Ca1  1  0.130320  0.869680  0.250000  1
+  Ca  Ca2  1  0.411860  0.588140  0.110008  1
+  Ca  Ca3  1  0.588140  0.411860  0.889992  1
+  Ca  Ca4  1  0.588140  0.411860  0.610008  1
+  Ca  Ca5  1  0.411860  0.588140  0.389992  1
+  Ga  Ga6  1  0.162029  0.837971  0.750000  1
+  Ga  Ga7  1  0.837971  0.162029  0.250000  1
+  Ga  Ga8  1  0.707799  0.292201  0.400336  1
+  Ga  Ga9  1  0.292201  0.707799  0.599664  1
+  Ga  Ga10  1  0.292201  0.707799  0.900336  1
+  Ga  Ga11  1  0.707799  0.292201  0.099664  1
+  Ga  Ga12  1  0.884916  0.115084  0.533997  1
+  Ga  Ga13  1  0.115084  0.884916  0.466003  1
+  Ga  Ga14  1  0.115084  0.884916  0.033997  1
+  Ga  Ga15  1  0.884916  0.115084  0.966003  1

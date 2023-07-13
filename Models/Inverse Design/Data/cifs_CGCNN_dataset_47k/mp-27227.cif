@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiAg3O2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.55206901
+_cell_length_b   6.55206901
+_cell_length_c   6.55206901
+_cell_angle_alpha   127.76602154
+_cell_angle_beta   124.77911560
+_cell_angle_gamma   79.46404147
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiAg3O2
+_chemical_formula_sum   'Li2 Ag6 O4'
+_cell_volume   176.52695919
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.500000  0.250000  0.750000  1
+  Li  Li1  1  0.500000  0.750000  0.250000  1
+  Ag  Ag2  1  0.500000  0.000000  0.000000  1
+  Ag  Ag3  1  0.000000  0.500000  0.000000  1
+  Ag  Ag4  1  0.500000  0.500000  0.500000  1
+  Ag  Ag5  1  0.000000  0.500000  0.500000  1
+  Ag  Ag6  1  0.000000  0.000000  0.000000  1
+  Ag  Ag7  1  0.000000  0.000000  0.500000  1
+  O  O8  1  0.585609  0.903766  0.681844  1
+  O  O9  1  0.221922  0.403766  0.818156  1
+  O  O10  1  0.414391  0.096234  0.318156  1
+  O  O11  1  0.778078  0.596234  0.181844  1

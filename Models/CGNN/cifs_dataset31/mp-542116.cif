@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CsAl(MoO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.65032345
+_cell_length_b   5.65032345
+_cell_length_c   8.26478598
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsAl(MoO4)2
+_chemical_formula_sum   'Cs1 Al1 Mo2 O8'
+_cell_volume   228.51192157
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.000000  0.000000  0.000000  1
+  Al  Al1  1  0.000000  0.000000  0.500000  1
+  Mo  Mo2  1  0.333333  0.666667  0.702209  1
+  Mo  Mo3  1  0.666667  0.333333  0.297791  1
+  O  O4  1  0.333333  0.666667  0.914345  1
+  O  O5  1  0.666667  0.333333  0.085655  1
+  O  O6  1  0.157503  0.315006  0.635837  1
+  O  O7  1  0.684994  0.842497  0.635837  1
+  O  O8  1  0.157503  0.842497  0.635837  1
+  O  O9  1  0.842497  0.684994  0.364163  1
+  O  O10  1  0.842497  0.157503  0.364163  1
+  O  O11  1  0.315006  0.157503  0.364163  1

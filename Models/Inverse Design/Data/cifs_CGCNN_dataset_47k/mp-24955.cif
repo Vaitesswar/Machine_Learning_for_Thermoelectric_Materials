@@ -1,0 +1,45 @@
+# generated using pymatgen
+data_Sr4Fe4O11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.80359704
+_cell_length_b   6.80359704
+_cell_length_c   5.54330234
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   109.83368481
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr4Fe4O11
+_chemical_formula_sum   'Sr4 Fe4 O11'
+_cell_volume   241.37279376
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.258431  0.741569  0.000000  1
+  Sr  Sr1  1  0.741569  0.258431  1.000000  1
+  Sr  Sr2  1  0.000000  0.000000  0.500000  1
+  Sr  Sr3  1  0.500000  0.500000  0.500000  1
+  Fe  Fe4  1  0.500000  0.000000  0.500000  1
+  Fe  Fe5  1  0.000000  0.500000  0.500000  1
+  Fe  Fe6  1  0.254398  0.254398  0.000000  1
+  Fe  Fe7  1  0.745602  0.745602  0.000000  1
+  O  O8  1  0.658587  0.901078  0.759903  1
+  O  O9  1  0.341413  0.098922  0.759903  1
+  O  O10  1  0.901078  0.658587  0.240097  1
+  O  O11  1  0.098922  0.341413  0.240097  1
+  O  O12  1  0.341413  0.098922  0.240097  1
+  O  O13  1  0.658587  0.901078  0.240097  1
+  O  O14  1  0.098922  0.341413  0.759903  1
+  O  O15  1  0.901078  0.658587  0.759903  1
+  O  O16  1  0.500000  0.500000  0.000000  1
+  O  O17  1  0.725923  0.274077  0.500000  1
+  O  O18  1  0.274077  0.725923  0.500000  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_RePbClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.68451456
+_cell_length_b   5.83482389
+_cell_length_c   9.60144949
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RePbClO4
+_chemical_formula_sum   'Re2 Pb2 Cl2 O8'
+_cell_volume   262.43946706
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.242538  0.000000  0.132439  1
+  Re  Re1  1  0.742538  0.500000  0.867561  1
+  Pb  Pb2  1  0.754173  0.500000  0.324069  1
+  Pb  Pb3  1  0.254173  0.000000  0.675931  1
+  Cl  Cl4  1  0.668426  0.000000  0.467156  1
+  Cl  Cl5  1  0.168426  0.500000  0.532844  1
+  O  O6  1  0.629585  0.250145  0.779603  1
+  O  O7  1  0.129585  0.750145  0.220397  1
+  O  O8  1  0.631739  0.500000  0.041699  1
+  O  O9  1  0.613264  0.000000  0.133412  1
+  O  O10  1  0.629585  0.749855  0.779603  1
+  O  O11  1  0.129585  0.249855  0.220397  1
+  O  O12  1  0.131739  0.000000  0.958301  1
+  O  O13  1  0.113264  0.500000  0.866588  1

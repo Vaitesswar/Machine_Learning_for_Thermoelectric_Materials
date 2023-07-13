@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_NaLiCO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.39745289
+_cell_length_b   8.39745289
+_cell_length_c   3.33979502
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLiCO3
+_chemical_formula_sum   'Na3 Li3 C3 O9'
+_cell_volume   203.96027868
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.320700  0.292128  0.500000  1
+  Na  Na1  1  0.707872  0.028572  0.500000  1
+  Na  Na2  1  0.971428  0.679300  0.500000  1
+  Li  Li3  1  0.342170  0.966924  0.000000  1
+  Li  Li4  1  0.624754  0.657830  0.000000  1
+  Li  Li5  1  0.033076  0.375246  0.000000  1
+  C  C6  1  0.000000  0.000000  0.000000  1
+  C  C7  1  0.666667  0.333333  0.000000  1
+  C  C8  1  0.333333  0.666667  0.500000  1
+  O  O9  1  0.488173  0.235487  0.000000  1
+  O  O10  1  0.764513  0.252686  0.000000  1
+  O  O11  1  0.747314  0.511827  0.000000  1
+  O  O12  1  0.821213  0.909855  0.000000  1
+  O  O13  1  0.090145  0.911358  0.000000  1
+  O  O14  1  0.462755  0.623613  0.500000  1
+  O  O15  1  0.160858  0.537245  0.500000  1
+  O  O16  1  0.376387  0.839142  0.500000  1
+  O  O17  1  0.088642  0.178787  0.000000  1

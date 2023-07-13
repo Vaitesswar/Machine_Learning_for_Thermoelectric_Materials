@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Li3Zn2SbO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30099009
+_cell_length_b   5.30099009
+_cell_length_c   5.27085183
+_cell_angle_alpha   79.97735662
+_cell_angle_beta   100.02264338
+_cell_angle_gamma   60.23470356
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Zn2SbO6
+_chemical_formula_sum   'Li3 Zn2 Sb1 O6'
+_cell_volume   120.59092565
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.170101  0.170101  0.500000  1
+  Li  Li1  1  0.829899  0.829899  0.500000  1
+  Li  Li2  1  0.500000  0.500000  0.500000  1
+  Zn  Zn3  1  0.333404  0.333404  0.000000  1
+  Zn  Zn4  1  0.666596  0.666596  0.000000  1
+  Sb  Sb5  1  0.000000  0.000000  0.000000  1
+  O  O6  1  0.392529  0.921292  0.235584  1
+  O  O7  1  0.235270  0.764730  0.771484  1
+  O  O8  1  0.607471  0.078708  0.764416  1
+  O  O9  1  0.078708  0.607471  0.235584  1
+  O  O10  1  0.764730  0.235270  0.228516  1
+  O  O11  1  0.921292  0.392529  0.764416  1

@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Fe(Se2O5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.08586884
+_cell_length_b   7.00232247
+_cell_length_c   10.54704671
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe(Se2O5)2
+_chemical_formula_sum   'Fe2 Se8 O20'
+_cell_volume   449.46467513
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.000000  0.500000  0.400284  1
+  Fe  Fe1  1  0.000000  0.000000  0.900284  1
+  Se  Se2  1  0.217812  0.149535  0.191872  1
+  Se  Se3  1  0.217812  0.350465  0.691872  1
+  Se  Se4  1  0.288553  0.645912  0.008850  1
+  Se  Se5  1  0.288553  0.854088  0.508850  1
+  Se  Se6  1  0.711447  0.145912  0.508850  1
+  Se  Se7  1  0.711447  0.354088  0.008850  1
+  Se  Se8  1  0.782188  0.649535  0.691872  1
+  Se  Se9  1  0.782188  0.850465  0.191872  1
+  O  O10  1  0.573279  0.258399  0.131598  1
+  O  O11  1  0.890938  0.819121  0.043374  1
+  O  O12  1  0.000000  0.000000  0.268259  1
+  O  O13  1  0.000000  0.500000  0.768259  1
+  O  O14  1  0.109062  0.180879  0.043374  1
+  O  O15  1  0.109062  0.319121  0.543374  1
+  O  O16  1  0.164173  0.140719  0.763018  1
+  O  O17  1  0.164173  0.359281  0.263018  1
+  O  O18  1  0.263771  0.675473  0.399961  1
+  O  O19  1  0.263771  0.824527  0.899961  1
+  O  O20  1  0.426721  0.741601  0.131598  1
+  O  O21  1  0.426721  0.758399  0.631598  1
+  O  O22  1  0.500000  0.500000  0.920258  1
+  O  O23  1  0.500000  0.000000  0.420258  1
+  O  O24  1  0.573279  0.241601  0.631598  1
+  O  O25  1  0.835827  0.640719  0.263018  1
+  O  O26  1  0.736229  0.324527  0.399961  1
+  O  O27  1  0.736229  0.175473  0.899961  1
+  O  O28  1  0.835827  0.859281  0.763018  1
+  O  O29  1  0.890938  0.680879  0.543374  1

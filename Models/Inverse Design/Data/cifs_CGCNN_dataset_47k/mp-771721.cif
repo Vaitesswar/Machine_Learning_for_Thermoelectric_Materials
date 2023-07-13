@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_V4FeNiO12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.84487006
+_cell_length_b   6.84487006
+_cell_length_c   5.89872840
+_cell_angle_alpha   74.48005977
+_cell_angle_beta   105.51994023
+_cell_angle_gamma   96.19822015
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   V4FeNiO12
+_chemical_formula_sum   'V4 Fe1 Ni1 O12'
+_cell_volume   256.38487789
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  V  V0  1  0.386376  0.793863  0.003314  1
+  V  V1  1  0.205971  0.610807  0.504133  1
+  V  V2  1  0.793863  0.386376  0.996686  1
+  V  V3  1  0.610807  0.205971  0.495867  1
+  Fe  Fe4  1  0.915433  0.915433  0.000000  1
+  Ni  Ni5  1  0.084154  0.084154  0.500000  1
+  O  O6  1  0.196833  0.965348  0.883984  1
+  O  O7  1  0.613663  0.914376  0.017166  1
+  O  O8  1  0.037333  0.805651  0.389874  1
+  O  O9  1  0.349086  0.628938  0.801072  1
+  O  O10  1  0.914376  0.613663  0.982834  1
+  O  O11  1  0.371708  0.649610  0.303560  1
+  O  O12  1  0.628938  0.349086  0.198928  1
+  O  O13  1  0.090632  0.380216  0.523157  1
+  O  O14  1  0.649610  0.371708  0.696440  1
+  O  O15  1  0.965348  0.196833  0.116016  1
+  O  O16  1  0.380216  0.090632  0.476843  1
+  O  O17  1  0.805651  0.037333  0.610126  1

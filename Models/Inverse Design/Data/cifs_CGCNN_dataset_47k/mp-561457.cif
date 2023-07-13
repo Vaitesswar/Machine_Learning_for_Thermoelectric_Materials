@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_CsAlSiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50246969
+_cell_length_b   9.01174292
+_cell_length_c   9.59451353
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsAlSiO4
+_chemical_formula_sum   'Cs4 Al4 Si4 O16'
+_cell_volume   475.76162908
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.750000  0.499538  0.198836  1
+  Cs  Cs1  1  0.250000  0.500462  0.801164  1
+  Cs  Cs2  1  0.250000  0.000462  0.698836  1
+  Cs  Cs3  1  0.750000  0.999538  0.301164  1
+  Al  Al4  1  0.750000  0.316928  0.584247  1
+  Al  Al5  1  0.750000  0.816928  0.915753  1
+  Al  Al6  1  0.250000  0.683072  0.415753  1
+  Al  Al7  1  0.250000  0.183072  0.084247  1
+  Si  Si8  1  0.250000  0.809642  0.084469  1
+  Si  Si9  1  0.250000  0.309642  0.415531  1
+  Si  Si10  1  0.750000  0.690358  0.584469  1
+  Si  Si11  1  0.750000  0.190358  0.915531  1
+  O  O12  1  0.750000  0.253362  0.756328  1
+  O  O13  1  0.507895  0.753445  0.503050  1
+  O  O14  1  0.992105  0.753445  0.503050  1
+  O  O15  1  0.992105  0.253445  0.996950  1
+  O  O16  1  0.750000  0.753362  0.743672  1
+  O  O17  1  0.250000  0.746638  0.243672  1
+  O  O18  1  0.492105  0.246555  0.496950  1
+  O  O19  1  0.250000  0.246638  0.256328  1
+  O  O20  1  0.007895  0.246555  0.496950  1
+  O  O21  1  0.007895  0.746555  0.003050  1
+  O  O22  1  0.250000  0.489801  0.411875  1
+  O  O23  1  0.507895  0.253445  0.996950  1
+  O  O24  1  0.492105  0.746555  0.003050  1
+  O  O25  1  0.750000  0.510199  0.588125  1
+  O  O26  1  0.250000  0.989801  0.088125  1
+  O  O27  1  0.750000  0.010199  0.911875  1

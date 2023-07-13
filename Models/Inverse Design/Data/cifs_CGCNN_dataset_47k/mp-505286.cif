@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Rb2NaFe(CN)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.32193161
+_cell_length_b   7.78492363
+_cell_length_c   12.87845017
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   124.22369482
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2NaFe(CN)6
+_chemical_formula_sum   'Rb4 Na2 Fe2 C12 N12'
+_cell_volume   606.97294650
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.727504  0.929195  0.249513  1
+  Rb  Rb1  1  0.272496  0.429195  0.250487  1
+  Rb  Rb2  1  0.272496  0.070805  0.750487  1
+  Rb  Rb3  1  0.727504  0.570805  0.749513  1
+  Na  Na4  1  0.500000  0.000000  0.500000  1
+  Na  Na5  1  0.500000  0.500000  0.000000  1
+  Fe  Fe6  1  0.000000  0.000000  0.000000  1
+  Fe  Fe7  1  0.000000  0.500000  0.500000  1
+  C  C8  1  0.101400  0.019381  0.172112  1
+  C  C9  1  0.898600  0.519381  0.327888  1
+  C  C10  1  0.898600  0.980619  0.827888  1
+  C  C11  1  0.101400  0.480619  0.672112  1
+  C  C12  1  0.245787  0.133416  0.032182  1
+  C  C13  1  0.754213  0.633416  0.467818  1
+  C  C14  1  0.754213  0.866584  0.967818  1
+  C  C15  1  0.245787  0.366584  0.532182  1
+  C  C16  1  0.829607  0.205268  0.961012  1
+  C  C17  1  0.170393  0.705268  0.538988  1
+  C  C18  1  0.170393  0.794732  0.038988  1
+  C  C19  1  0.829607  0.294732  0.461012  1
+  N  N20  1  0.165495  0.033807  0.278513  1
+  N  N21  1  0.834505  0.533807  0.221487  1
+  N  N22  1  0.834505  0.966193  0.721487  1
+  N  N23  1  0.165495  0.466193  0.778513  1
+  N  N24  1  0.397798  0.216259  0.053345  1
+  N  N25  1  0.602202  0.716258  0.446655  1
+  N  N26  1  0.602202  0.783741  0.946655  1
+  N  N27  1  0.397798  0.283741  0.553345  1
+  N  N28  1  0.722787  0.330765  0.936353  1
+  N  N29  1  0.277213  0.830765  0.563647  1
+  N  N30  1  0.277213  0.669235  0.063647  1
+  N  N31  1  0.722787  0.169235  0.436353  1

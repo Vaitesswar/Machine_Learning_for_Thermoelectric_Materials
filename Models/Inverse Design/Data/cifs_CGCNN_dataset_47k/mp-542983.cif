@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_MnPbO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.59410381
+_cell_length_b   5.59410381
+_cell_length_c   13.85591763
+_cell_angle_alpha   88.94657604
+_cell_angle_beta   91.05342396
+_cell_angle_gamma   60.16149786
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnPbO3
+_chemical_formula_sum   'Mn6 Pb6 O18'
+_cell_volume   375.87121926
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.000000  0.000000  0.000000  1
+  Mn  Mn1  1  1.000000  0.000000  0.500000  1
+  Mn  Mn2  1  0.354461  0.319621  0.154903  1
+  Mn  Mn3  1  0.319621  0.354461  0.345097  1
+  Mn  Mn4  1  0.645539  0.680379  0.845097  1
+  Mn  Mn5  1  0.680379  0.645539  0.654903  1
+  Pb  Pb6  1  0.989270  0.989270  0.750000  1
+  Pb  Pb7  1  0.010730  0.010730  0.250000  1
+  Pb  Pb8  1  0.329300  0.330397  0.910678  1
+  Pb  Pb9  1  0.330397  0.329300  0.589322  1
+  Pb  Pb10  1  0.670700  0.669603  0.089322  1
+  Pb  Pb11  1  0.669603  0.670700  0.410678  1
+  O  O12  1  0.512677  0.512677  0.750000  1
+  O  O13  1  0.487323  0.487323  0.250000  1
+  O  O14  1  0.515253  0.959761  0.735066  1
+  O  O15  1  0.959761  0.515253  0.764934  1
+  O  O16  1  0.484747  0.040239  0.264934  1
+  O  O17  1  0.040239  0.484747  0.235066  1
+  O  O18  1  0.770238  0.893777  0.920080  1
+  O  O19  1  0.893777  0.770238  0.579920  1
+  O  O20  1  0.229762  0.106223  0.079920  1
+  O  O21  1  0.106223  0.229762  0.420080  1
+  O  O22  1  0.274880  0.894141  0.899507  1
+  O  O23  1  0.894141  0.274880  0.600493  1
+  O  O24  1  0.725120  0.105859  0.100493  1
+  O  O25  1  0.105859  0.725120  0.399507  1
+  O  O26  1  0.779325  0.385542  0.941676  1
+  O  O27  1  0.385542  0.779325  0.558324  1
+  O  O28  1  0.220675  0.614458  0.058324  1
+  O  O29  1  0.614458  0.220675  0.441676  1

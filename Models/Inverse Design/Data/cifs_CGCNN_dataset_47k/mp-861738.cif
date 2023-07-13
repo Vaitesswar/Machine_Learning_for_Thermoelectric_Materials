@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaMgPb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.76715323
+_cell_length_b   7.96810894
+_cell_length_c   8.94531266
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMgPb
+_chemical_formula_sum   'Ca4 Mg4 Pb4'
+_cell_volume   339.78945709
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.750000  0.019399  0.184365  1
+  Ca  Ca1  1  0.750000  0.519399  0.315635  1
+  Ca  Ca2  1  0.250000  0.480601  0.684365  1
+  Ca  Ca3  1  0.250000  0.980601  0.815635  1
+  Mg  Mg4  1  0.250000  0.356482  0.061968  1
+  Mg  Mg5  1  0.250000  0.856482  0.438032  1
+  Mg  Mg6  1  0.750000  0.143518  0.561968  1
+  Mg  Mg7  1  0.750000  0.643518  0.938032  1
+  Pb  Pb8  1  0.250000  0.736894  0.116762  1
+  Pb  Pb9  1  0.250000  0.236894  0.383238  1
+  Pb  Pb10  1  0.750000  0.763106  0.616762  1
+  Pb  Pb11  1  0.750000  0.263106  0.883238  1

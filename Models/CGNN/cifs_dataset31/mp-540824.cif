@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Mn2BiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.87283585
+_cell_length_b   7.64514951
+_cell_length_c   8.67323165
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn2BiO5
+_chemical_formula_sum   'Mn8 Bi4 O20'
+_cell_volume   389.41689632
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.257196  0.500000  0.500000  1
+  Mn  Mn1  1  0.742804  0.000000  0.000000  1
+  Mn  Mn2  1  0.742804  0.500000  0.500000  1
+  Mn  Mn3  1  0.257196  0.000000  0.000000  1
+  Mn  Mn4  1  0.500000  0.594391  0.151311  1
+  Mn  Mn5  1  0.500000  0.405609  0.848689  1
+  Mn  Mn6  1  0.500000  0.094391  0.348689  1
+  Mn  Mn7  1  0.500000  0.905609  0.651311  1
+  Bi  Bi8  1  0.000000  0.846492  0.334079  1
+  Bi  Bi9  1  0.000000  0.153508  0.665921  1
+  Bi  Bi10  1  0.000000  0.346492  0.165921  1
+  Bi  Bi11  1  0.000000  0.653508  0.834079  1
+  O  O12  1  0.000000  0.844645  0.056493  1
+  O  O13  1  0.000000  0.155355  0.943507  1
+  O  O14  1  0.000000  0.344645  0.443507  1
+  O  O15  1  0.000000  0.655355  0.556493  1
+  O  O16  1  0.500000  0.856015  0.075561  1
+  O  O17  1  0.500000  0.143985  0.924439  1
+  O  O18  1  0.500000  0.356015  0.424439  1
+  O  O19  1  0.500000  0.643985  0.575561  1
+  O  O20  1  0.250561  0.613655  0.299307  1
+  O  O21  1  0.250561  0.386345  0.700693  1
+  O  O22  1  0.749439  0.113655  0.200693  1
+  O  O23  1  0.749439  0.886345  0.799307  1
+  O  O24  1  0.749439  0.386345  0.700693  1
+  O  O25  1  0.749439  0.613655  0.299307  1
+  O  O26  1  0.250561  0.886345  0.799307  1
+  O  O27  1  0.250561  0.113655  0.200693  1
+  O  O28  1  0.282493  0.500000  0.000000  1
+  O  O29  1  0.717507  0.000000  0.500000  1
+  O  O30  1  0.717507  0.500000  0.000000  1
+  O  O31  1  0.282493  0.000000  0.500000  1

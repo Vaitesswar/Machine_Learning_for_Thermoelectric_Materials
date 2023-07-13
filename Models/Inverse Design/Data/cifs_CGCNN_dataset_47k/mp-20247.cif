@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Dy(Fe2Ge)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.26243031
+_cell_length_b   7.26243031
+_cell_length_c   3.86435262
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy(Fe2Ge)2
+_chemical_formula_sum   'Dy2 Fe8 Ge4'
+_cell_volume   203.81714064
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.500000  0.500000  0.000000  1
+  Dy  Dy1  1  0.000000  0.000000  0.500000  1
+  Fe  Fe2  1  0.856109  0.408822  0.500000  1
+  Fe  Fe3  1  0.908822  0.643891  0.000000  1
+  Fe  Fe4  1  0.356109  0.091178  0.000000  1
+  Fe  Fe5  1  0.591178  0.143891  0.500000  1
+  Fe  Fe6  1  0.408822  0.856109  0.500000  1
+  Fe  Fe7  1  0.091178  0.356109  0.000000  1
+  Fe  Fe8  1  0.143891  0.591178  0.500000  1
+  Fe  Fe9  1  0.643891  0.908822  0.000000  1
+  Ge  Ge10  1  0.714980  0.714980  0.500000  1
+  Ge  Ge11  1  0.285020  0.285020  0.500000  1
+  Ge  Ge12  1  0.785020  0.214980  0.000000  1
+  Ge  Ge13  1  0.214980  0.785020  0.000000  1

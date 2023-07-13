@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Pr2MoC2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.86343762
+_cell_length_b   5.86343762
+_cell_length_c   10.50958348
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2MoC2
+_chemical_formula_sum   'Pr8 Mo4 C8'
+_cell_volume   361.31843669
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.802546  0.802546  0.655313  1
+  Pr  Pr1  1  0.197454  0.197454  0.655313  1
+  Pr  Pr2  1  0.802546  0.802546  0.344687  1
+  Pr  Pr3  1  0.302546  0.697454  0.155313  1
+  Pr  Pr4  1  0.697454  0.302546  0.155313  1
+  Pr  Pr5  1  0.697454  0.302546  0.844687  1
+  Pr  Pr6  1  0.302546  0.697454  0.844687  1
+  Pr  Pr7  1  0.197454  0.197454  0.344687  1
+  Mo  Mo8  1  0.175422  0.175422  0.000000  1
+  Mo  Mo9  1  0.324578  0.675422  0.500000  1
+  Mo  Mo10  1  0.675422  0.324578  0.500000  1
+  Mo  Mo11  1  0.824578  0.824578  0.000000  1
+  C  C12  1  0.500000  0.000000  0.000000  1
+  C  C13  1  0.500000  0.000000  0.500000  1
+  C  C14  1  0.000000  0.500000  0.500000  1
+  C  C15  1  0.000000  0.500000  0.000000  1
+  C  C16  1  0.000000  0.000000  0.857996  1
+  C  C17  1  0.500000  0.500000  0.357996  1
+  C  C18  1  0.500000  0.500000  0.642004  1
+  C  C19  1  0.000000  0.000000  0.142004  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaCaSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32522358
+_cell_length_b   8.91054163
+_cell_length_c   9.77541945
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCaSn
+_chemical_formula_sum   'Ba4 Ca4 Sn4'
+_cell_volume   463.84977621
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.250000  0.021431  0.181390  1
+  Ba  Ba1  1  0.750000  0.978569  0.818610  1
+  Ba  Ba2  1  0.250000  0.521431  0.318610  1
+  Ba  Ba3  1  0.750000  0.478569  0.681390  1
+  Ca  Ca4  1  0.750000  0.855837  0.428657  1
+  Ca  Ca5  1  0.250000  0.644163  0.928657  1
+  Ca  Ca6  1  0.750000  0.355837  0.071343  1
+  Ca  Ca7  1  0.250000  0.144163  0.571343  1
+  Sn  Sn8  1  0.250000  0.274894  0.891571  1
+  Sn  Sn9  1  0.750000  0.225106  0.391571  1
+  Sn  Sn10  1  0.250000  0.774894  0.608429  1
+  Sn  Sn11  1  0.750000  0.725106  0.108429  1

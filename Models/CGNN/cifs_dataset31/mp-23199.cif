@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaCl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.83301693
+_cell_length_b   8.00982496
+_cell_length_c   9.55040984
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCl2
+_chemical_formula_sum   'Ba4 Cl8'
+_cell_volume   369.71183311
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.250000  0.747383  0.612445  1
+  Ba  Ba1  1  0.750000  0.252617  0.387555  1
+  Ba  Ba2  1  0.250000  0.247383  0.887555  1
+  Ba  Ba3  1  0.750000  0.752617  0.112445  1
+  Cl  Cl4  1  0.250000  0.522626  0.334626  1
+  Cl  Cl5  1  0.750000  0.477374  0.665374  1
+  Cl  Cl6  1  0.250000  0.022626  0.165374  1
+  Cl  Cl7  1  0.750000  0.977374  0.834626  1
+  Cl  Cl8  1  0.750000  0.858790  0.426634  1
+  Cl  Cl9  1  0.250000  0.141210  0.573366  1
+  Cl  Cl10  1  0.750000  0.358790  0.073366  1
+  Cl  Cl11  1  0.250000  0.641210  0.926634  1

@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_K2MnH4(Cl2O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.70700368
+_cell_length_b   6.70700368
+_cell_length_c   6.70700368
+_cell_angle_alpha   112.96458773
+_cell_angle_beta   112.96458773
+_cell_angle_gamma   102.68998883
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2MnH4(Cl2O)2
+_chemical_formula_sum   'K2 Mn1 H4 Cl4 O2'
+_cell_volume   229.85427077
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.750000  0.250000  0.500000  1
+  K  K1  1  0.250000  0.750000  0.500000  1
+  Mn  Mn2  1  0.000000  0.000000  0.000000  1
+  H  H3  1  0.409507  0.258349  1.000000  1
+  H  H4  1  0.741651  0.741651  0.151158  1
+  H  H5  1  0.590493  0.590493  0.848842  1
+  H  H6  1  0.258349  0.409507  0.000000  1
+  Cl  Cl7  1  0.249458  0.249458  0.487132  1
+  Cl  Cl8  1  0.750542  0.237674  1.000000  1
+  Cl  Cl9  1  0.237674  0.750542  1.000000  1
+  Cl  Cl10  1  0.762326  0.762326  0.512868  1
+  O  O11  1  0.736510  0.736510  0.000000  1
+  O  O12  1  0.263490  0.263490  0.000000  1

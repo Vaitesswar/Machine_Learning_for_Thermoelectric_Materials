@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ti2Ni(PO5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.50308096
+_cell_length_b   7.36096596
+_cell_length_c   7.36107871
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.76580750
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ti2Ni(PO5)2
+_chemical_formula_sum   'Ti4 Ni2 P4 O20'
+_cell_volume   352.33569059
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.763697  0.223988  0.340867  1
+  Ti  Ti1  1  0.763697  0.276012  0.840867  1
+  Ti  Ti2  1  0.236303  0.723988  0.159133  1
+  Ti  Ti3  1  0.236303  0.776012  0.659133  1
+  Ni  Ni4  1  0.500000  0.500000  0.500000  1
+  Ni  Ni5  1  0.500000  0.000000  0.000000  1
+  P  P6  1  0.744391  0.625890  0.127495  1
+  P  P7  1  0.744391  0.874110  0.627495  1
+  P  P8  1  0.255609  0.125890  0.372505  1
+  P  P9  1  0.255609  0.374110  0.872505  1
+  O  O10  1  0.942620  0.738991  0.142743  1
+  O  O11  1  0.942620  0.761009  0.642743  1
+  O  O12  1  0.727089  0.160055  0.113821  1
+  O  O13  1  0.749992  0.989445  0.452605  1
+  O  O14  1  0.727089  0.339945  0.613821  1
+  O  O15  1  0.749992  0.510555  0.952605  1
+  O  O16  1  0.721317  0.498748  0.294793  1
+  O  O17  1  0.721317  0.001252  0.794793  1
+  O  O18  1  0.559603  0.756144  0.122589  1
+  O  O19  1  0.559603  0.743856  0.622589  1
+  O  O20  1  0.440397  0.256144  0.377411  1
+  O  O21  1  0.440397  0.243856  0.877411  1
+  O  O22  1  0.278683  0.998748  0.205207  1
+  O  O23  1  0.278683  0.501252  0.705207  1
+  O  O24  1  0.250008  0.489445  0.047395  1
+  O  O25  1  0.272911  0.660055  0.386179  1
+  O  O26  1  0.250008  0.010555  0.547395  1
+  O  O27  1  0.272911  0.839945  0.886179  1
+  O  O28  1  0.057380  0.238991  0.357257  1
+  O  O29  1  0.057380  0.261009  0.857257  1

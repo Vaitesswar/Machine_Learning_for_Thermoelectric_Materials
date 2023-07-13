@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CrP2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15351893
+_cell_length_b   5.15351893
+_cell_length_c   4.54863946
+_cell_angle_alpha   81.81704477
+_cell_angle_beta   98.18295523
+_cell_angle_gamma   79.86731926
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrP2O7
+_chemical_formula_sum   'Cr1 P2 O7'
+_cell_volume   115.96155119
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.887721  0.887721  0.000000  1
+  P  P1  1  0.334021  0.740086  0.590079  1
+  P  P2  1  0.740086  0.334021  0.409921  1
+  O  O3  1  0.862698  0.555363  0.263426  1
+  O  O4  1  0.143010  0.663571  0.802553  1
+  O  O5  1  0.184159  0.921729  0.295381  1
+  O  O6  1  0.663571  0.143010  0.197447  1
+  O  O7  1  0.461132  0.461132  0.500000  1
+  O  O8  1  0.921729  0.184159  0.704619  1
+  O  O9  1  0.555363  0.862698  0.736574  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_Li3Mn3FeO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93182747
+_cell_length_b   5.93182747
+_cell_length_c   6.06706037
+_cell_angle_alpha   59.51505093
+_cell_angle_beta   120.48494907
+_cell_angle_gamma   119.28267678
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Mn3FeO8
+_chemical_formula_sum   'Li3 Mn3 Fe1 O8'
+_cell_volume   150.61951292
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.500000  0.000000  1
+  Li  Li1  1  0.000000  0.000000  0.500000  1
+  Li  Li2  1  0.500000  0.000000  0.000000  1
+  Mn  Mn3  1  0.500000  0.000000  0.500000  1
+  Mn  Mn4  1  0.500000  0.500000  0.000000  1
+  Mn  Mn5  1  0.000000  0.500000  0.500000  1
+  Fe  Fe6  1  0.000000  0.000000  0.000000  1
+  O  O7  1  0.264883  0.735117  0.779989  1
+  O  O8  1  0.752536  0.733761  0.230360  1
+  O  O9  1  0.758442  0.241558  0.720987  1
+  O  O10  1  0.735117  0.264883  0.220011  1
+  O  O11  1  0.266239  0.247464  0.230360  1
+  O  O12  1  0.247464  0.266239  0.769640  1
+  O  O13  1  0.241558  0.758442  0.279013  1
+  O  O14  1  0.733761  0.752536  0.769640  1

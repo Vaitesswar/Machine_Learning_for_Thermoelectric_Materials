@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_CuTe2Br
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.39697291
+_cell_length_b   5.22846367
+_cell_length_c   12.77589758
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   115.36764555
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuTe2Br
+_chemical_formula_sum   'Cu4 Te8 Br4'
+_cell_volume   506.81984437
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.179015  0.130234  0.749109  1
+  Cu  Cu1  1  0.820985  0.630234  0.750891  1
+  Cu  Cu2  1  0.820985  0.869766  0.250891  1
+  Cu  Cu3  1  0.179015  0.369766  0.249109  1
+  Te  Te4  1  0.278692  0.030358  0.146195  1
+  Te  Te5  1  0.412058  0.788169  0.850372  1
+  Te  Te6  1  0.412058  0.711831  0.350372  1
+  Te  Te7  1  0.587942  0.211831  0.149628  1
+  Te  Te8  1  0.721308  0.530358  0.353805  1
+  Te  Te9  1  0.721308  0.969642  0.853805  1
+  Te  Te10  1  0.278692  0.469642  0.646195  1
+  Te  Te11  1  0.587942  0.288169  0.649628  1
+  Br  Br12  1  0.084511  0.123631  0.378856  1
+  Br  Br13  1  0.084511  0.376369  0.878856  1
+  Br  Br14  1  0.915489  0.876369  0.621144  1
+  Br  Br15  1  0.915489  0.623631  0.121144  1

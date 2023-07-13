@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_CeFeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.46703430
+_cell_length_b   5.78395001
+_cell_length_c   7.77724953
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeFeO3
+_chemical_formula_sum   'Ce4 Fe4 O12'
+_cell_volume   245.92482048
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.024681  0.416293  0.750000  1
+  Ce  Ce1  1  0.475319  0.916293  0.750000  1
+  Ce  Ce2  1  0.524681  0.083707  0.250000  1
+  Ce  Ce3  1  0.975319  0.583707  0.250000  1
+  Fe  Fe4  1  0.000000  0.000000  0.000000  1
+  Fe  Fe5  1  0.000000  0.000000  0.500000  1
+  Fe  Fe6  1  0.500000  0.500000  0.000000  1
+  Fe  Fe7  1  0.500000  0.500000  0.500000  1
+  O  O8  1  0.135887  0.953042  0.250000  1
+  O  O9  1  0.181975  0.681096  0.568120  1
+  O  O10  1  0.181975  0.681096  0.931880  1
+  O  O11  1  0.318025  0.181096  0.568120  1
+  O  O12  1  0.318025  0.181096  0.931880  1
+  O  O13  1  0.364113  0.453042  0.250000  1
+  O  O14  1  0.635887  0.546958  0.750000  1
+  O  O15  1  0.681975  0.818904  0.068120  1
+  O  O16  1  0.681975  0.818904  0.431880  1
+  O  O17  1  0.818025  0.318904  0.068120  1
+  O  O18  1  0.818025  0.318904  0.431880  1
+  O  O19  1  0.864113  0.046958  0.750000  1

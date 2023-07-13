@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Si3W5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.27988193
+_cell_length_b   7.27988193
+_cell_length_c   7.27988193
+_cell_angle_alpha   96.76947871
+_cell_angle_beta   96.76947871
+_cell_angle_gamma   139.84031445
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Si3W5
+_chemical_formula_sum   'Si6 W10'
+_cell_volume   233.69207745
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.750000  0.750000  0.000000  1
+  Si  Si1  1  0.250000  0.250000  0.000000  1
+  Si  Si2  1  0.667997  0.832003  0.500000  1
+  Si  Si3  1  0.167997  0.667997  0.835994  1
+  Si  Si4  1  0.832003  0.332003  0.164006  1
+  Si  Si5  1  0.332003  0.167997  0.500000  1
+  W  W6  1  0.276016  0.424965  0.700981  1
+  W  W7  1  0.723984  0.575035  0.299019  1
+  W  W8  1  0.750000  0.250000  0.500000  1
+  W  W9  1  0.250000  0.750000  0.500000  1
+  W  W10  1  0.424965  0.723984  0.148949  1
+  W  W11  1  0.575035  0.276016  0.851051  1
+  W  W12  1  0.223984  0.924965  0.148949  1
+  W  W13  1  0.075035  0.223984  0.299019  1
+  W  W14  1  0.924965  0.776016  0.700981  1
+  W  W15  1  0.776016  0.075035  0.851051  1

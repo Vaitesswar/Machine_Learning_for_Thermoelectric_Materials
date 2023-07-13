@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Fe4Bi2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.10014464
+_cell_length_b   8.07136638
+_cell_length_c   8.65704436
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Fe4Bi2O9
+_chemical_formula_sum   'Fe8 Bi4 O18'
+_cell_volume   426.24258507
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.257859  0.000000  0.500000  1
+  Fe  Fe1  1  0.742141  0.500000  0.000000  1
+  Fe  Fe2  1  0.742141  0.000000  0.500000  1
+  Fe  Fe3  1  0.257859  0.500000  0.000000  1
+  Fe  Fe4  1  0.500000  0.853566  0.165465  1
+  Fe  Fe5  1  0.500000  0.146434  0.834535  1
+  Fe  Fe6  1  0.500000  0.353566  0.334535  1
+  Fe  Fe7  1  0.500000  0.646434  0.665465  1
+  Bi  Bi8  1  0.000000  0.681050  0.319436  1
+  Bi  Bi9  1  0.000000  0.318950  0.680564  1
+  Bi  Bi10  1  0.000000  0.181050  0.180564  1
+  Bi  Bi11  1  0.000000  0.818950  0.819436  1
+  O  O12  1  0.500000  0.500000  0.500000  1
+  O  O13  1  0.500000  0.000000  0.000000  1
+  O  O14  1  0.242158  0.874781  0.292650  1
+  O  O15  1  0.242158  0.125219  0.707350  1
+  O  O16  1  0.757842  0.374781  0.207350  1
+  O  O17  1  0.757842  0.625219  0.792650  1
+  O  O18  1  0.757842  0.125219  0.707350  1
+  O  O19  1  0.757842  0.874781  0.292650  1
+  O  O20  1  0.242158  0.625219  0.792650  1
+  O  O21  1  0.242158  0.374781  0.207350  1
+  O  O22  1  0.500000  0.633939  0.092474  1
+  O  O23  1  0.500000  0.366061  0.907526  1
+  O  O24  1  0.500000  0.133939  0.407526  1
+  O  O25  1  0.500000  0.866061  0.592474  1
+  O  O26  1  0.000000  0.654751  0.063811  1
+  O  O27  1  0.000000  0.345249  0.936189  1
+  O  O28  1  0.000000  0.154751  0.436189  1
+  O  O29  1  0.000000  0.845249  0.563811  1

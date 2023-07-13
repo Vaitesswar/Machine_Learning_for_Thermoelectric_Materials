@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ho2V2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.80145314
+_cell_length_b   5.80145314
+_cell_length_c   5.24298535
+_cell_angle_alpha   83.94959435
+_cell_angle_beta   96.05040565
+_cell_angle_gamma   70.08523119
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2V2O7
+_chemical_formula_sum   'Ho2 V2 O7'
+_cell_volume   163.09065218
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.687534  0.687534  0.500000  1
+  Ho  Ho1  1  0.312466  0.312466  0.500000  1
+  V  V2  1  0.754672  0.245328  0.100734  1
+  V  V3  1  0.245328  0.754672  0.899266  1
+  O  O4  1  0.934380  0.390622  0.293893  1
+  O  O5  1  0.609378  0.065620  0.293893  1
+  O  O6  1  0.577485  0.422515  0.777410  1
+  O  O7  1  0.422515  0.577485  0.222590  1
+  O  O8  1  0.000000  0.000000  0.000000  1
+  O  O9  1  0.390622  0.934380  0.706107  1
+  O  O10  1  0.065620  0.609378  0.706107  1

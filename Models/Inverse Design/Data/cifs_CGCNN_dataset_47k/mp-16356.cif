@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiNiGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.74722404
+_cell_length_b   6.25559264
+_cell_length_c   7.16662062
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiNiGe
+_chemical_formula_sum   'Ti4 Ni4 Ge4'
+_cell_volume   167.99352168
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.750000  0.473812  0.313699  1
+  Ti  Ti1  1  0.250000  0.526188  0.686301  1
+  Ti  Ti2  1  0.250000  0.026188  0.813699  1
+  Ti  Ti3  1  0.750000  0.973812  0.186301  1
+  Ni  Ni4  1  0.750000  0.861437  0.559452  1
+  Ni  Ni5  1  0.750000  0.361437  0.940548  1
+  Ni  Ni6  1  0.250000  0.138563  0.440548  1
+  Ni  Ni7  1  0.250000  0.638563  0.059452  1
+  Ge  Ge8  1  0.750000  0.243181  0.621606  1
+  Ge  Ge9  1  0.250000  0.756819  0.378394  1
+  Ge  Ge10  1  0.750000  0.743181  0.878394  1
+  Ge  Ge11  1  0.250000  0.256819  0.121606  1

@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Cs2NaFe(CN)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.62823720
+_cell_length_b   7.78050933
+_cell_length_c   13.34469309
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   124.79853144
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2NaFe(CN)6
+_chemical_formula_sum   'Cs4 Na2 Fe2 C12 N12'
+_cell_volume   650.38515789
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.758605  0.541554  0.750041  1
+  Cs  Cs1  1  0.241395  0.041554  0.749959  1
+  Cs  Cs2  1  0.241395  0.458446  0.249959  1
+  Cs  Cs3  1  0.758605  0.958446  0.250041  1
+  Na  Na4  1  0.500000  0.500000  0.000000  1
+  Na  Na5  1  0.500000  0.000000  0.500000  1
+  Fe  Fe6  1  0.000000  0.500000  0.500000  1
+  Fe  Fe7  1  0.000000  0.000000  0.000000  1
+  C  C8  1  0.213690  0.491996  0.671676  1
+  C  C9  1  0.786310  0.991996  0.828324  1
+  C  C10  1  0.786310  0.508004  0.328324  1
+  C  C11  1  0.213690  0.008004  0.171676  1
+  C  C12  1  0.183617  0.859379  0.980228  1
+  C  C13  1  0.816383  0.359379  0.519772  1
+  C  C14  1  0.816383  0.140621  0.019772  1
+  C  C15  1  0.183617  0.640621  0.480228  1
+  C  C16  1  0.882527  0.799210  0.023075  1
+  C  C17  1  0.117473  0.299210  0.476925  1
+  C  C18  1  0.117473  0.200790  0.976925  1
+  C  C19  1  0.882527  0.700790  0.523075  1
+  N  N20  1  0.346222  0.485506  0.777398  1
+  N  N21  1  0.653778  0.985506  0.722602  1
+  N  N22  1  0.653778  0.514494  0.222602  1
+  N  N23  1  0.346222  0.014494  0.277398  1
+  N  N24  1  0.296734  0.773634  0.967407  1
+  N  N25  1  0.703266  0.273634  0.532593  1
+  N  N26  1  0.703266  0.226366  0.032593  1
+  N  N27  1  0.296734  0.726366  0.467407  1
+  N  N28  1  0.811655  0.675532  0.038450  1
+  N  N29  1  0.188345  0.175532  0.461550  1
+  N  N30  1  0.188345  0.324468  0.961550  1
+  N  N31  1  0.811655  0.824468  0.538450  1

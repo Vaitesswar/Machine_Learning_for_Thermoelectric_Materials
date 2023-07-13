@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Co2SiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.73166615
+_cell_length_b   7.73166615
+_cell_length_c   7.73166615
+_cell_angle_alpha   135.75643579
+_cell_angle_beta   114.41961203
+_cell_angle_gamma   82.54217011
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co2SiO4
+_chemical_formula_sum   'Co8 Si4 O16'
+_cell_volume   283.37897266
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.873472  0.873472  0.500000  1
+  Co  Co1  1  0.126528  0.626528  0.000000  1
+  Co  Co2  1  0.126528  0.126528  0.500000  1
+  Co  Co3  1  0.873472  0.373472  1.000000  1
+  Co  Co4  1  0.724061  0.250000  0.474061  1
+  Co  Co5  1  0.275939  0.750000  0.525939  1
+  Co  Co6  1  0.500000  1.000000  0.500000  1
+  Co  Co7  1  0.000000  0.500000  0.500000  1
+  Si  Si8  1  0.238397  0.121435  0.116962  1
+  Si  Si9  1  0.761603  0.878565  0.883038  1
+  Si  Si10  1  0.495527  0.378565  0.116962  1
+  Si  Si11  1  0.504473  0.621435  0.883038  1
+  O  O12  1  0.384780  0.612441  0.243268  1
+  O  O13  1  0.615220  0.858487  0.227661  1
+  O  O14  1  0.130826  0.887559  0.772339  1
+  O  O15  1  0.869174  0.641513  0.756732  1
+  O  O16  1  0.615220  0.387559  0.756732  1
+  O  O17  1  0.384780  0.141513  0.772339  1
+  O  O18  1  0.869174  0.112441  0.227661  1
+  O  O19  1  0.130826  0.358487  0.243268  1
+  O  O20  1  0.741125  0.987101  0.754023  1
+  O  O21  1  0.258875  0.012899  0.245977  1
+  O  O22  1  0.266922  0.512899  0.754023  1
+  O  O23  1  0.733078  0.487101  0.245977  1
+  O  O24  1  0.031232  0.750000  0.281232  1
+  O  O25  1  0.968768  0.250000  0.718768  1
+  O  O26  1  0.533067  0.750000  0.783067  1
+  O  O27  1  0.466933  0.250000  0.216933  1

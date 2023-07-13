@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_NaHoGeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.32246906
+_cell_length_b   6.48439601
+_cell_length_c   11.48003833
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaHoGeO4
+_chemical_formula_sum   'Na4 Ho4 Ge4 O16'
+_cell_volume   396.21053000
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.500000  0.000000  0.000000  1
+  Na  Na1  1  0.000000  0.000000  0.500000  1
+  Na  Na2  1  0.500000  0.500000  0.000000  1
+  Na  Na3  1  0.000000  0.500000  0.500000  1
+  Ho  Ho4  1  0.005361  0.750000  0.777394  1
+  Ho  Ho5  1  0.505361  0.250000  0.722606  1
+  Ho  Ho6  1  0.994639  0.250000  0.222606  1
+  Ho  Ho7  1  0.494639  0.750000  0.277394  1
+  Ge  Ge8  1  0.052882  0.750000  0.097937  1
+  Ge  Ge9  1  0.552882  0.250000  0.402063  1
+  Ge  Ge10  1  0.947118  0.250000  0.902063  1
+  Ge  Ge11  1  0.447118  0.750000  0.597937  1
+  O  O12  1  0.171623  0.750000  0.954496  1
+  O  O13  1  0.671623  0.250000  0.545504  1
+  O  O14  1  0.828377  0.250000  0.045504  1
+  O  O15  1  0.328377  0.750000  0.454496  1
+  O  O16  1  0.792713  0.041911  0.824975  1
+  O  O17  1  0.292713  0.958089  0.675025  1
+  O  O18  1  0.207287  0.541911  0.175025  1
+  O  O19  1  0.707287  0.458089  0.324975  1
+  O  O20  1  0.207287  0.958089  0.175025  1
+  O  O21  1  0.707287  0.041911  0.324975  1
+  O  O22  1  0.792713  0.458089  0.824975  1
+  O  O23  1  0.292713  0.541911  0.675025  1
+  O  O24  1  0.773885  0.750000  0.611553  1
+  O  O25  1  0.273885  0.250000  0.888447  1
+  O  O26  1  0.226115  0.250000  0.388447  1
+  O  O27  1  0.726115  0.750000  0.111553  1

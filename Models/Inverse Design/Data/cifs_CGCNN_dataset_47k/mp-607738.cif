@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CeZnRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.93513509
+_cell_length_b   7.37481489
+_cell_length_c   16.23207448
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeZnRh
+_chemical_formula_sum   'Ce8 Zn8 Rh8'
+_cell_volume   471.06929431
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.250000  0.172843  0.940925  1
+  Ce  Ce1  1  0.750000  0.327157  0.440925  1
+  Ce  Ce2  1  0.250000  0.552992  0.783648  1
+  Ce  Ce3  1  0.250000  0.672843  0.559075  1
+  Ce  Ce4  1  0.750000  0.447008  0.216352  1
+  Ce  Ce5  1  0.250000  0.052992  0.716352  1
+  Ce  Ce6  1  0.750000  0.947008  0.283648  1
+  Ce  Ce7  1  0.750000  0.827157  0.059075  1
+  Zn  Zn8  1  0.250000  0.618390  0.348069  1
+  Zn  Zn9  1  0.750000  0.002386  0.560238  1
+  Zn  Zn10  1  0.750000  0.502386  0.939762  1
+  Zn  Zn11  1  0.750000  0.881610  0.848069  1
+  Zn  Zn12  1  0.750000  0.381610  0.651931  1
+  Zn  Zn13  1  0.250000  0.997614  0.439762  1
+  Zn  Zn14  1  0.250000  0.118390  0.151931  1
+  Zn  Zn15  1  0.250000  0.497614  0.060238  1
+  Rh  Rh16  1  0.750000  0.249500  0.062466  1
+  Rh  Rh17  1  0.750000  0.754798  0.684981  1
+  Rh  Rh18  1  0.750000  0.254798  0.815019  1
+  Rh  Rh19  1  0.250000  0.245202  0.315019  1
+  Rh  Rh20  1  0.250000  0.250500  0.562466  1
+  Rh  Rh21  1  0.250000  0.750500  0.937534  1
+  Rh  Rh22  1  0.750000  0.749500  0.437534  1
+  Rh  Rh23  1  0.250000  0.745202  0.184981  1

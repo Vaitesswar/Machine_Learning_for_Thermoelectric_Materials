@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Li4MoP2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.04057835
+_cell_length_b   8.04057835
+_cell_length_c   7.18525020
+_cell_angle_alpha   89.82645634
+_cell_angle_beta   90.17354366
+_cell_angle_gamma   128.09350444
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4MoP2O9
+_chemical_formula_sum   'Li8 Mo2 P4 O18'
+_cell_volume   365.58762148
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.899755  0.100245  0.759903  1
+  Li  Li1  1  0.368787  0.631213  0.308986  1
+  Li  Li2  1  0.000000  0.500000  0.500000  1
+  Li  Li3  1  0.500000  1.000000  0.500000  1
+  Li  Li4  1  0.631213  0.368787  0.691014  1
+  Li  Li5  1  0.100245  0.899755  0.240097  1
+  Li  Li6  1  0.768893  0.768893  0.000000  1
+  Li  Li7  1  0.231107  0.231107  0.000000  1
+  Mo  Mo8  1  0.000000  0.500000  0.000000  1
+  Mo  Mo9  1  0.500000  0.000000  0.000000  1
+  P  P10  1  0.402871  0.597129  0.756597  1
+  P  P11  1  0.877701  0.122299  0.300607  1
+  P  P12  1  0.122299  0.877701  0.699393  1
+  P  P13  1  0.597129  0.402871  0.243403  1
+  O  O14  1  0.492854  0.507146  0.248246  1
+  O  O15  1  0.966386  0.033614  0.181909  1
+  O  O16  1  0.882641  0.117359  0.510573  1
+  O  O17  1  0.557495  0.805766  0.879581  1
+  O  O18  1  0.194234  0.442505  0.879581  1
+  O  O19  1  0.346680  0.653320  0.575711  1
+  O  O20  1  0.635416  0.995738  0.248931  1
+  O  O21  1  0.004262  0.364584  0.248931  1
+  O  O22  1  0.759583  0.240417  0.870213  1
+  O  O23  1  0.240417  0.759583  0.129787  1
+  O  O24  1  0.995738  0.635416  0.751069  1
+  O  O25  1  0.364584  0.004262  0.751069  1
+  O  O26  1  0.653320  0.346680  0.424289  1
+  O  O27  1  0.805766  0.557495  0.120419  1
+  O  O28  1  0.442505  0.194234  0.120419  1
+  O  O29  1  0.117359  0.882641  0.489427  1
+  O  O30  1  0.033614  0.966386  0.818091  1
+  O  O31  1  0.507146  0.492854  0.751754  1

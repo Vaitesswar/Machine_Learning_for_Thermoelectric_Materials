@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Cs2LiAl3F12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21481413
+_cell_length_b   7.21481413
+_cell_length_c   7.21481413
+_cell_angle_alpha   58.87185640
+_cell_angle_beta   58.87185640
+_cell_angle_gamma   58.87185640
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2LiAl3F12
+_chemical_formula_sum   'Cs2 Li1 Al3 F12'
+_cell_volume   258.71980651
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.372670  0.372670  0.372670  1
+  Cs  Cs1  1  0.627330  0.627330  0.627330  1
+  Li  Li2  1  0.000000  0.000000  0.000000  1
+  Al  Al3  1  0.500000  0.000000  0.000000  1
+  Al  Al4  1  1.000000  0.000000  0.500000  1
+  Al  Al5  1  0.000000  0.500000  1.000000  1
+  F  F6  1  0.069819  0.693480  0.693480  1
+  F  F7  1  0.928343  0.349457  0.928343  1
+  F  F8  1  0.928343  0.928343  0.349457  1
+  F  F9  1  0.071657  0.071657  0.650543  1
+  F  F10  1  0.071657  0.650543  0.071657  1
+  F  F11  1  0.349457  0.928343  0.928343  1
+  F  F12  1  0.693480  0.069819  0.693480  1
+  F  F13  1  0.693480  0.693480  0.069819  1
+  F  F14  1  0.306520  0.306520  0.930181  1
+  F  F15  1  0.930181  0.306520  0.306520  1
+  F  F16  1  0.306520  0.930181  0.306520  1
+  F  F17  1  0.650543  0.071657  0.071657  1

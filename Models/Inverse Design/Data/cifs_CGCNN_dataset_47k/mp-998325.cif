@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_RbCaI3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.21013743
+_cell_length_b   6.21013743
+_cell_length_c   6.20769319
+_cell_angle_alpha   89.95899569
+_cell_angle_beta   90.04100431
+_cell_angle_gamma   90.05435820
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbCaI3
+_chemical_formula_sum   'Rb1 Ca1 I3'
+_cell_volume   239.40446628
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.001023  0.998977  0.000001  1
+  Ca  Ca1  1  0.506477  0.493523  0.481930  1
+  I  I2  1  0.001660  0.495704  0.486455  1
+  I  I3  1  0.491679  0.508321  0.983032  1
+  I  I4  1  0.504296  0.998340  0.486455  1

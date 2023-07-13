@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Nb3FeS6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77895751
+_cell_length_b   5.77895751
+_cell_length_c   11.64937005
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb3FeS6
+_chemical_formula_sum   'Nb6 Fe2 S12'
+_cell_volume   336.92409839
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.000000  0.000000  0.500000  1
+  Nb  Nb1  1  0.000000  0.000000  0.000000  1
+  Nb  Nb2  1  0.666667  0.333333  0.005142  1
+  Nb  Nb3  1  0.333333  0.666667  0.994858  1
+  Nb  Nb4  1  0.333333  0.666667  0.505142  1
+  Nb  Nb5  1  0.666667  0.333333  0.494858  1
+  Fe  Fe6  1  0.666667  0.333333  0.750000  1
+  Fe  Fe7  1  0.333333  0.666667  0.250000  1
+  S  S8  1  0.668930  0.007966  0.635916  1
+  S  S9  1  0.339036  0.331070  0.635916  1
+  S  S10  1  0.992034  0.660964  0.635916  1
+  S  S11  1  0.660964  0.992034  0.364084  1
+  S  S12  1  0.007966  0.668930  0.364084  1
+  S  S13  1  0.331070  0.339036  0.364084  1
+  S  S14  1  0.331070  0.992034  0.135916  1
+  S  S15  1  0.660964  0.668930  0.135916  1
+  S  S16  1  0.007966  0.339036  0.135916  1
+  S  S17  1  0.339036  0.007966  0.864084  1
+  S  S18  1  0.992034  0.331070  0.864084  1
+  S  S19  1  0.668930  0.660964  0.864084  1

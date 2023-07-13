@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Pb3Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.16035464
+_cell_length_b   9.16035464
+_cell_length_c   9.16035464
+_cell_angle_alpha   96.32200947
+_cell_angle_beta   96.32200947
+_cell_angle_gamma   141.23931647
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pb3Au
+_chemical_formula_sum   'Pb12 Au4'
+_cell_volume   453.96842719
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pb  Pb0  1  0.500000  0.859104  0.359104  1
+  Pb  Pb1  1  0.859104  0.500000  0.359104  1
+  Pb  Pb2  1  0.140896  0.500000  0.640896  1
+  Pb  Pb3  1  0.500000  0.140896  0.640896  1
+  Pb  Pb4  1  0.160026  0.351852  0.000000  1
+  Pb  Pb5  1  0.839974  0.839974  0.191826  1
+  Pb  Pb6  1  0.648148  0.648148  0.808174  1
+  Pb  Pb7  1  0.351852  0.160026  0.000000  1
+  Pb  Pb8  1  0.562664  0.963613  0.000000  1
+  Pb  Pb9  1  0.437336  0.437336  0.400949  1
+  Pb  Pb10  1  0.036387  0.036387  0.599051  1
+  Pb  Pb11  1  0.963613  0.562664  0.000000  1
+  Au  Au12  1  1.000000  0.294036  0.294036  1
+  Au  Au13  1  0.294036  1.000000  0.294036  1
+  Au  Au14  1  0.705964  1.000000  0.705964  1
+  Au  Au15  1  1.000000  0.705964  0.705964  1

@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_MgCoO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.35634388
+_cell_length_b   5.35634388
+_cell_length_c   5.35634388
+_cell_angle_alpha   54.75089691
+_cell_angle_beta   54.75089691
+_cell_angle_gamma   54.75089691
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgCoO3
+_chemical_formula_sum   'Mg2 Co2 O6'
+_cell_volume   95.38043566
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.360391  0.360391  0.360391  1
+  Mg  Mg1  1  0.639609  0.639609  0.639609  1
+  Co  Co2  1  0.160422  0.160422  0.160422  1
+  Co  Co3  1  0.839578  0.839578  0.839578  1
+  O  O4  1  0.787189  0.042509  0.439725  1
+  O  O5  1  0.042509  0.439725  0.787189  1
+  O  O6  1  0.439725  0.787189  0.042509  1
+  O  O7  1  0.560275  0.212811  0.957491  1
+  O  O8  1  0.957491  0.560275  0.212811  1
+  O  O9  1  0.212811  0.957491  0.560275  1

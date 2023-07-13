@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Ca5MnO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.91729652
+_cell_length_b   8.91729652
+_cell_length_c   5.85102250
+_cell_angle_alpha   70.95818762
+_cell_angle_beta   109.04181238
+_cell_angle_gamma   158.14013570
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ca5MnO6
+_chemical_formula_sum   'Ca5 Mn1 O6'
+_cell_volume   163.39142080
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.834707  0.165293  0.165948  1
+  Ca  Ca1  1  0.335365  0.664635  0.670418  1
+  Ca  Ca2  1  0.165293  0.834707  0.834052  1
+  Ca  Ca3  1  0.500000  0.500000  0.500000  1
+  Ca  Ca4  1  0.664635  0.335365  0.329582  1
+  Mn  Mn5  1  0.000000  0.000000  0.000000  1
+  O  O6  1  0.917938  0.082062  0.589364  1
+  O  O7  1  0.420319  0.579681  0.080843  1
+  O  O8  1  0.250890  0.749110  0.247868  1
+  O  O9  1  0.579681  0.420319  0.919157  1
+  O  O10  1  0.749110  0.250890  0.752132  1
+  O  O11  1  0.082062  0.917938  0.410636  1

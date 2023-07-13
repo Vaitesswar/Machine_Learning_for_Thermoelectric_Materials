@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_TlIn3S5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.49577485
+_cell_length_b   10.49577485
+_cell_length_c   13.03788595
+_cell_angle_alpha   59.35301875
+_cell_angle_beta   120.64698125
+_cell_angle_gamma   158.62426500
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TlIn3S5
+_chemical_formula_sum   'Tl2 In6 S10'
+_cell_volume   447.55096240
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.239012  0.760988  0.804462  1
+  Tl  Tl1  1  0.760988  0.239012  0.195538  1
+  In  In2  1  0.337127  0.662873  0.598336  1
+  In  In3  1  0.547245  0.452755  0.805507  1
+  In  In4  1  0.452755  0.547245  0.194493  1
+  In  In5  1  0.662873  0.337127  0.401664  1
+  In  In6  1  0.000000  0.000000  0.500000  1
+  In  In7  1  0.000000  0.000000  0.000000  1
+  S  S8  1  0.563788  0.436212  0.155804  1
+  S  S9  1  0.071268  0.928732  0.386385  1
+  S  S10  1  0.760585  0.239415  0.629145  1
+  S  S11  1  0.588421  0.411579  0.655721  1
+  S  S12  1  0.239415  0.760585  0.370855  1
+  S  S13  1  0.411579  0.588421  0.344279  1
+  S  S14  1  0.928732  0.071268  0.613615  1
+  S  S15  1  0.885437  0.114563  0.050332  1
+  S  S16  1  0.436212  0.563788  0.844196  1
+  S  S17  1  0.114563  0.885437  0.949668  1

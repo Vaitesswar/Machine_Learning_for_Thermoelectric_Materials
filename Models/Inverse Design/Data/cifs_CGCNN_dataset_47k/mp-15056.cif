@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_NaZr2TiF11
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.77834830
+_cell_length_b   5.77834830
+_cell_length_c   7.93189737
+_cell_angle_alpha   69.30366288
+_cell_angle_beta   110.69633712
+_cell_angle_gamma   106.91136124
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaZr2TiF11
+_chemical_formula_sum   'Na1 Zr2 Ti1 F11'
+_cell_volume   227.55394036
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.000000  0.000000  0.000000  1
+  Zr  Zr1  1  0.504327  0.495673  0.234564  1
+  Zr  Zr2  1  0.495673  0.504327  0.765436  1
+  Ti  Ti3  1  0.000000  1.000000  0.500000  1
+  F  F4  1  0.219558  0.190822  0.309926  1
+  F  F5  1  0.190822  0.219558  0.690074  1
+  F  F6  1  0.780442  0.809178  0.690074  1
+  F  F7  1  0.809178  0.780442  0.309926  1
+  F  F8  1  0.500000  0.500000  0.500000  1
+  F  F9  1  0.670692  0.670692  0.000000  1
+  F  F10  1  0.329308  0.329308  0.000000  1
+  F  F11  1  0.244200  0.755800  0.641276  1
+  F  F12  1  0.755800  0.244200  0.358724  1
+  F  F13  1  0.265729  0.734271  0.110820  1
+  F  F14  1  0.734271  0.265729  0.889180  1

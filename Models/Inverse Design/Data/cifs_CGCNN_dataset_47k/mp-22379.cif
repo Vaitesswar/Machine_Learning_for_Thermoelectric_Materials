@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Y3(Co2Sn)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.92467339
+_cell_length_b   8.92467339
+_cell_length_c   7.44837232
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y3(Co2Sn)4
+_chemical_formula_sum   'Y6 Co16 Sn8'
+_cell_volume   513.77938255
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.528744  0.471256  0.000380  1
+  Y  Y1  1  0.471256  0.528744  0.500380  1
+  Y  Y2  1  0.942512  0.471256  0.000380  1
+  Y  Y3  1  0.528744  0.057488  0.000380  1
+  Y  Y4  1  0.471256  0.942512  0.500380  1
+  Y  Y5  1  0.057488  0.528744  0.500380  1
+  Co  Co6  1  0.097432  0.194863  0.476020  1
+  Co  Co7  1  0.000000  0.000000  0.221496  1
+  Co  Co8  1  0.000000  0.000000  0.721496  1
+  Co  Co9  1  0.666667  0.333333  0.295244  1
+  Co  Co10  1  0.333333  0.666667  0.795244  1
+  Co  Co11  1  0.902568  0.097432  0.976020  1
+  Co  Co12  1  0.158807  0.841193  0.169285  1
+  Co  Co13  1  0.317615  0.158807  0.669285  1
+  Co  Co14  1  0.841193  0.682385  0.669285  1
+  Co  Co15  1  0.158807  0.317615  0.169285  1
+  Co  Co16  1  0.682385  0.841193  0.169285  1
+  Co  Co17  1  0.841193  0.158807  0.669285  1
+  Co  Co18  1  0.097432  0.902568  0.476020  1
+  Co  Co19  1  0.194863  0.097432  0.976020  1
+  Co  Co20  1  0.902568  0.805137  0.976020  1
+  Co  Co21  1  0.805137  0.902568  0.476020  1
+  Sn  Sn22  1  0.171447  0.828553  0.795629  1
+  Sn  Sn23  1  0.342893  0.171447  0.295629  1
+  Sn  Sn24  1  0.828553  0.657107  0.295629  1
+  Sn  Sn25  1  0.171447  0.342893  0.795629  1
+  Sn  Sn26  1  0.657107  0.828553  0.795629  1
+  Sn  Sn27  1  0.828553  0.171447  0.295629  1
+  Sn  Sn28  1  0.333333  0.666667  0.168619  1
+  Sn  Sn29  1  0.666667  0.333333  0.668619  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Ce2TiO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.70534461
+_cell_length_b   6.70534461
+_cell_length_c   7.69089590
+_cell_angle_alpha   67.15271795
+_cell_angle_beta   112.84728205
+_cell_angle_gamma   133.05531722
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2TiO5
+_chemical_formula_sum   'Ce4 Ti2 O10'
+_cell_volume   228.91678216
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.664756  0.383216  0.268052  1
+  Ce  Ce1  1  0.616784  0.335244  0.768052  1
+  Ce  Ce2  1  0.383216  0.664756  0.231948  1
+  Ce  Ce3  1  0.335244  0.616784  0.731948  1
+  Ti  Ti4  1  0.000000  0.000000  0.500000  1
+  Ti  Ti5  1  0.000000  0.000000  0.000000  1
+  O  O6  1  0.987848  0.321055  0.361198  1
+  O  O7  1  0.678945  0.012152  0.861198  1
+  O  O8  1  0.389383  0.248310  0.459140  1
+  O  O9  1  0.847071  0.847071  0.250000  1
+  O  O10  1  0.248310  0.389383  0.040860  1
+  O  O11  1  0.751690  0.610617  0.959140  1
+  O  O12  1  0.152929  0.152929  0.750000  1
+  O  O13  1  0.610617  0.751690  0.540860  1
+  O  O14  1  0.321055  0.987848  0.138802  1
+  O  O15  1  0.012152  0.678945  0.638802  1

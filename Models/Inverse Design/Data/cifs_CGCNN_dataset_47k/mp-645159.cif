@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_FeBiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49434422
+_cell_length_b   5.72796288
+_cell_length_c   7.89490247
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   FeBiO3
+_chemical_formula_sum   'Fe4 Bi4 O12'
+_cell_volume   248.46363156
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Fe  Fe0  1  0.500000  0.000000  0.000000  1
+  Fe  Fe1  1  0.500000  0.000000  0.500000  1
+  Fe  Fe2  1  0.000000  0.500000  0.000000  1
+  Fe  Fe3  1  0.000000  0.500000  0.500000  1
+  Bi  Bi4  1  0.489686  0.447833  0.250000  1
+  Bi  Bi5  1  0.989686  0.052167  0.750000  1
+  Bi  Bi6  1  0.510314  0.552167  0.750000  1
+  Bi  Bi7  1  0.010314  0.947833  0.250000  1
+  O  O8  1  0.400111  0.970138  0.750000  1
+  O  O9  1  0.305974  0.697223  0.048802  1
+  O  O10  1  0.194026  0.197223  0.451198  1
+  O  O11  1  0.599889  0.029862  0.250000  1
+  O  O12  1  0.694026  0.302777  0.548802  1
+  O  O13  1  0.805974  0.802777  0.951198  1
+  O  O14  1  0.900111  0.529862  0.250000  1
+  O  O15  1  0.305974  0.697223  0.451198  1
+  O  O16  1  0.694026  0.302777  0.951198  1
+  O  O17  1  0.194026  0.197223  0.048802  1
+  O  O18  1  0.805974  0.802777  0.548802  1
+  O  O19  1  0.099889  0.470138  0.750000  1

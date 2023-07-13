@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_HfCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.68677393
+_cell_length_b   4.90248942
+_cell_length_c   11.76744747
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfCrO4
+_chemical_formula_sum   'Hf4 Cr4 O16'
+_cell_volume   270.37898849
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.500000  0.250000  0.172738  1
+  Hf  Hf1  1  0.500000  0.750000  0.827262  1
+  Hf  Hf2  1  0.000000  0.250000  0.672738  1
+  Hf  Hf3  1  0.000000  0.750000  0.327262  1
+  Cr  Cr4  1  0.500000  0.250000  0.433288  1
+  Cr  Cr5  1  0.500000  0.750000  0.566712  1
+  Cr  Cr6  1  0.000000  0.750000  0.066712  1
+  Cr  Cr7  1  0.000000  0.250000  0.933288  1
+  O  O8  1  0.276991  0.086968  0.314028  1
+  O  O9  1  0.276991  0.586968  0.685972  1
+  O  O10  1  0.228054  0.069524  0.055534  1
+  O  O11  1  0.228054  0.569524  0.944466  1
+  O  O12  1  0.271946  0.569524  0.444466  1
+  O  O13  1  0.271946  0.069524  0.555534  1
+  O  O14  1  0.223009  0.586968  0.185972  1
+  O  O15  1  0.223009  0.086968  0.814028  1
+  O  O16  1  0.776991  0.913032  0.185972  1
+  O  O17  1  0.776991  0.413032  0.814028  1
+  O  O18  1  0.728054  0.930476  0.444466  1
+  O  O19  1  0.728054  0.430476  0.555534  1
+  O  O20  1  0.771946  0.430476  0.055534  1
+  O  O21  1  0.771946  0.930476  0.944466  1
+  O  O22  1  0.723009  0.913032  0.685972  1
+  O  O23  1  0.723009  0.413032  0.314028  1

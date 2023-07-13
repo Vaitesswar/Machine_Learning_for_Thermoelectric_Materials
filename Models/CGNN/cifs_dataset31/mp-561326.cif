@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LuSeO3F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.29284810
+_cell_length_b   6.50545766
+_cell_length_c   6.90008632
+_cell_angle_alpha   91.83468779
+_cell_angle_beta   93.79079841
+_cell_angle_gamma   96.63505535
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LuSeO3F
+_chemical_formula_sum   'Lu2 Se2 O6 F2'
+_cell_volume   190.83595441
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Lu  Lu0  1  0.460395  0.368427  0.244569  1
+  Lu  Lu1  1  0.539605  0.631573  0.755431  1
+  Se  Se2  1  0.680229  0.858541  0.272264  1
+  Se  Se3  1  0.319771  0.141459  0.727736  1
+  O  O4  1  0.600655  0.674992  0.079392  1
+  O  O5  1  0.403785  0.022097  0.234412  1
+  O  O6  1  0.512228  0.679136  0.431005  1
+  O  O7  1  0.399345  0.325008  0.920608  1
+  O  O8  1  0.596215  0.977903  0.765588  1
+  O  O9  1  0.487772  0.320864  0.568995  1
+  F  F10  1  0.959624  0.350518  0.254954  1
+  F  F11  1  0.040376  0.649482  0.745046  1

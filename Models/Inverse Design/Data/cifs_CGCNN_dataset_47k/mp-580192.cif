@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_HoGe2Pt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.60130441
+_cell_length_b   9.60130441
+_cell_length_c   9.60130441
+_cell_angle_alpha   153.98064112
+_cell_angle_beta   125.65243495
+_cell_angle_gamma   61.21575281
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoGe2Pt
+_chemical_formula_sum   'Ho4 Ge8 Pt4'
+_cell_volume   313.26831274
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.735858  0.000000  0.735858  1
+  Ho  Ho1  1  0.700486  0.200486  0.500000  1
+  Ho  Ho2  1  0.299514  0.799514  0.500000  1
+  Ho  Ho3  1  0.264142  0.000000  0.264142  1
+  Ge  Ge4  1  0.648289  0.798568  0.849720  1
+  Ge  Ge5  1  0.926947  0.426947  0.500000  1
+  Ge  Ge6  1  0.051152  0.201432  0.849720  1
+  Ge  Ge7  1  0.351711  0.201432  0.150280  1
+  Ge  Ge8  1  0.948848  0.798568  0.150280  1
+  Ge  Ge9  1  0.426113  0.426113  0.000000  1
+  Ge  Ge10  1  0.073053  0.573053  0.500000  1
+  Ge  Ge11  1  0.573887  0.573887  0.000000  1
+  Pt  Pt12  1  0.396426  0.647290  0.749136  1
+  Pt  Pt13  1  0.603574  0.352710  0.250864  1
+  Pt  Pt14  1  0.898155  0.647290  0.250864  1
+  Pt  Pt15  1  0.101845  0.352710  0.749136  1

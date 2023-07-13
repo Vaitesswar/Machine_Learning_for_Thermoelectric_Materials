@@ -1,0 +1,31 @@
+# generated using pymatgen
+data_Er(CoB)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.24589363
+_cell_length_b   5.24589363
+_cell_length_c   5.24589363
+_cell_angle_alpha   140.57313279
+_cell_angle_beta   140.57313279
+_cell_angle_gamma   56.98410351
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Er(CoB)2
+_chemical_formula_sum   'Er1 Co2 B2'
+_cell_volume   57.74621093
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Er  Er0  1  0.000000  0.000000  0.000000  1
+  Co  Co1  1  0.750000  0.250000  0.500000  1
+  Co  Co2  1  0.250000  0.750000  0.500000  1
+  B  B3  1  0.353284  0.353284  0.000000  1
+  B  B4  1  0.646716  0.646716  0.000000  1

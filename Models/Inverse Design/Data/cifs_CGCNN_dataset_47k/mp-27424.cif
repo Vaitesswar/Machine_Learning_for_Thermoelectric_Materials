@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_BaCu4S3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.47708279
+_cell_length_b   7.47708279
+_cell_length_c   10.20763986
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   149.27773202
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaCu4S3
+_chemical_formula_sum   'Ba2 Cu8 S6'
+_cell_volume   291.54535103
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.253628  0.746372  0.250000  1
+  Ba  Ba1  1  0.746372  0.253628  0.750000  1
+  Cu  Cu2  1  0.497465  0.502535  0.872983  1
+  Cu  Cu3  1  0.502535  0.497465  0.127017  1
+  Cu  Cu4  1  0.906166  0.093834  0.477529  1
+  Cu  Cu5  1  0.093834  0.906166  0.522471  1
+  Cu  Cu6  1  0.093834  0.906166  0.977529  1
+  Cu  Cu7  1  0.906166  0.093834  0.022471  1
+  Cu  Cu8  1  0.497465  0.502535  0.627017  1
+  Cu  Cu9  1  0.502535  0.497465  0.372983  1
+  S  S10  1  0.941582  0.058418  0.250000  1
+  S  S11  1  0.058418  0.941582  0.750000  1
+  S  S12  1  0.349426  0.650574  0.550822  1
+  S  S13  1  0.650574  0.349426  0.449178  1
+  S  S14  1  0.650574  0.349426  0.050822  1
+  S  S15  1  0.349426  0.650574  0.949178  1

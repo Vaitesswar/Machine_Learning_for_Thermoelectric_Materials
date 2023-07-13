@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_AlAsO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13990041
+_cell_length_b   5.13990041
+_cell_length_c   11.46257322
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlAsO4
+_chemical_formula_sum   'Al3 As3 O12'
+_cell_volume   262.25402564
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.461593  0.000000  0.333333  1
+  Al  Al1  1  0.000000  0.461593  0.666667  1
+  Al  Al2  1  0.538407  0.538407  0.000000  1
+  As  As3  1  0.460166  0.000000  0.833333  1
+  As  As4  1  0.000000  0.460166  0.166667  1
+  As  As5  1  0.539834  0.539834  0.500000  1
+  O  O6  1  0.282132  0.405490  0.117891  1
+  O  O7  1  0.594510  0.876642  0.451225  1
+  O  O8  1  0.123358  0.717868  0.784558  1
+  O  O9  1  0.876642  0.594510  0.548775  1
+  O  O10  1  0.717868  0.123358  0.215442  1
+  O  O11  1  0.405490  0.282132  0.882109  1
+  O  O12  1  0.406628  0.291043  0.386652  1
+  O  O13  1  0.708957  0.115585  0.719986  1
+  O  O14  1  0.884415  0.593372  0.053319  1
+  O  O15  1  0.115585  0.708957  0.280014  1
+  O  O16  1  0.593372  0.884415  0.946681  1
+  O  O17  1  0.291043  0.406628  0.613348  1

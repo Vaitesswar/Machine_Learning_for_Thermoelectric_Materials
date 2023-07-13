@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Mn3TeO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.98561749
+_cell_length_b   5.98561749
+_cell_length_c   9.31289590
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3TeO8
+_chemical_formula_sum   'Mn6 Te2 O16'
+_cell_volume   288.95705370
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.168289  0.336577  0.208558  1
+  Mn  Mn1  1  0.663423  0.831711  0.208558  1
+  Mn  Mn2  1  0.168289  0.831711  0.208558  1
+  Mn  Mn3  1  0.831711  0.168289  0.708558  1
+  Mn  Mn4  1  0.336577  0.168289  0.708558  1
+  Mn  Mn5  1  0.831711  0.663423  0.708558  1
+  Te  Te6  1  0.333333  0.666667  0.484832  1
+  Te  Te7  1  0.666667  0.333333  0.984832  1
+  O  O8  1  0.174790  0.349580  0.596703  1
+  O  O9  1  0.479710  0.520290  0.348098  1
+  O  O10  1  0.333333  0.666667  0.114874  1
+  O  O11  1  0.000000  0.000000  0.297345  1
+  O  O12  1  0.000000  0.000000  0.797345  1
+  O  O13  1  0.650420  0.825210  0.596703  1
+  O  O14  1  0.040581  0.520290  0.348098  1
+  O  O15  1  0.479710  0.959419  0.348098  1
+  O  O16  1  0.825210  0.174790  0.096703  1
+  O  O17  1  0.174790  0.825210  0.596703  1
+  O  O18  1  0.520290  0.040581  0.848098  1
+  O  O19  1  0.959419  0.479710  0.848098  1
+  O  O20  1  0.666667  0.333333  0.614874  1
+  O  O21  1  0.349580  0.174790  0.096703  1
+  O  O22  1  0.520290  0.479710  0.848098  1
+  O  O23  1  0.825210  0.650420  0.096703  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Cr5Si3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82090589
+_cell_length_b   6.82090589
+_cell_length_c   6.82090589
+_cell_angle_alpha   96.46841484
+_cell_angle_beta   96.46841484
+_cell_angle_gamma   140.77684925
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr5Si3
+_chemical_formula_sum   'Cr10 Si6'
+_cell_volume   189.02732733
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.750000  0.250000  0.500000  1
+  Cr  Cr1  1  0.250000  0.750000  0.500000  1
+  Cr  Cr2  1  0.771985  0.076431  0.848417  1
+  Cr  Cr3  1  0.923569  0.771985  0.695554  1
+  Cr  Cr4  1  0.076431  0.228015  0.304446  1
+  Cr  Cr5  1  0.228015  0.923569  0.151583  1
+  Cr  Cr6  1  0.576431  0.271985  0.848417  1
+  Cr  Cr7  1  0.423569  0.728015  0.151583  1
+  Cr  Cr8  1  0.271985  0.423569  0.695554  1
+  Cr  Cr9  1  0.728015  0.576431  0.304446  1
+  Si  Si10  1  0.250000  0.250000  0.000000  1
+  Si  Si11  1  0.750000  0.750000  0.000000  1
+  Si  Si12  1  0.332675  0.167325  0.500000  1
+  Si  Si13  1  0.832675  0.332675  0.165349  1
+  Si  Si14  1  0.167325  0.667325  0.834651  1
+  Si  Si15  1  0.667325  0.832675  0.500000  1

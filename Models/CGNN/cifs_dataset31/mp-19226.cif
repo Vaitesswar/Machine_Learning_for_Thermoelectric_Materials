@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_NaFePO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.10704671
+_cell_length_b   6.93167814
+_cell_length_c   9.10068330
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaFePO4
+_chemical_formula_sum   'Na4 Fe4 P4 O16'
+_cell_volume   322.16786586
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.971628  0.250000  0.652139  1
+  Na  Na1  1  0.528372  0.250000  0.152139  1
+  Na  Na2  1  0.028372  0.750000  0.347861  1
+  Na  Na3  1  0.471628  0.750000  0.847861  1
+  Fe  Fe4  1  0.500000  0.000000  0.500000  1
+  Fe  Fe5  1  0.000000  0.500000  0.000000  1
+  Fe  Fe6  1  0.500000  0.500000  0.500000  1
+  Fe  Fe7  1  0.000000  0.000000  0.000000  1
+  P  P8  1  0.033736  0.250000  0.324425  1
+  P  P9  1  0.466264  0.250000  0.824425  1
+  P  P10  1  0.966264  0.750000  0.675575  1
+  P  P11  1  0.533736  0.750000  0.175575  1
+  O  O12  1  0.747344  0.250000  0.383965  1
+  O  O13  1  0.752656  0.250000  0.883965  1
+  O  O14  1  0.252656  0.750000  0.616035  1
+  O  O15  1  0.247344  0.750000  0.116035  1
+  O  O16  1  0.043164  0.250000  0.151658  1
+  O  O17  1  0.456836  0.250000  0.651658  1
+  O  O18  1  0.956836  0.750000  0.848342  1
+  O  O19  1  0.543164  0.750000  0.348342  1
+  O  O20  1  0.179214  0.067695  0.378506  1
+  O  O21  1  0.320786  0.432305  0.878506  1
+  O  O22  1  0.820786  0.567695  0.621494  1
+  O  O23  1  0.679214  0.932305  0.121494  1
+  O  O24  1  0.820786  0.932305  0.621494  1
+  O  O25  1  0.679214  0.567695  0.121494  1
+  O  O26  1  0.179214  0.432305  0.378506  1
+  O  O27  1  0.320786  0.067695  0.878506  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ba2ZnGe2S6O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.74641102
+_cell_length_b   9.74641102
+_cell_length_c   6.52762152
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2ZnGe2S6O
+_chemical_formula_sum   'Ba4 Zn2 Ge4 S12 O2'
+_cell_volume   620.07526852
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.839265  0.660735  0.501389  1
+  Ba  Ba1  1  0.339265  0.839265  0.498611  1
+  Ba  Ba2  1  0.660735  0.160735  0.498611  1
+  Ba  Ba3  1  0.160735  0.339265  0.501389  1
+  Zn  Zn4  1  0.000000  0.000000  0.000000  1
+  Zn  Zn5  1  0.500000  0.500000  0.000000  1
+  Ge  Ge6  1  0.624930  0.875070  0.934521  1
+  Ge  Ge7  1  0.375070  0.124930  0.934521  1
+  Ge  Ge8  1  0.124930  0.624930  0.065479  1
+  Ge  Ge9  1  0.875070  0.375070  0.065479  1
+  S  S10  1  0.937763  0.180212  0.224731  1
+  S  S11  1  0.062237  0.819788  0.224731  1
+  S  S12  1  0.180212  0.062237  0.775269  1
+  S  S13  1  0.819788  0.937763  0.775269  1
+  S  S14  1  0.680212  0.437763  0.224731  1
+  S  S15  1  0.562237  0.680212  0.775269  1
+  S  S16  1  0.437763  0.319788  0.775269  1
+  S  S17  1  0.319788  0.562237  0.224731  1
+  S  S18  1  0.366394  0.133606  0.266498  1
+  S  S19  1  0.866394  0.366394  0.733502  1
+  S  S20  1  0.133606  0.633606  0.733502  1
+  S  S21  1  0.633606  0.866394  0.266498  1
+  O  O22  1  0.500000  0.000000  0.823499  1
+  O  O23  1  0.000000  0.500000  0.176501  1

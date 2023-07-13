@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoSiRu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.32094306
+_cell_length_b   6.97179790
+_cell_length_c   7.10244274
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoSiRu
+_chemical_formula_sum   'Ho4 Si4 Ru4'
+_cell_volume   213.95925335
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.250000  0.986470  0.812988  1
+  Ho  Ho1  1  0.750000  0.013530  0.187012  1
+  Ho  Ho2  1  0.250000  0.486470  0.687012  1
+  Ho  Ho3  1  0.750000  0.513530  0.312988  1
+  Si  Si4  1  0.250000  0.303447  0.106131  1
+  Si  Si5  1  0.750000  0.696553  0.893869  1
+  Si  Si6  1  0.250000  0.803447  0.393869  1
+  Si  Si7  1  0.750000  0.196553  0.606131  1
+  Ru  Ru8  1  0.750000  0.846624  0.567002  1
+  Ru  Ru9  1  0.250000  0.153376  0.432998  1
+  Ru  Ru10  1  0.750000  0.346624  0.932998  1
+  Ru  Ru11  1  0.250000  0.653376  0.067002  1

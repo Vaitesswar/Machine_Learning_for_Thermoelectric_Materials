@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ba2CuGe2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.60686213
+_cell_length_b   8.60686213
+_cell_length_c   5.50933126
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2CuGe2O7
+_chemical_formula_sum   'Ba4 Cu2 Ge4 O14'
+_cell_volume   408.12065827
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.665975  0.165975  0.990835  1
+  Ba  Ba1  1  0.834025  0.665975  0.009165  1
+  Ba  Ba2  1  0.165975  0.334025  0.009165  1
+  Ba  Ba3  1  0.334025  0.834025  0.990835  1
+  Cu  Cu4  1  0.000000  0.000000  0.500000  1
+  Cu  Cu5  1  0.500000  0.500000  0.500000  1
+  Ge  Ge6  1  0.861141  0.361141  0.523703  1
+  Ge  Ge7  1  0.138859  0.638859  0.523703  1
+  Ge  Ge8  1  0.638859  0.861141  0.476297  1
+  Ge  Ge9  1  0.361141  0.138859  0.476297  1
+  O  O10  1  0.685237  0.417885  0.666921  1
+  O  O11  1  0.314763  0.582115  0.666921  1
+  O  O12  1  0.417885  0.314763  0.333079  1
+  O  O13  1  0.582115  0.685237  0.333079  1
+  O  O14  1  0.917885  0.185237  0.666921  1
+  O  O15  1  0.814763  0.917885  0.333079  1
+  O  O16  1  0.185237  0.082115  0.333079  1
+  O  O17  1  0.082115  0.814763  0.666921  1
+  O  O18  1  0.865543  0.365543  0.207616  1
+  O  O19  1  0.634457  0.865543  0.792384  1
+  O  O20  1  0.000000  0.500000  0.652885  1
+  O  O21  1  0.500000  0.000000  0.347115  1
+  O  O22  1  0.134457  0.634457  0.207616  1
+  O  O23  1  0.365543  0.134457  0.792384  1

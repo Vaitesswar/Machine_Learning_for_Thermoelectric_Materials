@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaBrCl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06240897
+_cell_length_b   8.14812595
+_cell_length_c   10.28632732
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaBrCl
+_chemical_formula_sum   'Ba4 Br4 Cl4'
+_cell_volume   424.30221638
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.250000  0.728260  0.593257  1
+  Ba  Ba1  1  0.750000  0.271740  0.406743  1
+  Ba  Ba2  1  0.250000  0.228260  0.906743  1
+  Ba  Ba3  1  0.750000  0.771740  0.093257  1
+  Br  Br4  1  0.750000  0.861521  0.408007  1
+  Br  Br5  1  0.250000  0.138479  0.591993  1
+  Br  Br6  1  0.750000  0.361521  0.091993  1
+  Br  Br7  1  0.250000  0.638479  0.908007  1
+  Cl  Cl8  1  0.250000  0.496914  0.352457  1
+  Cl  Cl9  1  0.750000  0.503086  0.647543  1
+  Cl  Cl10  1  0.250000  0.996914  0.147543  1
+  Cl  Cl11  1  0.750000  0.003086  0.852457  1

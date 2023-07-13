@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Li3Co3NiO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.64228055
+_cell_length_b   5.64228055
+_cell_length_c   9.24581547
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3Co3NiO8
+_chemical_formula_sum   'Li6 Co6 Ni2 O16'
+_cell_volume   254.90902205
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.339631  0.169816  0.447406  1
+  Li  Li1  1  0.830184  0.660369  0.447406  1
+  Li  Li2  1  0.830184  0.169816  0.447406  1
+  Li  Li3  1  0.169816  0.830184  0.947406  1
+  Li  Li4  1  0.169816  0.339631  0.947406  1
+  Li  Li5  1  0.660369  0.830184  0.947406  1
+  Co  Co6  1  0.335328  0.167664  0.714460  1
+  Co  Co7  1  0.832336  0.664672  0.714460  1
+  Co  Co8  1  0.832336  0.167664  0.714460  1
+  Co  Co9  1  0.167664  0.832336  0.214460  1
+  Co  Co10  1  0.167664  0.335328  0.214460  1
+  Co  Co11  1  0.664672  0.832336  0.214460  1
+  Ni  Ni12  1  0.666667  0.333333  0.992279  1
+  Ni  Ni13  1  0.333333  0.666667  0.492279  1
+  O  O14  1  0.000000  0.000000  0.321965  1
+  O  O15  1  0.308213  0.154106  0.101242  1
+  O  O16  1  0.516041  0.483959  0.832786  1
+  O  O17  1  0.845894  0.691787  0.101242  1
+  O  O18  1  0.000000  0.000000  0.821965  1
+  O  O19  1  0.666667  0.333333  0.603484  1
+  O  O20  1  0.516041  0.032082  0.832786  1
+  O  O21  1  0.967918  0.483959  0.832786  1
+  O  O22  1  0.154106  0.845894  0.601242  1
+  O  O23  1  0.845894  0.154106  0.101242  1
+  O  O24  1  0.032082  0.516041  0.332786  1
+  O  O25  1  0.333333  0.666667  0.103484  1
+  O  O26  1  0.483959  0.967918  0.332786  1
+  O  O27  1  0.154106  0.308213  0.601242  1
+  O  O28  1  0.483959  0.516041  0.332786  1
+  O  O29  1  0.691787  0.845894  0.601242  1

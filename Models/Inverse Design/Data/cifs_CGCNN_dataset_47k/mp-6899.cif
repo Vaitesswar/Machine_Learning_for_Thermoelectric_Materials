@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_CaBePO4F
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.82146431
+_cell_length_b   7.75127872
+_cell_length_c   9.81229080
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.93860734
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaBePO4F
+_chemical_formula_sum   'Ca4 Be4 P4 O16 F4'
+_cell_volume   366.66076747
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.495886  0.388911  0.830792  1
+  Ca  Ca1  1  0.504114  0.888911  0.669208  1
+  Ca  Ca2  1  0.504114  0.611089  0.169208  1
+  Ca  Ca3  1  0.495886  0.111089  0.330792  1
+  Be  Be4  1  0.041548  0.086376  0.837424  1
+  Be  Be5  1  0.958452  0.586376  0.662576  1
+  Be  Be6  1  0.958452  0.913624  0.162576  1
+  Be  Be7  1  0.041548  0.413624  0.337424  1
+  P  P8  1  0.972582  0.230495  0.581264  1
+  P  P9  1  0.027418  0.730495  0.918736  1
+  P  P10  1  0.972582  0.269505  0.081264  1
+  P  P11  1  0.027418  0.769505  0.418736  1
+  O  O12  1  0.822965  0.845329  0.307667  1
+  O  O13  1  0.160245  0.893427  0.853016  1
+  O  O14  1  0.160245  0.606573  0.353016  1
+  O  O15  1  0.839755  0.106573  0.146984  1
+  O  O16  1  0.822965  0.654671  0.807667  1
+  O  O17  1  0.147008  0.282251  0.455768  1
+  O  O18  1  0.177035  0.345329  0.192333  1
+  O  O19  1  0.839755  0.393427  0.646984  1
+  O  O20  1  0.743589  0.396483  0.039817  1
+  O  O21  1  0.256411  0.896483  0.460183  1
+  O  O22  1  0.147008  0.217749  0.955768  1
+  O  O23  1  0.743589  0.103517  0.539817  1
+  O  O24  1  0.256411  0.603517  0.960183  1
+  O  O25  1  0.852992  0.782251  0.044232  1
+  O  O26  1  0.852992  0.717749  0.544232  1
+  O  O27  1  0.177035  0.154671  0.692333  1
+  F  F28  1  0.285286  0.591923  0.674982  1
+  F  F29  1  0.285286  0.908077  0.174982  1
+  F  F30  1  0.714714  0.408077  0.325018  1
+  F  F31  1  0.714714  0.091923  0.825018  1

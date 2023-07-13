@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Na2AlH4ClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.59412350
+_cell_length_b   7.59412350
+_cell_length_c   5.10194615
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2AlH4ClO4
+_chemical_formula_sum   'Na4 Al2 H8 Cl2 O8'
+_cell_volume   294.23286570
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.250000  0.250000  0.500000  1
+  Na  Na1  1  0.750000  0.750000  0.500000  1
+  Na  Na2  1  0.250000  0.750000  0.500000  1
+  Na  Na3  1  0.750000  0.250000  0.500000  1
+  Al  Al4  1  0.500000  0.500000  0.000000  1
+  Al  Al5  1  0.000000  0.000000  0.000000  1
+  H  H6  1  0.210079  0.500000  0.108993  1
+  H  H7  1  0.789921  0.500000  0.108993  1
+  H  H8  1  0.710079  0.000000  0.891007  1
+  H  H9  1  0.289921  0.000000  0.891007  1
+  H  H10  1  0.500000  0.789921  0.891007  1
+  H  H11  1  0.500000  0.210079  0.891007  1
+  H  H12  1  0.000000  0.289921  0.108993  1
+  H  H13  1  0.000000  0.710079  0.108993  1
+  Cl  Cl14  1  0.000000  0.500000  0.779121  1
+  Cl  Cl15  1  0.500000  0.000000  0.220879  1
+  O  O16  1  0.316099  0.500000  0.217887  1
+  O  O17  1  0.683901  0.500000  0.217887  1
+  O  O18  1  0.816099  0.000000  0.782113  1
+  O  O19  1  0.183901  0.000000  0.782113  1
+  O  O20  1  0.500000  0.683901  0.782113  1
+  O  O21  1  0.500000  0.316099  0.782113  1
+  O  O22  1  0.000000  0.183901  0.217887  1
+  O  O23  1  0.000000  0.816099  0.217887  1

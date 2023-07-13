@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Yb7In(CoGe3)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.33705649
+_cell_length_b   10.33705649
+_cell_length_c   4.29756270
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Yb7In(CoGe3)4
+_chemical_formula_sum   'Yb7 In1 Co4 Ge12'
+_cell_volume   459.21493152
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Yb  Yb0  1  0.325516  0.675451  0.500000  1
+  Yb  Yb1  1  0.324549  0.325516  0.500000  1
+  Yb  Yb2  1  0.674484  0.324549  0.500000  1
+  Yb  Yb3  1  0.675451  0.674484  0.500000  1
+  Yb  Yb4  1  0.000000  0.500000  0.500000  1
+  Yb  Yb5  1  0.000000  0.000000  0.000000  1
+  Yb  Yb6  1  0.500000  0.000000  0.500000  1
+  In  In7  1  0.500000  0.500000  0.000000  1
+  Co  Co8  1  0.116137  0.721539  0.000000  1
+  Co  Co9  1  0.883863  0.278461  0.000000  1
+  Co  Co10  1  0.721539  0.883863  0.000000  1
+  Co  Co11  1  0.278461  0.116137  0.000000  1
+  Ge  Ge12  1  0.193020  0.067377  0.500000  1
+  Ge  Ge13  1  0.513453  0.788689  0.000000  1
+  Ge  Ge14  1  0.067377  0.806980  0.500000  1
+  Ge  Ge15  1  0.788689  0.486547  0.000000  1
+  Ge  Ge16  1  0.211311  0.513453  0.000000  1
+  Ge  Ge17  1  0.284963  0.886697  0.000000  1
+  Ge  Ge18  1  0.113303  0.284963  0.000000  1
+  Ge  Ge19  1  0.932623  0.193020  0.500000  1
+  Ge  Ge20  1  0.886697  0.715037  0.000000  1
+  Ge  Ge21  1  0.715037  0.113303  0.000000  1
+  Ge  Ge22  1  0.806980  0.932623  0.500000  1
+  Ge  Ge23  1  0.486547  0.211311  0.000000  1

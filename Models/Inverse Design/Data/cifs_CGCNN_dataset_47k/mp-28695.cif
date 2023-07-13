@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KSiH3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42133477
+_cell_length_b   6.89965663
+_cell_length_c   8.89004387
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KSiH3
+_chemical_formula_sum   'K4 Si4 H12'
+_cell_volume   332.53518815
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.250000  0.344424  0.684527  1
+  K  K1  1  0.750000  0.655576  0.315473  1
+  K  K2  1  0.750000  0.844424  0.815473  1
+  K  K3  1  0.250000  0.155576  0.184527  1
+  Si  Si4  1  0.250000  0.850204  0.548512  1
+  Si  Si5  1  0.750000  0.149796  0.451488  1
+  Si  Si6  1  0.750000  0.350204  0.951488  1
+  Si  Si7  1  0.250000  0.649796  0.048512  1
+  H  H8  1  0.956960  0.300166  0.418505  1
+  H  H9  1  0.456960  0.699834  0.581495  1
+  H  H10  1  0.043040  0.800166  0.081495  1
+  H  H11  1  0.543040  0.199834  0.918505  1
+  H  H12  1  0.043040  0.699834  0.581495  1
+  H  H13  1  0.543040  0.300166  0.418505  1
+  H  H14  1  0.956960  0.199834  0.918505  1
+  H  H15  1  0.456960  0.800166  0.081495  1
+  H  H16  1  0.250000  0.692732  0.878193  1
+  H  H17  1  0.750000  0.307268  0.121807  1
+  H  H18  1  0.750000  0.192732  0.621807  1
+  H  H19  1  0.250000  0.807268  0.378193  1

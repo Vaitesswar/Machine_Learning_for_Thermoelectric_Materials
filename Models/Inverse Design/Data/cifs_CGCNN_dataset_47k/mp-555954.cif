@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_BaSnHgS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.46951811
+_cell_length_b   6.46951811
+_cell_length_c   11.09066980
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   117.18815207
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaSnHgS4
+_chemical_formula_sum   'Ba2 Sn2 Hg2 S8'
+_cell_volume   412.90762515
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.949575  0.949575  0.500000  1
+  Ba  Ba1  1  0.949575  0.949575  0.000000  1
+  Sn  Sn2  1  0.251751  0.675457  0.750000  1
+  Sn  Sn3  1  0.675457  0.251751  0.250000  1
+  Hg  Hg4  1  0.673254  0.330454  0.750000  1
+  Hg  Hg5  1  0.330454  0.673254  0.250000  1
+  S  S6  1  0.999660  0.469307  0.581748  1
+  S  S7  1  0.469307  0.999660  0.418252  1
+  S  S8  1  0.648575  0.752916  0.750000  1
+  S  S9  1  0.752916  0.648575  0.250000  1
+  S  S10  1  0.999660  0.469307  0.918252  1
+  S  S11  1  0.469307  0.999660  0.081748  1
+  S  S12  1  0.253987  0.057322  0.750000  1
+  S  S13  1  0.057322  0.253987  0.250000  1

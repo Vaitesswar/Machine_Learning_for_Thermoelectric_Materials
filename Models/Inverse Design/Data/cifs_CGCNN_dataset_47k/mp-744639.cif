@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Cr2Hg2H2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.59140290
+_cell_length_b   6.59140290
+_cell_length_c   13.51529883
+_cell_angle_alpha   72.78458587
+_cell_angle_beta   107.21541413
+_cell_angle_gamma   132.30108720
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr2Hg2H2O9
+_chemical_formula_sum   'Cr4 Hg4 H4 O18'
+_cell_volume   410.93179005
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.160868  0.458756  0.401729  1
+  Cr  Cr1  1  0.458756  0.160868  0.098271  1
+  Cr  Cr2  1  0.839132  0.541244  0.598271  1
+  Cr  Cr3  1  0.541244  0.839132  0.901729  1
+  Hg  Hg4  1  0.345835  0.098082  0.375353  1
+  Hg  Hg5  1  0.098082  0.345835  0.124647  1
+  Hg  Hg6  1  0.654165  0.901918  0.624647  1
+  Hg  Hg7  1  0.901918  0.654165  0.875353  1
+  H  H8  1  0.776455  0.705845  0.211342  1
+  H  H9  1  0.705845  0.776455  0.288658  1
+  H  H10  1  0.223545  0.294155  0.788658  1
+  H  H11  1  0.294155  0.223545  0.711342  1
+  O  O12  1  0.310980  0.409887  0.334794  1
+  O  O13  1  0.409887  0.310980  0.165206  1
+  O  O14  1  0.689020  0.590113  0.665206  1
+  O  O15  1  0.590113  0.689020  0.834794  1
+  O  O16  1  0.878317  0.387828  0.332249  1
+  O  O17  1  0.387828  0.878317  0.167751  1
+  O  O18  1  0.121683  0.612172  0.667751  1
+  O  O19  1  0.612172  0.121683  0.832249  1
+  O  O20  1  0.395720  0.798241  0.426513  1
+  O  O21  1  0.798241  0.395720  0.073487  1
+  O  O22  1  0.604280  0.201759  0.573487  1
+  O  O23  1  0.201759  0.604280  0.926513  1
+  O  O24  1  0.091869  0.261833  0.513348  1
+  O  O25  1  0.261833  0.091869  0.986652  1
+  O  O26  1  0.908131  0.738167  0.486652  1
+  O  O27  1  0.738167  0.908131  0.013348  1
+  O  O28  1  0.854626  0.854626  0.250000  1
+  O  O29  1  0.145374  0.145374  0.750000  1

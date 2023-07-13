@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LiCaSb
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.64635557
+_cell_length_b   7.67557607
+_cell_length_c   8.35652517
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCaSb
+_chemical_formula_sum   'Li4 Ca4 Sb4'
+_cell_volume   298.02256459
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.750000  0.848735  0.427976  1
+  Li  Li1  1  0.250000  0.151265  0.572024  1
+  Li  Li2  1  0.250000  0.651265  0.927976  1
+  Li  Li3  1  0.750000  0.348735  0.072024  1
+  Ca  Ca4  1  0.750000  0.489639  0.701632  1
+  Ca  Ca5  1  0.750000  0.989639  0.798368  1
+  Ca  Ca6  1  0.250000  0.510361  0.298368  1
+  Ca  Ca7  1  0.250000  0.010361  0.201632  1
+  Sb  Sb8  1  0.750000  0.730808  0.100450  1
+  Sb  Sb9  1  0.250000  0.269192  0.899550  1
+  Sb  Sb10  1  0.750000  0.230808  0.399550  1
+  Sb  Sb11  1  0.250000  0.769192  0.600450  1

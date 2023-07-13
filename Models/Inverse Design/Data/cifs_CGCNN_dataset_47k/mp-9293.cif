@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_EuGeAu
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.92119169
+_cell_length_b   5.92119169
+_cell_length_c   5.92119169
+_cell_angle_alpha   133.84533007
+_cell_angle_beta   102.26666510
+_cell_angle_gamma   95.44119661
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   EuGeAu
+_chemical_formula_sum   'Eu2 Ge2 Au2'
+_cell_volume   137.40927020
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Eu  Eu0  1  0.203167  0.703167  0.500000  1
+  Eu  Eu1  1  0.631752  0.631752  0.000000  1
+  Ge  Ge2  1  0.645011  0.333426  0.311585  1
+  Ge  Ge3  1  0.021841  0.333426  0.688415  1
+  Au  Au4  1  0.784106  0.001949  0.782157  1
+  Au  Au5  1  0.219792  0.001949  0.217843  1

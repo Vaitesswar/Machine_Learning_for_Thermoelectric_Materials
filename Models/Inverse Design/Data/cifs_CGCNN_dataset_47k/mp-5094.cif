@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Co2(GeSe)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.37761770
+_cell_length_b   8.37761770
+_cell_length_c   8.37761770
+_cell_angle_alpha   89.94249200
+_cell_angle_beta   89.94249200
+_cell_angle_gamma   89.94249200
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co2(GeSe)3
+_chemical_formula_sum   'Co8 Ge12 Se12'
+_cell_volume   587.97783975
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.250792  0.250792  0.250792  1
+  Co  Co1  1  0.749208  0.749208  0.749208  1
+  Co  Co2  1  0.253488  0.753243  0.251842  1
+  Co  Co3  1  0.753243  0.251842  0.253488  1
+  Co  Co4  1  0.251842  0.253488  0.753243  1
+  Co  Co5  1  0.748158  0.746512  0.246757  1
+  Co  Co6  1  0.746512  0.246757  0.748158  1
+  Co  Co7  1  0.246757  0.748158  0.746512  1
+  Ge  Ge8  1  0.841728  0.999603  0.329228  1
+  Ge  Ge9  1  0.999603  0.329228  0.841728  1
+  Ge  Ge10  1  0.329228  0.841728  0.999603  1
+  Ge  Ge11  1  0.158272  0.000397  0.670772  1
+  Ge  Ge12  1  0.000397  0.670772  0.158272  1
+  Ge  Ge13  1  0.670772  0.158272  0.000397  1
+  Ge  Ge14  1  0.658784  0.498363  0.827927  1
+  Ge  Ge15  1  0.498363  0.827927  0.658784  1
+  Ge  Ge16  1  0.827927  0.658784  0.498363  1
+  Ge  Ge17  1  0.341216  0.501637  0.172073  1
+  Ge  Ge18  1  0.501637  0.172073  0.341216  1
+  Ge  Ge19  1  0.172073  0.341216  0.501637  1
+  Se  Se20  1  0.850838  0.997657  0.656243  1
+  Se  Se21  1  0.997657  0.656243  0.850838  1
+  Se  Se22  1  0.656243  0.850838  0.997657  1
+  Se  Se23  1  0.149162  0.002343  0.343757  1
+  Se  Se24  1  0.002343  0.343757  0.149162  1
+  Se  Se25  1  0.343757  0.149162  0.002343  1
+  Se  Se26  1  0.652128  0.499297  0.155497  1
+  Se  Se27  1  0.499297  0.155498  0.652128  1
+  Se  Se28  1  0.155498  0.652128  0.499297  1
+  Se  Se29  1  0.347872  0.500703  0.844503  1
+  Se  Se30  1  0.500703  0.844503  0.347872  1
+  Se  Se31  1  0.844502  0.347872  0.500703  1

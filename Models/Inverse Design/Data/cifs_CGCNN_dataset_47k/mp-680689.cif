@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_SrTi2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.11899638
+_cell_length_b   9.11899638
+_cell_length_c   11.55570503
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   128.08500675
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrTi2O5
+_chemical_formula_sum   'Sr4 Ti8 O20'
+_cell_volume   756.34248205
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.500000  0.500000  0.387615  1
+  Sr  Sr1  1  0.230619  0.769381  0.395825  1
+  Sr  Sr2  1  0.769381  0.230619  0.395825  1
+  Sr  Sr3  1  0.000000  0.000000  0.363264  1
+  Ti  Ti4  1  0.397273  0.126899  0.246830  1
+  Ti  Ti5  1  0.602727  0.873101  0.246830  1
+  Ti  Ti6  1  0.873101  0.602727  0.246830  1
+  Ti  Ti7  1  0.126899  0.397273  0.246830  1
+  Ti  Ti8  1  0.714395  0.714395  0.068654  1
+  Ti  Ti9  1  0.285605  0.285605  0.068654  1
+  Ti  Ti10  1  0.123246  0.876754  0.042401  1
+  Ti  Ti11  1  0.876754  0.123246  0.042401  1
+  O  O12  1  0.811893  0.188107  0.933006  1
+  O  O13  1  0.715028  0.715028  0.228437  1
+  O  O14  1  0.328039  0.105810  0.399825  1
+  O  O15  1  0.365195  0.634805  0.268351  1
+  O  O16  1  0.863541  0.136459  0.221880  1
+  O  O17  1  0.357895  0.130723  0.076381  1
+  O  O18  1  0.500000  0.000000  0.267254  1
+  O  O19  1  0.130723  0.357895  0.076381  1
+  O  O20  1  0.642105  0.869277  0.076381  1
+  O  O21  1  0.894190  0.671961  0.399825  1
+  O  O22  1  0.634805  0.365195  0.268351  1
+  O  O23  1  0.000000  0.500000  0.267254  1
+  O  O24  1  0.136459  0.863541  0.221880  1
+  O  O25  1  0.188107  0.811893  0.933006  1
+  O  O26  1  0.105810  0.328039  0.399825  1
+  O  O27  1  0.284972  0.284972  0.228437  1
+  O  O28  1  0.671961  0.894190  0.399825  1
+  O  O29  1  0.500000  0.500000  0.014054  1
+  O  O30  1  0.000000  0.000000  0.015574  1
+  O  O31  1  0.869277  0.642105  0.076381  1

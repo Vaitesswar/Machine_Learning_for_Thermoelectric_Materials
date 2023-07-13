@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Dy4In(NiGe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.04437386
+_cell_length_b   8.04437386
+_cell_length_c   7.05920983
+_cell_angle_alpha   71.96597819
+_cell_angle_beta   108.03402181
+_cell_angle_gamma   149.42484685
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Dy4In(NiGe2)2
+_chemical_formula_sum   'Dy4 In1 Ni2 Ge4'
+_cell_volume   220.07513963
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.344311  0.655689  0.061987  1
+  Dy  Dy1  1  0.655689  0.344311  0.938013  1
+  Dy  Dy2  1  0.408172  0.591828  0.609012  1
+  Dy  Dy3  1  0.591828  0.408172  0.390988  1
+  In  In4  1  0.000000  0.000000  0.000000  1
+  Ni  Ni5  1  0.216636  0.783364  0.643922  1
+  Ni  Ni6  1  0.783364  0.216636  0.356078  1
+  Ge  Ge7  1  0.065410  0.934590  0.662267  1
+  Ge  Ge8  1  0.934590  0.065410  0.337733  1
+  Ge  Ge9  1  0.204161  0.795839  0.272643  1
+  Ge  Ge10  1  0.795839  0.204161  0.727357  1

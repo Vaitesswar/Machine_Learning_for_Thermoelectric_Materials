@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_LaCN2Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36357191
+_cell_length_b   4.03845871
+_cell_length_c   7.62975268
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   100.34154492
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaCN2Cl
+_chemical_formula_sum   'La2 C2 N4 Cl2'
+_cell_volume   162.58003977
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.822772  0.750000  0.264082  1
+  La  La1  1  0.177228  0.250000  0.735918  1
+  C  C2  1  0.653084  0.750000  0.641751  1
+  C  C3  1  0.346916  0.250000  0.358249  1
+  N  N4  1  0.568238  0.250000  0.339229  1
+  N  N5  1  0.122609  0.250000  0.381549  1
+  N  N6  1  0.877391  0.750000  0.618451  1
+  N  N7  1  0.431762  0.750000  0.660771  1
+  Cl  Cl8  1  0.254783  0.750000  0.041993  1
+  Cl  Cl9  1  0.745217  0.250000  0.958007  1

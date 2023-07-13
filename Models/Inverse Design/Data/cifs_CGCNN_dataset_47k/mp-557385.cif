@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_K4Ru(NO2)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.70904469
+_cell_length_b   8.70904469
+_cell_length_c   8.70904469
+_cell_angle_alpha   51.73121534
+_cell_angle_beta   51.73121534
+_cell_angle_gamma   51.73121534
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K4Ru(NO2)6
+_chemical_formula_sum   'K4 Ru1 N6 O12'
+_cell_volume   376.21319966
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.379029  0.379029  0.379029  1
+  K  K1  1  0.620971  0.620971  0.620971  1
+  K  K2  1  0.807480  0.807480  0.807480  1
+  K  K3  1  0.192520  0.192520  0.192520  1
+  Ru  Ru4  1  0.000000  0.000000  0.000000  1
+  N  N5  1  0.692404  0.071967  0.072606  1
+  N  N6  1  0.071967  0.072606  0.692404  1
+  N  N7  1  0.927394  0.307596  0.928033  1
+  N  N8  1  0.072606  0.692404  0.071967  1
+  N  N9  1  0.928033  0.927394  0.307596  1
+  N  N10  1  0.307596  0.928033  0.927394  1
+  O  O11  1  0.142039  0.632824  0.931875  1
+  O  O12  1  0.931875  0.142039  0.632824  1
+  O  O13  1  0.367176  0.068125  0.857961  1
+  O  O14  1  0.956699  0.442381  0.739447  1
+  O  O15  1  0.260553  0.043301  0.557619  1
+  O  O16  1  0.857961  0.367176  0.068125  1
+  O  O17  1  0.043301  0.557619  0.260553  1
+  O  O18  1  0.557619  0.260553  0.043301  1
+  O  O19  1  0.632824  0.931875  0.142039  1
+  O  O20  1  0.442381  0.739447  0.956699  1
+  O  O21  1  0.739447  0.956699  0.442381  1
+  O  O22  1  0.068125  0.857961  0.367176  1

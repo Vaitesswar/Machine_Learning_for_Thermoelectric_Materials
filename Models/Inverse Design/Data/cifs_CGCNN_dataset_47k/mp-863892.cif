@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Co(NiO2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.04045992
+_cell_length_b   5.87605728
+_cell_length_c   10.59271711
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   116.28413859
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co(NiO2)2
+_chemical_formula_sum   'Co4 Ni8 O16'
+_cell_volume   281.29802311
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.794500  0.857289  0.528527  1
+  Co  Co1  1  0.205500  0.357289  0.971473  1
+  Co  Co2  1  0.794500  0.642711  0.028527  1
+  Co  Co3  1  0.205500  0.142711  0.471473  1
+  Ni  Ni4  1  0.218003  0.869732  0.970416  1
+  Ni  Ni5  1  0.507847  0.380202  0.251793  1
+  Ni  Ni6  1  0.781997  0.369732  0.529584  1
+  Ni  Ni7  1  0.492153  0.880202  0.248207  1
+  Ni  Ni8  1  0.507847  0.119798  0.751793  1
+  Ni  Ni9  1  0.218003  0.630268  0.470416  1
+  Ni  Ni10  1  0.492153  0.619798  0.748207  1
+  Ni  Ni11  1  0.781997  0.130268  0.029584  1
+  O  O12  1  0.949183  0.132871  0.875401  1
+  O  O13  1  0.523334  0.878100  0.613075  1
+  O  O14  1  0.502459  0.632684  0.387268  1
+  O  O15  1  0.937283  0.610774  0.884733  1
+  O  O16  1  0.062717  0.110774  0.615267  1
+  O  O17  1  0.497541  0.132684  0.112732  1
+  O  O18  1  0.476666  0.378100  0.886925  1
+  O  O19  1  0.050817  0.632871  0.624599  1
+  O  O20  1  0.949183  0.367129  0.375401  1
+  O  O21  1  0.523334  0.621900  0.113075  1
+  O  O22  1  0.502459  0.867316  0.887268  1
+  O  O23  1  0.937283  0.889226  0.384733  1
+  O  O24  1  0.062717  0.389226  0.115267  1
+  O  O25  1  0.497541  0.367316  0.612732  1
+  O  O26  1  0.476666  0.121900  0.386925  1
+  O  O27  1  0.050817  0.867129  0.124599  1

@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_ReH8(Br3N)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.39212027
+_cell_length_b   7.39212027
+_cell_length_c   7.39212027
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ReH8(Br3N)2
+_chemical_formula_sum   'Re1 H8 Br6 N2'
+_cell_volume   285.62227612
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Re  Re0  1  0.000000  0.000000  0.000000  1
+  H  H1  1  0.692892  0.692892  0.692892  1
+  H  H2  1  0.078676  0.307108  0.307108  1
+  H  H3  1  0.307108  0.078676  0.307108  1
+  H  H4  1  0.307108  0.307108  0.078676  1
+  H  H5  1  0.692892  0.692892  0.921324  1
+  H  H6  1  0.921324  0.692892  0.692892  1
+  H  H7  1  0.692892  0.921324  0.692892  1
+  H  H8  1  0.307108  0.307108  0.307108  1
+  Br  Br9  1  0.759005  0.759005  0.240995  1
+  Br  Br10  1  0.240995  0.759005  0.240995  1
+  Br  Br11  1  0.759005  0.240995  0.759005  1
+  Br  Br12  1  0.240995  0.759005  0.759005  1
+  Br  Br13  1  0.759005  0.240995  0.240995  1
+  Br  Br14  1  0.240995  0.240995  0.759005  1
+  N  N15  1  0.750000  0.750000  0.750000  1
+  N  N16  1  0.250000  0.250000  0.250000  1

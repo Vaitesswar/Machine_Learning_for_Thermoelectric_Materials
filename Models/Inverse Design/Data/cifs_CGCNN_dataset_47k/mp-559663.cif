@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_SrLiNiF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.22322892
+_cell_length_b   5.22322892
+_cell_length_c   10.47012299
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrLiNiF6
+_chemical_formula_sum   'Sr2 Li2 Ni2 F12'
+_cell_volume   247.37769293
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.000000  0.000000  0.000000  1
+  Sr  Sr1  1  0.000000  0.000000  0.500000  1
+  Li  Li2  1  0.333333  0.666667  0.250000  1
+  Li  Li3  1  0.666667  0.333333  0.750000  1
+  Ni  Ni4  1  0.666667  0.333333  0.250000  1
+  Ni  Ni5  1  0.333333  0.666667  0.750000  1
+  F  F6  1  0.377449  0.019865  0.145718  1
+  F  F7  1  0.622551  0.642417  0.645718  1
+  F  F8  1  0.357583  0.980135  0.645718  1
+  F  F9  1  0.019865  0.377449  0.645718  1
+  F  F10  1  0.980135  0.622551  0.354282  1
+  F  F11  1  0.980135  0.357583  0.145718  1
+  F  F12  1  0.642417  0.622551  0.145718  1
+  F  F13  1  0.642417  0.019865  0.354282  1
+  F  F14  1  0.019865  0.642417  0.854282  1
+  F  F15  1  0.377449  0.357583  0.354282  1
+  F  F16  1  0.622551  0.980135  0.854282  1
+  F  F17  1  0.357583  0.377449  0.854282  1

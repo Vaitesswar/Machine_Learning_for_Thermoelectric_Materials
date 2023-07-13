@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Sr2BN2Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.20337348
+_cell_length_b   9.28096475
+_cell_length_c   12.53953109
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2BN2Cl
+_chemical_formula_sum   'Sr8 B4 N8 Cl4'
+_cell_volume   489.18417536
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.250000  0.383533  0.587905  1
+  Sr  Sr1  1  0.250000  0.116467  0.087905  1
+  Sr  Sr2  1  0.750000  0.883533  0.912095  1
+  Sr  Sr3  1  0.750000  0.616467  0.412095  1
+  Sr  Sr4  1  0.750000  0.440149  0.829137  1
+  Sr  Sr5  1  0.250000  0.559851  0.170863  1
+  Sr  Sr6  1  0.250000  0.940149  0.670863  1
+  Sr  Sr7  1  0.750000  0.059851  0.329137  1
+  B  B8  1  0.750000  0.828144  0.166286  1
+  B  B9  1  0.250000  0.171856  0.833714  1
+  B  B10  1  0.250000  0.328144  0.333714  1
+  B  B11  1  0.750000  0.671856  0.666286  1
+  N  N12  1  0.750000  0.801254  0.714450  1
+  N  N13  1  0.250000  0.198746  0.285550  1
+  N  N14  1  0.250000  0.301254  0.785550  1
+  N  N15  1  0.750000  0.961868  0.122595  1
+  N  N16  1  0.750000  0.538132  0.622595  1
+  N  N17  1  0.250000  0.461868  0.377405  1
+  N  N18  1  0.250000  0.038132  0.877405  1
+  N  N19  1  0.750000  0.698746  0.214450  1
+  Cl  Cl20  1  0.750000  0.355047  0.061697  1
+  Cl  Cl21  1  0.250000  0.855047  0.438303  1
+  Cl  Cl22  1  0.250000  0.644953  0.938303  1
+  Cl  Cl23  1  0.750000  0.144953  0.561697  1

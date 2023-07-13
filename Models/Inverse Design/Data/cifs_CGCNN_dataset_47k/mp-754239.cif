@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_ScGaO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06465393
+_cell_length_b   5.38396748
+_cell_length_c   7.58976049
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScGaO3
+_chemical_formula_sum   'Sc4 Ga4 O12'
+_cell_volume   206.95707337
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.024158  0.930432  0.750000  1
+  Sc  Sc1  1  0.475842  0.430432  0.750000  1
+  Sc  Sc2  1  0.524158  0.569568  0.250000  1
+  Sc  Sc3  1  0.975842  0.069568  0.250000  1
+  Ga  Ga4  1  0.000000  0.500000  0.000000  1
+  Ga  Ga5  1  0.000000  0.500000  0.500000  1
+  Ga  Ga6  1  0.500000  0.000000  0.000000  1
+  Ga  Ga7  1  0.500000  0.000000  0.500000  1
+  O  O8  1  0.141062  0.437508  0.250000  1
+  O  O9  1  0.185917  0.188992  0.571638  1
+  O  O10  1  0.185917  0.188992  0.928362  1
+  O  O11  1  0.314083  0.688992  0.571638  1
+  O  O12  1  0.314083  0.688992  0.928362  1
+  O  O13  1  0.358938  0.937508  0.250000  1
+  O  O14  1  0.641062  0.062492  0.750000  1
+  O  O15  1  0.685917  0.311008  0.071638  1
+  O  O16  1  0.685917  0.311008  0.428362  1
+  O  O17  1  0.814083  0.811008  0.071638  1
+  O  O18  1  0.814083  0.811008  0.428362  1
+  O  O19  1  0.858938  0.562492  0.750000  1

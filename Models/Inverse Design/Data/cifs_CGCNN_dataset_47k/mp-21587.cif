@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Mg6Ni16As7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.16144849
+_cell_length_b   8.16144849
+_cell_length_c   8.16144849
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mg6Ni16As7
+_chemical_formula_sum   'Mg6 Ni16 As7'
+_cell_volume   384.40297012
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.300876  0.699124  0.699124  1
+  Mg  Mg1  1  0.699124  0.300876  0.699124  1
+  Mg  Mg2  1  0.300876  0.699124  0.300876  1
+  Mg  Mg3  1  0.300876  0.300876  0.699124  1
+  Mg  Mg4  1  0.699124  0.699124  0.300876  1
+  Mg  Mg5  1  0.699124  0.300876  0.300876  1
+  Ni  Ni6  1  0.332829  0.001514  0.332829  1
+  Ni  Ni7  1  0.667171  0.667171  0.667171  1
+  Ni  Ni8  1  0.667171  0.667171  0.998486  1
+  Ni  Ni9  1  0.998486  0.667171  0.667171  1
+  Ni  Ni10  1  0.332829  0.332829  0.001514  1
+  Ni  Ni11  1  0.001514  0.332829  0.332829  1
+  Ni  Ni12  1  0.332829  0.332829  0.332829  1
+  Ni  Ni13  1  0.667171  0.998486  0.667171  1
+  Ni  Ni14  1  0.118088  0.645735  0.118088  1
+  Ni  Ni15  1  0.881912  0.881912  0.881912  1
+  Ni  Ni16  1  0.881912  0.881912  0.354265  1
+  Ni  Ni17  1  0.354265  0.881912  0.881912  1
+  Ni  Ni18  1  0.118088  0.118088  0.645735  1
+  Ni  Ni19  1  0.645735  0.118088  0.118088  1
+  Ni  Ni20  1  0.118088  0.118088  0.118088  1
+  Ni  Ni21  1  0.881912  0.354265  0.881912  1
+  As  As22  1  0.000000  0.000000  0.000000  1
+  As  As23  1  0.500000  0.000000  1.000000  1
+  As  As24  1  0.500000  0.000000  0.500000  1
+  As  As25  1  1.000000  0.500000  1.000000  1
+  As  As26  1  0.000000  0.500000  0.500000  1
+  As  As27  1  1.000000  1.000000  0.500000  1
+  As  As28  1  0.500000  0.500000  1.000000  1

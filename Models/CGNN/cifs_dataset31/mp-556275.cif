@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Rb2Al2Sb2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.74799588
+_cell_length_b   5.74799588
+_cell_length_c   8.58503823
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2Al2Sb2O7
+_chemical_formula_sum   'Rb2 Al2 Sb2 O7'
+_cell_volume   245.64377457
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.666667  0.333333  0.407367  1
+  Rb  Rb1  1  0.333333  0.666667  0.592633  1
+  Al  Al2  1  0.000000  0.000000  0.798538  1
+  Al  Al3  1  0.000000  0.000000  0.201462  1
+  Sb  Sb4  1  0.333333  0.666667  0.152649  1
+  Sb  Sb5  1  0.666667  0.333333  0.847351  1
+  O  O6  1  0.334430  0.167215  0.721310  1
+  O  O7  1  0.167215  0.832785  0.278690  1
+  O  O8  1  0.832785  0.167215  0.721310  1
+  O  O9  1  0.832785  0.665570  0.721310  1
+  O  O10  1  0.665570  0.832785  0.278690  1
+  O  O11  1  0.000000  0.000000  0.000000  1
+  O  O12  1  0.167215  0.334430  0.278690  1

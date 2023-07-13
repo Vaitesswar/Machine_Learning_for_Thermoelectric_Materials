@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Ba2Ni3F10
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.85644982
+_cell_length_b   9.85644982
+_cell_length_c   7.94789777
+_cell_angle_alpha   69.29966512
+_cell_angle_beta   110.70033488
+_cell_angle_gamma   144.38536901
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2Ni3F10
+_chemical_formula_sum   'Ba4 Ni6 F20'
+_cell_volume   417.50043157
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.216909  0.783091  0.813290  1
+  Ba  Ba1  1  0.783091  0.216909  0.186710  1
+  Ba  Ba2  1  0.114623  0.885377  0.220936  1
+  Ba  Ba3  1  0.885377  0.114623  0.779064  1
+  Ni  Ni4  1  0.753202  0.753202  0.500000  1
+  Ni  Ni5  1  0.246798  0.246798  0.500000  1
+  Ni  Ni6  1  0.322636  0.677364  0.483124  1
+  Ni  Ni7  1  0.677364  0.322636  0.516876  1
+  Ni  Ni8  1  0.425450  0.574550  0.040588  1
+  Ni  Ni9  1  0.574550  0.425450  0.959412  1
+  F  F10  1  0.000000  0.500000  0.500000  1
+  F  F11  1  0.500000  0.000000  0.500000  1
+  F  F12  1  0.274608  0.274608  0.000000  1
+  F  F13  1  0.725392  0.725392  0.000000  1
+  F  F14  1  0.263282  0.736718  0.219539  1
+  F  F15  1  0.736718  0.263282  0.780461  1
+  F  F16  1  0.017419  0.982581  0.681819  1
+  F  F17  1  0.982581  0.017419  0.318181  1
+  F  F18  1  0.365910  0.634090  0.756775  1
+  F  F19  1  0.634090  0.365910  0.243225  1
+  F  F20  1  0.647174  0.870597  0.473290  1
+  F  F21  1  0.870597  0.647174  0.526710  1
+  F  F22  1  0.352826  0.129403  0.526710  1
+  F  F23  1  0.129403  0.352826  0.473290  1
+  F  F24  1  0.411154  0.111633  0.975717  1
+  F  F25  1  0.111633  0.411154  0.024283  1
+  F  F26  1  0.588846  0.888367  0.024283  1
+  F  F27  1  0.888367  0.588846  0.975717  1
+  F  F28  1  0.521234  0.478766  0.683992  1
+  F  F29  1  0.478766  0.521234  0.316008  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_La3Ge3Cl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.35579097
+_cell_length_b   9.35579097
+_cell_length_c   10.85859859
+_cell_angle_alpha   81.92517290
+_cell_angle_beta   98.07482710
+_cell_angle_gamma   153.23321962
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3Ge3Cl2
+_chemical_formula_sum   'La6 Ge6 Cl4'
+_cell_volume   423.56462681
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.316265  0.683735  0.851948  1
+  La  La1  1  0.467957  0.532043  0.168628  1
+  La  La2  1  0.616840  0.383160  0.490499  1
+  La  La3  1  0.683735  0.316265  0.148052  1
+  La  La4  1  0.532043  0.467957  0.831372  1
+  La  La5  1  0.383160  0.616840  0.509501  1
+  Ge  Ge6  1  0.024203  0.975797  0.616666  1
+  Ge  Ge7  1  0.095990  0.904010  0.281603  1
+  Ge  Ge8  1  0.904010  0.095990  0.718397  1
+  Ge  Ge9  1  0.070240  0.929760  0.044135  1
+  Ge  Ge10  1  0.975797  0.024203  0.383334  1
+  Ge  Ge11  1  0.929760  0.070240  0.955865  1
+  Cl  Cl12  1  0.226378  0.773622  0.607484  1
+  Cl  Cl13  1  0.701254  0.298746  0.873583  1
+  Cl  Cl14  1  0.298746  0.701254  0.126417  1
+  Cl  Cl15  1  0.773622  0.226378  0.392516  1

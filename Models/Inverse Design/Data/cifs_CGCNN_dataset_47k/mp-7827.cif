@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_K2Ni(CN)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.39515414
+_cell_length_b   7.68119033
+_cell_length_c   13.38457642
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.82312057
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2Ni(CN)4
+_chemical_formula_sum   'K4 Ni2 C8 N8'
+_cell_volume   451.81687856
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.715019  0.042267  0.344550  1
+  K  K1  1  0.284981  0.542267  0.155450  1
+  K  K2  1  0.715019  0.457733  0.844550  1
+  K  K3  1  0.284981  0.957733  0.655450  1
+  Ni  Ni4  1  0.000000  0.000000  0.000000  1
+  Ni  Ni5  1  0.000000  0.500000  0.500000  1
+  C  C6  1  0.850075  0.882384  0.108488  1
+  C  C7  1  0.149925  0.117616  0.891512  1
+  C  C8  1  0.850075  0.617616  0.608488  1
+  C  C9  1  0.149925  0.382384  0.391512  1
+  C  C10  1  0.855040  0.292457  0.549085  1
+  C  C11  1  0.144960  0.792457  0.950915  1
+  C  C12  1  0.855040  0.207543  0.049085  1
+  C  C13  1  0.144960  0.707543  0.450915  1
+  N  N14  1  0.234858  0.657540  0.921983  1
+  N  N15  1  0.765142  0.157540  0.578017  1
+  N  N16  1  0.241090  0.303363  0.322714  1
+  N  N17  1  0.241090  0.196637  0.822714  1
+  N  N18  1  0.758910  0.803363  0.177286  1
+  N  N19  1  0.758910  0.696637  0.677286  1
+  N  N20  1  0.765142  0.342460  0.078017  1
+  N  N21  1  0.234858  0.842460  0.421983  1

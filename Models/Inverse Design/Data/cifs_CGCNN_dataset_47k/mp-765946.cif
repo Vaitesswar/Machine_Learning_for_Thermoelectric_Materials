@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Na2Co6O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.85584241
+_cell_length_b   10.85584241
+_cell_length_c   3.24817091
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Co6O7
+_chemical_formula_sum   'Na4 Co12 O14'
+_cell_volume   382.79471488
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.360457  0.639543  0.015212  1
+  Na  Na1  1  0.139543  0.139543  0.515212  1
+  Na  Na2  1  0.860457  0.860457  0.515212  1
+  Na  Na3  1  0.639543  0.360457  0.015212  1
+  Co  Co4  1  0.411394  0.155291  0.011841  1
+  Co  Co5  1  0.380512  0.380512  0.502723  1
+  Co  Co6  1  0.344709  0.911394  0.511841  1
+  Co  Co7  1  0.155291  0.411394  0.011841  1
+  Co  Co8  1  0.119488  0.880512  0.002723  1
+  Co  Co9  1  0.088606  0.655291  0.511841  1
+  Co  Co10  1  0.911394  0.344709  0.511841  1
+  Co  Co11  1  0.880512  0.119488  0.002723  1
+  Co  Co12  1  0.844709  0.588606  0.011841  1
+  Co  Co13  1  0.655291  0.088606  0.511841  1
+  Co  Co14  1  0.619488  0.619488  0.502723  1
+  Co  Co15  1  0.588606  0.844709  0.011841  1
+  O  O16  1  0.500000  0.500000  0.364033  1
+  O  O17  1  0.489232  0.804135  0.511918  1
+  O  O18  1  0.304135  0.010768  0.011918  1
+  O  O19  1  0.303730  0.303730  0.997019  1
+  O  O20  1  0.196270  0.803730  0.497019  1
+  O  O21  1  0.195865  0.510768  0.511918  1
+  O  O22  1  0.010768  0.304135  0.011918  1
+  O  O23  1  0.000000  0.000000  0.864033  1
+  O  O24  1  0.989232  0.695865  0.011918  1
+  O  O25  1  0.804135  0.489232  0.511918  1
+  O  O26  1  0.803730  0.196270  0.497019  1
+  O  O27  1  0.696270  0.696270  0.997019  1
+  O  O28  1  0.695865  0.989232  0.011918  1
+  O  O29  1  0.510768  0.195865  0.511918  1

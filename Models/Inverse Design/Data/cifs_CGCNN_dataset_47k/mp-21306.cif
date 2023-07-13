@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiCoSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.70929386
+_cell_length_b   6.12662372
+_cell_length_c   6.89515780
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiCoSi
+_chemical_formula_sum   'Ti4 Co4 Si4'
+_cell_volume   156.69554829
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.250000  0.015514  0.809158  1
+  Ti  Ti1  1  0.750000  0.484486  0.309158  1
+  Ti  Ti2  1  0.250000  0.515514  0.690842  1
+  Ti  Ti3  1  0.750000  0.984486  0.190842  1
+  Co  Co4  1  0.250000  0.645587  0.065414  1
+  Co  Co5  1  0.750000  0.354413  0.934586  1
+  Co  Co6  1  0.250000  0.145587  0.434586  1
+  Co  Co7  1  0.750000  0.854413  0.565414  1
+  Si  Si8  1  0.750000  0.726774  0.885752  1
+  Si  Si9  1  0.250000  0.773226  0.385752  1
+  Si  Si10  1  0.750000  0.226774  0.614248  1
+  Si  Si11  1  0.250000  0.273226  0.114248  1

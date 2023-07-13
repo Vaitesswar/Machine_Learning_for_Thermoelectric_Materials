@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_NaTmGeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30137180
+_cell_length_b   6.42753797
+_cell_length_c   11.39271678
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTmGeO4
+_chemical_formula_sum   'Na4 Tm4 Ge4 O16'
+_cell_volume   388.20418729
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.500000  0.000000  0.000000  1
+  Na  Na1  1  0.000000  0.000000  0.500000  1
+  Na  Na2  1  0.500000  0.500000  0.000000  1
+  Na  Na3  1  0.000000  0.500000  0.500000  1
+  Tm  Tm4  1  0.993828  0.750000  0.776871  1
+  Tm  Tm5  1  0.493828  0.250000  0.723129  1
+  Tm  Tm6  1  0.006172  0.250000  0.223129  1
+  Tm  Tm7  1  0.506172  0.750000  0.276871  1
+  Ge  Ge8  1  0.948691  0.750000  0.098627  1
+  Ge  Ge9  1  0.448691  0.250000  0.401373  1
+  Ge  Ge10  1  0.051309  0.250000  0.901373  1
+  Ge  Ge11  1  0.551309  0.750000  0.598627  1
+  O  O12  1  0.831253  0.750000  0.953801  1
+  O  O13  1  0.331253  0.250000  0.546199  1
+  O  O14  1  0.168747  0.250000  0.046199  1
+  O  O15  1  0.668747  0.750000  0.453801  1
+  O  O16  1  0.207375  0.040748  0.823599  1
+  O  O17  1  0.707375  0.959252  0.676401  1
+  O  O18  1  0.792625  0.540748  0.176401  1
+  O  O19  1  0.292625  0.459252  0.323599  1
+  O  O20  1  0.792625  0.959252  0.176401  1
+  O  O21  1  0.292625  0.040748  0.323599  1
+  O  O22  1  0.207375  0.459252  0.823599  1
+  O  O23  1  0.707375  0.540748  0.676401  1
+  O  O24  1  0.223416  0.750000  0.612365  1
+  O  O25  1  0.723416  0.250000  0.887635  1
+  O  O26  1  0.776584  0.250000  0.387635  1
+  O  O27  1  0.276584  0.750000  0.112365  1

@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TaNiB2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.11367588
+_cell_length_b   6.03733280
+_cell_length_c   8.18467025
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaNiB2
+_chemical_formula_sum   'Ta4 Ni4 B8'
+_cell_volume   153.85786645
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.250000  0.632782  0.632433  1
+  Ta  Ta1  1  0.750000  0.367218  0.367567  1
+  Ta  Ta2  1  0.250000  0.132782  0.867567  1
+  Ta  Ta3  1  0.750000  0.867218  0.132433  1
+  Ni  Ni4  1  0.750000  0.998854  0.616243  1
+  Ni  Ni5  1  0.750000  0.498854  0.883757  1
+  Ni  Ni6  1  0.250000  0.001146  0.383757  1
+  Ni  Ni7  1  0.250000  0.501146  0.116243  1
+  B  B8  1  0.250000  0.672062  0.332138  1
+  B  B9  1  0.750000  0.327938  0.667862  1
+  B  B10  1  0.250000  0.172062  0.167862  1
+  B  B11  1  0.750000  0.827938  0.832138  1
+  B  B12  1  0.250000  0.742228  0.923549  1
+  B  B13  1  0.750000  0.757772  0.423549  1
+  B  B14  1  0.250000  0.242228  0.576451  1
+  B  B15  1  0.750000  0.257772  0.076451  1

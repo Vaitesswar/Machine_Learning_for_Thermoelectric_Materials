@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_K2PtN3(ClO2)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.76788295
+_cell_length_b   7.76880347
+_cell_length_c   11.08498405
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   100.99944411
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2PtN3(ClO2)3
+_chemical_formula_sum   'K4 Pt2 N6 Cl6 O12'
+_cell_volume   572.12304540
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.789502  0.250000  0.531478  1
+  K  K1  1  0.383196  0.250000  0.885711  1
+  K  K2  1  0.210498  0.750000  0.468522  1
+  K  K3  1  0.616804  0.750000  0.114289  1
+  Pt  Pt4  1  0.120479  0.250000  0.247597  1
+  Pt  Pt5  1  0.879521  0.750000  0.752403  1
+  N  N6  1  0.051688  0.750000  0.932845  1
+  N  N7  1  0.314709  0.441976  0.207044  1
+  N  N8  1  0.685291  0.558024  0.792956  1
+  N  N9  1  0.948312  0.250000  0.067155  1
+  N  N10  1  0.685291  0.941976  0.792956  1
+  N  N11  1  0.314709  0.058024  0.207044  1
+  Cl  Cl12  1  0.903360  0.469437  0.300583  1
+  Cl  Cl13  1  0.294572  0.250000  0.457192  1
+  Cl  Cl14  1  0.096640  0.530563  0.699417  1
+  Cl  Cl15  1  0.096640  0.969437  0.699417  1
+  Cl  Cl16  1  0.705428  0.750000  0.542808  1
+  Cl  Cl17  1  0.903360  0.030563  0.300583  1
+  O  O18  1  0.625422  0.935774  0.891414  1
+  O  O19  1  0.366348  0.943369  0.283898  1
+  O  O20  1  0.374578  0.064226  0.108586  1
+  O  O21  1  0.764406  0.250000  0.059401  1
+  O  O22  1  0.235594  0.750000  0.940599  1
+  O  O23  1  0.031586  0.250000  0.977205  1
+  O  O24  1  0.633652  0.056631  0.716102  1
+  O  O25  1  0.374578  0.435774  0.108586  1
+  O  O26  1  0.366348  0.556631  0.283898  1
+  O  O27  1  0.633652  0.443369  0.716102  1
+  O  O28  1  0.625422  0.564226  0.891414  1
+  O  O29  1  0.968414  0.750000  0.022795  1

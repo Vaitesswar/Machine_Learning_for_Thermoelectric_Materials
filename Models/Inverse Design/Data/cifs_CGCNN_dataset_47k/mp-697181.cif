@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CsLi2(HO)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.35203337
+_cell_length_b   5.42180357
+_cell_length_c   6.40645085
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   102.27660188
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsLi2(HO)3
+_chemical_formula_sum   'Cs2 Li4 H6 O6'
+_cell_volume   215.58944905
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.154894  0.750000  0.272811  1
+  Cs  Cs1  1  0.845106  0.250000  0.727189  1
+  Li  Li2  1  0.648172  0.497304  0.181511  1
+  Li  Li3  1  0.351828  0.997304  0.818489  1
+  Li  Li4  1  0.351828  0.502696  0.818489  1
+  Li  Li5  1  0.648172  0.002696  0.181511  1
+  H  H6  1  0.723767  0.750000  0.871411  1
+  H  H7  1  0.276233  0.250000  0.128589  1
+  H  H8  1  0.004285  0.750000  0.668779  1
+  H  H9  1  0.995715  0.250000  0.331221  1
+  H  H10  1  0.614842  0.750000  0.527962  1
+  H  H11  1  0.385158  0.250000  0.472038  1
+  O  O12  1  0.592753  0.750000  0.927229  1
+  O  O13  1  0.407247  0.250000  0.072771  1
+  O  O14  1  0.119090  0.750000  0.796931  1
+  O  O15  1  0.880910  0.250000  0.203069  1
+  O  O16  1  0.684019  0.750000  0.406446  1
+  O  O17  1  0.315981  0.250000  0.593554  1

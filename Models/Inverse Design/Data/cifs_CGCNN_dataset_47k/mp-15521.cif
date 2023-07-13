@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ba2LiSi3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.39418082
+_cell_length_b   10.71454476
+_cell_length_c   8.78526286
+_cell_angle_alpha   78.24099704
+_cell_angle_beta   57.81572676
+_cell_angle_gamma   43.94327620
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2LiSi3
+_chemical_formula_sum   'Ba8 Li4 Si12'
+_cell_volume   652.32895137
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.124272  0.124272  0.875728  1
+  Ba  Ba1  1  0.875728  0.875728  0.124272  1
+  Ba  Ba2  1  0.125728  0.125728  0.374272  1
+  Ba  Ba3  1  0.374272  0.374272  0.125728  1
+  Ba  Ba4  1  0.374830  0.374830  0.625170  1
+  Ba  Ba5  1  0.625170  0.625170  0.374830  1
+  Ba  Ba6  1  0.875170  0.875170  0.624830  1
+  Ba  Ba7  1  0.624830  0.624830  0.875170  1
+  Li  Li8  1  0.832357  0.167643  0.832357  1
+  Li  Li9  1  0.167643  0.832357  0.167643  1
+  Li  Li10  1  0.417643  0.082357  0.417643  1
+  Li  Li11  1  0.082357  0.417643  0.082357  1
+  Si  Si12  1  0.819254  0.188026  0.338204  1
+  Si  Si13  1  0.654516  0.338204  0.188026  1
+  Si  Si14  1  0.338204  0.654516  0.819254  1
+  Si  Si15  1  0.188026  0.819254  0.654516  1
+  Si  Si16  1  0.907838  0.592162  0.907838  1
+  Si  Si17  1  0.592162  0.907838  0.592162  1
+  Si  Si18  1  0.342162  0.657838  0.342162  1
+  Si  Si19  1  0.657838  0.342162  0.657838  1
+  Si  Si20  1  0.061974  0.430746  0.595484  1
+  Si  Si21  1  0.911796  0.595484  0.430746  1
+  Si  Si22  1  0.595484  0.911796  0.061974  1
+  Si  Si23  1  0.430746  0.061974  0.911796  1

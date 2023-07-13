@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TeAuI
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.43302493
+_cell_length_b   7.87836933
+_cell_length_c   7.89119702
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   105.22875112
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TeAuI
+_chemical_formula_sum   'Te4 Au4 I4'
+_cell_volume   445.88234870
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Te  Te0  1  0.015072  0.141239  0.347855  1
+  Te  Te1  1  0.515072  0.358761  0.347855  1
+  Te  Te2  1  0.984928  0.858761  0.652145  1
+  Te  Te3  1  0.484928  0.641239  0.652145  1
+  Au  Au4  1  0.732227  0.634271  0.459214  1
+  Au  Au5  1  0.767773  0.134271  0.540786  1
+  Au  Au6  1  0.267773  0.365729  0.540786  1
+  Au  Au7  1  0.232227  0.865729  0.459214  1
+  I  I8  1  0.111146  0.434417  0.809294  1
+  I  I9  1  0.611146  0.065583  0.809294  1
+  I  I10  1  0.888854  0.565583  0.190706  1
+  I  I11  1  0.388854  0.934417  0.190706  1

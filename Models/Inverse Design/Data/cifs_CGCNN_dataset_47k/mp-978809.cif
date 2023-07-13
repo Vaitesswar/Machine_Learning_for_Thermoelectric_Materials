@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_SmAs2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.09064290
+_cell_length_b   4.10786396
+_cell_length_c   20.60196643
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmAs2Au
+_chemical_formula_sum   'Sm4 As8 Au4'
+_cell_volume   346.19141708
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.750000  0.727737  0.617460  1
+  Sm  Sm1  1  0.250000  0.227737  0.882540  1
+  Sm  Sm2  1  0.750000  0.772263  0.117460  1
+  Sm  Sm3  1  0.250000  0.272263  0.382540  1
+  As  As4  1  0.750000  0.204575  0.501577  1
+  As  As5  1  0.250000  0.227218  0.655990  1
+  As  As6  1  0.750000  0.727218  0.844010  1
+  As  As7  1  0.250000  0.704575  0.998423  1
+  As  As8  1  0.750000  0.295425  0.001577  1
+  As  As9  1  0.250000  0.272782  0.155990  1
+  As  As10  1  0.750000  0.772782  0.344010  1
+  As  As11  1  0.250000  0.795425  0.498423  1
+  Au  Au12  1  0.750000  0.223418  0.749734  1
+  Au  Au13  1  0.250000  0.723418  0.750266  1
+  Au  Au14  1  0.750000  0.276582  0.249734  1
+  Au  Au15  1  0.250000  0.776582  0.250266  1

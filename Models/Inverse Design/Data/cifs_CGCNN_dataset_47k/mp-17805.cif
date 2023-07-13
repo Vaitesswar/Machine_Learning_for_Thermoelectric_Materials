@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Ba2SnSe3F2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.49112612
+_cell_length_b   6.56806509
+_cell_length_c   20.11879512
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2SnSe3F2
+_chemical_formula_sum   'Ba8 Sn4 Se12 F8'
+_cell_volume   857.74750491
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.245704  0.495326  0.427145  1
+  Ba  Ba1  1  0.745704  0.004674  0.072855  1
+  Ba  Ba2  1  0.254296  0.995326  0.572855  1
+  Ba  Ba3  1  0.754296  0.504674  0.927145  1
+  Ba  Ba4  1  0.754296  0.504674  0.572855  1
+  Ba  Ba5  1  0.254296  0.995326  0.927145  1
+  Ba  Ba6  1  0.745704  0.004674  0.427145  1
+  Ba  Ba7  1  0.245704  0.495326  0.072855  1
+  Sn  Sn8  1  0.145299  0.590637  0.750000  1
+  Sn  Sn9  1  0.645299  0.909363  0.750000  1
+  Sn  Sn10  1  0.354701  0.090637  0.250000  1
+  Sn  Sn11  1  0.854701  0.409363  0.250000  1
+  Se  Se12  1  0.742204  0.514100  0.135236  1
+  Se  Se13  1  0.746460  0.523066  0.750000  1
+  Se  Se14  1  0.753540  0.023066  0.250000  1
+  Se  Se15  1  0.253540  0.476934  0.250000  1
+  Se  Se16  1  0.242204  0.985900  0.364764  1
+  Se  Se17  1  0.757796  0.014100  0.864764  1
+  Se  Se18  1  0.257796  0.485900  0.635236  1
+  Se  Se19  1  0.257796  0.485900  0.864764  1
+  Se  Se20  1  0.742204  0.514100  0.364764  1
+  Se  Se21  1  0.242204  0.985900  0.135236  1
+  Se  Se22  1  0.246460  0.976934  0.750000  1
+  Se  Se23  1  0.757796  0.014100  0.635236  1
+  F  F24  1  0.498505  0.253842  0.998724  1
+  F  F25  1  0.998505  0.246158  0.501276  1
+  F  F26  1  0.501495  0.746158  0.498724  1
+  F  F27  1  0.498505  0.253842  0.501276  1
+  F  F28  1  0.998505  0.246158  0.998724  1
+  F  F29  1  0.001495  0.753842  0.498724  1
+  F  F30  1  0.501495  0.746158  0.001276  1
+  F  F31  1  0.001495  0.753842  0.001276  1

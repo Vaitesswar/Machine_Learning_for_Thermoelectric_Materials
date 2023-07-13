@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_MnCo(BiO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.55812208
+_cell_length_b   5.55812208
+_cell_length_c   9.73910417
+_cell_angle_alpha   74.21691173
+_cell_angle_beta   105.78308827
+_cell_angle_gamma   120.45152632
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCo(BiO3)2
+_chemical_formula_sum   'Mn2 Co2 Bi4 O12'
+_cell_volume   246.30184301
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.741395  0.246459  0.250431  1
+  Mn  Mn1  1  0.246459  0.741395  0.749569  1
+  Co  Co2  1  0.000312  0.000312  0.000000  1
+  Co  Co3  1  0.485381  0.485381  0.500000  1
+  Bi  Bi4  1  0.323476  0.591359  0.123559  1
+  Bi  Bi5  1  0.591359  0.323476  0.876441  1
+  Bi  Bi6  1  0.889400  0.156989  0.624211  1
+  Bi  Bi7  1  0.156989  0.889400  0.375789  1
+  O  O8  1  0.622247  0.937135  0.865499  1
+  O  O9  1  0.550317  0.872143  0.368847  1
+  O  O10  1  0.937135  0.622247  0.134501  1
+  O  O11  1  0.129631  0.428825  0.908120  1
+  O  O12  1  0.955475  0.142379  0.168350  1
+  O  O13  1  0.054660  0.366485  0.409337  1
+  O  O14  1  0.524719  0.351436  0.329878  1
+  O  O15  1  0.351436  0.524719  0.670122  1
+  O  O16  1  0.872143  0.550317  0.631153  1
+  O  O17  1  0.366485  0.054660  0.590663  1
+  O  O18  1  0.142379  0.955475  0.831650  1
+  O  O19  1  0.428825  0.129631  0.091880  1

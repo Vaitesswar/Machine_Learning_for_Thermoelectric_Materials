@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NbSiPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.85790347
+_cell_length_b   6.48592345
+_cell_length_c   7.43233816
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbSiPt
+_chemical_formula_sum   'Nb4 Si4 Pt4'
+_cell_volume   185.97246031
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.750000  0.473259  0.334869  1
+  Nb  Nb1  1  0.250000  0.026741  0.834869  1
+  Nb  Nb2  1  0.750000  0.973259  0.165131  1
+  Nb  Nb3  1  0.250000  0.526741  0.665131  1
+  Si  Si4  1  0.250000  0.268781  0.125903  1
+  Si  Si5  1  0.250000  0.768781  0.374097  1
+  Si  Si6  1  0.750000  0.731219  0.874097  1
+  Si  Si7  1  0.750000  0.231219  0.625903  1
+  Pt  Pt8  1  0.250000  0.652035  0.065237  1
+  Pt  Pt9  1  0.250000  0.152035  0.434763  1
+  Pt  Pt10  1  0.750000  0.847965  0.565237  1
+  Pt  Pt11  1  0.750000  0.347965  0.934763  1

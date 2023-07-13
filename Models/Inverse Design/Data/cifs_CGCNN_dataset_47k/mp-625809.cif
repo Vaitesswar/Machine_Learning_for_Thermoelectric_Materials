@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Ba(H2O3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13247294
+_cell_length_b   6.13247294
+_cell_length_c   6.38435173
+_cell_angle_alpha   86.90982351
+_cell_angle_beta   93.09017649
+_cell_angle_gamma   86.10323413
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba(H2O3)2
+_chemical_formula_sum   'Ba2 H8 O12'
+_cell_volume   238.79462691
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.183990  0.183990  0.250000  1
+  Ba  Ba1  1  0.816010  0.816010  0.750000  1
+  H  H2  1  0.019009  0.345599  0.724351  1
+  H  H3  1  0.345599  0.019009  0.775649  1
+  H  H4  1  0.980991  0.654401  0.275649  1
+  H  H5  1  0.654401  0.980991  0.224351  1
+  H  H6  1  0.649890  0.277670  0.924557  1
+  H  H7  1  0.277670  0.649890  0.575443  1
+  H  H8  1  0.350110  0.722330  0.075443  1
+  H  H9  1  0.722330  0.350110  0.424557  1
+  O  O10  1  0.952752  0.237750  0.851346  1
+  O  O11  1  0.237750  0.952752  0.648654  1
+  O  O12  1  0.047248  0.762250  0.148654  1
+  O  O13  1  0.762250  0.047248  0.351346  1
+  O  O14  1  0.774133  0.381598  0.927822  1
+  O  O15  1  0.381598  0.774133  0.572178  1
+  O  O16  1  0.225867  0.618402  0.072178  1
+  O  O17  1  0.618402  0.225867  0.427822  1
+  O  O18  1  0.902911  0.529070  0.425297  1
+  O  O19  1  0.529070  0.902911  0.074703  1
+  O  O20  1  0.097089  0.470930  0.574703  1
+  O  O21  1  0.470930  0.097089  0.925297  1

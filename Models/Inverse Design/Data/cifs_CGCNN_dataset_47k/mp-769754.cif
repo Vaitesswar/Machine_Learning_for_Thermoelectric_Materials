@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Li2AlNiO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96963944
+_cell_length_b   5.52313311
+_cell_length_c   6.14838932
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2AlNiO4
+_chemical_formula_sum   'Li4 Al2 Ni2 O8'
+_cell_volume   168.76086794
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.006850  0.165009  0.250464  1
+  Li  Li1  1  0.506850  0.834991  0.249536  1
+  Li  Li2  1  0.006850  0.165009  0.749536  1
+  Li  Li3  1  0.506850  0.834991  0.750464  1
+  Al  Al4  1  0.501870  0.338046  0.000000  1
+  Al  Al5  1  0.001870  0.661954  0.500000  1
+  Ni  Ni6  1  0.003630  0.666194  0.000000  1
+  Ni  Ni7  1  0.503630  0.333806  0.500000  1
+  O  O8  1  0.142489  0.352973  0.000000  1
+  O  O9  1  0.628320  0.639932  0.000000  1
+  O  O10  1  0.105011  0.819052  0.259672  1
+  O  O11  1  0.605011  0.180948  0.240328  1
+  O  O12  1  0.128321  0.360068  0.500000  1
+  O  O13  1  0.642489  0.647027  0.500000  1
+  O  O14  1  0.605011  0.180948  0.759672  1
+  O  O15  1  0.105011  0.819052  0.740328  1

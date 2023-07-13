@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Na2Sn4O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.50371913
+_cell_length_b   5.50371913
+_cell_length_c   14.74611736
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Sn4O9
+_chemical_formula_sum   'Na4 Sn8 O18'
+_cell_volume   386.83061896
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.000000  0.000000  0.148591  1
+  Na  Na1  1  0.000000  0.000000  0.351409  1
+  Na  Na2  1  0.000000  0.000000  0.648591  1
+  Na  Na3  1  0.000000  0.000000  0.851409  1
+  Sn  Sn4  1  0.333333  0.666667  0.312399  1
+  Sn  Sn5  1  0.333333  0.666667  0.024342  1
+  Sn  Sn6  1  0.333333  0.666667  0.812399  1
+  Sn  Sn7  1  0.333333  0.666667  0.524342  1
+  Sn  Sn8  1  0.666667  0.333333  0.187601  1
+  Sn  Sn9  1  0.666667  0.333333  0.687601  1
+  Sn  Sn10  1  0.666667  0.333333  0.475658  1
+  Sn  Sn11  1  0.666667  0.333333  0.975658  1
+  O  O12  1  0.000000  0.660221  0.750000  1
+  O  O13  1  0.040372  0.642620  0.420723  1
+  O  O14  1  0.357380  0.959628  0.920723  1
+  O  O15  1  0.000000  0.339779  0.250000  1
+  O  O16  1  0.040372  0.397751  0.920723  1
+  O  O17  1  0.357380  0.397751  0.420723  1
+  O  O18  1  0.339779  0.339779  0.750000  1
+  O  O19  1  0.397751  0.357380  0.079277  1
+  O  O20  1  0.602249  0.959628  0.420723  1
+  O  O21  1  0.339779  0.000000  0.250000  1
+  O  O22  1  0.397751  0.040372  0.579277  1
+  O  O23  1  0.602249  0.642620  0.920723  1
+  O  O24  1  0.660221  0.660221  0.250000  1
+  O  O25  1  0.642620  0.602249  0.579277  1
+  O  O26  1  0.959628  0.602249  0.079277  1
+  O  O27  1  0.642620  0.040372  0.079277  1
+  O  O28  1  0.660221  0.000000  0.750000  1
+  O  O29  1  0.959628  0.357380  0.579277  1

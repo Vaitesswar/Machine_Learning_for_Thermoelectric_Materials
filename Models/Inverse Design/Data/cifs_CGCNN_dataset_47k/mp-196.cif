@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Al5Co2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.67118060
+_cell_length_b   7.67118060
+_cell_length_c   7.59368281
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al5Co2
+_chemical_formula_sum   'Al20 Co8'
+_cell_volume   386.99691152
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.000000  0.000000  0.000000  1
+  Al  Al1  1  0.000000  0.000000  0.500000  1
+  Al  Al2  1  0.467741  0.935483  0.250000  1
+  Al  Al3  1  0.532259  0.467741  0.750000  1
+  Al  Al4  1  0.935483  0.467741  0.750000  1
+  Al  Al5  1  0.064517  0.532259  0.250000  1
+  Al  Al6  1  0.467741  0.532259  0.250000  1
+  Al  Al7  1  0.532259  0.064517  0.750000  1
+  Al  Al8  1  0.194481  0.388962  0.940242  1
+  Al  Al9  1  0.805519  0.194481  0.440242  1
+  Al  Al10  1  0.388962  0.194481  0.440242  1
+  Al  Al11  1  0.611038  0.805519  0.940242  1
+  Al  Al12  1  0.194481  0.805519  0.940242  1
+  Al  Al13  1  0.805519  0.611038  0.059758  1
+  Al  Al14  1  0.805519  0.194481  0.059758  1
+  Al  Al15  1  0.805519  0.611038  0.440242  1
+  Al  Al16  1  0.388962  0.194481  0.059758  1
+  Al  Al17  1  0.611038  0.805519  0.559758  1
+  Al  Al18  1  0.194481  0.388962  0.559758  1
+  Al  Al19  1  0.194481  0.805519  0.559758  1
+  Co  Co20  1  0.333333  0.666667  0.750000  1
+  Co  Co21  1  0.666667  0.333333  0.250000  1
+  Co  Co22  1  0.127435  0.254870  0.250000  1
+  Co  Co23  1  0.872565  0.127435  0.750000  1
+  Co  Co24  1  0.254870  0.127435  0.750000  1
+  Co  Co25  1  0.745130  0.872565  0.250000  1
+  Co  Co26  1  0.127435  0.872565  0.250000  1
+  Co  Co27  1  0.872565  0.745130  0.750000  1

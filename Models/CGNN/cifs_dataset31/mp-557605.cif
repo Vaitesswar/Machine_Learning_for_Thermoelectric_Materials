@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Hg2Pb(SI)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.81698921
+_cell_length_b   13.81698921
+_cell_length_c   4.71067626
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg2Pb(SI)2
+_chemical_formula_sum   'Hg8 Pb4 S8 I8'
+_cell_volume   899.31139306
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.667640  0.586212  0.000000  1
+  Hg  Hg1  1  0.332360  0.413788  0.000000  1
+  Hg  Hg2  1  0.167640  0.913788  0.000000  1
+  Hg  Hg3  1  0.913788  0.832360  0.000000  1
+  Hg  Hg4  1  0.832360  0.086212  0.000000  1
+  Hg  Hg5  1  0.086212  0.167640  0.000000  1
+  Hg  Hg6  1  0.586212  0.332360  0.000000  1
+  Hg  Hg7  1  0.413788  0.667640  0.000000  1
+  Pb  Pb8  1  0.863350  0.363350  0.500000  1
+  Pb  Pb9  1  0.363350  0.136650  0.500000  1
+  Pb  Pb10  1  0.636650  0.863350  0.500000  1
+  Pb  Pb11  1  0.136650  0.636650  0.500000  1
+  S  S12  1  0.575387  0.736913  0.000000  1
+  S  S13  1  0.736913  0.424613  0.000000  1
+  S  S14  1  0.236913  0.075387  0.000000  1
+  S  S15  1  0.263087  0.575387  0.000000  1
+  S  S16  1  0.424613  0.263087  0.000000  1
+  S  S17  1  0.924613  0.236913  0.000000  1
+  S  S18  1  0.075387  0.763087  0.000000  1
+  S  S19  1  0.763087  0.924613  0.000000  1
+  I  I20  1  0.694352  0.194352  0.500000  1
+  I  I21  1  0.500000  0.000000  0.000000  1
+  I  I22  1  0.805648  0.694352  0.500000  1
+  I  I23  1  0.305648  0.805648  0.500000  1
+  I  I24  1  0.000000  0.000000  0.500000  1
+  I  I25  1  0.194352  0.305648  0.500000  1
+  I  I26  1  0.000000  0.500000  0.000000  1
+  I  I27  1  0.500000  0.500000  0.500000  1

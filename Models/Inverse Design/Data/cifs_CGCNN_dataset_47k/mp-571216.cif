@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Sr3(AlGe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71034782
+_cell_length_b   6.71034782
+_cell_length_c   8.95514882
+_cell_angle_alpha   70.88448883
+_cell_angle_beta   109.11551117
+_cell_angle_gamma   143.37656849
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3(AlGe2)2
+_chemical_formula_sum   'Sr3 Al2 Ge4'
+_cell_volume   225.78954016
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.606016  0.393984  0.687022  1
+  Sr  Sr1  1  0.000000  0.000000  0.000000  1
+  Sr  Sr2  1  0.393984  0.606016  0.312978  1
+  Al  Al3  1  0.705062  0.294938  0.349937  1
+  Al  Al4  1  0.294938  0.705062  0.650063  1
+  Ge  Ge5  1  0.711606  0.288394  0.055678  1
+  Ge  Ge6  1  0.288394  0.711606  0.944322  1
+  Ge  Ge7  1  0.893684  0.106316  0.608532  1
+  Ge  Ge8  1  0.106316  0.893684  0.391468  1

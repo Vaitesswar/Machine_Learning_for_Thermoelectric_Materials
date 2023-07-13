@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Nb2Al
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.00236647
+_cell_length_b   10.00236647
+_cell_length_c   5.20198073
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Nb2Al
+_chemical_formula_sum   'Nb20 Al10'
+_cell_volume   520.44430876
+_cell_formula_units_Z   10
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.396543  0.396543  0.000000  1
+  Nb  Nb1  1  0.896543  0.103457  0.500000  1
+  Nb  Nb2  1  0.103457  0.896543  0.500000  1
+  Nb  Nb3  1  0.603457  0.603457  0.000000  1
+  Nb  Nb4  1  0.127883  0.464906  0.000000  1
+  Nb  Nb5  1  0.964906  0.372117  0.500000  1
+  Nb  Nb6  1  0.035094  0.627883  0.500000  1
+  Nb  Nb7  1  0.872117  0.535094  0.000000  1
+  Nb  Nb8  1  0.372117  0.964906  0.500000  1
+  Nb  Nb9  1  0.627883  0.035094  0.500000  1
+  Nb  Nb10  1  0.464906  0.127883  0.000000  1
+  Nb  Nb11  1  0.535094  0.872117  0.000000  1
+  Nb  Nb12  1  0.181769  0.181769  0.252250  1
+  Nb  Nb13  1  0.681769  0.318231  0.752250  1
+  Nb  Nb14  1  0.318231  0.681769  0.752250  1
+  Nb  Nb15  1  0.818231  0.818231  0.252250  1
+  Nb  Nb16  1  0.318231  0.681769  0.247750  1
+  Nb  Nb17  1  0.681769  0.318231  0.247750  1
+  Nb  Nb18  1  0.181769  0.181769  0.747750  1
+  Nb  Nb19  1  0.818231  0.818231  0.747750  1
+  Al  Al20  1  0.000000  0.000000  0.000000  1
+  Al  Al21  1  0.500000  0.500000  0.500000  1
+  Al  Al22  1  0.261556  0.933195  0.000000  1
+  Al  Al23  1  0.433195  0.238444  0.500000  1
+  Al  Al24  1  0.566805  0.761556  0.500000  1
+  Al  Al25  1  0.738444  0.066805  0.000000  1
+  Al  Al26  1  0.238444  0.433195  0.500000  1
+  Al  Al27  1  0.761556  0.566805  0.500000  1
+  Al  Al28  1  0.933195  0.261556  0.000000  1
+  Al  Al29  1  0.066805  0.738444  0.000000  1

@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_NaCrF6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.93040020
+_cell_length_b   7.86573865
+_cell_length_c   9.56554190
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaCrF6
+_chemical_formula_sum   'Na4 Cr4 F24'
+_cell_volume   446.20362317
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.250000  0.665914  0.503857  1
+  Na  Na1  1  0.750000  0.165914  0.996143  1
+  Na  Na2  1  0.750000  0.334086  0.496143  1
+  Na  Na3  1  0.250000  0.834086  0.003857  1
+  Cr  Cr4  1  0.750000  0.615707  0.771493  1
+  Cr  Cr5  1  0.750000  0.884293  0.271493  1
+  Cr  Cr6  1  0.250000  0.115707  0.728507  1
+  Cr  Cr7  1  0.250000  0.384293  0.228507  1
+  F  F8  1  0.035958  0.449179  0.357177  1
+  F  F9  1  0.750000  0.681018  0.197671  1
+  F  F10  1  0.035958  0.050821  0.857177  1
+  F  F11  1  0.466711  0.327412  0.105196  1
+  F  F12  1  0.250000  0.318982  0.802329  1
+  F  F13  1  0.964042  0.550821  0.642823  1
+  F  F14  1  0.033289  0.327412  0.105196  1
+  F  F15  1  0.750000  0.401765  0.835037  1
+  F  F16  1  0.750000  0.098235  0.335037  1
+  F  F17  1  0.533289  0.827412  0.394804  1
+  F  F18  1  0.464042  0.050821  0.857177  1
+  F  F19  1  0.250000  0.901765  0.664963  1
+  F  F20  1  0.964042  0.949179  0.142823  1
+  F  F21  1  0.533289  0.672588  0.894804  1
+  F  F22  1  0.535958  0.949179  0.142823  1
+  F  F23  1  0.535958  0.550821  0.642823  1
+  F  F24  1  0.250000  0.181018  0.302329  1
+  F  F25  1  0.466711  0.172588  0.605196  1
+  F  F26  1  0.464042  0.449179  0.357177  1
+  F  F27  1  0.033289  0.172588  0.605196  1
+  F  F28  1  0.966711  0.672588  0.894804  1
+  F  F29  1  0.750000  0.818982  0.697671  1
+  F  F30  1  0.250000  0.598235  0.164963  1
+  F  F31  1  0.966711  0.827412  0.394804  1

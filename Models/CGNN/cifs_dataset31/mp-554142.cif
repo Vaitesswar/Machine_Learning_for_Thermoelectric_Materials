@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_Ge(TeO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.31228893
+_cell_length_b   7.13230142
+_cell_length_c   9.05303062
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   124.39387898
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ge(TeO3)2
+_chemical_formula_sum   'Ge2 Te4 O12'
+_cell_volume   283.04196009
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.500000  0.000000  0.500000  1
+  Ge  Ge1  1  0.500000  0.500000  0.000000  1
+  Te  Te2  1  0.805441  0.842114  0.284507  1
+  Te  Te3  1  0.194559  0.157886  0.715493  1
+  Te  Te4  1  0.805441  0.657886  0.784507  1
+  Te  Te5  1  0.194559  0.342114  0.215493  1
+  O  O6  1  0.315467  0.416017  0.759230  1
+  O  O7  1  0.684533  0.583983  0.240770  1
+  O  O8  1  0.769907  0.286211  0.085823  1
+  O  O9  1  0.230093  0.786211  0.414177  1
+  O  O10  1  0.315467  0.083983  0.259230  1
+  O  O11  1  0.795923  0.649031  0.994783  1
+  O  O12  1  0.204077  0.149031  0.505217  1
+  O  O13  1  0.204077  0.350969  0.005217  1
+  O  O14  1  0.795923  0.850969  0.494783  1
+  O  O15  1  0.230093  0.713789  0.914177  1
+  O  O16  1  0.769907  0.213789  0.585823  1
+  O  O17  1  0.684533  0.916017  0.740770  1

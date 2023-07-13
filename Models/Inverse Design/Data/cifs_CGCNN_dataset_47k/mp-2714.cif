@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Pr2Au
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.15280749
+_cell_length_b   7.40620526
+_cell_length_c   9.42382567
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Pr2Au
+_chemical_formula_sum   'Pr8 Au4'
+_cell_volume   359.63910249
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.250000  0.993004  0.325514  1
+  Pr  Pr1  1  0.750000  0.006996  0.674486  1
+  Pr  Pr2  1  0.250000  0.493004  0.174486  1
+  Pr  Pr3  1  0.750000  0.506996  0.825514  1
+  Pr  Pr4  1  0.750000  0.149922  0.086290  1
+  Pr  Pr5  1  0.250000  0.850078  0.913710  1
+  Pr  Pr6  1  0.750000  0.649922  0.413710  1
+  Pr  Pr7  1  0.250000  0.350078  0.586290  1
+  Au  Au8  1  0.250000  0.759144  0.596275  1
+  Au  Au9  1  0.750000  0.240856  0.403725  1
+  Au  Au10  1  0.250000  0.259144  0.903725  1
+  Au  Au11  1  0.750000  0.740856  0.096275  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DySiIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.24933059
+_cell_length_b   6.88491419
+_cell_length_c   7.41922188
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DySiIr
+_chemical_formula_sum   'Dy4 Si4 Ir4'
+_cell_volume   217.05880657
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.750000  0.000281  0.812968  1
+  Dy  Dy1  1  0.250000  0.499719  0.312968  1
+  Dy  Dy2  1  0.750000  0.500281  0.687032  1
+  Dy  Dy3  1  0.250000  0.999719  0.187032  1
+  Si  Si4  1  0.250000  0.298515  0.891845  1
+  Si  Si5  1  0.250000  0.798515  0.608155  1
+  Si  Si6  1  0.750000  0.701485  0.108155  1
+  Si  Si7  1  0.750000  0.201485  0.391845  1
+  Ir  Ir8  1  0.250000  0.156832  0.569578  1
+  Ir  Ir9  1  0.250000  0.656832  0.930422  1
+  Ir  Ir10  1  0.750000  0.343168  0.069578  1
+  Ir  Ir11  1  0.750000  0.843168  0.430422  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmCoGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.35674030
+_cell_length_b   7.00722140
+_cell_length_c   7.19188316
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmCoGe
+_chemical_formula_sum   'Sm4 Co4 Ge4'
+_cell_volume   219.55843971
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.250000  0.687698  0.477667  1
+  Sm  Sm1  1  0.750000  0.312302  0.522333  1
+  Sm  Sm2  1  0.750000  0.187698  0.022333  1
+  Sm  Sm3  1  0.250000  0.812302  0.977667  1
+  Co  Co4  1  0.750000  0.567824  0.856447  1
+  Co  Co5  1  0.750000  0.932176  0.356447  1
+  Co  Co6  1  0.250000  0.067824  0.643553  1
+  Co  Co7  1  0.250000  0.432176  0.143553  1
+  Ge  Ge8  1  0.750000  0.606646  0.194547  1
+  Ge  Ge9  1  0.750000  0.893354  0.694547  1
+  Ge  Ge10  1  0.250000  0.106646  0.305453  1
+  Ge  Ge11  1  0.250000  0.393354  0.805453  1

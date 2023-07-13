@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Ho2C3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.09219748
+_cell_length_b   7.09219748
+_cell_length_c   7.09219748
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ho2C3
+_chemical_formula_sum   'Ho8 C12'
+_cell_volume   274.61266874
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.100898  0.100898  0.100898  1
+  Ho  Ho1  1  0.899102  0.500000  0.000000  1
+  Ho  Ho2  1  1.000000  0.899102  0.500000  1
+  Ho  Ho3  1  0.500000  1.000000  0.899102  1
+  Ho  Ho4  1  1.000000  0.399102  0.500000  1
+  Ho  Ho5  1  0.500000  1.000000  0.399102  1
+  Ho  Ho6  1  0.399102  0.500000  1.000000  1
+  Ho  Ho7  1  0.600898  0.600898  0.600898  1
+  C  C8  1  0.250000  0.543136  0.293136  1
+  C  C9  1  0.456864  0.250000  0.706864  1
+  C  C10  1  0.043136  0.750000  0.793136  1
+  C  C11  1  0.793136  0.043136  0.750000  1
+  C  C12  1  0.706864  0.456864  0.250000  1
+  C  C13  1  0.250000  0.706864  0.456864  1
+  C  C14  1  0.956864  0.206864  0.750000  1
+  C  C15  1  0.206864  0.750000  0.956864  1
+  C  C16  1  0.543136  0.293136  0.250000  1
+  C  C17  1  0.293136  0.250000  0.543136  1
+  C  C18  1  0.750000  0.956864  0.206864  1
+  C  C19  1  0.750000  0.793136  0.043136  1

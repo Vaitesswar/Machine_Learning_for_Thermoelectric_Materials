@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_MnGaH4O2F5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.46011333
+_cell_length_b   7.46011333
+_cell_length_c   7.46011333
+_cell_angle_alpha   126.98171175
+_cell_angle_beta   118.46563484
+_cell_angle_gamma   85.51537079
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnGaH4O2F5
+_chemical_formula_sum   'Mn2 Ga2 H8 O4 F10'
+_cell_volume   278.40974975
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.000000  0.000000  0.500000  1
+  Mn  Mn1  1  0.500000  0.500000  0.500000  1
+  Ga  Ga2  1  0.500000  0.000000  0.500000  1
+  Ga  Ga3  1  0.000000  0.000000  0.000000  1
+  H  H4  1  0.504639  0.782095  0.983445  1
+  H  H5  1  0.995361  0.478805  0.777456  1
+  H  H6  1  0.701349  0.217905  0.222544  1
+  H  H7  1  0.798651  0.521195  0.016555  1
+  H  H8  1  0.495361  0.217905  0.016555  1
+  H  H9  1  0.004639  0.521195  0.222544  1
+  H  H10  1  0.298651  0.782095  0.777456  1
+  H  H11  1  0.201349  0.478805  0.983445  1
+  O  O12  1  0.578808  0.281133  0.202325  1
+  O  O13  1  0.921192  0.623517  0.202325  1
+  O  O14  1  0.421192  0.718867  0.797675  1
+  O  O15  1  0.078808  0.376483  0.797675  1
+  F  F16  1  0.410337  0.678124  0.336088  1
+  F  F17  1  0.089663  0.925751  0.767787  1
+  F  F18  1  0.157963  0.321876  0.232213  1
+  F  F19  1  0.342037  0.074249  0.663912  1
+  F  F20  1  0.589663  0.321876  0.663912  1
+  F  F21  1  0.910337  0.074249  0.232213  1
+  F  F22  1  0.842037  0.678124  0.767787  1
+  F  F23  1  0.657963  0.925751  0.336088  1
+  F  F24  1  0.250000  0.935129  0.185129  1
+  F  F25  1  0.750000  0.064871  0.814871  1

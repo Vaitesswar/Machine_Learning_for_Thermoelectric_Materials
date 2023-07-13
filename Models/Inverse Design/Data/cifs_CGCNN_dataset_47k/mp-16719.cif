@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Al12Tc
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.52342657
+_cell_length_b   6.52342657
+_cell_length_c   6.52342657
+_cell_angle_alpha   109.47122063
+_cell_angle_beta   109.47122063
+_cell_angle_gamma   109.47122063
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Al12Tc
+_chemical_formula_sum   'Al12 Tc1'
+_cell_volume   213.70045375
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.495547  0.308023  0.187524  1
+  Al  Al1  1  0.308023  0.812476  0.120498  1
+  Al  Al2  1  0.187524  0.879502  0.691977  1
+  Al  Al3  1  0.691977  0.812476  0.504453  1
+  Al  Al4  1  0.812476  0.120498  0.308023  1
+  Al  Al5  1  0.691977  0.187524  0.879502  1
+  Al  Al6  1  0.812476  0.504453  0.691977  1
+  Al  Al7  1  0.187524  0.495547  0.308023  1
+  Al  Al8  1  0.308023  0.187524  0.495547  1
+  Al  Al9  1  0.120498  0.308023  0.812476  1
+  Al  Al10  1  0.879502  0.691977  0.187524  1
+  Al  Al11  1  0.504453  0.691977  0.812476  1
+  Tc  Tc12  1  0.000000  0.000000  0.000000  1

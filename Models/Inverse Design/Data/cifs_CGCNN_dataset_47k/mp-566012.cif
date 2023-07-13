@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KCr2FeO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21833017
+_cell_length_b   5.21833017
+_cell_length_c   7.90501073
+_cell_angle_alpha   85.92129289
+_cell_angle_beta   94.07870711
+_cell_angle_gamma   115.43148389
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCr2FeO8
+_chemical_formula_sum   'K1 Cr2 Fe1 O8'
+_cell_volume   193.71294389
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.000000  0.000000  0.000000  1
+  Cr  Cr1  1  0.626795  0.373205  0.296755  1
+  Cr  Cr2  1  0.373205  0.626795  0.703245  1
+  Fe  Fe3  1  0.000000  0.000000  0.500000  1
+  O  O4  1  0.684231  0.315769  0.106984  1
+  O  O5  1  0.271654  0.229513  0.319539  1
+  O  O6  1  0.728346  0.770487  0.680461  1
+  O  O7  1  0.770487  0.728346  0.319539  1
+  O  O8  1  0.773581  0.226419  0.442710  1
+  O  O9  1  0.226419  0.773581  0.557290  1
+  O  O10  1  0.229513  0.271654  0.680461  1
+  O  O11  1  0.315769  0.684231  0.893016  1

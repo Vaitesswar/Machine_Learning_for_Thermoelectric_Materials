@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TaFeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.14235094
+_cell_length_b   6.14235094
+_cell_length_c   4.94334638
+_cell_angle_alpha   68.03303822
+_cell_angle_beta   111.96696178
+_cell_angle_gamma   66.84752499
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TaFeO4
+_chemical_formula_sum   'Ta2 Fe2 O8'
+_cell_volume   125.87567937
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ta  Ta0  1  0.128317  0.128317  0.750000  1
+  Ta  Ta1  1  0.871683  0.871683  0.250000  1
+  Fe  Fe2  1  0.605802  0.605802  0.750000  1
+  Fe  Fe3  1  0.394198  0.394198  0.250000  1
+  O  O4  1  0.822282  0.259288  0.248459  1
+  O  O5  1  0.112265  0.476252  0.353342  1
+  O  O6  1  0.740712  0.177718  0.748459  1
+  O  O7  1  0.523748  0.887735  0.853342  1
+  O  O8  1  0.476252  0.112265  0.146658  1
+  O  O9  1  0.259288  0.822282  0.251541  1
+  O  O10  1  0.887735  0.523748  0.646658  1
+  O  O11  1  0.177718  0.740712  0.751541  1

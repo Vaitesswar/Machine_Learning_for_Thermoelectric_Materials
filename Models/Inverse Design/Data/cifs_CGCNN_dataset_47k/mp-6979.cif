@@ -1,0 +1,32 @@
+# generated using pymatgen
+data_ThGeS
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.03060851
+_cell_length_b   9.03060851
+_cell_length_c   9.03060851
+_cell_angle_alpha   154.61340371
+_cell_angle_beta   154.61340371
+_cell_angle_gamma   36.20864158
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ThGeS
+_chemical_formula_sum   'Th2 Ge2 S2'
+_cell_volume   135.19064302
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.859568  0.859568  0.000000  1
+  Th  Th1  1  0.140432  0.140432  0.000000  1
+  Ge  Ge2  1  0.000000  0.500000  0.500000  1
+  Ge  Ge3  1  0.500000  0.000000  0.500000  1
+  S  S4  1  0.687048  0.687048  0.000000  1
+  S  S5  1  0.312952  0.312952  0.000000  1

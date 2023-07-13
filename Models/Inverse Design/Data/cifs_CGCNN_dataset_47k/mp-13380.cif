@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HoZnRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.03625323
+_cell_length_b   6.91874281
+_cell_length_c   8.12414237
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HoZnRh
+_chemical_formula_sum   'Ho4 Zn4 Rh4'
+_cell_volume   226.87315886
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ho  Ho0  1  0.250000  0.539243  0.683515  1
+  Ho  Ho1  1  0.750000  0.460757  0.316485  1
+  Ho  Ho2  1  0.250000  0.039243  0.816485  1
+  Ho  Ho3  1  0.750000  0.960757  0.183515  1
+  Zn  Zn4  1  0.250000  0.136636  0.436579  1
+  Zn  Zn5  1  0.750000  0.863364  0.563421  1
+  Zn  Zn6  1  0.250000  0.636636  0.063421  1
+  Zn  Zn7  1  0.750000  0.363364  0.936579  1
+  Rh  Rh8  1  0.750000  0.745774  0.876064  1
+  Rh  Rh9  1  0.250000  0.254226  0.123936  1
+  Rh  Rh10  1  0.750000  0.245774  0.623936  1
+  Rh  Rh11  1  0.250000  0.754226  0.376064  1

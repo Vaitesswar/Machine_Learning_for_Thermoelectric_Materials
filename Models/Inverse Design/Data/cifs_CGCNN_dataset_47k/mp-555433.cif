@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_NaYbCO3F2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.71526881
+_cell_length_b   6.82547423
+_cell_length_c   9.42216393
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaYbCO3F2
+_chemical_formula_sum   'Na4 Yb4 C4 O12 F8'
+_cell_volume   431.86388696
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.185529  0.250000  0.229121  1
+  Na  Na1  1  0.685529  0.250000  0.270879  1
+  Na  Na2  1  0.814471  0.750000  0.770879  1
+  Na  Na3  1  0.314471  0.750000  0.729121  1
+  Yb  Yb4  1  0.505702  0.750000  0.061112  1
+  Yb  Yb5  1  0.005702  0.750000  0.438888  1
+  Yb  Yb6  1  0.994298  0.250000  0.561112  1
+  Yb  Yb7  1  0.494298  0.250000  0.938888  1
+  C  C8  1  0.543699  0.750000  0.436843  1
+  C  C9  1  0.956301  0.250000  0.936843  1
+  C  C10  1  0.043699  0.750000  0.063157  1
+  C  C11  1  0.456301  0.250000  0.563157  1
+  O  O12  1  0.158607  0.750000  0.954896  1
+  O  O13  1  0.144843  0.250000  0.953263  1
+  O  O14  1  0.644843  0.250000  0.546737  1
+  O  O15  1  0.355157  0.750000  0.453263  1
+  O  O16  1  0.341393  0.250000  0.454896  1
+  O  O17  1  0.379050  0.250000  0.686865  1
+  O  O18  1  0.855157  0.750000  0.046737  1
+  O  O19  1  0.879050  0.250000  0.813135  1
+  O  O20  1  0.120950  0.750000  0.186865  1
+  O  O21  1  0.841393  0.250000  0.045104  1
+  O  O22  1  0.658607  0.750000  0.545104  1
+  O  O23  1  0.620950  0.750000  0.313135  1
+  F  F24  1  0.047090  0.943366  0.633613  1
+  F  F25  1  0.547090  0.556634  0.866387  1
+  F  F26  1  0.047090  0.556634  0.633613  1
+  F  F27  1  0.452910  0.443366  0.133613  1
+  F  F28  1  0.547090  0.943366  0.866387  1
+  F  F29  1  0.952910  0.443366  0.366387  1
+  F  F30  1  0.452910  0.056634  0.133613  1
+  F  F31  1  0.952910  0.056634  0.366387  1

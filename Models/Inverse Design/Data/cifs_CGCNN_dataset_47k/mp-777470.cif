@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_LiFeF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.29654463
+_cell_length_b   12.29654463
+_cell_length_c   12.29654463
+_cell_angle_alpha   27.39570278
+_cell_angle_beta   27.39570278
+_cell_angle_gamma   27.39570278
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiFeF3
+_chemical_formula_sum   'Li6 Fe6 F18'
+_cell_volume   347.40430156
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.067177  0.432823  0.750000  1
+  Li  Li1  1  0.432823  0.750000  0.067177  1
+  Li  Li2  1  0.250000  0.932823  0.567177  1
+  Li  Li3  1  0.750000  0.067177  0.432823  1
+  Li  Li4  1  0.567177  0.250000  0.932823  1
+  Li  Li5  1  0.932823  0.567177  0.250000  1
+  Fe  Fe6  1  0.500000  0.500000  0.500000  1
+  Fe  Fe7  1  0.844541  0.844541  0.844541  1
+  Fe  Fe8  1  0.655459  0.655459  0.655459  1
+  Fe  Fe9  1  0.344541  0.344541  0.344541  1
+  Fe  Fe10  1  0.155459  0.155459  0.155459  1
+  Fe  Fe11  1  0.000000  1.000000  0.000000  1
+  F  F12  1  0.133065  0.509430  0.785800  1
+  F  F13  1  0.990570  0.366935  0.714200  1
+  F  F14  1  0.405982  0.405982  0.405982  1
+  F  F15  1  0.285800  0.009430  0.633065  1
+  F  F16  1  0.214200  0.866935  0.490570  1
+  F  F17  1  0.509430  0.785800  0.133065  1
+  F  F18  1  0.750000  0.750000  0.750000  1
+  F  F19  1  0.366935  0.714200  0.990570  1
+  F  F20  1  0.905982  0.905982  0.905982  1
+  F  F21  1  0.094018  0.094018  0.094018  1
+  F  F22  1  0.633065  0.285800  0.009430  1
+  F  F23  1  0.250000  0.250000  0.250000  1
+  F  F24  1  0.490570  0.214200  0.866935  1
+  F  F25  1  0.785800  0.133065  0.509430  1
+  F  F26  1  0.714200  0.990570  0.366935  1
+  F  F27  1  0.594018  0.594018  0.594018  1
+  F  F28  1  0.009430  0.633065  0.285800  1
+  F  F29  1  0.866935  0.490570  0.214200  1

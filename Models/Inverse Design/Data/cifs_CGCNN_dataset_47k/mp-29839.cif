@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Bi2SeO5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.76626421
+_cell_length_b   8.76626421
+_cell_length_c   11.61300786
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   142.95451020
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Bi2SeO5
+_chemical_formula_sum   'Bi8 Se4 O20'
+_cell_volume   537.64307066
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.772015  0.272015  0.614386  1
+  Bi  Bi1  1  0.272015  0.772015  0.385614  1
+  Bi  Bi2  1  0.241812  0.741812  0.871395  1
+  Bi  Bi3  1  0.741812  0.241812  0.128605  1
+  Bi  Bi4  1  0.901772  0.071329  0.390817  1
+  Bi  Bi5  1  0.071329  0.901772  0.609183  1
+  Bi  Bi6  1  0.401772  0.571329  0.609183  1
+  Bi  Bi7  1  0.571329  0.401772  0.390817  1
+  Se  Se8  1  0.394015  0.572541  0.143433  1
+  Se  Se9  1  0.572541  0.394015  0.856567  1
+  Se  Se10  1  0.894015  0.072541  0.856567  1
+  Se  Se11  1  0.072541  0.894015  0.143433  1
+  O  O12  1  0.125432  0.439611  0.207873  1
+  O  O13  1  0.439611  0.125432  0.792127  1
+  O  O14  1  0.625432  0.939611  0.792127  1
+  O  O15  1  0.939611  0.625432  0.207873  1
+  O  O16  1  0.561982  0.886845  0.492515  1
+  O  O17  1  0.886845  0.561982  0.507485  1
+  O  O18  1  0.061982  0.386845  0.507485  1
+  O  O19  1  0.386845  0.061982  0.492515  1
+  O  O20  1  0.135309  0.635309  0.699164  1
+  O  O21  1  0.635309  0.135309  0.300836  1
+  O  O22  1  0.545990  0.847631  0.079613  1
+  O  O23  1  0.847631  0.545990  0.920387  1
+  O  O24  1  0.173644  0.066617  0.266096  1
+  O  O25  1  0.066617  0.173644  0.733904  1
+  O  O26  1  0.673644  0.566617  0.733904  1
+  O  O27  1  0.566617  0.673644  0.266096  1
+  O  O28  1  0.265977  0.265977  0.500000  1
+  O  O29  1  0.765977  0.765977  0.500000  1
+  O  O30  1  0.347631  0.045990  0.079613  1
+  O  O31  1  0.045990  0.347631  0.920387  1

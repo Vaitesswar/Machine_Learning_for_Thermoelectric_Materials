@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_U6Co
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.66916925
+_cell_length_b   7.66916925
+_cell_length_c   7.66916925
+_cell_angle_alpha   96.49741926
+_cell_angle_beta   96.49741926
+_cell_angle_gamma   140.68578801
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   U6Co
+_chemical_formula_sum   'U12 Co2'
+_cell_volume   269.13148380
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.216765  0.895209  0.111973  1
+  U  U1  1  0.905963  0.405963  0.311927  1
+  U  U2  1  0.405963  0.094037  0.500000  1
+  U  U3  1  0.783235  0.104791  0.888027  1
+  U  U4  1  0.094037  0.594037  0.688073  1
+  U  U5  1  0.104791  0.216765  0.321556  1
+  U  U6  1  0.895209  0.783235  0.678444  1
+  U  U7  1  0.716765  0.604791  0.321556  1
+  U  U8  1  0.395209  0.716765  0.111973  1
+  U  U9  1  0.283235  0.395209  0.678444  1
+  U  U10  1  0.594037  0.905963  0.500000  1
+  U  U11  1  0.604791  0.283235  0.888027  1
+  Co  Co12  1  0.750000  0.750000  0.000000  1
+  Co  Co13  1  0.250000  0.250000  0.000000  1

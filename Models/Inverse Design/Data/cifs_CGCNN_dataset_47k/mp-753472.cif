@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NbAlO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.39657404
+_cell_length_b   6.39657404
+_cell_length_c   13.21592615
+_cell_angle_alpha   73.89490278
+_cell_angle_beta   106.10509722
+_cell_angle_gamma   145.40900935
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NbAlO4
+_chemical_formula_sum   'Nb4 Al4 O16'
+_cell_volume   293.74630340
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Nb  Nb0  1  0.809799  0.190201  0.365725  1
+  Nb  Nb1  1  0.108232  0.891768  0.865278  1
+  Nb  Nb2  1  0.190201  0.809799  0.634275  1
+  Nb  Nb3  1  0.891768  0.108232  0.134722  1
+  Al  Al4  1  0.101627  0.898373  0.344189  1
+  Al  Al5  1  0.806088  0.193912  0.846998  1
+  Al  Al6  1  0.898373  0.101627  0.655811  1
+  Al  Al7  1  0.193912  0.806088  0.153002  1
+  O  O8  1  0.137778  0.862222  0.491735  1
+  O  O9  1  0.742449  0.257551  0.676912  1
+  O  O10  1  0.638131  0.361869  0.349116  1
+  O  O11  1  0.361869  0.638131  0.650884  1
+  O  O12  1  0.257551  0.742449  0.323088  1
+  O  O13  1  0.062979  0.937021  0.189076  1
+  O  O14  1  0.937021  0.062979  0.810924  1
+  O  O15  1  0.870749  0.129251  0.508522  1
+  O  O16  1  0.137772  0.862228  0.008831  1
+  O  O17  1  0.060652  0.939348  0.683169  1
+  O  O18  1  0.939348  0.060652  0.316831  1
+  O  O19  1  0.734732  0.265268  0.170651  1
+  O  O20  1  0.649627  0.350373  0.851730  1
+  O  O21  1  0.350373  0.649627  0.148270  1
+  O  O22  1  0.265268  0.734732  0.829349  1
+  O  O23  1  0.862228  0.137772  0.991169  1

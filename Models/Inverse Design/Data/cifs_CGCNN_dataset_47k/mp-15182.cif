@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Rb2LiCo(CN)6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21179612
+_cell_length_b   7.49181135
+_cell_length_c   12.57632893
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   124.81988584
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Rb2LiCo(CN)6
+_chemical_formula_sum   'Rb4 Li2 Co2 C12 N12'
+_cell_volume   557.82945098
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.737543  0.554225  0.750577  1
+  Rb  Rb1  1  0.262457  0.054225  0.749423  1
+  Rb  Rb2  1  0.262457  0.445775  0.249423  1
+  Rb  Rb3  1  0.737543  0.945775  0.250577  1
+  Li  Li4  1  0.500000  0.000000  0.500000  1
+  Li  Li5  1  0.500000  0.500000  0.000000  1
+  Co  Co6  1  0.000000  0.500000  0.500000  1
+  Co  Co7  1  0.000000  0.000000  0.000000  1
+  C  C8  1  0.765976  0.856560  0.976803  1
+  C  C9  1  0.765976  0.643440  0.476803  1
+  C  C10  1  0.234024  0.143440  0.023197  1
+  C  C11  1  0.234024  0.356560  0.523197  1
+  C  C12  1  0.830055  0.293963  0.473160  1
+  C  C13  1  0.169945  0.793963  0.026840  1
+  C  C14  1  0.129527  0.010170  0.178290  1
+  C  C15  1  0.870473  0.510170  0.321710  1
+  C  C16  1  0.870473  0.989830  0.821710  1
+  C  C17  1  0.129527  0.489830  0.678290  1
+  C  C18  1  0.830055  0.206037  0.973160  1
+  C  C19  1  0.169945  0.706037  0.526840  1
+  N  N20  1  0.786439  0.981727  0.709690  1
+  N  N21  1  0.213561  0.481727  0.790310  1
+  N  N22  1  0.723146  0.165301  0.456316  1
+  N  N23  1  0.723146  0.334699  0.956316  1
+  N  N24  1  0.276854  0.834699  0.543684  1
+  N  N25  1  0.276854  0.665301  0.043684  1
+  N  N26  1  0.379443  0.234950  0.037948  1
+  N  N27  1  0.620557  0.734950  0.462052  1
+  N  N28  1  0.620557  0.765050  0.962052  1
+  N  N29  1  0.379443  0.265050  0.537948  1
+  N  N30  1  0.213561  0.018273  0.290310  1
+  N  N31  1  0.786439  0.518273  0.209690  1

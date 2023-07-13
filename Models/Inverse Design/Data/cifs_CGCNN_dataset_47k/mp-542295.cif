@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_NaYbGeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42041698
+_cell_length_b   6.54027173
+_cell_length_c   11.58707291
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaYbGeO4
+_chemical_formula_sum   'Na4 Yb4 Ge4 O16'
+_cell_volume   410.77332103
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.000000  0.500000  0.500000  1
+  Na  Na1  1  0.000000  0.000000  0.500000  1
+  Na  Na2  1  0.500000  0.500000  0.000000  1
+  Na  Na3  1  0.500000  0.000000  0.000000  1
+  Yb  Yb4  1  0.495456  0.250000  0.274183  1
+  Yb  Yb5  1  0.004544  0.250000  0.774183  1
+  Yb  Yb6  1  0.504544  0.750000  0.725817  1
+  Yb  Yb7  1  0.995456  0.750000  0.225817  1
+  Ge  Ge8  1  0.051646  0.250000  0.100443  1
+  Ge  Ge9  1  0.448354  0.250000  0.600443  1
+  Ge  Ge10  1  0.948354  0.750000  0.899557  1
+  Ge  Ge11  1  0.551646  0.750000  0.399557  1
+  O  O12  1  0.229626  0.750000  0.392388  1
+  O  O13  1  0.795477  0.959496  0.830678  1
+  O  O14  1  0.295477  0.459496  0.669322  1
+  O  O15  1  0.677922  0.750000  0.542131  1
+  O  O16  1  0.295477  0.040504  0.669322  1
+  O  O17  1  0.795477  0.540504  0.830678  1
+  O  O18  1  0.322078  0.250000  0.457869  1
+  O  O19  1  0.270374  0.750000  0.892388  1
+  O  O20  1  0.177922  0.250000  0.957869  1
+  O  O21  1  0.704523  0.540504  0.330678  1
+  O  O22  1  0.704523  0.959496  0.330678  1
+  O  O23  1  0.204523  0.040504  0.169322  1
+  O  O24  1  0.822078  0.750000  0.042131  1
+  O  O25  1  0.204523  0.459496  0.169322  1
+  O  O26  1  0.770374  0.250000  0.607612  1
+  O  O27  1  0.729626  0.250000  0.107612  1

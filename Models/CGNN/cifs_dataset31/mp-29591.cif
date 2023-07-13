@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_Sb3ClO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.73414157
+_cell_length_b   5.52647447
+_cell_length_c   9.67615997
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   95.08765943
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sb3ClO4
+_chemical_formula_sum   'Sb6 Cl2 O8'
+_cell_volume   305.42543498
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.301659  0.695463  0.207112  1
+  Sb  Sb1  1  0.750000  0.826822  0.500000  1
+  Sb  Sb2  1  0.250000  0.173178  0.500000  1
+  Sb  Sb3  1  0.198341  0.695463  0.792888  1
+  Sb  Sb4  1  0.698341  0.304537  0.792888  1
+  Sb  Sb5  1  0.801659  0.304537  0.207112  1
+  Cl  Cl6  1  0.750000  0.710091  0.000000  1
+  Cl  Cl7  1  0.250000  0.289909  0.000000  1
+  O  O8  1  0.898767  0.084375  0.380027  1
+  O  O9  1  0.601233  0.084375  0.619973  1
+  O  O10  1  0.101233  0.915625  0.619973  1
+  O  O11  1  0.398767  0.915625  0.380027  1
+  O  O12  1  0.547778  0.474367  0.298065  1
+  O  O13  1  0.452222  0.525633  0.701935  1
+  O  O14  1  0.952222  0.474367  0.701935  1
+  O  O15  1  0.047778  0.525633  0.298065  1

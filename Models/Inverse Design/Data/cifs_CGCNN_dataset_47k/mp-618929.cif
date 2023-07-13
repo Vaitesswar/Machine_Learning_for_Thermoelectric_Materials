@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_Ni2GeP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.01047145
+_cell_length_b   6.00461824
+_cell_length_c   14.07701043
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni2GeP
+_chemical_formula_sum   'Ni16 Ge8 P8'
+_cell_volume   423.52048899
+_cell_formula_units_Z   8
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.991182  0.792122  0.426063  1
+  Ni  Ni1  1  0.491182  0.707878  0.426063  1
+  Ni  Ni2  1  0.493342  0.218349  0.808691  1
+  Ni  Ni3  1  0.506658  0.281651  0.308691  1
+  Ni  Ni4  1  0.491182  0.207878  0.073937  1
+  Ni  Ni5  1  0.506658  0.781651  0.191309  1
+  Ni  Ni6  1  0.006658  0.718349  0.191309  1
+  Ni  Ni7  1  0.991182  0.292122  0.073937  1
+  Ni  Ni8  1  0.008818  0.707878  0.926063  1
+  Ni  Ni9  1  0.993342  0.281651  0.808691  1
+  Ni  Ni10  1  0.508818  0.292122  0.573937  1
+  Ni  Ni11  1  0.508818  0.792122  0.926063  1
+  Ni  Ni12  1  0.993342  0.781651  0.691309  1
+  Ni  Ni13  1  0.493342  0.718349  0.691309  1
+  Ni  Ni14  1  0.006658  0.218349  0.308691  1
+  Ni  Ni15  1  0.008818  0.207878  0.573937  1
+  Ge  Ge16  1  0.702280  0.407094  0.940181  1
+  Ge  Ge17  1  0.797720  0.907094  0.059819  1
+  Ge  Ge18  1  0.797720  0.407094  0.440181  1
+  Ge  Ge19  1  0.702280  0.907094  0.559819  1
+  Ge  Ge20  1  0.202280  0.092906  0.940181  1
+  Ge  Ge21  1  0.297720  0.092906  0.440181  1
+  Ge  Ge22  1  0.297720  0.592906  0.059819  1
+  Ge  Ge23  1  0.202280  0.592906  0.559819  1
+  P  P24  1  0.292386  0.066910  0.683556  1
+  P  P25  1  0.707614  0.433090  0.183556  1
+  P  P26  1  0.792386  0.433090  0.683556  1
+  P  P27  1  0.792386  0.933090  0.816444  1
+  P  P28  1  0.207614  0.566910  0.316444  1
+  P  P29  1  0.292386  0.566910  0.816444  1
+  P  P30  1  0.207614  0.066910  0.183556  1
+  P  P31  1  0.707614  0.933090  0.316444  1

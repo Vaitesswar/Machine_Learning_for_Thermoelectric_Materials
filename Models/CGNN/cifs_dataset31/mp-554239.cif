@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_NaSbCO2F3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.32751657
+_cell_length_b   9.32751657
+_cell_length_c   8.49297265
+_cell_angle_alpha   83.52052292
+_cell_angle_beta   96.47947708
+_cell_angle_gamma   139.70173491
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaSbCO2F3
+_chemical_formula_sum   'Na4 Sb4 C4 O8 F12'
+_cell_volume   474.43747135
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.673840  0.094469  0.176191  1
+  Na  Na1  1  0.905531  0.326160  0.676191  1
+  Na  Na2  1  0.094469  0.673840  0.323809  1
+  Na  Na3  1  0.326160  0.905531  0.823809  1
+  Sb  Sb4  1  0.480432  0.269530  0.394554  1
+  Sb  Sb5  1  0.730470  0.519568  0.894554  1
+  Sb  Sb6  1  0.269530  0.480432  0.105446  1
+  Sb  Sb7  1  0.519568  0.730470  0.605446  1
+  C  C8  1  0.104326  0.040955  0.972476  1
+  C  C9  1  0.895674  0.959045  0.027524  1
+  C  C10  1  0.040955  0.104326  0.527524  1
+  C  C11  1  0.959045  0.895674  0.472476  1
+  O  O12  1  0.708255  0.764035  0.996287  1
+  O  O13  1  0.070718  0.904517  0.899095  1
+  O  O14  1  0.235965  0.291745  0.496287  1
+  O  O15  1  0.904517  0.070718  0.600905  1
+  O  O16  1  0.291745  0.235965  0.003713  1
+  O  O17  1  0.764035  0.708255  0.503713  1
+  O  O18  1  0.095483  0.929282  0.399095  1
+  O  O19  1  0.929282  0.095483  0.100905  1
+  F  F20  1  0.425552  0.038425  0.304269  1
+  F  F21  1  0.440007  0.172236  0.620937  1
+  F  F22  1  0.038425  0.425552  0.195731  1
+  F  F23  1  0.559993  0.827764  0.379063  1
+  F  F24  1  0.392270  0.778033  0.047672  1
+  F  F25  1  0.607730  0.221967  0.952328  1
+  F  F26  1  0.221967  0.607730  0.547672  1
+  F  F27  1  0.172236  0.440007  0.879063  1
+  F  F28  1  0.961575  0.574448  0.804269  1
+  F  F29  1  0.778033  0.392270  0.452328  1
+  F  F30  1  0.574448  0.961575  0.695731  1
+  F  F31  1  0.827764  0.559993  0.120937  1

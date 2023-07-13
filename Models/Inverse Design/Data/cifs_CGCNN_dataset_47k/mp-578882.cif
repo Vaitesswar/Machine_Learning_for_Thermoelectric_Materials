@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_SbPb2S2I3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.80417816
+_cell_length_b   16.74820206
+_cell_length_c   8.75846273
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   106.65660785
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SbPb2S2I3
+_chemical_formula_sum   'Sb4 Pb8 S8 I12'
+_cell_volume   1096.74793855
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sb  Sb0  1  0.303636  0.981010  0.322272  1
+  Sb  Sb1  1  0.696364  0.481010  0.177728  1
+  Sb  Sb2  1  0.303636  0.518990  0.822272  1
+  Sb  Sb3  1  0.696364  0.018990  0.677728  1
+  Pb  Pb4  1  0.755968  0.472781  0.691864  1
+  Pb  Pb5  1  0.611708  0.733680  0.663940  1
+  Pb  Pb6  1  0.244032  0.527219  0.308136  1
+  Pb  Pb7  1  0.755968  0.027219  0.191864  1
+  Pb  Pb8  1  0.388292  0.233680  0.836060  1
+  Pb  Pb9  1  0.388292  0.266320  0.336060  1
+  Pb  Pb10  1  0.244032  0.972781  0.808136  1
+  Pb  Pb11  1  0.611708  0.766320  0.163940  1
+  S  S12  1  0.538613  0.424195  0.367016  1
+  S  S13  1  0.461657  0.914632  0.594048  1
+  S  S14  1  0.461387  0.924195  0.132984  1
+  S  S15  1  0.538343  0.085368  0.405952  1
+  S  S16  1  0.538343  0.414632  0.905952  1
+  S  S17  1  0.461387  0.575805  0.632984  1
+  S  S18  1  0.461657  0.585368  0.094048  1
+  S  S19  1  0.538613  0.075805  0.867016  1
+  I  I20  1  0.866981  0.882919  0.967196  1
+  I  I21  1  0.102268  0.380258  0.032218  1
+  I  I22  1  0.102268  0.119742  0.532218  1
+  I  I23  1  0.310252  0.741316  0.330782  1
+  I  I24  1  0.133019  0.117081  0.032804  1
+  I  I25  1  0.897732  0.619742  0.967782  1
+  I  I26  1  0.689748  0.241316  0.169218  1
+  I  I27  1  0.897732  0.880258  0.467782  1
+  I  I28  1  0.866981  0.617081  0.467196  1
+  I  I29  1  0.133019  0.382919  0.532804  1
+  I  I30  1  0.310252  0.758684  0.830782  1
+  I  I31  1  0.689748  0.258684  0.669218  1

@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_NiH12(BrO7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.94267922
+_cell_length_b   7.94267922
+_cell_length_c   5.34306315
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiH12(BrO7)2
+_chemical_formula_sum   'Ni1 H12 Br2 O14'
+_cell_volume   291.91404110
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.000000  0.000000  0.500000  1
+  H  H1  1  0.066804  0.285130  0.791507  1
+  H  H2  1  0.218325  0.933196  0.791507  1
+  H  H3  1  0.714870  0.781675  0.791507  1
+  H  H4  1  0.933196  0.714870  0.208493  1
+  H  H5  1  0.781675  0.066804  0.208493  1
+  H  H6  1  0.285130  0.218325  0.208493  1
+  H  H7  1  0.270640  0.345540  0.675392  1
+  H  H8  1  0.074900  0.729360  0.675392  1
+  H  H9  1  0.654460  0.925100  0.675392  1
+  H  H10  1  0.729360  0.654460  0.324608  1
+  H  H11  1  0.925100  0.270640  0.324608  1
+  H  H12  1  0.345540  0.074900  0.324608  1
+  Br  Br13  1  0.666667  0.333333  0.822877  1
+  Br  Br14  1  0.333333  0.666667  0.177123  1
+  O  O15  1  0.666667  0.333333  0.130764  1
+  O  O16  1  0.333333  0.666667  0.869236  1
+  O  O17  1  0.151218  0.234367  0.739166  1
+  O  O18  1  0.083149  0.848782  0.739166  1
+  O  O19  1  0.765633  0.916851  0.739166  1
+  O  O20  1  0.848782  0.765633  0.260834  1
+  O  O21  1  0.916851  0.151218  0.260834  1
+  O  O22  1  0.234367  0.083149  0.260834  1
+  O  O23  1  0.886641  0.398531  0.716537  1
+  O  O24  1  0.511890  0.113359  0.716537  1
+  O  O25  1  0.601469  0.488110  0.716537  1
+  O  O26  1  0.113359  0.601469  0.283463  1
+  O  O27  1  0.488110  0.886641  0.283463  1
+  O  O28  1  0.398531  0.511890  0.283463  1

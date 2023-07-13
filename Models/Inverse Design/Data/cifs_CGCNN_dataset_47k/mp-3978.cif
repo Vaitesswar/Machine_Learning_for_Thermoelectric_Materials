@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_SrSiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.21654122
+_cell_length_b   7.21654122
+_cell_length_c   10.99545125
+_cell_angle_alpha   71.38047774
+_cell_angle_beta   108.61952226
+_cell_angle_gamma   119.80711415
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrSiO3
+_chemical_formula_sum   'Sr6 Si6 O18'
+_cell_volume   461.79871623
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.151858  0.326425  0.000862  1
+  Sr  Sr1  1  0.326425  0.151858  0.499138  1
+  Sr  Sr2  1  0.848142  0.673575  0.999138  1
+  Sr  Sr3  1  0.673575  0.848142  0.500862  1
+  Sr  Sr4  1  0.000000  0.500000  0.500000  1
+  Sr  Sr5  1  0.500000  0.000000  0.000000  1
+  Si  Si6  1  0.334243  0.581721  0.253718  1
+  Si  Si7  1  0.581721  0.334243  0.246282  1
+  Si  Si8  1  0.665757  0.418279  0.746282  1
+  Si  Si9  1  0.418279  0.665757  0.753718  1
+  Si  Si10  1  0.830861  0.830861  0.250000  1
+  Si  Si11  1  0.169139  0.169139  0.750000  1
+  O  O12  1  0.280869  0.535122  0.394864  1
+  O  O13  1  0.535122  0.280869  0.105136  1
+  O  O14  1  0.719131  0.464878  0.605136  1
+  O  O15  1  0.464878  0.719131  0.894864  1
+  O  O16  1  0.183970  0.628081  0.115102  1
+  O  O17  1  0.628081  0.183970  0.384898  1
+  O  O18  1  0.816030  0.371919  0.884898  1
+  O  O19  1  0.371919  0.816030  0.615102  1
+  O  O20  1  0.582584  0.796116  0.251714  1
+  O  O21  1  0.796116  0.582584  0.248286  1
+  O  O22  1  0.417416  0.203884  0.748286  1
+  O  O23  1  0.203884  0.417416  0.751714  1
+  O  O24  1  0.886698  0.981067  0.110656  1
+  O  O25  1  0.981067  0.886698  0.389344  1
+  O  O26  1  0.113302  0.018933  0.889344  1
+  O  O27  1  0.018933  0.113302  0.610656  1
+  O  O28  1  0.368303  0.368303  0.250000  1
+  O  O29  1  0.631697  0.631697  0.750000  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Hg6S4Br3Cl
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.46918728
+_cell_length_b   10.46918728
+_cell_length_c   10.59423802
+_cell_angle_alpha   66.20308690
+_cell_angle_beta   113.79691310
+_cell_angle_gamma   126.25517343
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hg6S4Br3Cl
+_chemical_formula_sum   'Hg12 S8 Br6 Cl2'
+_cell_volume   835.08485193
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hg  Hg0  1  0.157491  0.305576  0.205213  1
+  Hg  Hg1  1  0.305576  0.157491  0.794787  1
+  Hg  Hg2  1  0.842509  0.694424  0.794787  1
+  Hg  Hg3  1  0.694424  0.842509  0.205213  1
+  Hg  Hg4  1  0.425703  0.574297  0.774723  1
+  Hg  Hg5  1  0.574297  0.425703  0.225277  1
+  Hg  Hg6  1  0.282623  0.717377  0.211885  1
+  Hg  Hg7  1  0.717377  0.282623  0.788115  1
+  Hg  Hg8  1  0.367677  0.105877  0.504573  1
+  Hg  Hg9  1  0.105877  0.367677  0.495427  1
+  Hg  Hg10  1  0.632323  0.894123  0.495427  1
+  Hg  Hg11  1  0.894123  0.632323  0.504573  1
+  S  S12  1  0.176230  0.308900  0.753169  1
+  S  S13  1  0.691100  0.823770  0.753169  1
+  S  S14  1  0.823770  0.691100  0.246831  1
+  S  S15  1  0.952350  0.559699  0.762439  1
+  S  S16  1  0.559699  0.952350  0.237561  1
+  S  S17  1  0.047650  0.440301  0.237561  1
+  S  S18  1  0.440301  0.047650  0.762439  1
+  S  S19  1  0.308900  0.176230  0.246831  1
+  Br  Br20  1  0.251229  0.748771  0.497963  1
+  Br  Br21  1  0.748771  0.251229  0.502037  1
+  Br  Br22  1  0.500000  0.500000  0.500000  1
+  Br  Br23  1  0.619164  0.380836  0.989634  1
+  Br  Br24  1  0.380836  0.619164  0.010366  1
+  Br  Br25  1  0.000000  0.000000  0.500000  1
+  Cl  Cl26  1  0.125345  0.874655  0.986678  1
+  Cl  Cl27  1  0.874655  0.125345  0.013322  1

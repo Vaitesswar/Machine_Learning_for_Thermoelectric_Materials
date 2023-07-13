@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Be2Te7Cl6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.53118672
+_cell_length_b   10.33191621
+_cell_length_c   16.82092867
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Be2Te7Cl6
+_chemical_formula_sum   'Be4 Te14 Cl12'
+_cell_volume   961.27835648
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Be  Be0  1  0.000000  0.500000  0.419309  1
+  Be  Be1  1  0.500000  0.000000  0.080691  1
+  Be  Be2  1  0.000000  0.500000  0.580691  1
+  Be  Be3  1  0.500000  0.000000  0.919309  1
+  Te  Te4  1  0.500000  0.500000  0.760773  1
+  Te  Te5  1  0.000000  0.000000  0.739227  1
+  Te  Te6  1  0.500000  0.500000  0.239227  1
+  Te  Te7  1  0.000000  0.000000  0.260773  1
+  Te  Te8  1  0.328334  0.896142  0.628575  1
+  Te  Te9  1  0.828334  0.603858  0.871425  1
+  Te  Te10  1  0.171666  0.396142  0.871425  1
+  Te  Te11  1  0.671666  0.103858  0.628575  1
+  Te  Te12  1  0.671666  0.103858  0.371425  1
+  Te  Te13  1  0.171666  0.396142  0.128575  1
+  Te  Te14  1  0.828334  0.603858  0.128575  1
+  Te  Te15  1  0.328334  0.896142  0.371425  1
+  Te  Te16  1  0.500000  0.500000  0.000000  1
+  Te  Te17  1  0.000000  0.000000  0.500000  1
+  Cl  Cl18  1  0.347447  0.861299  0.146732  1
+  Cl  Cl19  1  0.847447  0.638701  0.353268  1
+  Cl  Cl20  1  0.152553  0.361299  0.353268  1
+  Cl  Cl21  1  0.652553  0.138701  0.146732  1
+  Cl  Cl22  1  0.652553  0.138701  0.853268  1
+  Cl  Cl23  1  0.152553  0.361299  0.646732  1
+  Cl  Cl24  1  0.847447  0.638701  0.646732  1
+  Cl  Cl25  1  0.347447  0.861299  0.853268  1
+  Cl  Cl26  1  0.267115  0.085280  0.000000  1
+  Cl  Cl27  1  0.767115  0.414720  0.500000  1
+  Cl  Cl28  1  0.732885  0.914720  0.000000  1
+  Cl  Cl29  1  0.232885  0.585280  0.500000  1

@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_K2(NbCl3)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.89803496
+_cell_length_b   9.89803496
+_cell_length_c   9.78132301
+_cell_angle_alpha   77.22091717
+_cell_angle_beta   102.77908283
+_cell_angle_gamma   62.61327974
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2(NbCl3)3
+_chemical_formula_sum   'K4 Nb6 Cl18'
+_cell_volume   769.94157459
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.229638  0.448862  0.672652  1
+  K  K1  1  0.448862  0.229638  0.327348  1
+  K  K2  1  0.770362  0.551138  0.327348  1
+  K  K3  1  0.551138  0.770362  0.672652  1
+  Nb  Nb4  1  0.953424  0.220525  0.859703  1
+  Nb  Nb5  1  0.220525  0.953424  0.140297  1
+  Nb  Nb6  1  0.779475  0.046576  0.859703  1
+  Nb  Nb7  1  0.046576  0.779475  0.140297  1
+  Nb  Nb8  1  0.880469  0.119531  0.127630  1
+  Nb  Nb9  1  0.119531  0.880469  0.872370  1
+  Cl  Cl10  1  0.914987  0.879798  0.314057  1
+  Cl  Cl11  1  0.107955  0.499014  0.322412  1
+  Cl  Cl12  1  0.730621  0.269379  0.285191  1
+  Cl  Cl13  1  0.269379  0.730621  0.714809  1
+  Cl  Cl14  1  0.500986  0.892045  0.322412  1
+  Cl  Cl15  1  0.892045  0.500986  0.677588  1
+  Cl  Cl16  1  0.317017  0.682983  0.329430  1
+  Cl  Cl17  1  0.682983  0.317017  0.670570  1
+  Cl  Cl18  1  0.794243  0.794243  0.000000  1
+  Cl  Cl19  1  0.205757  0.205757  0.000000  1
+  Cl  Cl20  1  0.120202  0.085013  0.314057  1
+  Cl  Cl21  1  0.598735  0.194683  0.984354  1
+  Cl  Cl22  1  0.805317  0.401265  0.984354  1
+  Cl  Cl23  1  0.401265  0.805317  0.015646  1
+  Cl  Cl24  1  0.194683  0.598735  0.015646  1
+  Cl  Cl25  1  0.879798  0.914987  0.685943  1
+  Cl  Cl26  1  0.085013  0.120202  0.685943  1
+  Cl  Cl27  1  0.499014  0.107955  0.677588  1

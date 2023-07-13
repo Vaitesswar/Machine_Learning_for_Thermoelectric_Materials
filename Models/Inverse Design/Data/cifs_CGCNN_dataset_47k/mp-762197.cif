@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_RbAl(H2N)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.97923343
+_cell_length_b   7.97923343
+_cell_length_c   5.13409511
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbAl(H2N)4
+_chemical_formula_sum   'Rb2 Al2 H16 N8'
+_cell_volume   326.87842039
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.000000  0.500000  0.624042  1
+  Rb  Rb1  1  0.500000  0.000000  0.375958  1
+  Al  Al2  1  0.500000  0.500000  0.000000  1
+  Al  Al3  1  0.000000  0.000000  0.000000  1
+  H  H4  1  0.214364  0.526675  0.140581  1
+  H  H5  1  0.459719  0.329894  0.604468  1
+  H  H6  1  0.026675  0.285636  0.140581  1
+  H  H7  1  0.670106  0.459719  0.395532  1
+  H  H8  1  0.329894  0.540281  0.395532  1
+  H  H9  1  0.973325  0.714364  0.140581  1
+  H  H10  1  0.540281  0.670106  0.604468  1
+  H  H11  1  0.785636  0.473325  0.140581  1
+  H  H12  1  0.714364  0.026675  0.859419  1
+  H  H13  1  0.959719  0.829894  0.395532  1
+  H  H14  1  0.526675  0.785636  0.859419  1
+  H  H15  1  0.170106  0.959719  0.604468  1
+  H  H16  1  0.829894  0.040281  0.604468  1
+  H  H17  1  0.473325  0.214364  0.859419  1
+  H  H18  1  0.040281  0.170106  0.395532  1
+  H  H19  1  0.285636  0.973325  0.859419  1
+  N  N20  1  0.472082  0.683746  0.773127  1
+  N  N21  1  0.316254  0.472082  0.226873  1
+  N  N22  1  0.683746  0.527918  0.226873  1
+  N  N23  1  0.527918  0.316254  0.773127  1
+  N  N24  1  0.972082  0.183746  0.226873  1
+  N  N25  1  0.816254  0.972082  0.773127  1
+  N  N26  1  0.183746  0.027918  0.773127  1
+  N  N27  1  0.027918  0.816254  0.226873  1

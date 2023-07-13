@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_SrIrO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.54589273
+_cell_length_b   5.54589273
+_cell_length_c   14.48567424
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   118.25803654
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrIrO3
+_chemical_formula_sum   'Sr6 Ir6 O18'
+_cell_volume   392.43790715
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.008259  0.991741  0.250000  1
+  Sr  Sr1  1  0.991741  0.008259  0.750000  1
+  Sr  Sr2  1  0.676568  0.323432  0.108093  1
+  Sr  Sr3  1  0.676568  0.323432  0.391907  1
+  Sr  Sr4  1  0.323432  0.676568  0.891907  1
+  Sr  Sr5  1  0.323432  0.676568  0.608093  1
+  Ir  Ir6  1  0.000000  0.000000  0.000000  1
+  Ir  Ir7  1  0.000000  0.000000  0.500000  1
+  Ir  Ir8  1  0.660955  0.339045  0.848003  1
+  Ir  Ir9  1  0.660955  0.339045  0.651997  1
+  Ir  Ir10  1  0.339045  0.660955  0.151997  1
+  Ir  Ir11  1  0.339045  0.660955  0.348003  1
+  O  O12  1  0.278893  0.200263  0.598447  1
+  O  O13  1  0.799737  0.721107  0.901553  1
+  O  O14  1  0.721107  0.799737  0.401553  1
+  O  O15  1  0.200263  0.278893  0.098447  1
+  O  O16  1  0.798185  0.201815  0.957114  1
+  O  O17  1  0.798185  0.201815  0.542886  1
+  O  O18  1  0.201815  0.798185  0.042886  1
+  O  O19  1  0.201815  0.798185  0.457114  1
+  O  O20  1  0.799737  0.721107  0.598447  1
+  O  O21  1  0.278893  0.200263  0.901553  1
+  O  O22  1  0.200263  0.278893  0.401553  1
+  O  O23  1  0.721107  0.799737  0.098447  1
+  O  O24  1  0.487157  0.512843  0.250000  1
+  O  O25  1  0.512843  0.487157  0.750000  1
+  O  O26  1  0.024358  0.518645  0.250000  1
+  O  O27  1  0.481355  0.975642  0.250000  1
+  O  O28  1  0.975642  0.481355  0.750000  1
+  O  O29  1  0.518645  0.024358  0.750000  1

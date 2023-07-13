@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_BaFe(Si2O5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.54425500
+_cell_length_b   7.64575000
+_cell_length_c   8.21499900
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaFe(Si2O5)2
+_chemical_formula_sum   'Ba2 Fe2 Si8 O20'
+_cell_volume   473.85336350
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.500000  0.500000  0.980766  1
+  Ba  Ba1  1  0.000000  0.000000  0.019234  1
+  Fe  Fe2  1  0.500000  0.000000  0.192681  1
+  Fe  Fe3  1  0.000000  0.500000  0.807319  1
+  Si  Si4  1  0.259544  0.184347  0.701479  1
+  Si  Si5  1  0.759544  0.315653  0.298521  1
+  Si  Si6  1  0.240456  0.684347  0.298521  1
+  Si  Si7  1  0.740456  0.815653  0.701479  1
+  Si  Si8  1  0.683129  0.223237  0.674610  1
+  Si  Si9  1  0.183129  0.276763  0.325390  1
+  Si  Si10  1  0.816871  0.723237  0.325390  1
+  Si  Si11  1  0.316871  0.776763  0.674610  1
+  O  O12  1  0.147071  0.274741  0.844936  1
+  O  O13  1  0.647071  0.225259  0.155064  1
+  O  O14  1  0.352929  0.774741  0.155064  1
+  O  O15  1  0.852929  0.725259  0.844936  1
+  O  O16  1  0.226442  0.628617  0.783595  1
+  O  O17  1  0.726442  0.871383  0.216405  1
+  O  O18  1  0.273558  0.128617  0.216405  1
+  O  O19  1  0.773558  0.371383  0.783595  1
+  O  O20  1  0.233559  0.970442  0.719925  1
+  O  O21  1  0.733559  0.529558  0.280075  1
+  O  O22  1  0.266441  0.470442  0.280075  1
+  O  O23  1  0.766441  0.029558  0.719925  1
+  O  O24  1  0.803585  0.751092  0.521560  1
+  O  O25  1  0.303585  0.748908  0.478440  1
+  O  O26  1  0.696415  0.251092  0.478440  1
+  O  O27  1  0.196415  0.248908  0.521560  1
+  O  O28  1  0.528442  0.772934  0.725782  1
+  O  O29  1  0.028442  0.727066  0.274218  1
+  O  O30  1  0.971558  0.272934  0.274218  1
+  O  O31  1  0.471558  0.227066  0.725782  1

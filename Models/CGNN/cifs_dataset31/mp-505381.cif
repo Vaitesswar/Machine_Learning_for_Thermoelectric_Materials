@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_NaLi3(H2N)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.87598834
+_cell_length_b   6.87598834
+_cell_length_c   6.87598834
+_cell_angle_alpha   136.31204291
+_cell_angle_beta   136.31204291
+_cell_angle_gamma   63.49827922
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaLi3(H2N)4
+_chemical_formula_sum   'Na1 Li3 H8 N4'
+_cell_volume   153.08825421
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.250000  0.750000  0.500000  1
+  Li  Li1  1  0.000000  0.000000  0.000000  1
+  Li  Li2  1  0.010181  0.510181  0.500000  1
+  Li  Li3  1  0.489819  0.989819  0.500000  1
+  H  H4  1  0.521011  0.775852  0.080720  1
+  H  H5  1  0.224148  0.304868  0.745159  1
+  H  H6  1  0.559709  0.478989  0.254841  1
+  H  H7  1  0.695132  0.440291  0.919280  1
+  H  H8  1  0.410476  0.059993  0.134572  1
+  H  H9  1  0.940007  0.074579  0.350483  1
+  H  H10  1  0.724096  0.589524  0.649517  1
+  H  H11  1  0.925421  0.275904  0.865428  1
+  N  N12  1  0.337659  0.864262  0.001864  1
+  N  N13  1  0.135738  0.137602  0.473397  1
+  N  N14  1  0.664205  0.662341  0.526603  1
+  N  N15  1  0.862398  0.335795  0.998136  1

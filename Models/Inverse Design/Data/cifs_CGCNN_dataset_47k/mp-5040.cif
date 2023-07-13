@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_CaTe2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.62411618
+_cell_length_b   5.85167839
+_cell_length_c   11.20888696
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   114.32258613
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaTe2O5
+_chemical_formula_sum   'Ca4 Te8 O20'
+_cell_volume   575.22405726
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.024595  0.195949  0.640628  1
+  Ca  Ca1  1  0.975405  0.695949  0.859372  1
+  Ca  Ca2  1  0.975405  0.804051  0.359372  1
+  Ca  Ca3  1  0.024595  0.304051  0.140628  1
+  Te  Te4  1  0.257724  0.821690  0.218703  1
+  Te  Te5  1  0.742276  0.321690  0.281297  1
+  Te  Te6  1  0.742276  0.178310  0.781297  1
+  Te  Te7  1  0.257724  0.678310  0.718703  1
+  Te  Te8  1  0.348126  0.362226  0.487870  1
+  Te  Te9  1  0.651874  0.862226  0.012130  1
+  Te  Te10  1  0.651874  0.637774  0.512130  1
+  Te  Te11  1  0.348126  0.137774  0.987870  1
+  O  O12  1  0.476057  0.893049  0.090638  1
+  O  O13  1  0.523943  0.393049  0.409362  1
+  O  O14  1  0.523943  0.106951  0.909362  1
+  O  O15  1  0.476057  0.606951  0.590638  1
+  O  O16  1  0.205195  0.526373  0.343250  1
+  O  O17  1  0.794805  0.026373  0.156750  1
+  O  O18  1  0.794805  0.473627  0.656750  1
+  O  O19  1  0.205195  0.973627  0.843250  1
+  O  O20  1  0.224462  0.090855  0.096493  1
+  O  O21  1  0.775538  0.590855  0.403507  1
+  O  O22  1  0.775538  0.909145  0.903507  1
+  O  O23  1  0.224462  0.409145  0.596493  1
+  O  O24  1  0.136613  0.508678  0.783738  1
+  O  O25  1  0.863387  0.008678  0.716262  1
+  O  O26  1  0.863387  0.491322  0.216262  1
+  O  O27  1  0.136613  0.991322  0.283738  1
+  O  O28  1  0.114926  0.854287  0.584523  1
+  O  O29  1  0.885074  0.354287  0.915477  1
+  O  O30  1  0.885074  0.145713  0.415477  1
+  O  O31  1  0.114926  0.645713  0.084523  1

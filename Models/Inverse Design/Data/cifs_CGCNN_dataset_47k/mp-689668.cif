@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ce4FeSe6O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.49440134
+_cell_length_b   9.49440134
+_cell_length_c   7.07191204
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce4FeSe6O
+_chemical_formula_sum   'Ce8 Fe2 Se12 O2'
+_cell_volume   552.08081281
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.197363  0.802637  0.842659  1
+  Ce  Ce1  1  0.802637  0.197363  0.342659  1
+  Ce  Ce2  1  0.394725  0.197363  0.342659  1
+  Ce  Ce3  1  0.802637  0.605275  0.342659  1
+  Ce  Ce4  1  0.605275  0.802637  0.842659  1
+  Ce  Ce5  1  0.333333  0.666667  0.285445  1
+  Ce  Ce6  1  0.666667  0.333333  0.785445  1
+  Ce  Ce7  1  0.197363  0.394725  0.842659  1
+  Fe  Fe8  1  0.000000  0.000000  0.500202  1
+  Fe  Fe9  1  0.000000  0.000000  0.000202  1
+  Se  Se10  1  0.128993  0.257987  0.235758  1
+  Se  Se11  1  0.871007  0.742013  0.735758  1
+  Se  Se12  1  0.257987  0.128993  0.735758  1
+  Se  Se13  1  0.059890  0.529945  0.555962  1
+  Se  Se14  1  0.128993  0.871007  0.235758  1
+  Se  Se15  1  0.529945  0.059890  0.055962  1
+  Se  Se16  1  0.529945  0.470055  0.055962  1
+  Se  Se17  1  0.940110  0.470055  0.055962  1
+  Se  Se18  1  0.470055  0.940110  0.555962  1
+  Se  Se19  1  0.742013  0.871007  0.235758  1
+  Se  Se20  1  0.470055  0.529945  0.555962  1
+  Se  Se21  1  0.871007  0.128993  0.735758  1
+  O  O22  1  0.333333  0.666667  0.952195  1
+  O  O23  1  0.666667  0.333333  0.452195  1

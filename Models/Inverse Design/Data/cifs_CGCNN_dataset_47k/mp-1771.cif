@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_NO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.19645790
+_cell_length_b   4.95106809
+_cell_length_c   6.84453663
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   118.23096726
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NO2
+_chemical_formula_sum   'N4 O8'
+_cell_volume   185.00607261
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  N  N0  1  0.159087  0.003446  0.021387  1
+  N  N1  1  0.840913  0.503446  0.478613  1
+  N  N2  1  0.840913  0.996554  0.978613  1
+  N  N3  1  0.159087  0.496554  0.521387  1
+  O  O4  1  0.277681  0.186445  0.138892  1
+  O  O5  1  0.722319  0.686445  0.361108  1
+  O  O6  1  0.722319  0.813555  0.861108  1
+  O  O7  1  0.277681  0.313555  0.638892  1
+  O  O8  1  0.200895  0.823372  0.925697  1
+  O  O9  1  0.799105  0.323372  0.574303  1
+  O  O10  1  0.799105  0.176628  0.074303  1
+  O  O11  1  0.200895  0.676628  0.425697  1

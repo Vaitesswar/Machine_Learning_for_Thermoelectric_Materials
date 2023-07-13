@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_PrNiSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.65122575
+_cell_length_b   7.49757809
+_cell_length_c   7.62014277
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   PrNiSn
+_chemical_formula_sum   'Pr4 Ni4 Sn4'
+_cell_volume   265.73669226
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Pr  Pr0  1  0.250000  0.807281  0.474069  1
+  Pr  Pr1  1  0.750000  0.192719  0.525931  1
+  Pr  Pr2  1  0.750000  0.307281  0.025931  1
+  Pr  Pr3  1  0.250000  0.692719  0.974069  1
+  Ni  Ni4  1  0.750000  0.578184  0.320390  1
+  Ni  Ni5  1  0.750000  0.921816  0.820390  1
+  Ni  Ni6  1  0.250000  0.078184  0.179610  1
+  Ni  Ni7  1  0.250000  0.421816  0.679610  1
+  Sn  Sn8  1  0.750000  0.596283  0.683196  1
+  Sn  Sn9  1  0.750000  0.903717  0.183196  1
+  Sn  Sn10  1  0.250000  0.096283  0.816804  1
+  Sn  Sn11  1  0.250000  0.403717  0.316804  1

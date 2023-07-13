@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ce3(CuSn)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.57456871
+_cell_length_b   8.57456871
+_cell_length_c   8.57456871
+_cell_angle_alpha   148.70425405
+_cell_angle_beta   132.03150072
+_cell_angle_gamma   58.39659780
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce3(CuSn)4
+_chemical_formula_sum   'Ce3 Cu4 Sn4'
+_cell_volume   241.34869972
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.133019  0.133019  0.000000  1
+  Ce  Ce1  1  0.866981  0.866981  0.000000  1
+  Ce  Ce2  1  0.500000  0.000000  0.500000  1
+  Cu  Cu3  1  0.515665  0.332325  0.183340  1
+  Cu  Cu4  1  0.484335  0.667675  0.816660  1
+  Cu  Cu5  1  0.851016  0.667675  0.183340  1
+  Cu  Cu6  1  0.148984  0.332325  0.816660  1
+  Sn  Sn7  1  0.716488  0.216488  0.500000  1
+  Sn  Sn8  1  0.283512  0.783512  0.500000  1
+  Sn  Sn9  1  0.202366  0.500000  0.702366  1
+  Sn  Sn10  1  0.797634  0.500000  0.297634  1

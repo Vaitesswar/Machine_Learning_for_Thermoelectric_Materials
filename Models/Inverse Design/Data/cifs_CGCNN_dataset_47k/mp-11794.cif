@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_AlAgO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.47647353
+_cell_length_b   5.48628201
+_cell_length_c   7.03259004
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlAgO2
+_chemical_formula_sum   'Al4 Ag4 O8'
+_cell_volume   211.29753078
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.436526  0.999839  0.124517  1
+  Al  Al1  1  0.063474  0.499839  0.624517  1
+  Al  Al2  1  0.563474  0.499839  0.875483  1
+  Al  Al3  1  0.936526  0.999839  0.375483  1
+  Ag  Ag4  1  0.945098  0.998472  0.865024  1
+  Ag  Ag5  1  0.054902  0.498472  0.134976  1
+  Ag  Ag6  1  0.554902  0.498472  0.365024  1
+  Ag  Ag7  1  0.445098  0.998472  0.634976  1
+  O  O8  1  0.875843  0.563656  0.825488  1
+  O  O9  1  0.124157  0.063656  0.174512  1
+  O  O10  1  0.624157  0.063656  0.325488  1
+  O  O11  1  0.375843  0.563656  0.674512  1
+  O  O12  1  0.969225  0.685934  0.431985  1
+  O  O13  1  0.469225  0.685934  0.068015  1
+  O  O14  1  0.530775  0.185934  0.931985  1
+  O  O15  1  0.030775  0.185934  0.568015  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Co2TcO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.13568125
+_cell_length_b   6.13568125
+_cell_length_c   6.13568125
+_cell_angle_alpha   123.71746537
+_cell_angle_beta   120.00235310
+_cell_angle_gamma   86.83947649
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Co2TcO4
+_chemical_formula_sum   'Co4 Tc2 O8'
+_cell_volume   158.25550272
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.133557  0.883557  0.750000  1
+  Co  Co1  1  0.866443  0.116443  0.250000  1
+  Co  Co2  1  0.500000  0.500000  0.500000  1
+  Co  Co3  1  0.000000  0.500000  0.000000  1
+  Tc  Tc4  1  0.500000  0.000000  0.500000  1
+  Tc  Tc5  1  0.500000  0.500000  0.000000  1
+  O  O6  1  0.260120  0.250607  0.509513  1
+  O  O7  1  0.726655  0.241209  0.514553  1
+  O  O8  1  0.741094  0.250607  0.990487  1
+  O  O9  1  0.726655  0.712102  0.985447  1
+  O  O10  1  0.273345  0.287898  0.014553  1
+  O  O11  1  0.258906  0.749393  0.009513  1
+  O  O12  1  0.273345  0.758791  0.485447  1
+  O  O13  1  0.739880  0.749393  0.490487  1

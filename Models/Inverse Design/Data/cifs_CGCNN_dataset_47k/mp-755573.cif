@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cs2O
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.63046784
+_cell_length_b   7.31512837
+_cell_length_c   9.41574730
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cs2O
+_chemical_formula_sum   'Cs8 O4'
+_cell_volume   387.81198672
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.750000  0.975290  0.139857  1
+  Cs  Cs1  1  0.750000  0.893363  0.610333  1
+  Cs  Cs2  1  0.250000  0.606637  0.110333  1
+  Cs  Cs3  1  0.250000  0.524710  0.639857  1
+  Cs  Cs4  1  0.750000  0.475290  0.360143  1
+  Cs  Cs5  1  0.750000  0.393363  0.889667  1
+  Cs  Cs6  1  0.250000  0.106637  0.389667  1
+  Cs  Cs7  1  0.250000  0.024710  0.860143  1
+  O  O8  1  0.250000  0.721796  0.402590  1
+  O  O9  1  0.750000  0.778204  0.902590  1
+  O  O10  1  0.250000  0.221796  0.097410  1
+  O  O11  1  0.750000  0.278204  0.597410  1

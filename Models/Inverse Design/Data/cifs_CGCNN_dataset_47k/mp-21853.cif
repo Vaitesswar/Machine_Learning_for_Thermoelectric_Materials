@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_SmIn2Ir
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60696898
+_cell_length_b   5.60696898
+_cell_length_c   8.09339980
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   133.93031831
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmIn2Ir
+_chemical_formula_sum   'Sm2 In4 Ir2'
+_cell_volume   183.24444888
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.929473  0.070527  0.750000  1
+  Sm  Sm1  1  0.070527  0.929473  0.250000  1
+  In  In2  1  0.644489  0.355511  0.551291  1
+  In  In3  1  0.355511  0.644489  0.448709  1
+  In  In4  1  0.644489  0.355511  0.948709  1
+  In  In5  1  0.355511  0.644489  0.051291  1
+  Ir  Ir6  1  0.779894  0.220106  0.250000  1
+  Ir  Ir7  1  0.220106  0.779894  0.750000  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeSbRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.65769706
+_cell_length_b   7.34159098
+_cell_length_c   7.83682310
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeSbRh
+_chemical_formula_sum   'Ce4 Sb4 Rh4'
+_cell_volume   267.97943491
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.250000  0.013545  0.198436  1
+  Ce  Ce1  1  0.750000  0.986455  0.801564  1
+  Ce  Ce2  1  0.250000  0.513545  0.301564  1
+  Ce  Ce3  1  0.750000  0.486455  0.698436  1
+  Sb  Sb4  1  0.250000  0.685687  0.908517  1
+  Sb  Sb5  1  0.750000  0.814313  0.408517  1
+  Sb  Sb6  1  0.250000  0.185687  0.591483  1
+  Sb  Sb7  1  0.750000  0.314313  0.091483  1
+  Rh  Rh8  1  0.750000  0.713782  0.076992  1
+  Rh  Rh9  1  0.250000  0.786218  0.576992  1
+  Rh  Rh10  1  0.750000  0.213782  0.423008  1
+  Rh  Rh11  1  0.250000  0.286218  0.923008  1

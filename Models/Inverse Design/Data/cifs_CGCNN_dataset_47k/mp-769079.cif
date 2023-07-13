@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_ScGaO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.79014745
+_cell_length_b   5.79014745
+_cell_length_c   11.57084411
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScGaO3
+_chemical_formula_sum   'Sc6 Ga6 O18'
+_cell_volume   335.95021373
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.333333  0.666667  0.236765  1
+  Sc  Sc1  1  0.000000  0.000000  0.275687  1
+  Sc  Sc2  1  0.000000  0.000000  0.775687  1
+  Sc  Sc3  1  0.333333  0.666667  0.736765  1
+  Sc  Sc4  1  0.666667  0.333333  0.736765  1
+  Sc  Sc5  1  0.666667  0.333333  0.236765  1
+  Ga  Ga6  1  0.000000  0.665890  0.502946  1
+  Ga  Ga7  1  0.000000  0.334110  0.002946  1
+  Ga  Ga8  1  0.334110  0.334110  0.502946  1
+  Ga  Ga9  1  0.665890  0.665890  0.002946  1
+  Ga  Ga10  1  0.334110  0.000000  0.002946  1
+  Ga  Ga11  1  0.665890  0.000000  0.502946  1
+  O  O12  1  0.000000  0.696204  0.670894  1
+  O  O13  1  0.000000  0.635813  0.337909  1
+  O  O14  1  0.000000  0.364187  0.837909  1
+  O  O15  1  0.000000  0.303796  0.170894  1
+  O  O16  1  0.333333  0.666667  0.028004  1
+  O  O17  1  0.000000  0.000000  0.474340  1
+  O  O18  1  0.000000  0.000000  0.974340  1
+  O  O19  1  0.333333  0.666667  0.528004  1
+  O  O20  1  0.303796  0.303796  0.670894  1
+  O  O21  1  0.364187  0.364187  0.337909  1
+  O  O22  1  0.303796  0.000000  0.170894  1
+  O  O23  1  0.635813  0.635813  0.837909  1
+  O  O24  1  0.696204  0.696204  0.170894  1
+  O  O25  1  0.364187  0.000000  0.837909  1
+  O  O26  1  0.666667  0.333333  0.528004  1
+  O  O27  1  0.666667  0.333333  0.028004  1
+  O  O28  1  0.635813  0.000000  0.337909  1
+  O  O29  1  0.696204  0.000000  0.670894  1

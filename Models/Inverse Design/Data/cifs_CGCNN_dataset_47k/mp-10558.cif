@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_La3(NbN3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.48422509
+_cell_length_b   10.48422509
+_cell_length_c   10.48422509
+_cell_angle_alpha   157.42042784
+_cell_angle_beta   157.42042784
+_cell_angle_gamma   32.14607209
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3(NbN3)2
+_chemical_formula_sum   'La3 Nb2 N6'
+_cell_volume   169.76560170
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.000000  0.000000  0.000000  1
+  La  La1  1  0.820100  0.820100  0.000000  1
+  La  La2  1  0.179900  0.179900  0.000000  1
+  Nb  Nb3  1  0.398615  0.398615  0.000000  1
+  Nb  Nb4  1  0.601385  0.601385  0.000000  1
+  N  N5  1  0.084469  0.584469  0.500000  1
+  N  N6  1  0.584469  0.084469  0.500000  1
+  N  N7  1  0.915531  0.415531  0.500000  1
+  N  N8  1  0.415531  0.915531  0.500000  1
+  N  N9  1  0.698799  0.698799  0.000000  1
+  N  N10  1  0.301201  0.301201  0.000000  1

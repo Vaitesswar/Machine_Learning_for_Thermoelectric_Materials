@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KRb2Mo(OF)3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.40877841
+_cell_length_b   6.40877841
+_cell_length_c   9.24059153
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KRb2Mo(OF)3
+_chemical_formula_sum   'K2 Rb4 Mo2 O6 F6'
+_cell_volume   379.53364785
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.500000  0.500000  0.992562  1
+  K  K1  1  0.000000  0.000000  0.492562  1
+  Rb  Rb2  1  0.000000  0.500000  0.238742  1
+  Rb  Rb3  1  0.500000  0.000000  0.238742  1
+  Rb  Rb4  1  0.500000  0.000000  0.738742  1
+  Rb  Rb5  1  0.000000  0.500000  0.738742  1
+  Mo  Mo6  1  0.000000  0.000000  0.979732  1
+  Mo  Mo7  1  0.500000  0.500000  0.479732  1
+  O  O8  1  0.697907  0.697907  0.521801  1
+  O  O9  1  0.000000  0.000000  0.786931  1
+  O  O10  1  0.197907  0.802093  0.021801  1
+  O  O11  1  0.500000  0.500000  0.286931  1
+  O  O12  1  0.802093  0.197907  0.021801  1
+  O  O13  1  0.302093  0.302093  0.521801  1
+  F  F14  1  0.000000  0.000000  0.220909  1
+  F  F15  1  0.224355  0.224355  0.998799  1
+  F  F16  1  0.275645  0.724355  0.498799  1
+  F  F17  1  0.500000  0.500000  0.720909  1
+  F  F18  1  0.724355  0.275645  0.498799  1
+  F  F19  1  0.775645  0.775645  0.998799  1

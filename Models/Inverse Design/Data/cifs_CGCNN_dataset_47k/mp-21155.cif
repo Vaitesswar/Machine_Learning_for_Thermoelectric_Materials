@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyMnGe
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.11336217
+_cell_length_b   7.08034395
+_cell_length_c   7.93059844
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyMnGe
+_chemical_formula_sum   'Dy4 Mn4 Ge4'
+_cell_volume   230.97089929
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.250000  0.522668  0.181364  1
+  Dy  Dy1  1  0.750000  0.477332  0.818636  1
+  Dy  Dy2  1  0.250000  0.022668  0.318636  1
+  Dy  Dy3  1  0.750000  0.977332  0.681364  1
+  Mn  Mn4  1  0.750000  0.367680  0.446206  1
+  Mn  Mn5  1  0.250000  0.132320  0.946206  1
+  Mn  Mn6  1  0.750000  0.867680  0.053794  1
+  Mn  Mn7  1  0.250000  0.632320  0.553794  1
+  Ge  Ge8  1  0.250000  0.275893  0.619173  1
+  Ge  Ge9  1  0.750000  0.224107  0.119173  1
+  Ge  Ge10  1  0.250000  0.775893  0.880827  1
+  Ge  Ge11  1  0.750000  0.724107  0.380827  1

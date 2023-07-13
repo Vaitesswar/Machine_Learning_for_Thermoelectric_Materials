@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_LaSnPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.70744302
+_cell_length_b   7.62718549
+_cell_length_c   8.17362284
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LaSnPt
+_chemical_formula_sum   'La4 Sn4 Pt4'
+_cell_volume   293.47017717
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.750000  0.484558  0.805523  1
+  La  La1  1  0.250000  0.015442  0.305523  1
+  La  La2  1  0.750000  0.984558  0.694477  1
+  La  La3  1  0.250000  0.515442  0.194477  1
+  Sn  Sn4  1  0.250000  0.673493  0.582642  1
+  Sn  Sn5  1  0.250000  0.173493  0.917358  1
+  Sn  Sn6  1  0.750000  0.326507  0.417358  1
+  Sn  Sn7  1  0.750000  0.826507  0.082642  1
+  Pt  Pt8  1  0.250000  0.788970  0.908012  1
+  Pt  Pt9  1  0.250000  0.288970  0.591988  1
+  Pt  Pt10  1  0.750000  0.711030  0.408012  1
+  Pt  Pt11  1  0.750000  0.211030  0.091988  1

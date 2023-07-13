@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_KNiPH2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.77508024
+_cell_length_b   5.58691751
+_cell_length_c   8.26043866
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNiPH2O5
+_chemical_formula_sum   'K2 Ni2 P2 H4 O10'
+_cell_volume   220.37181244
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.637510  0.500000  0.456616  1
+  K  K1  1  0.137510  0.000000  0.543384  1
+  Ni  Ni2  1  0.500109  0.500000  0.015681  1
+  Ni  Ni3  1  0.000109  0.000000  0.984319  1
+  P  P4  1  0.074766  0.500000  0.788584  1
+  P  P5  1  0.574766  0.000000  0.211416  1
+  H  H6  1  0.091136  0.641524  0.195066  1
+  H  H7  1  0.091136  0.358476  0.195066  1
+  H  H8  1  0.591136  0.858476  0.804934  1
+  H  H9  1  0.591136  0.141524  0.804934  1
+  O  O10  1  0.755585  0.500000  0.816907  1
+  O  O11  1  0.255585  0.000000  0.183093  1
+  O  O12  1  0.137488  0.500000  0.607121  1
+  O  O13  1  0.637488  0.000000  0.392879  1
+  O  O14  1  0.218484  0.721952  0.875073  1
+  O  O15  1  0.218484  0.278048  0.875073  1
+  O  O16  1  0.718484  0.778048  0.124927  1
+  O  O17  1  0.718484  0.221952  0.124927  1
+  O  O18  1  0.211501  0.500000  0.212057  1
+  O  O19  1  0.711501  0.000000  0.787943  1

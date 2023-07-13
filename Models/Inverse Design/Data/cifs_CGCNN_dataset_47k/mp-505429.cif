@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Th(Re2Si)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.17274661
+_cell_length_b   7.28461885
+_cell_length_c   15.65862820
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Th(Re2Si)2
+_chemical_formula_sum   'Th4 Re16 Si8'
+_cell_volume   475.97326403
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Th  Th0  1  0.000000  0.585110  0.118112  1
+  Th  Th1  1  0.000000  0.414890  0.881888  1
+  Th  Th2  1  0.500000  0.085110  0.381888  1
+  Th  Th3  1  0.500000  0.914890  0.618112  1
+  Re  Re4  1  0.000000  0.142513  0.050785  1
+  Re  Re5  1  0.000000  0.857487  0.949215  1
+  Re  Re6  1  0.500000  0.642513  0.449215  1
+  Re  Re7  1  0.500000  0.357487  0.550785  1
+  Re  Re8  1  0.000000  0.738715  0.321685  1
+  Re  Re9  1  0.000000  0.261285  0.678315  1
+  Re  Re10  1  0.500000  0.238715  0.178315  1
+  Re  Re11  1  0.500000  0.761285  0.821685  1
+  Re  Re12  1  0.000000  0.429358  0.419139  1
+  Re  Re13  1  0.000000  0.570642  0.580861  1
+  Re  Re14  1  0.500000  0.929358  0.080861  1
+  Re  Re15  1  0.500000  0.070642  0.919139  1
+  Re  Re16  1  0.000000  0.995790  0.205707  1
+  Re  Re17  1  0.000000  0.004210  0.794293  1
+  Re  Re18  1  0.500000  0.495790  0.294293  1
+  Re  Re19  1  0.500000  0.504210  0.705707  1
+  Si  Si20  1  0.000000  0.828749  0.475361  1
+  Si  Si21  1  0.000000  0.171251  0.524639  1
+  Si  Si22  1  0.500000  0.328749  0.024639  1
+  Si  Si23  1  0.500000  0.671251  0.975361  1
+  Si  Si24  1  0.000000  0.301804  0.272422  1
+  Si  Si25  1  0.000000  0.698196  0.727578  1
+  Si  Si26  1  0.500000  0.801804  0.227578  1
+  Si  Si27  1  0.500000  0.198196  0.772422  1

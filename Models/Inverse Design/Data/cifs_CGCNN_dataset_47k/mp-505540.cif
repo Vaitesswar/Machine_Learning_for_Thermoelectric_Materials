@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_TiAsRh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.85230875
+_cell_length_b   6.38985891
+_cell_length_c   7.46001618
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAsRh
+_chemical_formula_sum   'Ti4 As4 Rh4'
+_cell_volume   183.63359033
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.750000  0.030922  0.681509  1
+  Ti  Ti1  1  0.250000  0.969078  0.318491  1
+  Ti  Ti2  1  0.250000  0.469078  0.181509  1
+  Ti  Ti3  1  0.750000  0.530922  0.818491  1
+  As  As4  1  0.250000  0.250658  0.878034  1
+  As  As5  1  0.750000  0.749342  0.121966  1
+  As  As6  1  0.250000  0.750658  0.621966  1
+  As  As7  1  0.750000  0.249342  0.378034  1
+  Rh  Rh8  1  0.750000  0.144018  0.063754  1
+  Rh  Rh9  1  0.250000  0.855982  0.936246  1
+  Rh  Rh10  1  0.250000  0.355982  0.563754  1
+  Rh  Rh11  1  0.750000  0.644018  0.436246  1

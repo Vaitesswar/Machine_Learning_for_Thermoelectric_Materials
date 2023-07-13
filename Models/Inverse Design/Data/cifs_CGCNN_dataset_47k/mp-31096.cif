@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_Li3AlH6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.60073978
+_cell_length_b   5.60073978
+_cell_length_c   5.60073978
+_cell_angle_alpha   91.39251596
+_cell_angle_beta   91.39251596
+_cell_angle_gamma   91.39251596
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li3AlH6
+_chemical_formula_sum   'Li6 Al2 H12'
+_cell_volume   175.52738408
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.061007  0.566968  0.748774  1
+  Li  Li1  1  0.566968  0.748774  0.061007  1
+  Li  Li2  1  0.938993  0.433032  0.251226  1
+  Li  Li3  1  0.433032  0.251226  0.938993  1
+  Li  Li4  1  0.748774  0.061007  0.566968  1
+  Li  Li5  1  0.251226  0.938993  0.433032  1
+  Al  Al6  1  0.500000  0.500000  0.500000  1
+  Al  Al7  1  0.000000  0.000000  0.000000  1
+  H  H8  1  0.295345  0.951734  0.089060  1
+  H  H9  1  0.704655  0.048266  0.910940  1
+  H  H10  1  0.569523  0.426469  0.205037  1
+  H  H11  1  0.426469  0.205037  0.569523  1
+  H  H12  1  0.205037  0.569523  0.426469  1
+  H  H13  1  0.430477  0.573531  0.794963  1
+  H  H14  1  0.573531  0.794963  0.430477  1
+  H  H15  1  0.794963  0.430477  0.573531  1
+  H  H16  1  0.048266  0.910940  0.704655  1
+  H  H17  1  0.089060  0.295345  0.951734  1
+  H  H18  1  0.951734  0.089060  0.295345  1
+  H  H19  1  0.910940  0.704655  0.048266  1

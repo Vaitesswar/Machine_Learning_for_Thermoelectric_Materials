@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_CsMnF3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.33056028
+_cell_length_b   6.33056028
+_cell_length_c   15.38299142
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsMnF3
+_chemical_formula_sum   'Cs6 Mn6 F18'
+_cell_volume   533.89484392
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.000000  0.000000  0.250000  1
+  Cs  Cs1  1  0.000000  0.000000  0.750000  1
+  Cs  Cs2  1  0.333333  0.666667  0.097619  1
+  Cs  Cs3  1  0.666667  0.333333  0.597619  1
+  Cs  Cs4  1  0.666667  0.333333  0.902381  1
+  Cs  Cs5  1  0.333333  0.666667  0.402381  1
+  Mn  Mn6  1  0.000000  0.000000  0.000000  1
+  Mn  Mn7  1  0.333333  0.666667  0.651818  1
+  Mn  Mn8  1  0.666667  0.333333  0.151818  1
+  Mn  Mn9  1  0.666667  0.333333  0.348182  1
+  Mn  Mn10  1  0.333333  0.666667  0.848182  1
+  Mn  Mn11  1  0.000000  0.000000  0.500000  1
+  F  F12  1  0.330846  0.165423  0.079260  1
+  F  F13  1  0.834577  0.165423  0.420739  1
+  F  F14  1  0.834577  0.669154  0.420739  1
+  F  F15  1  0.330846  0.165423  0.420739  1
+  F  F16  1  0.669154  0.834577  0.920740  1
+  F  F17  1  0.165423  0.330846  0.579260  1
+  F  F18  1  0.522470  0.044940  0.250000  1
+  F  F19  1  0.477530  0.522470  0.750000  1
+  F  F20  1  0.044940  0.522470  0.750000  1
+  F  F21  1  0.955060  0.477530  0.250000  1
+  F  F22  1  0.522470  0.477530  0.250000  1
+  F  F23  1  0.477530  0.955060  0.750000  1
+  F  F24  1  0.834577  0.669154  0.079260  1
+  F  F25  1  0.165423  0.834577  0.579260  1
+  F  F26  1  0.669154  0.834577  0.579260  1
+  F  F27  1  0.165423  0.330846  0.920740  1
+  F  F28  1  0.834577  0.165423  0.079260  1
+  F  F29  1  0.165423  0.834577  0.920740  1

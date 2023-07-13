@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_CoH2SeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.83274289
+_cell_length_b   13.55308273
+_cell_length_c   7.36020930
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   128.67054063
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CoH2SeO4
+_chemical_formula_sum   'Co4 H8 Se4 O16'
+_cell_volume   376.38727106
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Co  Co0  1  0.305706  0.262928  0.618752  1
+  Co  Co1  1  0.694294  0.762928  0.881248  1
+  Co  Co2  1  0.694294  0.737072  0.381248  1
+  Co  Co3  1  0.305706  0.237072  0.118752  1
+  H  H4  1  0.944287  0.371857  0.711433  1
+  H  H5  1  0.055713  0.871857  0.788567  1
+  H  H6  1  0.055713  0.628143  0.288567  1
+  H  H7  1  0.944287  0.128143  0.211433  1
+  H  H8  1  0.796727  0.391954  0.453255  1
+  H  H9  1  0.203273  0.891954  0.046745  1
+  H  H10  1  0.203273  0.608046  0.546745  1
+  H  H11  1  0.796727  0.108046  0.953255  1
+  Se  Se12  1  0.876928  0.395988  0.112746  1
+  Se  Se13  1  0.123072  0.895988  0.387254  1
+  Se  Se14  1  0.123072  0.604012  0.887254  1
+  Se  Se15  1  0.876928  0.104012  0.612746  1
+  O  O16  1  0.220438  0.316856  0.326530  1
+  O  O17  1  0.779562  0.816857  0.173470  1
+  O  O18  1  0.779562  0.683144  0.673470  1
+  O  O19  1  0.220438  0.183144  0.826530  1
+  O  O20  1  0.789150  0.173463  0.379828  1
+  O  O21  1  0.210850  0.673463  0.120172  1
+  O  O22  1  0.210850  0.826537  0.620172  1
+  O  O23  1  0.789150  0.326537  0.879828  1
+  O  O24  1  0.544908  0.130089  0.625920  1
+  O  O25  1  0.455092  0.630089  0.874080  1
+  O  O26  1  0.455092  0.869911  0.374080  1
+  O  O27  1  0.544908  0.369911  0.125920  1
+  O  O28  1  0.017275  0.387641  0.615571  1
+  O  O29  1  0.982725  0.887641  0.884429  1
+  O  O30  1  0.982725  0.612359  0.384429  1
+  O  O31  1  0.017275  0.112359  0.115571  1

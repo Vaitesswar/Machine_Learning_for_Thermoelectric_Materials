@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_K3GaSe3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.17748362
+_cell_length_b   13.19288155
+_cell_length_c   10.66190916
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   127.69432541
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3GaSe3
+_chemical_formula_sum   'K12 Ga4 Se12'
+_cell_volume   910.17889332
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.339214  0.909194  0.604341  1
+  K  K1  1  0.660786  0.409194  0.895659  1
+  K  K2  1  0.660786  0.090806  0.395659  1
+  K  K3  1  0.339214  0.590806  0.104341  1
+  K  K4  1  0.131444  0.189772  0.416686  1
+  K  K5  1  0.868556  0.689772  0.083314  1
+  K  K6  1  0.868556  0.810228  0.583314  1
+  K  K7  1  0.131444  0.310228  0.916686  1
+  K  K8  1  0.375171  0.622879  0.525801  1
+  K  K9  1  0.624829  0.122879  0.974199  1
+  K  K10  1  0.624829  0.377121  0.474199  1
+  K  K11  1  0.375171  0.877121  0.025801  1
+  Ga  Ga12  1  0.066562  0.938893  0.164835  1
+  Ga  Ga13  1  0.933438  0.438893  0.335165  1
+  Ga  Ga14  1  0.933438  0.061107  0.835165  1
+  Ga  Ga15  1  0.066562  0.561107  0.664835  1
+  Se  Se16  1  0.159498  0.391351  0.624685  1
+  Se  Se17  1  0.840502  0.891351  0.875315  1
+  Se  Se18  1  0.840502  0.608649  0.375315  1
+  Se  Se19  1  0.159498  0.108649  0.124685  1
+  Se  Se20  1  0.351203  0.679550  0.813015  1
+  Se  Se21  1  0.648797  0.179550  0.686985  1
+  Se  Se22  1  0.648797  0.320450  0.186985  1
+  Se  Se23  1  0.351203  0.820450  0.313015  1
+  Se  Se24  1  0.871739  0.548035  0.765131  1
+  Se  Se25  1  0.128261  0.048035  0.734869  1
+  Se  Se26  1  0.128261  0.451965  0.234869  1
+  Se  Se27  1  0.871739  0.951965  0.265131  1

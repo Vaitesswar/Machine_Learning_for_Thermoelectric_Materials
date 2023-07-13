@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Sr2PrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.73471959
+_cell_length_b   6.28152571
+_cell_length_c   10.38793654
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2PrO4
+_chemical_formula_sum   'Sr4 Pr2 O8'
+_cell_volume   243.69826049
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.500000  0.063976  0.322958  1
+  Sr  Sr1  1  0.500000  0.936024  0.677042  1
+  Sr  Sr2  1  0.500000  0.436024  0.822958  1
+  Sr  Sr3  1  0.500000  0.563976  0.177042  1
+  Pr  Pr4  1  0.000000  0.000000  0.000000  1
+  Pr  Pr5  1  0.000000  0.500000  0.500000  1
+  O  O6  1  0.000000  0.152158  0.794232  1
+  O  O7  1  0.000000  0.847842  0.205768  1
+  O  O8  1  0.000000  0.652158  0.705768  1
+  O  O9  1  0.000000  0.347842  0.294232  1
+  O  O10  1  0.500000  0.263479  0.543916  1
+  O  O11  1  0.500000  0.736521  0.456084  1
+  O  O12  1  0.500000  0.236521  0.043916  1
+  O  O13  1  0.500000  0.763479  0.956084  1

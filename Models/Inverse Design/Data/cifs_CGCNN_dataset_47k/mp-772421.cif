@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KLi2FeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49477002
+_cell_length_b   5.49477002
+_cell_length_c   6.15100180
+_cell_angle_alpha   89.91165353
+_cell_angle_beta   90.08834647
+_cell_angle_gamma   106.57189011
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KLi2FeO3
+_chemical_formula_sum   'K2 Li4 Fe2 O6'
+_cell_volume   177.99970068
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.313091  0.330344  0.253674  1
+  K  K1  1  0.669656  0.686909  0.753674  1
+  Li  Li2  1  0.221125  0.784021  0.502490  1
+  Li  Li3  1  0.215979  0.778875  0.002490  1
+  Li  Li4  1  0.760958  0.241685  0.498633  1
+  Li  Li5  1  0.758315  0.239042  0.998633  1
+  Fe  Fe6  1  0.803079  0.825238  0.250280  1
+  Fe  Fe7  1  0.174762  0.196921  0.750280  1
+  O  O8  1  0.988094  0.010907  0.001021  1
+  O  O9  1  0.989093  0.011906  0.501021  1
+  O  O10  1  0.505778  0.175668  0.745417  1
+  O  O11  1  0.148503  0.528546  0.749453  1
+  O  O12  1  0.471454  0.851497  0.249453  1
+  O  O13  1  0.824332  0.494222  0.245417  1

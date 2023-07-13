@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_NaNiPO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.68503389
+_cell_length_b   6.41862275
+_cell_length_c   11.31743116
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaNiPO4
+_chemical_formula_sum   'Na4 Ni4 P4 O16'
+_cell_volume   340.33173628
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.022459  0.250000  0.220949  1
+  Na  Na1  1  0.522459  0.750000  0.279051  1
+  Na  Na2  1  0.477541  0.250000  0.720949  1
+  Na  Na3  1  0.977541  0.750000  0.779051  1
+  Ni  Ni4  1  0.500000  0.000000  0.000000  1
+  Ni  Ni5  1  0.500000  0.500000  0.000000  1
+  Ni  Ni6  1  0.000000  0.000000  0.500000  1
+  Ni  Ni7  1  0.000000  0.500000  0.500000  1
+  P  P8  1  0.096349  0.750000  0.081167  1
+  P  P9  1  0.596349  0.250000  0.418833  1
+  P  P10  1  0.403651  0.750000  0.581167  1
+  P  P11  1  0.903651  0.250000  0.918833  1
+  O  O12  1  0.755097  0.250000  0.045992  1
+  O  O13  1  0.765147  0.750000  0.073334  1
+  O  O14  1  0.215812  0.550809  0.141380  1
+  O  O15  1  0.215812  0.949191  0.141380  1
+  O  O16  1  0.715812  0.050809  0.358620  1
+  O  O17  1  0.715812  0.449191  0.358620  1
+  O  O18  1  0.265147  0.250000  0.426666  1
+  O  O19  1  0.255097  0.750000  0.454008  1
+  O  O20  1  0.744903  0.250000  0.545992  1
+  O  O21  1  0.734853  0.750000  0.573334  1
+  O  O22  1  0.284188  0.949191  0.641380  1
+  O  O23  1  0.284188  0.550809  0.641380  1
+  O  O24  1  0.784188  0.449191  0.858620  1
+  O  O25  1  0.784188  0.050809  0.858620  1
+  O  O26  1  0.234853  0.250000  0.926666  1
+  O  O27  1  0.244903  0.750000  0.954008  1

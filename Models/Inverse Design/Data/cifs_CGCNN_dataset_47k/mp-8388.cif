@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_K2CuF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.09713066
+_cell_length_b   7.09713066
+_cell_length_c   5.93277422
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   130.60416470
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K2CuF4
+_chemical_formula_sum   'K4 Cu2 F8'
+_cell_volume   226.87850490
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.357820  0.642180  1.000000  1
+  K  K1  1  0.142180  0.857820  0.500000  1
+  K  K2  1  0.857820  0.142180  0.500000  1
+  K  K3  1  0.642180  0.357820  0.000000  1
+  Cu  Cu4  1  0.000000  0.000000  0.000000  1
+  Cu  Cu5  1  0.500000  0.500000  0.500000  1
+  F  F6  1  0.767953  0.767953  0.231996  1
+  F  F7  1  0.267953  0.267953  0.268004  1
+  F  F8  1  0.732047  0.732047  0.731996  1
+  F  F9  1  0.232047  0.232047  0.768004  1
+  F  F10  1  0.653536  0.346464  0.500000  1
+  F  F11  1  0.846464  0.153536  0.000000  1
+  F  F12  1  0.153536  0.846464  0.000000  1
+  F  F13  1  0.346464  0.653536  0.500000  1

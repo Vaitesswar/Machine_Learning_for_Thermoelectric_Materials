@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_MnCr3O8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.83705447
+_cell_length_b   5.83705447
+_cell_length_c   8.88549499
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   119.40517372
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCr3O8
+_chemical_formula_sum   'Mn2 Cr6 O16'
+_cell_volume   263.73743084
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.836873  0.163127  0.483377  1
+  Mn  Mn1  1  0.163127  0.836873  0.983377  1
+  Cr  Cr2  1  0.667536  0.830783  0.202228  1
+  Cr  Cr3  1  0.169217  0.332464  0.202228  1
+  Cr  Cr4  1  0.671535  0.328465  0.218560  1
+  Cr  Cr5  1  0.328465  0.671535  0.718560  1
+  Cr  Cr6  1  0.830783  0.667536  0.702228  1
+  Cr  Cr7  1  0.332464  0.169217  0.702228  1
+  O  O8  1  0.677180  0.838386  0.604823  1
+  O  O9  1  0.975223  0.024777  0.336775  1
+  O  O10  1  0.827270  0.172730  0.098100  1
+  O  O11  1  0.505049  0.494951  0.310691  1
+  O  O12  1  0.494951  0.505049  0.810691  1
+  O  O13  1  0.161614  0.322820  0.604823  1
+  O  O14  1  0.549862  0.021670  0.343165  1
+  O  O15  1  0.978330  0.450138  0.343165  1
+  O  O16  1  0.327029  0.672971  0.109916  1
+  O  O17  1  0.672971  0.327029  0.609916  1
+  O  O18  1  0.021670  0.549862  0.843165  1
+  O  O19  1  0.450138  0.978330  0.843165  1
+  O  O20  1  0.172730  0.827270  0.598100  1
+  O  O21  1  0.838386  0.677180  0.104823  1
+  O  O22  1  0.024777  0.975223  0.836775  1
+  O  O23  1  0.322820  0.161614  0.104823  1

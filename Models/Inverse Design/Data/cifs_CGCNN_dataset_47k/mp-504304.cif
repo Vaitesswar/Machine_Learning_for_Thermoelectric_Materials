@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_LiCuPO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.21380860
+_cell_length_b   6.10418354
+_cell_length_c   10.64581881
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiCuPO4
+_chemical_formula_sum   'Li4 Cu4 P4 O16'
+_cell_volume   338.81430464
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.299508  0.518311  0.827054  1
+  Li  Li1  1  0.700492  0.018311  0.172946  1
+  Li  Li2  1  0.200492  0.518311  0.327054  1
+  Li  Li3  1  0.799508  0.018311  0.672946  1
+  Cu  Cu4  1  0.182200  0.745784  0.585081  1
+  Cu  Cu5  1  0.817800  0.245784  0.414919  1
+  Cu  Cu6  1  0.317800  0.745784  0.085081  1
+  Cu  Cu7  1  0.682200  0.245784  0.914919  1
+  P  P8  1  0.804661  0.747511  0.927964  1
+  P  P9  1  0.304661  0.247511  0.572036  1
+  P  P10  1  0.695339  0.747511  0.427964  1
+  P  P11  1  0.195339  0.247511  0.072036  1
+  O  O12  1  0.774485  0.953570  0.349804  1
+  O  O13  1  0.600145  0.225076  0.570303  1
+  O  O14  1  0.681528  0.546468  0.860139  1
+  O  O15  1  0.225515  0.453570  0.650196  1
+  O  O16  1  0.796956  0.763179  0.564390  1
+  O  O17  1  0.818472  0.546468  0.360139  1
+  O  O18  1  0.274485  0.453570  0.150196  1
+  O  O19  1  0.296956  0.263179  0.935610  1
+  O  O20  1  0.899855  0.225076  0.070303  1
+  O  O21  1  0.100145  0.725076  0.929697  1
+  O  O22  1  0.203044  0.263179  0.435610  1
+  O  O23  1  0.318472  0.046468  0.139861  1
+  O  O24  1  0.181528  0.046468  0.639861  1
+  O  O25  1  0.725515  0.953570  0.849804  1
+  O  O26  1  0.399855  0.725076  0.429697  1
+  O  O27  1  0.703044  0.763179  0.064390  1

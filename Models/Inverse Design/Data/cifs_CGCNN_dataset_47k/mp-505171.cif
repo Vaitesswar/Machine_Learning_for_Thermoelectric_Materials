@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NaTiCuS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.57409894
+_cell_length_b   9.61408352
+_cell_length_c   12.98059987
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaTiCuS3
+_chemical_formula_sum   'Na4 Ti4 Cu4 S12'
+_cell_volume   446.03529316
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.250000  0.042962  0.234216  1
+  Na  Na1  1  0.750000  0.957038  0.765784  1
+  Na  Na2  1  0.750000  0.542962  0.265784  1
+  Na  Na3  1  0.250000  0.457038  0.734216  1
+  Ti  Ti4  1  0.250000  0.325944  0.012407  1
+  Ti  Ti5  1  0.750000  0.674056  0.987593  1
+  Ti  Ti6  1  0.750000  0.825944  0.487593  1
+  Ti  Ti7  1  0.250000  0.174056  0.512407  1
+  Cu  Cu8  1  0.250000  0.595901  0.487086  1
+  Cu  Cu9  1  0.750000  0.404099  0.512914  1
+  Cu  Cu10  1  0.750000  0.095901  0.012914  1
+  Cu  Cu11  1  0.250000  0.904099  0.987086  1
+  S  S12  1  0.250000  0.565601  0.093854  1
+  S  S13  1  0.750000  0.434399  0.906146  1
+  S  S14  1  0.750000  0.065601  0.406146  1
+  S  S15  1  0.250000  0.934399  0.593854  1
+  S  S16  1  0.250000  0.371872  0.401237  1
+  S  S17  1  0.750000  0.628128  0.598763  1
+  S  S18  1  0.750000  0.871872  0.098763  1
+  S  S19  1  0.250000  0.128128  0.901237  1
+  S  S20  1  0.250000  0.762506  0.365062  1
+  S  S21  1  0.750000  0.237494  0.634938  1
+  S  S22  1  0.750000  0.262506  0.134938  1
+  S  S23  1  0.250000  0.737494  0.865062  1

@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Li2MnF4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.23691721
+_cell_length_b   3.23813636
+_cell_length_c   10.54970063
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   112.73580807
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li2MnF4
+_chemical_formula_sum   'Li4 Mn2 F8'
+_cell_volume   164.99912710
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.336572  0.536652  0.074423  1
+  Li  Li1  1  0.653415  0.535730  0.422720  1
+  Li  Li2  1  0.653415  0.464270  0.922720  1
+  Li  Li3  1  0.336572  0.463348  0.574423  1
+  Mn  Mn4  1  0.995092  0.974401  0.748952  1
+  Mn  Mn5  1  0.995092  0.025599  0.248952  1
+  F  F6  1  0.243461  0.036874  0.135059  1
+  F  F7  1  0.738608  0.475148  0.621858  1
+  F  F8  1  0.772856  0.036033  0.374754  1
+  F  F9  1  0.738608  0.524852  0.121858  1
+  F  F10  1  0.252954  0.473599  0.876764  1
+  F  F11  1  0.243461  0.963126  0.635059  1
+  F  F12  1  0.252954  0.526401  0.376764  1
+  F  F13  1  0.772856  0.963967  0.874754  1

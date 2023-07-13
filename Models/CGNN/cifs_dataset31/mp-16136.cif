@@ -1,0 +1,49 @@
+# generated using pymatgen
+data_Sr3TaGa3(SiO7)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.41219388
+_cell_length_b   8.41219388
+_cell_length_c   5.12950258
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr3TaGa3(SiO7)2
+_chemical_formula_sum   'Sr3 Ta1 Ga3 Si2 O14'
+_cell_volume   314.35793791
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.573751  0.573751  0.000000  1
+  Sr  Sr1  1  0.426249  0.000000  0.000000  1
+  Sr  Sr2  1  0.000000  0.426249  0.000000  1
+  Ta  Ta3  1  0.000000  0.000000  0.000000  1
+  Ga  Ga4  1  0.255861  0.255861  0.500000  1
+  Ga  Ga5  1  0.000000  0.744139  0.500000  1
+  Ga  Ga6  1  0.744139  0.000000  0.500000  1
+  Si  Si7  1  0.333333  0.666667  0.535267  1
+  Si  Si8  1  0.666667  0.333333  0.464733  1
+  O  O9  1  0.096366  0.221655  0.230122  1
+  O  O10  1  0.778345  0.874711  0.230122  1
+  O  O11  1  0.125289  0.903634  0.230122  1
+  O  O12  1  0.874711  0.778345  0.769878  1
+  O  O13  1  0.903634  0.125289  0.769878  1
+  O  O14  1  0.221655  0.096366  0.769878  1
+  O  O15  1  0.310327  0.476093  0.669910  1
+  O  O16  1  0.523907  0.834233  0.669910  1
+  O  O17  1  0.165767  0.689673  0.669910  1
+  O  O18  1  0.333333  0.666667  0.221173  1
+  O  O19  1  0.666667  0.333333  0.778827  1
+  O  O20  1  0.476093  0.310327  0.330090  1
+  O  O21  1  0.689673  0.165767  0.330090  1
+  O  O22  1  0.834233  0.523907  0.330090  1

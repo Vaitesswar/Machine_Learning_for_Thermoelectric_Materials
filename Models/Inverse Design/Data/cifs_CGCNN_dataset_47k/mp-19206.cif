@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_LiLa4CoO8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.01708360
+_cell_length_b   7.01708360
+_cell_length_c   5.34316263
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   135.32852804
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiLa4CoO8
+_chemical_formula_sum   'Li1 La4 Co1 O8'
+_cell_volume   184.96611034
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.500000  0.500000  0.500000  1
+  La  La1  1  0.362353  0.637647  1.000000  1
+  La  La2  1  0.138145  0.861855  0.500000  1
+  La  La3  1  0.861855  0.138145  0.500000  1
+  La  La4  1  0.637647  0.362353  0.000000  1
+  Co  Co5  1  0.000000  0.000000  0.000000  1
+  O  O6  1  0.681551  0.318449  0.500000  1
+  O  O7  1  0.820585  0.179415  0.000000  1
+  O  O8  1  0.754201  0.754201  0.244245  1
+  O  O9  1  0.245799  0.245799  0.244245  1
+  O  O10  1  0.179415  0.820585  1.000000  1
+  O  O11  1  0.318449  0.681551  0.500000  1
+  O  O12  1  0.245799  0.245799  0.755755  1
+  O  O13  1  0.754201  0.754201  0.755755  1

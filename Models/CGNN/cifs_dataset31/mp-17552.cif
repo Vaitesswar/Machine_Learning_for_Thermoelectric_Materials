@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_CaSiO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.90945182
+_cell_length_b   6.90945182
+_cell_length_c   10.61770424
+_cell_angle_alpha   71.70554399
+_cell_angle_beta   108.29445601
+_cell_angle_gamma   119.74628819
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaSiO3
+_chemical_formula_sum   'Ca6 Si6 O18'
+_cell_volume   410.09470085
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.000000  0.500000  0.500000  1
+  Ca  Ca1  1  0.500000  0.000000  0.000000  1
+  Ca  Ca2  1  0.150720  0.326273  0.000999  1
+  Ca  Ca3  1  0.326273  0.150720  0.499001  1
+  Ca  Ca4  1  0.849280  0.673727  0.999001  1
+  Ca  Ca5  1  0.673727  0.849280  0.500999  1
+  Si  Si6  1  0.839599  0.839599  0.250000  1
+  Si  Si7  1  0.160401  0.160401  0.750000  1
+  Si  Si8  1  0.325116  0.580781  0.255323  1
+  Si  Si9  1  0.580781  0.325116  0.244677  1
+  Si  Si10  1  0.674884  0.419219  0.744677  1
+  Si  Si11  1  0.419219  0.674884  0.755323  1
+  O  O12  1  0.357936  0.357936  0.250000  1
+  O  O13  1  0.642064  0.642064  0.750000  1
+  O  O14  1  0.893379  0.993136  0.105269  1
+  O  O15  1  0.993136  0.893379  0.394731  1
+  O  O16  1  0.106621  0.006864  0.894731  1
+  O  O17  1  0.006864  0.106621  0.605269  1
+  O  O18  1  0.582115  0.805102  0.252487  1
+  O  O19  1  0.805102  0.582115  0.247513  1
+  O  O20  1  0.417885  0.194898  0.747513  1
+  O  O21  1  0.194898  0.417885  0.752487  1
+  O  O22  1  0.170740  0.628092  0.112032  1
+  O  O23  1  0.628092  0.170740  0.387968  1
+  O  O24  1  0.467783  0.724338  0.903383  1
+  O  O25  1  0.724338  0.467783  0.596617  1
+  O  O26  1  0.532217  0.275662  0.096617  1
+  O  O27  1  0.275662  0.532217  0.403383  1
+  O  O28  1  0.371908  0.829260  0.612032  1
+  O  O29  1  0.829260  0.371908  0.887968  1

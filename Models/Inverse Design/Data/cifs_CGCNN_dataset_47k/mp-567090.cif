@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Mn3Nb2ZnO9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36636557
+_cell_length_b   5.36636557
+_cell_length_c   14.53427605
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn3Nb2ZnO9
+_chemical_formula_sum   'Mn6 Nb4 Zn2 O18'
+_cell_volume   362.48041459
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.666667  0.333333  0.697589  1
+  Mn  Mn1  1  0.666667  0.333333  0.981307  1
+  Mn  Mn2  1  0.666667  0.333333  0.481307  1
+  Mn  Mn3  1  0.333333  0.666667  0.513474  1
+  Mn  Mn4  1  0.333333  0.666667  0.013474  1
+  Mn  Mn5  1  0.666667  0.333333  0.197589  1
+  Nb  Nb6  1  0.000000  0.000000  0.857907  1
+  Nb  Nb7  1  0.000000  0.000000  0.141135  1
+  Nb  Nb8  1  0.000000  0.000000  0.641135  1
+  Nb  Nb9  1  0.000000  0.000000  0.357907  1
+  Zn  Zn10  1  0.333333  0.666667  0.794346  1
+  Zn  Zn11  1  0.333333  0.666667  0.294346  1
+  O  O12  1  0.336431  0.309391  0.084916  1
+  O  O13  1  0.663722  0.689590  0.913900  1
+  O  O14  1  0.010108  0.286636  0.249697  1
+  O  O15  1  0.276528  0.989892  0.249697  1
+  O  O16  1  0.972960  0.663569  0.084916  1
+  O  O17  1  0.690609  0.663569  0.584916  1
+  O  O18  1  0.713364  0.989892  0.749697  1
+  O  O19  1  0.025868  0.336278  0.913900  1
+  O  O20  1  0.025868  0.689590  0.413900  1
+  O  O21  1  0.336431  0.027040  0.584916  1
+  O  O22  1  0.276528  0.286636  0.749697  1
+  O  O23  1  0.972960  0.309391  0.584916  1
+  O  O24  1  0.713364  0.723472  0.249697  1
+  O  O25  1  0.310410  0.974132  0.913900  1
+  O  O26  1  0.690609  0.027040  0.084916  1
+  O  O27  1  0.663722  0.974132  0.413900  1
+  O  O28  1  0.310410  0.336278  0.413900  1
+  O  O29  1  0.010108  0.723472  0.749697  1

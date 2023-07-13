@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_SmCoO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.29703894
+_cell_length_b   5.47679752
+_cell_length_c   7.54325262
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmCoO3
+_chemical_formula_sum   'Sm4 Co4 O12'
+_cell_volume   218.83586650
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.514915  0.559113  0.250000  1
+  Sm  Sm1  1  0.985085  0.059113  0.250000  1
+  Sm  Sm2  1  0.485085  0.440887  0.750000  1
+  Sm  Sm3  1  0.014915  0.940887  0.750000  1
+  Co  Co4  1  0.500000  0.000000  0.000000  1
+  Co  Co5  1  0.000000  0.500000  0.500000  1
+  Co  Co6  1  0.500000  0.000000  0.500000  1
+  Co  Co7  1  0.000000  0.500000  0.000000  1
+  O  O8  1  0.412560  0.980512  0.250000  1
+  O  O9  1  0.087440  0.480512  0.250000  1
+  O  O10  1  0.587440  0.019488  0.750000  1
+  O  O11  1  0.912560  0.519488  0.750000  1
+  O  O12  1  0.796169  0.793249  0.045653  1
+  O  O13  1  0.703831  0.293249  0.454347  1
+  O  O14  1  0.203831  0.206751  0.545653  1
+  O  O15  1  0.296169  0.706751  0.954347  1
+  O  O16  1  0.203831  0.206751  0.954347  1
+  O  O17  1  0.296169  0.706751  0.545653  1
+  O  O18  1  0.796169  0.793249  0.454347  1
+  O  O19  1  0.703831  0.293249  0.045653  1

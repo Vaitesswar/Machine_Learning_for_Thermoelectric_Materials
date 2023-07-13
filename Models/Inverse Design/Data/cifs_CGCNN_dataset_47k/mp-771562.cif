@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Li4TiCr5O12
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.13871418
+_cell_length_b   5.13871418
+_cell_length_c   10.12606180
+_cell_angle_alpha   89.97534082
+_cell_angle_beta   90.02465918
+_cell_angle_gamma   59.97888467
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4TiCr5O12
+_chemical_formula_sum   'Li4 Ti1 Cr5 O12'
+_cell_volume   231.51947246
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.847050  0.651564  0.748922  1
+  Li  Li1  1  0.651564  0.847050  0.251078  1
+  Li  Li2  1  0.348436  0.152950  0.748922  1
+  Li  Li3  1  0.152950  0.348436  0.251078  1
+  Ti  Ti4  1  0.000000  0.000000  0.000000  1
+  Cr  Cr5  1  0.834917  0.834917  0.500000  1
+  Cr  Cr6  1  0.336004  0.336004  0.000000  1
+  Cr  Cr7  1  0.663996  0.663996  0.000000  1
+  Cr  Cr8  1  0.165083  0.165083  0.500000  1
+  Cr  Cr9  1  0.500000  0.500000  0.500000  1
+  O  O10  1  0.994523  0.668340  0.106832  1
+  O  O11  1  0.668340  0.994523  0.893168  1
+  O  O12  1  0.835598  0.507829  0.393887  1
+  O  O13  1  0.492171  0.164402  0.393887  1
+  O  O14  1  0.507829  0.835598  0.606113  1
+  O  O15  1  0.831047  0.168953  0.594046  1
+  O  O16  1  0.164402  0.492171  0.606113  1
+  O  O17  1  0.331660  0.005477  0.106832  1
+  O  O18  1  0.676002  0.323998  0.099653  1
+  O  O19  1  0.005477  0.331660  0.893168  1
+  O  O20  1  0.323998  0.676002  0.900347  1
+  O  O21  1  0.168953  0.831047  0.405954  1

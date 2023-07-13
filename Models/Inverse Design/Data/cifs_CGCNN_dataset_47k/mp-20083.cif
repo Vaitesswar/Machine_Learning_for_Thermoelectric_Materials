@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_ScCuSi
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.97553161
+_cell_length_b   6.55710171
+_cell_length_c   7.23739790
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScCuSi
+_chemical_formula_sum   'Sc4 Cu4 Si4'
+_cell_volume   188.66423600
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.750000  0.990762  0.194680  1
+  Sc  Sc1  1  0.250000  0.509238  0.694680  1
+  Sc  Sc2  1  0.750000  0.490762  0.305320  1
+  Sc  Sc3  1  0.250000  0.009238  0.805320  1
+  Cu  Cu4  1  0.250000  0.657408  0.066331  1
+  Cu  Cu5  1  0.250000  0.157408  0.433669  1
+  Cu  Cu6  1  0.750000  0.842592  0.566331  1
+  Cu  Cu7  1  0.750000  0.342592  0.933669  1
+  Si  Si8  1  0.250000  0.271304  0.109216  1
+  Si  Si9  1  0.250000  0.771304  0.390784  1
+  Si  Si10  1  0.750000  0.728696  0.890784  1
+  Si  Si11  1  0.750000  0.228696  0.609216  1

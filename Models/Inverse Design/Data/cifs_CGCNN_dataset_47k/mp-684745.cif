@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CsTiNb(O2F)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.38996705
+_cell_length_b   7.38996705
+_cell_length_c   7.46333666
+_cell_angle_alpha   61.05294436
+_cell_angle_beta   118.94705564
+_cell_angle_gamma   89.49373413
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsTiNb(O2F)2
+_chemical_formula_sum   'Cs2 Ti2 Nb2 O8 F4'
+_cell_volume   295.96044605
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.871136  0.871136  0.500000  1
+  Cs  Cs1  1  0.127919  0.127919  0.000000  1
+  Ti  Ti2  1  0.008917  0.505171  0.261626  1
+  Ti  Ti3  1  0.505171  0.008917  0.738374  1
+  Nb  Nb4  1  0.504630  0.479235  0.265860  1
+  Nb  Nb5  1  0.479235  0.504630  0.734140  1
+  O  O6  1  0.175958  0.568910  0.491496  1
+  O  O7  1  0.189591  0.554835  0.141554  1
+  O  O8  1  0.554835  0.189591  0.858446  1
+  O  O9  1  0.436973  0.436973  0.000000  1
+  O  O10  1  0.565616  0.565616  0.500000  1
+  O  O11  1  0.568910  0.175958  0.508504  1
+  O  O12  1  0.450064  0.806171  0.651469  1
+  O  O13  1  0.806171  0.450064  0.348531  1
+  F  F14  1  0.183416  0.183416  0.500000  1
+  F  F15  1  0.428456  0.826227  0.994209  1
+  F  F16  1  0.826227  0.428456  0.005791  1
+  F  F17  1  0.816776  0.816776  0.000000  1

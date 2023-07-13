@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_GePbO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.48860103
+_cell_length_b   9.48860103
+_cell_length_c   9.48860103
+_cell_angle_alpha   113.50180297
+_cell_angle_beta   113.50180297
+_cell_angle_gamma   113.50180297
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GePbO3
+_chemical_formula_sum   'Ge6 Pb6 O18'
+_cell_volume   537.66026461
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ge  Ge0  1  0.258261  0.654961  0.520959  1
+  Ge  Ge1  1  0.520959  0.258261  0.654961  1
+  Ge  Ge2  1  0.741739  0.345039  0.479041  1
+  Ge  Ge3  1  0.345039  0.479041  0.741739  1
+  Ge  Ge4  1  0.479041  0.741739  0.345039  1
+  Ge  Ge5  1  0.654961  0.520959  0.258261  1
+  Pb  Pb6  1  0.292258  0.827296  0.989144  1
+  Pb  Pb7  1  0.172704  0.010856  0.707742  1
+  Pb  Pb8  1  0.010856  0.707742  0.172704  1
+  Pb  Pb9  1  0.827296  0.989144  0.292258  1
+  Pb  Pb10  1  0.707742  0.172704  0.010856  1
+  Pb  Pb11  1  0.989144  0.292258  0.827296  1
+  O  O12  1  0.219550  0.453558  0.520669  1
+  O  O13  1  0.318261  0.847821  0.736936  1
+  O  O14  1  0.536410  0.285368  0.032748  1
+  O  O15  1  0.263064  0.681739  0.152179  1
+  O  O16  1  0.967252  0.463590  0.714632  1
+  O  O17  1  0.453558  0.520669  0.219550  1
+  O  O18  1  0.847821  0.736936  0.318261  1
+  O  O19  1  0.032748  0.536410  0.285368  1
+  O  O20  1  0.681739  0.152179  0.263064  1
+  O  O21  1  0.736936  0.318261  0.847821  1
+  O  O22  1  0.520669  0.219550  0.453558  1
+  O  O23  1  0.479331  0.780450  0.546442  1
+  O  O24  1  0.714632  0.967252  0.463590  1
+  O  O25  1  0.546442  0.479331  0.780450  1
+  O  O26  1  0.152179  0.263064  0.681739  1
+  O  O27  1  0.780450  0.546442  0.479331  1
+  O  O28  1  0.463590  0.714632  0.967252  1
+  O  O29  1  0.285368  0.032748  0.536410  1

@@ -1,0 +1,41 @@
+# generated using pymatgen
+data_SiB4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.49193796
+_cell_length_b   5.49193796
+_cell_length_c   5.49193796
+_cell_angle_alpha   68.96942388
+_cell_angle_beta   68.96942388
+_cell_angle_gamma   68.96942388
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SiB4
+_chemical_formula_sum   'Si3 B12'
+_cell_volume   139.18849305
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Si  Si0  1  0.674322  0.674322  0.674322  1
+  Si  Si1  1  0.325678  0.325678  0.325678  1
+  Si  Si2  1  0.500000  0.500000  0.500000  1
+  B  B3  1  0.177281  0.177281  0.725257  1
+  B  B4  1  0.725257  0.177281  0.177281  1
+  B  B5  1  0.177281  0.725257  0.177281  1
+  B  B6  1  0.822719  0.274743  0.822719  1
+  B  B7  1  0.274743  0.822719  0.822719  1
+  B  B8  1  0.822719  0.822719  0.274743  1
+  B  B9  1  0.014156  0.014156  0.322996  1
+  B  B10  1  0.322996  0.014156  0.014156  1
+  B  B11  1  0.014156  0.322996  0.014156  1
+  B  B12  1  0.985844  0.677004  0.985844  1
+  B  B13  1  0.677004  0.985844  0.985844  1
+  B  B14  1  0.985844  0.985844  0.677004  1

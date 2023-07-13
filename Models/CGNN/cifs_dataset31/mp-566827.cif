@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_K4V5CdClO15
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.25260498
+_cell_length_b   9.25260498
+_cell_length_c   5.51130706
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K4V5CdClO15
+_chemical_formula_sum   'K4 V5 Cd1 Cl1 O15'
+_cell_volume   471.82684935
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.324120  0.166652  0.421499  1
+  K  K1  1  0.166652  0.675880  0.421499  1
+  K  K2  1  0.675880  0.833348  0.421499  1
+  K  K3  1  0.833348  0.324120  0.421499  1
+  V  V4  1  0.855891  0.615955  0.895794  1
+  V  V5  1  0.384045  0.855891  0.895794  1
+  V  V6  1  0.500000  0.500000  0.864626  1
+  V  V7  1  0.615955  0.144109  0.895794  1
+  V  V8  1  0.144109  0.384045  0.895794  1
+  Cd  Cd9  1  0.000000  0.000000  0.846058  1
+  Cl  Cl10  1  0.000000  0.000000  0.320604  1
+  O  O11  1  0.691452  0.547135  0.772451  1
+  O  O12  1  0.145689  0.388984  0.198677  1
+  O  O13  1  0.854311  0.611016  0.198677  1
+  O  O14  1  0.788219  0.120631  0.793833  1
+  O  O15  1  0.308548  0.452865  0.772451  1
+  O  O16  1  0.500000  0.000000  0.777252  1
+  O  O17  1  0.611016  0.145689  0.198677  1
+  O  O18  1  0.211781  0.879369  0.793833  1
+  O  O19  1  0.120631  0.211781  0.793833  1
+  O  O20  1  0.879369  0.788219  0.793833  1
+  O  O21  1  0.547135  0.308548  0.772451  1
+  O  O22  1  0.500000  0.500000  0.158995  1
+  O  O23  1  0.452865  0.691452  0.772451  1
+  O  O24  1  0.388984  0.854311  0.198677  1
+  O  O25  1  0.000000  0.500000  0.777252  1

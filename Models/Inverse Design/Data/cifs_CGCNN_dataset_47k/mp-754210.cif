@@ -1,0 +1,48 @@
+# generated using pymatgen
+data_Li6FeS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.96065539
+_cell_length_b   7.96065539
+_cell_length_c   5.84804905
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li6FeS4
+_chemical_formula_sum   'Li12 Fe2 S8'
+_cell_volume   370.60276487
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.273410  0.273410  0.500000  1
+  Li  Li1  1  0.726590  0.273410  0.500000  1
+  Li  Li2  1  0.000000  0.500000  0.460267  1
+  Li  Li3  1  0.000000  0.500000  0.960267  1
+  Li  Li4  1  0.273410  0.726590  0.500000  1
+  Li  Li5  1  0.726590  0.726590  0.500000  1
+  Li  Li6  1  0.773410  0.773410  0.000000  1
+  Li  Li7  1  0.226590  0.773410  0.000000  1
+  Li  Li8  1  0.500000  0.000000  0.039733  1
+  Li  Li9  1  0.500000  0.000000  0.539733  1
+  Li  Li10  1  0.773410  0.226590  0.000000  1
+  Li  Li11  1  0.226590  0.226590  0.000000  1
+  Fe  Fe12  1  0.500000  0.500000  0.000000  1
+  Fe  Fe13  1  0.000000  0.000000  0.500000  1
+  S  S14  1  0.000000  0.253945  0.715866  1
+  S  S15  1  0.753945  0.500000  0.215866  1
+  S  S16  1  0.246055  0.500000  0.215866  1
+  S  S17  1  0.000000  0.746055  0.715866  1
+  S  S18  1  0.500000  0.753945  0.784134  1
+  S  S19  1  0.746055  0.000000  0.284134  1
+  S  S20  1  0.253945  0.000000  0.284134  1
+  S  S21  1  0.500000  0.246055  0.784134  1

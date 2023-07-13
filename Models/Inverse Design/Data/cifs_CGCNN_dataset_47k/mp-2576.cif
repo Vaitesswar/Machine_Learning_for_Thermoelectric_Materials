@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Sr2Ge
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19632841
+_cell_length_b   8.18933091
+_cell_length_c   9.67823714
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2Ge
+_chemical_formula_sum   'Sr8 Ge4'
+_cell_volume   411.85208621
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.750000  0.349235  0.078098  1
+  Sr  Sr1  1  0.250000  0.650765  0.921902  1
+  Sr  Sr2  1  0.750000  0.849235  0.421902  1
+  Sr  Sr3  1  0.250000  0.150765  0.578098  1
+  Sr  Sr4  1  0.250000  0.018362  0.173581  1
+  Sr  Sr5  1  0.750000  0.981638  0.826419  1
+  Sr  Sr6  1  0.250000  0.518362  0.326419  1
+  Sr  Sr7  1  0.750000  0.481638  0.673581  1
+  Ge  Ge8  1  0.250000  0.752207  0.601970  1
+  Ge  Ge9  1  0.750000  0.247793  0.398030  1
+  Ge  Ge10  1  0.250000  0.252207  0.898030  1
+  Ge  Ge11  1  0.750000  0.747793  0.101970  1

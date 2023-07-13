@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Ce2Zn4Ru
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.19359438
+_cell_length_b   7.19359438
+_cell_length_c   5.19449079
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ce2Zn4Ru
+_chemical_formula_sum   'Ce4 Zn8 Ru2'
+_cell_volume   268.80347104
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.000000  0.500000  0.776090  1
+  Ce  Ce1  1  0.000000  0.000000  0.000000  1
+  Ce  Ce2  1  0.500000  0.000000  0.223910  1
+  Ce  Ce3  1  0.500000  0.500000  0.000000  1
+  Zn  Zn4  1  0.185085  0.685085  0.289960  1
+  Zn  Zn5  1  0.814915  0.685085  0.289960  1
+  Zn  Zn6  1  0.814915  0.314915  0.289960  1
+  Zn  Zn7  1  0.314915  0.185085  0.710040  1
+  Zn  Zn8  1  0.185085  0.314915  0.289960  1
+  Zn  Zn9  1  0.685085  0.185085  0.710040  1
+  Zn  Zn10  1  0.685085  0.814915  0.710040  1
+  Zn  Zn11  1  0.314915  0.814915  0.710040  1
+  Ru  Ru12  1  0.500000  0.500000  0.500000  1
+  Ru  Ru13  1  0.000000  0.000000  0.500000  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CeNbO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.74155519
+_cell_length_b   6.74155519
+_cell_length_c   5.20329066
+_cell_angle_alpha   69.86798031
+_cell_angle_beta   110.13201969
+_cell_angle_gamma   64.44583693
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CeNbO4
+_chemical_formula_sum   'Ce2 Nb2 O8'
+_cell_volume   162.94934285
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ce  Ce0  1  0.630707  0.630707  0.750000  1
+  Ce  Ce1  1  0.369293  0.369293  0.250000  1
+  Nb  Nb2  1  0.099452  0.099452  0.750000  1
+  Nb  Nb3  1  0.900548  0.900548  0.250000  1
+  O  O4  1  0.939984  0.645139  0.150598  1
+  O  O5  1  0.645139  0.939984  0.349402  1
+  O  O6  1  0.060016  0.354861  0.849402  1
+  O  O7  1  0.354861  0.060016  0.650598  1
+  O  O8  1  0.727144  0.209926  0.794547  1
+  O  O9  1  0.209926  0.727144  0.705453  1
+  O  O10  1  0.272856  0.790074  0.205453  1
+  O  O11  1  0.790074  0.272856  0.294547  1

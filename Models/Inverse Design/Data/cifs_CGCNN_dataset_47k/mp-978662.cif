@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Sc6Al16Ir7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   8.75147814
+_cell_length_b   8.75147814
+_cell_length_c   8.75147814
+_cell_angle_alpha   60.00000000
+_cell_angle_beta   60.00000000
+_cell_angle_gamma   60.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sc6Al16Ir7
+_chemical_formula_sum   'Sc6 Al16 Ir7'
+_cell_volume   473.94641167
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.206192  0.793808  0.793808  1
+  Sc  Sc1  1  0.793808  0.206192  0.206192  1
+  Sc  Sc2  1  0.793808  0.793808  0.206192  1
+  Sc  Sc3  1  0.206192  0.793808  0.206192  1
+  Sc  Sc4  1  0.206192  0.206192  0.793808  1
+  Sc  Sc5  1  0.793808  0.206192  0.793808  1
+  Al  Al6  1  0.165124  0.504627  0.165124  1
+  Al  Al7  1  0.165124  0.165124  0.165124  1
+  Al  Al8  1  0.165124  0.165124  0.504627  1
+  Al  Al9  1  0.504627  0.165124  0.165124  1
+  Al  Al10  1  0.834876  0.495373  0.834876  1
+  Al  Al11  1  0.834876  0.834876  0.834876  1
+  Al  Al12  1  0.495373  0.834876  0.834876  1
+  Al  Al13  1  0.834876  0.834876  0.495373  1
+  Al  Al14  1  0.380031  0.859908  0.380031  1
+  Al  Al15  1  0.380031  0.380031  0.380031  1
+  Al  Al16  1  0.380031  0.380031  0.859908  1
+  Al  Al17  1  0.859908  0.380031  0.380031  1
+  Al  Al18  1  0.619969  0.140092  0.619969  1
+  Al  Al19  1  0.619969  0.619969  0.619969  1
+  Al  Al20  1  0.140092  0.619969  0.619969  1
+  Al  Al21  1  0.619969  0.619969  0.140092  1
+  Ir  Ir22  1  0.500000  0.500000  0.500000  1
+  Ir  Ir23  1  0.500000  0.000000  1.000000  1
+  Ir  Ir24  1  0.000000  0.500000  0.500000  1
+  Ir  Ir25  1  0.000000  0.000000  0.500000  1
+  Ir  Ir26  1  0.500000  0.000000  0.500000  1
+  Ir  Ir27  1  0.500000  0.500000  1.000000  1
+  Ir  Ir28  1  1.000000  0.500000  1.000000  1

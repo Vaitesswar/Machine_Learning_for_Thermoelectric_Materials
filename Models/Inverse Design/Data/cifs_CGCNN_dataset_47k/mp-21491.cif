@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Y3GaCo3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.39350213
+_cell_length_b   5.39350213
+_cell_length_c   12.89508589
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   134.99360768
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Y3GaCo3
+_chemical_formula_sum   'Y6 Ga2 Co6'
+_cell_volume   265.27687803
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Y  Y0  1  0.000277  0.999723  0.250000  1
+  Y  Y1  1  0.999723  0.000277  0.750000  1
+  Y  Y2  1  0.708457  0.291543  0.602977  1
+  Y  Y3  1  0.291543  0.708457  0.397023  1
+  Y  Y4  1  0.291543  0.708457  0.102977  1
+  Y  Y5  1  0.708457  0.291543  0.897023  1
+  Ga  Ga6  1  0.000000  0.000000  0.000000  1
+  Ga  Ga7  1  0.000000  0.000000  0.500000  1
+  Co  Co8  1  0.696574  0.303426  0.250000  1
+  Co  Co9  1  0.303426  0.696574  0.750000  1
+  Co  Co10  1  0.418325  0.581675  0.595839  1
+  Co  Co11  1  0.581675  0.418325  0.404161  1
+  Co  Co12  1  0.581675  0.418325  0.095839  1
+  Co  Co13  1  0.418325  0.581675  0.904161  1

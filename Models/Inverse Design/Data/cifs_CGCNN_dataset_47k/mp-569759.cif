@@ -1,0 +1,43 @@
+# generated using pymatgen
+data_Zn5(BRh2)4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.57790119
+_cell_length_b   9.57790119
+_cell_length_c   2.86837266
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   127.19016106
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Zn5(BRh2)4
+_chemical_formula_sum   'Zn5 B4 Rh8'
+_cell_volume   209.62108727
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zn  Zn0  1  0.198431  0.801569  0.500000  1
+  Zn  Zn1  1  0.801569  0.198431  0.500000  1
+  Zn  Zn2  1  0.353585  0.353585  0.500000  1
+  Zn  Zn3  1  0.000000  0.000000  0.500000  1
+  Zn  Zn4  1  0.646415  0.646415  0.500000  1
+  B  B5  1  0.466345  0.156083  0.500000  1
+  B  B6  1  0.156083  0.466345  0.500000  1
+  B  B7  1  0.533655  0.843917  0.500000  1
+  B  B8  1  0.843917  0.533655  0.500000  1
+  Rh  Rh9  1  0.623610  0.376390  1.000000  1
+  Rh  Rh10  1  0.376390  0.623610  0.000000  1
+  Rh  Rh11  1  0.919326  0.732816  1.000000  1
+  Rh  Rh12  1  0.080674  0.267184  1.000000  1
+  Rh  Rh13  1  0.500000  0.000000  0.000000  1
+  Rh  Rh14  1  0.267184  0.080674  0.000000  1
+  Rh  Rh15  1  0.732816  0.919326  1.000000  1
+  Rh  Rh16  1  0.000000  0.500000  0.000000  1

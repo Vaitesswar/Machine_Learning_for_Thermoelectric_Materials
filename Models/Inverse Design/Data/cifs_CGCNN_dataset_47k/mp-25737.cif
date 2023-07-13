@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_BaInCo4O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29251114
+_cell_length_b   6.29251114
+_cell_length_c   10.31067510
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaInCo4O7
+_chemical_formula_sum   'Ba2 In2 Co8 O14'
+_cell_volume   353.56211226
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.666667  0.333333  0.495335  1
+  Ba  Ba1  1  0.333333  0.666667  0.995335  1
+  In  In2  1  0.666667  0.333333  0.875125  1
+  In  In3  1  0.333333  0.666667  0.375125  1
+  Co  Co4  1  0.829802  0.170198  0.186393  1
+  Co  Co5  1  0.659604  0.829802  0.686393  1
+  Co  Co6  1  0.170198  0.340396  0.686393  1
+  Co  Co7  1  0.829802  0.659604  0.186393  1
+  Co  Co8  1  0.340396  0.170198  0.186393  1
+  Co  Co9  1  0.170198  0.829802  0.686393  1
+  Co  Co10  1  0.000000  0.000000  0.438962  1
+  Co  Co11  1  0.000000  0.000000  0.938962  1
+  O  O12  1  0.831966  0.168034  0.999138  1
+  O  O13  1  0.663932  0.831966  0.499138  1
+  O  O14  1  0.168034  0.336068  0.499138  1
+  O  O15  1  0.831966  0.663932  0.999138  1
+  O  O16  1  0.336068  0.168034  0.999138  1
+  O  O17  1  0.168034  0.831966  0.499138  1
+  O  O18  1  0.000000  0.000000  0.748242  1
+  O  O19  1  0.000000  0.000000  0.248242  1
+  O  O20  1  0.499383  0.500617  0.254148  1
+  O  O21  1  0.998766  0.499383  0.754148  1
+  O  O22  1  0.500617  0.001234  0.754148  1
+  O  O23  1  0.499383  0.998766  0.254148  1
+  O  O24  1  0.500617  0.499383  0.754148  1
+  O  O25  1  0.001234  0.500617  0.254148  1

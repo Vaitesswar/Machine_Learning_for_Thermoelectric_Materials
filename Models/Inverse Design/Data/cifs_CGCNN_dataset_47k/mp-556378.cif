@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_BiSeClO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.58327165
+_cell_length_b   8.06065170
+_cell_length_c   8.88410096
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BiSeClO3
+_chemical_formula_sum   'Bi4 Se4 Cl4 O12'
+_cell_volume   471.43890250
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Bi  Bi0  1  0.961206  0.805302  0.822865  1
+  Bi  Bi1  1  0.461206  0.694698  0.177135  1
+  Bi  Bi2  1  0.538794  0.194698  0.322865  1
+  Bi  Bi3  1  0.038794  0.305302  0.677135  1
+  Se  Se4  1  0.852083  0.911538  0.449446  1
+  Se  Se5  1  0.352083  0.588462  0.550554  1
+  Se  Se6  1  0.147917  0.411538  0.050554  1
+  Se  Se7  1  0.647917  0.088462  0.949446  1
+  Cl  Cl8  1  0.750620  0.485134  0.345715  1
+  Cl  Cl9  1  0.249380  0.985134  0.154285  1
+  Cl  Cl10  1  0.749380  0.514866  0.845715  1
+  Cl  Cl11  1  0.250620  0.014866  0.654285  1
+  O  O12  1  0.126100  0.606385  0.651421  1
+  O  O13  1  0.165362  0.627946  0.034407  1
+  O  O14  1  0.264193  0.656526  0.376825  1
+  O  O15  1  0.626100  0.893615  0.348579  1
+  O  O16  1  0.764193  0.843474  0.623175  1
+  O  O17  1  0.334638  0.372054  0.534407  1
+  O  O18  1  0.735807  0.156526  0.123175  1
+  O  O19  1  0.834638  0.127946  0.465593  1
+  O  O20  1  0.665362  0.872054  0.965593  1
+  O  O21  1  0.873900  0.106385  0.848579  1
+  O  O22  1  0.373900  0.393615  0.151421  1
+  O  O23  1  0.235807  0.343474  0.876825  1

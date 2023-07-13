@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CuGe2P3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   12.42660369
+_cell_length_b   12.42660369
+_cell_length_c   6.61027996
+_cell_angle_alpha   85.59299756
+_cell_angle_beta   94.40700244
+_cell_angle_gamma   162.59074293
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuGe2P3
+_chemical_formula_sum   'Cu2 Ge4 P6'
+_cell_volume   304.48285179
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.364054  0.635946  0.120730  1
+  Cu  Cu1  1  0.251006  0.748994  0.752078  1
+  Ge  Ge2  1  0.875041  0.124959  0.625973  1
+  Ge  Ge3  1  0.629437  0.370563  0.879192  1
+  Ge  Ge4  1  0.751994  0.248006  0.239320  1
+  Ge  Ge5  1  0.127040  0.872960  0.369862  1
+  P  P6  1  0.344547  0.655453  0.790323  1
+  P  P7  1  0.724551  0.275449  0.895980  1
+  P  P8  1  0.848531  0.151469  0.280342  1
+  P  P9  1  0.085186  0.914814  0.027683  1
+  P  P10  1  0.222945  0.777055  0.422427  1
+  P  P11  1  0.588169  0.411831  0.533589  1

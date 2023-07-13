@@ -1,0 +1,35 @@
+# generated using pymatgen
+data_Cr(CoO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.46675639
+_cell_length_b   6.46675639
+_cell_length_c   5.79993427
+_cell_angle_alpha   76.61942156
+_cell_angle_beta   103.38057844
+_cell_angle_gamma   154.56310139
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cr(CoO3)2
+_chemical_formula_sum   'Cr1 Co2 O6'
+_cell_volume   101.20390044
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.000000  1.000000  0.500000  1
+  Co  Co1  1  0.332290  0.667710  0.161668  1
+  Co  Co2  1  0.667710  0.332290  0.838332  1
+  O  O3  1  0.840504  0.159496  0.378735  1
+  O  O4  1  0.513912  0.486088  0.727818  1
+  O  O5  1  0.180088  0.819912  0.052445  1
+  O  O6  1  0.486088  0.513912  0.272182  1
+  O  O7  1  0.159496  0.840504  0.621265  1
+  O  O8  1  0.819912  0.180088  0.947555  1

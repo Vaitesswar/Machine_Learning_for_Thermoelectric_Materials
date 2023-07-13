@@ -1,0 +1,37 @@
+# generated using pymatgen
+data_Ni2P2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.28464443
+_cell_length_b   5.28464443
+_cell_length_c   4.51647072
+_cell_angle_alpha   81.98696501
+_cell_angle_beta   98.01303499
+_cell_angle_gamma   75.83292982
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ni2P2O7
+_chemical_formula_sum   'Ni2 P2 O7'
+_cell_volume   119.10922206
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.313615  0.313615  0.000000  1
+  Ni  Ni1  1  0.686385  0.686385  0.000000  1
+  P  P2  1  0.780337  0.219663  0.592721  1
+  P  P3  1  0.219663  0.780337  0.407279  1
+  O  O4  1  0.381924  0.925596  0.222953  1
+  O  O5  1  0.925596  0.381924  0.777047  1
+  O  O6  1  0.618076  0.074404  0.777047  1
+  O  O7  1  0.074404  0.618076  0.222953  1
+  O  O8  1  0.000000  0.000000  0.500000  1
+  O  O9  1  0.620155  0.379845  0.283834  1
+  O  O10  1  0.379845  0.620155  0.716166  1

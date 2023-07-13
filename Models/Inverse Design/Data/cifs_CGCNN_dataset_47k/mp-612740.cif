@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_In2Se3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.34149172
+_cell_length_b   7.34149172
+_cell_length_c   19.76637471
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   In2Se3
+_chemical_formula_sum   'In12 Se18'
+_cell_volume   922.62726060
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  In  In0  1  0.326111  0.985755  0.999613  1
+  In  In1  1  0.014245  0.340356  0.332947  1
+  In  In2  1  0.010678  0.696348  0.472066  1
+  In  In3  1  0.989322  0.303652  0.972066  1
+  In  In4  1  0.985755  0.659644  0.832947  1
+  In  In5  1  0.340356  0.326111  0.166280  1
+  In  In6  1  0.659644  0.673889  0.666280  1
+  In  In7  1  0.673889  0.014245  0.499613  1
+  In  In8  1  0.314329  0.010678  0.638733  1
+  In  In9  1  0.303652  0.314329  0.805399  1
+  In  In10  1  0.685671  0.989322  0.138733  1
+  In  In11  1  0.696348  0.685671  0.305399  1
+  Se  Se12  1  0.695298  0.040118  0.634929  1
+  Se  Se13  1  0.638346  0.664707  0.454344  1
+  Se  Se14  1  0.931880  0.278962  0.826964  1
+  Se  Se15  1  0.973639  0.638346  0.621011  1
+  Se  Se16  1  0.344820  0.304702  0.301595  1
+  Se  Se17  1  0.068120  0.721037  0.326964  1
+  Se  Se18  1  0.959882  0.655180  0.968262  1
+  Se  Se19  1  0.664707  0.026361  0.287677  1
+  Se  Se20  1  0.304702  0.959882  0.134929  1
+  Se  Se21  1  0.278962  0.347083  0.660297  1
+  Se  Se22  1  0.652917  0.931880  0.993631  1
+  Se  Se23  1  0.347083  0.068120  0.493631  1
+  Se  Se24  1  0.655180  0.695298  0.801595  1
+  Se  Se25  1  0.335293  0.973639  0.787677  1
+  Se  Se26  1  0.721037  0.652917  0.160297  1
+  Se  Se27  1  0.361654  0.335293  0.954344  1
+  Se  Se28  1  0.026361  0.361654  0.121011  1
+  Se  Se29  1  0.040118  0.344820  0.468262  1

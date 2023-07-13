@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_LiInGeO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06879771
+_cell_length_b   6.17447446
+_cell_length_c   10.89044405
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiInGeO4
+_chemical_formula_sum   'Li4 In4 Ge4 O16'
+_cell_volume   340.83999172
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000000  0.000000  0.000000  1
+  Li  Li1  1  0.500000  0.000000  0.500000  1
+  Li  Li2  1  0.000000  0.500000  0.000000  1
+  Li  Li3  1  0.500000  0.500000  0.500000  1
+  In  In4  1  0.007321  0.750000  0.272205  1
+  In  In5  1  0.492679  0.750000  0.772205  1
+  In  In6  1  0.992679  0.250000  0.727795  1
+  In  In7  1  0.507321  0.250000  0.227795  1
+  Ge  Ge8  1  0.558250  0.750000  0.086998  1
+  Ge  Ge9  1  0.941750  0.750000  0.586998  1
+  Ge  Ge10  1  0.441750  0.250000  0.913002  1
+  Ge  Ge11  1  0.058250  0.250000  0.413002  1
+  O  O12  1  0.772900  0.532162  0.666070  1
+  O  O13  1  0.227100  0.467838  0.333930  1
+  O  O14  1  0.727100  0.532162  0.166070  1
+  O  O15  1  0.772900  0.967838  0.666070  1
+  O  O16  1  0.272900  0.032162  0.833930  1
+  O  O17  1  0.786012  0.250000  0.905967  1
+  O  O18  1  0.272900  0.467838  0.833930  1
+  O  O19  1  0.227100  0.032162  0.333930  1
+  O  O20  1  0.213988  0.750000  0.094033  1
+  O  O21  1  0.713988  0.250000  0.405967  1
+  O  O22  1  0.789494  0.750000  0.441065  1
+  O  O23  1  0.286012  0.750000  0.594033  1
+  O  O24  1  0.710506  0.750000  0.941065  1
+  O  O25  1  0.289494  0.250000  0.058935  1
+  O  O26  1  0.210506  0.250000  0.558935  1
+  O  O27  1  0.727100  0.967838  0.166070  1

@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_CrNi(PO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.79426328
+_cell_length_b   5.80755593
+_cell_length_c   9.96060513
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   91.01767338
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CrNi(PO4)2
+_chemical_formula_sum   'Cr2 Ni2 P4 O16'
+_cell_volume   277.28890650
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cr  Cr0  1  0.467562  0.750000  0.223642  1
+  Cr  Cr1  1  0.532438  0.250000  0.776358  1
+  Ni  Ni2  1  0.940723  0.250000  0.276930  1
+  Ni  Ni3  1  0.059277  0.750000  0.723070  1
+  P  P4  1  0.415452  0.250000  0.092886  1
+  P  P5  1  0.905917  0.750000  0.402366  1
+  P  P6  1  0.094083  0.250000  0.597634  1
+  P  P7  1  0.584548  0.750000  0.907114  1
+  O  O8  1  0.676488  0.750000  0.055473  1
+  O  O9  1  0.730895  0.250000  0.106757  1
+  O  O10  1  0.279449  0.039699  0.167248  1
+  O  O11  1  0.279449  0.460301  0.167248  1
+  O  O12  1  0.744879  0.951557  0.326552  1
+  O  O13  1  0.744879  0.548443  0.326552  1
+  O  O14  1  0.218049  0.750000  0.375569  1
+  O  O15  1  0.149605  0.250000  0.449207  1
+  O  O16  1  0.850395  0.750000  0.550793  1
+  O  O17  1  0.781951  0.250000  0.624431  1
+  O  O18  1  0.255121  0.048443  0.673448  1
+  O  O19  1  0.255121  0.451557  0.673448  1
+  O  O20  1  0.720551  0.539699  0.832752  1
+  O  O21  1  0.720551  0.960301  0.832752  1
+  O  O22  1  0.269105  0.750000  0.893243  1
+  O  O23  1  0.323512  0.250000  0.944527  1

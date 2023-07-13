@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_Mn(GaTe2)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.26051630
+_cell_length_b   7.07272766
+_cell_length_c   27.80089810
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Mn(GaTe2)2
+_chemical_formula_sum   'Mn4 Ga8 Te16'
+_cell_volume   837.73757004
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.250000  0.852204  0.309517  1
+  Mn  Mn1  1  0.750000  0.352204  0.190483  1
+  Mn  Mn2  1  0.750000  0.147796  0.690483  1
+  Mn  Mn3  1  0.250000  0.647796  0.809517  1
+  Ga  Ga4  1  0.750000  0.454149  0.349981  1
+  Ga  Ga5  1  0.250000  0.574011  0.047001  1
+  Ga  Ga6  1  0.250000  0.954149  0.150019  1
+  Ga  Ga7  1  0.250000  0.545851  0.650019  1
+  Ga  Ga8  1  0.250000  0.925989  0.547001  1
+  Ga  Ga9  1  0.750000  0.074011  0.452999  1
+  Ga  Ga10  1  0.750000  0.045851  0.849981  1
+  Ga  Ga11  1  0.750000  0.425989  0.952999  1
+  Te  Te12  1  0.750000  0.111936  0.106560  1
+  Te  Te13  1  0.250000  0.924049  0.643229  1
+  Te  Te14  1  0.750000  0.864263  0.766405  1
+  Te  Te15  1  0.750000  0.749146  0.005589  1
+  Te  Te16  1  0.750000  0.075951  0.356771  1
+  Te  Te17  1  0.750000  0.424049  0.856771  1
+  Te  Te18  1  0.750000  0.635737  0.266405  1
+  Te  Te19  1  0.250000  0.611936  0.393440  1
+  Te  Te20  1  0.250000  0.888064  0.893440  1
+  Te  Te21  1  0.250000  0.364263  0.733595  1
+  Te  Te22  1  0.250000  0.249146  0.494411  1
+  Te  Te23  1  0.250000  0.135737  0.233595  1
+  Te  Te24  1  0.250000  0.250854  0.994411  1
+  Te  Te25  1  0.250000  0.575951  0.143229  1
+  Te  Te26  1  0.750000  0.750854  0.505589  1
+  Te  Te27  1  0.750000  0.388064  0.606560  1

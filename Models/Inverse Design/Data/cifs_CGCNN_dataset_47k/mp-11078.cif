@@ -1,0 +1,34 @@
+# generated using pymatgen
+data_BaIn2Rh
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.29454469
+_cell_length_b   6.29454469
+_cell_length_c   8.17366275
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   138.01939511
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaIn2Rh
+_chemical_formula_sum   'Ba2 In4 Rh2'
+_cell_volume   216.61719256
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.051701  0.948299  0.250000  1
+  Ba  Ba1  1  0.948299  0.051701  0.750000  1
+  In  In2  1  0.666213  0.333787  0.555673  1
+  In  In3  1  0.333787  0.666213  0.444327  1
+  In  In4  1  0.666213  0.333787  0.944327  1
+  In  In5  1  0.333787  0.666213  0.055673  1
+  Rh  Rh6  1  0.218181  0.781819  0.750000  1
+  Rh  Rh7  1  0.781819  0.218181  0.250000  1

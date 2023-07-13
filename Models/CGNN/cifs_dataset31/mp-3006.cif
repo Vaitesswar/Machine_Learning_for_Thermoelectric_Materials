@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_P2Pd3S8
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.24705228
+_cell_length_b   7.24705228
+_cell_length_c   7.57877938
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   P2Pd3S8
+_chemical_formula_sum   'P2 Pd3 S8'
+_cell_volume   344.70904942
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  P  P0  1  0.666667  0.333333  0.687052  1
+  P  P1  1  0.333333  0.666667  0.312948  1
+  Pd  Pd2  1  0.500000  0.500000  0.000000  1
+  Pd  Pd3  1  0.000000  0.500000  0.000000  1
+  Pd  Pd4  1  0.500000  0.000000  0.000000  1
+  S  S5  1  0.186781  0.813219  0.170987  1
+  S  S6  1  0.333333  0.666667  0.565386  1
+  S  S7  1  0.666667  0.333333  0.434614  1
+  S  S8  1  0.813219  0.186781  0.829013  1
+  S  S9  1  0.813219  0.626438  0.829013  1
+  S  S10  1  0.373562  0.186781  0.829013  1
+  S  S11  1  0.626438  0.813219  0.170987  1
+  S  S12  1  0.186781  0.373562  0.170987  1

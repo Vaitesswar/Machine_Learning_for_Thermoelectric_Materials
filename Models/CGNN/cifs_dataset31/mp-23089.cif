@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_SrTa2Bi2O9
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.06406754
+_cell_length_b   13.06406754
+_cell_length_c   5.61412479
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   155.23903385
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SrTa2Bi2O9
+_chemical_formula_sum   'Sr2 Ta4 Bi4 O18'
+_cell_volume   401.31034299
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.250668  0.250668  0.983389  1
+  Sr  Sr1  1  0.749332  0.749332  0.483389  1
+  Ta  Ta2  1  0.834742  0.669547  0.977897  1
+  Ta  Ta3  1  0.330453  0.165258  0.477897  1
+  Ta  Ta4  1  0.669547  0.834742  0.977897  1
+  Ta  Ta5  1  0.165258  0.330453  0.477897  1
+  Bi  Bi6  1  0.415432  0.015140  0.073257  1
+  Bi  Bi7  1  0.584568  0.984860  0.573257  1
+  Bi  Bi8  1  0.984860  0.584568  0.573257  1
+  Bi  Bi9  1  0.015140  0.415432  0.073257  1
+  O  O10  1  0.569578  0.400458  0.203950  1
+  O  O11  1  0.430422  0.599542  0.703950  1
+  O  O12  1  0.599542  0.430422  0.703950  1
+  O  O13  1  0.400458  0.569578  0.203950  1
+  O  O14  1  0.055074  0.922795  0.227125  1
+  O  O15  1  0.944926  0.077205  0.727125  1
+  O  O16  1  0.077205  0.944926  0.727125  1
+  O  O17  1  0.922795  0.055074  0.227125  1
+  O  O18  1  0.232522  0.731064  0.288046  1
+  O  O19  1  0.767478  0.268936  0.788046  1
+  O  O20  1  0.298951  0.298951  0.462290  1
+  O  O21  1  0.701049  0.701049  0.962290  1
+  O  O22  1  0.328310  0.017921  0.458386  1
+  O  O23  1  0.671690  0.982079  0.958386  1
+  O  O24  1  0.982079  0.671690  0.958386  1
+  O  O25  1  0.017921  0.328310  0.458386  1
+  O  O26  1  0.731064  0.232522  0.288046  1
+  O  O27  1  0.268936  0.767478  0.788046  1

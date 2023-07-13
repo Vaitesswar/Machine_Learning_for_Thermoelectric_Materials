@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_AlGaCl4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.27746857
+_cell_length_b   10.23749933
+_cell_length_c   11.70555331
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   124.99968816
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlGaCl4
+_chemical_formula_sum   'Al4 Ga4 Cl16'
+_cell_volume   714.38503194
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.425446  0.544970  0.682467  1
+  Al  Al1  1  0.574554  0.044970  0.817533  1
+  Al  Al2  1  0.574554  0.455030  0.317533  1
+  Al  Al3  1  0.425446  0.955030  0.182467  1
+  Ga  Ga4  1  0.935251  0.287010  0.788592  1
+  Ga  Ga5  1  0.064749  0.787010  0.711408  1
+  Ga  Ga6  1  0.064749  0.712990  0.211408  1
+  Ga  Ga7  1  0.935251  0.212990  0.288592  1
+  Cl  Cl8  1  0.783964  0.930461  0.319520  1
+  Cl  Cl9  1  0.216036  0.430461  0.180480  1
+  Cl  Cl10  1  0.216036  0.069539  0.680480  1
+  Cl  Cl11  1  0.783964  0.569539  0.819520  1
+  Cl  Cl12  1  0.262263  0.716656  0.553734  1
+  Cl  Cl13  1  0.737737  0.216656  0.946266  1
+  Cl  Cl14  1  0.737737  0.283344  0.446266  1
+  Cl  Cl15  1  0.262263  0.783344  0.053734  1
+  Cl  Cl16  1  0.716950  0.028954  0.697963  1
+  Cl  Cl17  1  0.283050  0.528954  0.802037  1
+  Cl  Cl18  1  0.283050  0.971046  0.302037  1
+  Cl  Cl19  1  0.716950  0.471046  0.197963  1
+  Cl  Cl20  1  0.635951  0.627779  0.439272  1
+  Cl  Cl21  1  0.364049  0.127779  0.060728  1
+  Cl  Cl22  1  0.364049  0.372221  0.560728  1
+  Cl  Cl23  1  0.635951  0.872221  0.939272  1

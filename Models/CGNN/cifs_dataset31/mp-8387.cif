@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_Tl6TeO6
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.73049253
+_cell_length_b   6.73049253
+_cell_length_c   6.73049253
+_cell_angle_alpha   92.78943699
+_cell_angle_beta   92.78943699
+_cell_angle_gamma   92.78943699
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl6TeO6
+_chemical_formula_sum   'Tl6 Te1 O6'
+_cell_volume   303.76782762
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.870571  0.443819  0.736820  1
+  Tl  Tl1  1  0.736820  0.870571  0.443819  1
+  Tl  Tl2  1  0.443819  0.736820  0.870571  1
+  Tl  Tl3  1  0.129429  0.556181  0.263180  1
+  Tl  Tl4  1  0.263180  0.129429  0.556181  1
+  Tl  Tl5  1  0.556181  0.263180  0.129429  1
+  Te  Te6  1  0.000000  0.000000  0.000000  1
+  O  O7  1  0.711431  0.958754  0.035017  1
+  O  O8  1  0.035017  0.711431  0.958754  1
+  O  O9  1  0.958754  0.035017  0.711431  1
+  O  O10  1  0.288569  0.041246  0.964983  1
+  O  O11  1  0.964983  0.288569  0.041246  1
+  O  O12  1  0.041246  0.964983  0.288569  1

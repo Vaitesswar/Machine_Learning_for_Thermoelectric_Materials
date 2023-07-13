@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_KNiCl3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   11.89981539
+_cell_length_b   11.89981539
+_cell_length_c   5.97640729
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNiCl3
+_chemical_formula_sum   'K6 Ni6 Cl18'
+_cell_volume   732.91104464
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.334703  0.334703  0.330023  1
+  K  K1  1  0.000000  0.334703  0.830023  1
+  K  K2  1  0.334703  0.000000  0.830023  1
+  K  K3  1  0.665297  0.000000  0.330023  1
+  K  K4  1  0.000000  0.665297  0.330023  1
+  K  K5  1  0.665297  0.665297  0.830023  1
+  Ni  Ni6  1  0.000000  0.000000  0.009221  1
+  Ni  Ni7  1  0.000000  0.000000  0.509221  1
+  Ni  Ni8  1  0.333333  0.666667  0.130842  1
+  Ni  Ni9  1  0.666667  0.333333  0.630842  1
+  Ni  Ni10  1  0.333333  0.666667  0.630842  1
+  Ni  Ni11  1  0.666667  0.333333  0.130842  1
+  Cl  Cl12  1  0.492163  0.667517  0.382992  1
+  Cl  Cl13  1  0.332483  0.824646  0.382992  1
+  Cl  Cl14  1  0.175354  0.507837  0.382992  1
+  Cl  Cl15  1  0.824646  0.492163  0.882992  1
+  Cl  Cl16  1  0.507837  0.332483  0.882992  1
+  Cl  Cl17  1  0.667517  0.175354  0.882992  1
+  Cl  Cl18  1  0.492163  0.824646  0.882992  1
+  Cl  Cl19  1  0.667517  0.492163  0.382992  1
+  Cl  Cl20  1  0.824646  0.332483  0.382992  1
+  Cl  Cl21  1  0.175354  0.667517  0.882992  1
+  Cl  Cl22  1  0.332483  0.507837  0.882992  1
+  Cl  Cl23  1  0.507837  0.175354  0.382992  1
+  Cl  Cl24  1  0.158465  0.000000  0.255890  1
+  Cl  Cl25  1  0.158465  0.158465  0.755890  1
+  Cl  Cl26  1  0.000000  0.841535  0.755890  1
+  Cl  Cl27  1  0.000000  0.158465  0.255890  1
+  Cl  Cl28  1  0.841535  0.841535  0.255890  1
+  Cl  Cl29  1  0.841535  0.000000  0.755890  1

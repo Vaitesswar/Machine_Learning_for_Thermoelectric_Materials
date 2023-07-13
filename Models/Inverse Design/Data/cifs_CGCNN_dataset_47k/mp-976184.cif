@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_Hf4Co4Si7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.43805507
+_cell_length_b   9.43805507
+_cell_length_c   9.43805507
+_cell_angle_alpha   94.09914316
+_cell_angle_beta   94.09914316
+_cell_angle_gamma   148.98527904
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Hf4Co4Si7
+_chemical_formula_sum   'Hf8 Co8 Si14'
+_cell_volume   417.41451711
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.137485  0.862515  0.000000  1
+  Hf  Hf1  1  0.862515  0.137485  0.000000  1
+  Hf  Hf2  1  0.137485  0.137485  0.274971  1
+  Hf  Hf3  1  0.862515  0.862515  0.725029  1
+  Hf  Hf4  1  0.303622  0.500000  0.803622  1
+  Hf  Hf5  1  0.696378  0.500000  0.196378  1
+  Hf  Hf6  1  0.500000  0.303622  0.803622  1
+  Hf  Hf7  1  0.500000  0.696378  0.196378  1
+  Co  Co8  1  0.602061  0.397939  0.500000  1
+  Co  Co9  1  0.897939  0.102061  0.500000  1
+  Co  Co10  1  0.397939  0.897939  0.795879  1
+  Co  Co11  1  0.102061  0.602061  0.204121  1
+  Co  Co12  1  0.102061  0.897939  0.500000  1
+  Co  Co13  1  0.397939  0.602061  0.500000  1
+  Co  Co14  1  0.602061  0.102061  0.204121  1
+  Co  Co15  1  0.897939  0.397939  0.795879  1
+  Si  Si16  1  0.289709  0.710291  0.000000  1
+  Si  Si17  1  0.710291  0.289709  0.000000  1
+  Si  Si18  1  0.289709  0.289709  0.579418  1
+  Si  Si19  1  0.710291  0.710291  0.420582  1
+  Si  Si20  1  0.091814  0.500000  0.591814  1
+  Si  Si21  1  0.908186  0.500000  0.408186  1
+  Si  Si22  1  0.500000  0.091814  0.591814  1
+  Si  Si23  1  0.500000  0.908186  0.408186  1
+  Si  Si24  1  0.749461  0.749461  0.000000  1
+  Si  Si25  1  0.250539  0.250539  0.000000  1
+  Si  Si26  1  0.301398  1.000000  0.301398  1
+  Si  Si27  1  0.698602  1.000000  0.698602  1
+  Si  Si28  1  1.000000  0.301398  0.301398  1
+  Si  Si29  1  1.000000  0.698602  0.698602  1

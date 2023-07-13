@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_KCeSiS4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.57774446
+_cell_length_b   6.60657294
+_cell_length_c   8.83689203
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   106.96645775
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KCeSiS4
+_chemical_formula_sum   'K2 Ce2 Si2 S8'
+_cell_volume   367.30491984
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.273823  0.750000  0.566079  1
+  K  K1  1  0.726177  0.250000  0.433921  1
+  Ce  Ce2  1  0.232103  0.750000  0.051087  1
+  Ce  Ce3  1  0.767897  0.250000  0.948913  1
+  Si  Si4  1  0.783635  0.750000  0.181560  1
+  Si  Si5  1  0.216365  0.250000  0.818440  1
+  S  S6  1  0.003798  0.501422  0.779118  1
+  S  S7  1  0.996202  0.001422  0.220882  1
+  S  S8  1  0.996202  0.498578  0.220882  1
+  S  S9  1  0.003798  0.998578  0.779118  1
+  S  S10  1  0.585774  0.750000  0.331671  1
+  S  S11  1  0.414226  0.250000  0.668329  1
+  S  S12  1  0.602109  0.750000  0.937304  1
+  S  S13  1  0.397891  0.250000  0.062696  1

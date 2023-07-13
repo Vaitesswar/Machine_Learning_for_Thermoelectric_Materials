@@ -1,0 +1,40 @@
+# generated using pymatgen
+data_Na2Be2O3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.96194871
+_cell_length_b   7.26879776
+_cell_length_c   5.75444983
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   108.68948512
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2Be2O3
+_chemical_formula_sum   'Na4 Be4 O6'
+_cell_volume   196.60385802
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.277719  0.360056  0.887118  1
+  Na  Na1  1  0.722281  0.860056  0.612882  1
+  Na  Na2  1  0.277719  0.139944  0.387118  1
+  Na  Na3  1  0.722281  0.639944  0.112882  1
+  Be  Be4  1  0.295662  0.517204  0.487230  1
+  Be  Be5  1  0.295662  0.982796  0.987230  1
+  Be  Be6  1  0.704338  0.017204  0.012770  1
+  Be  Be7  1  0.704338  0.482796  0.512770  1
+  O  O8  1  0.000000  0.500000  0.500000  1
+  O  O9  1  0.000000  0.000000  0.000000  1
+  O  O10  1  0.425434  0.061917  0.791736  1
+  O  O11  1  0.574566  0.561917  0.708264  1
+  O  O12  1  0.425434  0.438083  0.291736  1
+  O  O13  1  0.574566  0.938083  0.208264  1

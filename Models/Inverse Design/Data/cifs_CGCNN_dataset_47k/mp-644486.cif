@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_KAlH4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.36992754
+_cell_length_b   7.36992754
+_cell_length_c   7.36992754
+_cell_angle_alpha   137.01688722
+_cell_angle_beta   137.01688722
+_cell_angle_gamma   62.41206841
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KAlH4
+_chemical_formula_sum   'K2 Al2 H8'
+_cell_volume   183.82259050
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.000000  0.000000  0.000000  1
+  K  K1  1  0.750000  0.250000  0.500000  1
+  Al  Al2  1  0.500000  0.500000  0.000000  1
+  Al  Al3  1  0.250000  0.750000  0.500000  1
+  H  H4  1  0.476942  0.342505  0.673504  1
+  H  H5  1  0.669001  0.803438  0.326496  1
+  H  H6  1  0.553438  0.726942  0.634438  1
+  H  H7  1  0.092505  0.919001  0.365562  1
+  H  H8  1  0.273058  0.907495  0.826496  1
+  H  H9  1  0.080999  0.446562  0.173504  1
+  H  H10  1  0.196562  0.523058  0.865562  1
+  H  H11  1  0.657495  0.330999  0.134438  1

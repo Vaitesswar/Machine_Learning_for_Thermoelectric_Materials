@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_AlBPbO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.82383163
+_cell_length_b   7.06388890
+_cell_length_c   8.17251136
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   AlBPbO4
+_chemical_formula_sum   'Al4 B4 Pb4 O16'
+_cell_volume   336.20812437
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Al  Al0  1  0.000000  0.000000  0.500000  1
+  Al  Al1  1  0.000000  0.500000  0.000000  1
+  Al  Al2  1  0.500000  0.500000  0.000000  1
+  Al  Al3  1  0.500000  0.000000  0.500000  1
+  B  B4  1  0.750000  0.227326  0.757771  1
+  B  B5  1  0.750000  0.727326  0.742229  1
+  B  B6  1  0.250000  0.272674  0.257771  1
+  B  B7  1  0.250000  0.772674  0.242229  1
+  Pb  Pb8  1  0.250000  0.564610  0.640057  1
+  Pb  Pb9  1  0.250000  0.064610  0.859943  1
+  Pb  Pb10  1  0.750000  0.435390  0.359943  1
+  Pb  Pb11  1  0.750000  0.935390  0.140057  1
+  O  O12  1  0.955166  0.671962  0.815300  1
+  O  O13  1  0.955166  0.171962  0.684700  1
+  O  O14  1  0.455166  0.828038  0.315300  1
+  O  O15  1  0.750000  0.598194  0.108908  1
+  O  O16  1  0.044834  0.828038  0.315300  1
+  O  O17  1  0.250000  0.401806  0.891092  1
+  O  O18  1  0.750000  0.832633  0.598954  1
+  O  O19  1  0.250000  0.667367  0.098954  1
+  O  O20  1  0.544834  0.671962  0.815300  1
+  O  O21  1  0.044834  0.328038  0.184700  1
+  O  O22  1  0.250000  0.167367  0.401046  1
+  O  O23  1  0.750000  0.098194  0.391092  1
+  O  O24  1  0.544834  0.171962  0.684700  1
+  O  O25  1  0.750000  0.332633  0.901046  1
+  O  O26  1  0.250000  0.901806  0.608908  1
+  O  O27  1  0.455166  0.328038  0.184700  1

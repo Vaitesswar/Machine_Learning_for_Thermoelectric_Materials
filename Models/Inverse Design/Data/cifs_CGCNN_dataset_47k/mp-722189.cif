@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_H8PtN2(ClO)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.47891954
+_cell_length_b   7.62595531
+_cell_length_c   6.77447928
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.15870124
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   H8PtN2(ClO)2
+_chemical_formula_sum   'H16 Pt2 N4 Cl4 O4'
+_cell_volume   334.71185508
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  H  H0  1  0.678045  0.250000  0.412376  1
+  H  H1  1  0.321955  0.750000  0.587624  1
+  H  H2  1  0.324916  0.250000  0.800264  1
+  H  H3  1  0.675084  0.750000  0.199736  1
+  H  H4  1  0.610713  0.934593  0.653109  1
+  H  H5  1  0.389287  0.434593  0.346891  1
+  H  H6  1  0.389287  0.065407  0.346891  1
+  H  H7  1  0.610713  0.565407  0.653109  1
+  H  H8  1  0.841769  0.927639  0.762725  1
+  H  H9  1  0.158231  0.427639  0.237275  1
+  H  H10  1  0.158231  0.072361  0.237275  1
+  H  H11  1  0.841769  0.572361  0.762725  1
+  H  H12  1  0.630993  0.929089  0.901159  1
+  H  H13  1  0.369007  0.429089  0.098841  1
+  H  H14  1  0.369007  0.070911  0.098841  1
+  H  H15  1  0.630993  0.570911  0.901159  1
+  Pt  Pt16  1  0.706024  0.250000  0.772670  1
+  Pt  Pt17  1  0.293976  0.750000  0.227330  1
+  N  N18  1  0.695895  0.979296  0.772776  1
+  N  N19  1  0.304105  0.479296  0.227224  1
+  N  N20  1  0.304105  0.020704  0.227224  1
+  N  N21  1  0.695895  0.520704  0.772776  1
+  Cl  Cl22  1  0.854771  0.250000  0.090667  1
+  Cl  Cl23  1  0.145229  0.750000  0.909333  1
+  Cl  Cl24  1  0.026804  0.250000  0.609156  1
+  Cl  Cl25  1  0.973196  0.750000  0.390844  1
+  O  O26  1  0.563028  0.250000  0.506195  1
+  O  O27  1  0.436972  0.750000  0.493805  1
+  O  O28  1  0.428242  0.250000  0.907637  1
+  O  O29  1  0.571758  0.750000  0.092363  1

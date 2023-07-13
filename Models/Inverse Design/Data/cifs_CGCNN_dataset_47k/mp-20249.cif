@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_MnCoP
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.45339023
+_cell_length_b   5.88194657
+_cell_length_c   6.67331114
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MnCoP
+_chemical_formula_sum   'Mn4 Co4 P4'
+_cell_volume   135.55267903
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mn  Mn0  1  0.750000  0.027921  0.667635  1
+  Mn  Mn1  1  0.250000  0.972079  0.332365  1
+  Mn  Mn2  1  0.750000  0.527921  0.832365  1
+  Mn  Mn3  1  0.250000  0.472079  0.167635  1
+  Co  Co4  1  0.250000  0.357680  0.565213  1
+  Co  Co5  1  0.750000  0.642320  0.434787  1
+  Co  Co6  1  0.250000  0.857680  0.934787  1
+  Co  Co7  1  0.750000  0.142320  0.065213  1
+  P  P8  1  0.250000  0.733794  0.625937  1
+  P  P9  1  0.750000  0.266206  0.374063  1
+  P  P10  1  0.250000  0.233794  0.874063  1
+  P  P11  1  0.750000  0.766206  0.125937  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_SmTiClO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.30972773
+_cell_length_b   5.30972773
+_cell_length_c   10.16217274
+_cell_angle_alpha   74.57740926
+_cell_angle_beta   105.42259074
+_cell_angle_gamma   136.04257407
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   SmTiClO3
+_chemical_formula_sum   'Sm2 Ti2 Cl2 O6'
+_cell_volume   190.51626164
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sm  Sm0  1  0.220159  0.779841  0.205717  1
+  Sm  Sm1  1  0.779841  0.220159  0.794283  1
+  Ti  Ti2  1  0.620344  0.379656  0.433785  1
+  Ti  Ti3  1  0.379656  0.620344  0.566215  1
+  Cl  Cl4  1  0.886543  0.113457  0.095488  1
+  Cl  Cl5  1  0.113457  0.886543  0.904512  1
+  O  O6  1  0.167728  0.832272  0.438560  1
+  O  O7  1  0.648812  0.351188  0.258841  1
+  O  O8  1  0.832272  0.167728  0.561440  1
+  O  O9  1  0.423438  0.576562  0.378660  1
+  O  O10  1  0.351188  0.648812  0.741159  1
+  O  O11  1  0.576562  0.423438  0.621340  1

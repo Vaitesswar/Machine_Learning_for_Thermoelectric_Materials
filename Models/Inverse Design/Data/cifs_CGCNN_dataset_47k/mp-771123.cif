@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_ScFeO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.84717906
+_cell_length_b   5.84717906
+_cell_length_c   11.58148645
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ScFeO3
+_chemical_formula_sum   'Sc6 Fe6 O18'
+_cell_volume   342.91597929
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sc  Sc0  1  0.333333  0.666667  0.234888  1
+  Sc  Sc1  1  0.000000  0.000000  0.276909  1
+  Sc  Sc2  1  0.000000  0.000000  0.776909  1
+  Sc  Sc3  1  0.333333  0.666667  0.734888  1
+  Sc  Sc4  1  0.666667  0.333333  0.734888  1
+  Sc  Sc5  1  0.666667  0.333333  0.234888  1
+  Fe  Fe6  1  0.000000  0.666120  0.502719  1
+  Fe  Fe7  1  0.000000  0.333880  0.002719  1
+  Fe  Fe8  1  0.333880  0.333880  0.502719  1
+  Fe  Fe9  1  0.666120  0.666120  0.002719  1
+  Fe  Fe10  1  0.333880  0.000000  0.002719  1
+  Fe  Fe11  1  0.666120  0.000000  0.502719  1
+  O  O12  1  0.000000  0.698671  0.673070  1
+  O  O13  1  0.000000  0.632500  0.336107  1
+  O  O14  1  0.000000  0.367500  0.836107  1
+  O  O15  1  0.000000  0.301329  0.173070  1
+  O  O16  1  0.333333  0.666667  0.030294  1
+  O  O17  1  0.000000  0.000000  0.471852  1
+  O  O18  1  0.000000  0.000000  0.971852  1
+  O  O19  1  0.333333  0.666667  0.530294  1
+  O  O20  1  0.301329  0.301329  0.673070  1
+  O  O21  1  0.367500  0.367500  0.336107  1
+  O  O22  1  0.301329  0.000000  0.173070  1
+  O  O23  1  0.632500  0.632500  0.836107  1
+  O  O24  1  0.698671  0.698671  0.173070  1
+  O  O25  1  0.367500  0.000000  0.836107  1
+  O  O26  1  0.666667  0.333333  0.530294  1
+  O  O27  1  0.666667  0.333333  0.030294  1
+  O  O28  1  0.632500  0.000000  0.336107  1
+  O  O29  1  0.698671  0.000000  0.673070  1

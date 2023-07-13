@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Na2CdO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.81053665
+_cell_length_b   5.81053665
+_cell_length_c   5.80900246
+_cell_angle_alpha   80.26601009
+_cell_angle_beta   99.73398991
+_cell_angle_gamma   60.11658619
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Na2CdO3
+_chemical_formula_sum   'Na4 Cd2 O6'
+_cell_volume   160.06805606
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.000000  0.000000  0.500000  1
+  Na  Na1  1  0.338416  0.338416  0.500000  1
+  Na  Na2  1  0.661584  0.661584  0.500000  1
+  Na  Na3  1  0.500000  0.500000  0.000000  1
+  Cd  Cd4  1  0.166344  0.166344  0.000000  1
+  Cd  Cd5  1  0.833656  0.833656  0.000000  1
+  O  O6  1  0.576378  0.067200  0.226683  1
+  O  O7  1  0.423622  0.932800  0.773317  1
+  O  O8  1  0.777766  0.222234  0.769201  1
+  O  O9  1  0.932800  0.423622  0.226683  1
+  O  O10  1  0.067200  0.576378  0.773317  1
+  O  O11  1  0.222234  0.777766  0.230799  1

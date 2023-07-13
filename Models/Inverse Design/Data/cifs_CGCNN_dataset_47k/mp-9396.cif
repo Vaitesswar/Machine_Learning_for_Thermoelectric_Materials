@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfTlCuS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.43886908
+_cell_length_b   7.43886908
+_cell_length_c   9.75999714
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   151.11242066
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfTlCuS3
+_chemical_formula_sum   'Hf2 Tl2 Cu2 S6'
+_cell_volume   260.91190463
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.000000  0.000000  0.500000  1
+  Hf  Hf1  1  0.000000  0.000000  0.000000  1
+  Tl  Tl2  1  0.744347  0.255653  0.250000  1
+  Tl  Tl3  1  0.255653  0.744347  0.750000  1
+  Cu  Cu4  1  0.538135  0.461865  0.750000  1
+  Cu  Cu5  1  0.461865  0.538135  0.250000  1
+  S  S6  1  0.619680  0.380320  0.548367  1
+  S  S7  1  0.380320  0.619680  0.451633  1
+  S  S8  1  0.380320  0.619680  0.048367  1
+  S  S9  1  0.939421  0.060579  0.750000  1
+  S  S10  1  0.060579  0.939421  0.250000  1
+  S  S11  1  0.619680  0.380320  0.951633  1

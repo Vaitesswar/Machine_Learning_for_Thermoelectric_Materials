@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_Li4CuF5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.19892554
+_cell_length_b   5.19892554
+_cell_length_c   5.19892554
+_cell_angle_alpha   98.91686618
+_cell_angle_beta   98.91686618
+_cell_angle_gamma   133.62991797
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li4CuF5
+_chemical_formula_sum   'Li4 Cu1 F5'
+_cell_volume   93.49629830
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.192609  0.392848  0.585457  1
+  Li  Li1  1  0.607152  0.192609  0.799761  1
+  Li  Li2  1  0.392848  0.807391  0.200239  1
+  Li  Li3  1  0.807391  0.607152  0.414543  1
+  Cu  Cu4  1  0.000000  0.000000  0.000000  1
+  F  F5  1  0.117573  0.677699  0.795272  1
+  F  F6  1  0.500000  0.500000  0.000000  1
+  F  F7  1  0.322301  0.117573  0.439873  1
+  F  F8  1  0.677699  0.882427  0.560127  1
+  F  F9  1  0.882427  0.322301  0.204728  1

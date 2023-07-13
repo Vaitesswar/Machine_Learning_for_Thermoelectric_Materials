@@ -1,0 +1,47 @@
+# generated using pymatgen
+data_NiH12(ClO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.25196602
+_cell_length_b   6.25196602
+_cell_length_c   6.66276118
+_cell_angle_alpha   63.80929712
+_cell_angle_beta   116.19070288
+_cell_angle_gamma   111.22951835
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NiH12(ClO3)2
+_chemical_formula_sum   'Ni1 H12 Cl2 O6'
+_cell_volume   205.12023533
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ni  Ni0  1  0.000000  0.000000  0.000000  1
+  H  H1  1  0.735262  0.264738  0.167342  1
+  H  H2  1  0.264738  0.735262  0.832658  1
+  H  H3  1  0.816042  0.183958  0.449032  1
+  H  H4  1  0.183958  0.816042  0.550968  1
+  H  H5  1  0.672959  0.788806  0.223399  1
+  H  H6  1  0.788806  0.672959  0.776601  1
+  H  H7  1  0.327041  0.211194  0.776601  1
+  H  H8  1  0.211194  0.327041  0.223399  1
+  H  H9  1  0.414720  0.199029  0.275343  1
+  H  H10  1  0.800971  0.585280  0.275343  1
+  H  H11  1  0.199029  0.414720  0.724657  1
+  H  H12  1  0.585280  0.800971  0.724657  1
+  Cl  Cl13  1  0.725312  0.274688  0.841854  1
+  Cl  Cl14  1  0.274688  0.725312  0.158146  1
+  O  O15  1  0.715885  0.284115  0.298366  1
+  O  O16  1  0.284115  0.715885  0.701634  1
+  O  O17  1  0.238091  0.167947  0.252885  1
+  O  O18  1  0.167947  0.238091  0.747115  1
+  O  O19  1  0.832053  0.761909  0.252885  1
+  O  O20  1  0.761909  0.832053  0.747115  1

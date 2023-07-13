@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_La3Co2Sn7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   14.07998564
+_cell_length_b   14.07998564
+_cell_length_c   4.64499995
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   161.00069883
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3Co2Sn7
+_chemical_formula_sum   'La3 Co2 Sn7'
+_cell_volume   299.78967466
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.500000  0.500000  0.500000  1
+  La  La1  1  0.815441  0.184559  1.000000  1
+  La  La2  1  0.184559  0.815441  0.000000  1
+  Co  Co3  1  0.372729  0.627271  0.500000  1
+  Co  Co4  1  0.627271  0.372729  0.500000  1
+  Sn  Sn5  1  0.282628  0.717372  0.500000  1
+  Sn  Sn6  1  0.717372  0.282628  0.500000  1
+  Sn  Sn7  1  0.409853  0.590147  0.000000  1
+  Sn  Sn8  1  0.000000  0.000000  0.000000  1
+  Sn  Sn9  1  0.590147  0.409853  1.000000  1
+  Sn  Sn10  1  0.090318  0.909682  0.500000  1
+  Sn  Sn11  1  0.909682  0.090318  0.500000  1

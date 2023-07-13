@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Li7Ti3(SiO6)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.91482329
+_cell_length_b   4.91482329
+_cell_length_c   9.93841683
+_cell_angle_alpha   85.27159671
+_cell_angle_beta   94.72840329
+_cell_angle_gamma   59.99778641
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Li7Ti3(SiO6)2
+_chemical_formula_sum   'Li7 Ti3 Si2 O12'
+_cell_volume   205.05468346
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.752976  0.247024  0.241754  1
+  Li  Li1  1  0.000000  0.000000  0.000000  1
+  Li  Li2  1  0.919424  0.408260  0.758162  1
+  Li  Li3  1  0.408260  0.919424  0.241838  1
+  Li  Li4  1  0.247024  0.752976  0.758246  1
+  Li  Li5  1  0.591740  0.080576  0.758162  1
+  Li  Li6  1  0.080576  0.591740  0.241838  1
+  Ti  Ti7  1  0.500000  0.500000  0.500000  1
+  Ti  Ti8  1  0.833736  0.833736  0.500000  1
+  Ti  Ti9  1  0.166264  0.166264  0.500000  1
+  Si  Si10  1  0.666678  0.666678  0.000000  1
+  Si  Si11  1  0.333322  0.333322  0.000000  1
+  O  O12  1  0.874726  0.125274  0.626320  1
+  O  O13  1  0.033935  0.339395  0.101840  1
+  O  O14  1  0.792252  0.541685  0.376724  1
+  O  O15  1  0.592682  0.407318  0.898168  1
+  O  O16  1  0.541685  0.792252  0.623276  1
+  O  O17  1  0.966065  0.660605  0.898160  1
+  O  O18  1  0.407318  0.592682  0.101832  1
+  O  O19  1  0.125274  0.874726  0.373680  1
+  O  O20  1  0.660605  0.966065  0.101840  1
+  O  O21  1  0.458315  0.207748  0.376724  1
+  O  O22  1  0.339395  0.033935  0.898160  1
+  O  O23  1  0.207748  0.458315  0.623276  1

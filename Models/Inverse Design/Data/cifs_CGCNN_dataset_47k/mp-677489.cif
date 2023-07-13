@@ -1,0 +1,44 @@
+# generated using pymatgen
+data_CsTiCuOF5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   7.45688872
+_cell_length_b   7.45688872
+_cell_length_c   7.45688872
+_cell_angle_alpha   121.51748411
+_cell_angle_beta   121.44323215
+_cell_angle_gamma   87.45452810
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CsTiCuOF5
+_chemical_formula_sum   'Cs2 Ti2 Cu2 O2 F10'
+_cell_volume   286.32828346
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cs  Cs0  1  0.873022  0.123022  0.750000  1
+  Cs  Cs1  1  0.126978  0.876978  0.250000  1
+  Ti  Ti2  1  0.500000  0.500000  0.500000  1
+  Ti  Ti3  1  0.500000  0.000000  0.000000  1
+  Cu  Cu4  1  0.000000  0.500000  0.500000  1
+  Cu  Cu5  1  0.500000  0.500000  0.000000  1
+  O  O6  1  0.458170  0.208170  0.250000  1
+  O  O7  1  0.541830  0.791830  0.750000  1
+  F  F8  1  0.185330  0.834121  0.766962  1
+  F  F9  1  0.185784  0.435784  0.750000  1
+  F  F10  1  0.567159  0.834121  0.148791  1
+  F  F11  1  0.185330  0.418368  0.351209  1
+  F  F12  1  0.432841  0.581632  0.266962  1
+  F  F13  1  0.567159  0.418368  0.733038  1
+  F  F14  1  0.432841  0.165879  0.851209  1
+  F  F15  1  0.814670  0.581632  0.648791  1
+  F  F16  1  0.814670  0.165879  0.233038  1
+  F  F17  1  0.814216  0.564216  0.250000  1

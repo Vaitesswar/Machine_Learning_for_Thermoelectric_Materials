@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_BaPb3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.75840294
+_cell_length_b   9.75840294
+_cell_length_c   9.75840294
+_cell_angle_alpha   44.81707400
+_cell_angle_beta   44.81707400
+_cell_angle_gamma   44.81707400
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaPb3
+_chemical_formula_sum   'Ba3 Pb9'
+_cell_volume   420.03305571
+_cell_formula_units_Z   3
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.217377  0.217377  0.217377  1
+  Ba  Ba1  1  0.782623  0.782623  0.782623  1
+  Ba  Ba2  1  0.000000  0.000000  0.000000  1
+  Pb  Pb3  1  0.702113  0.702113  0.265779  1
+  Pb  Pb4  1  0.265779  0.702113  0.702113  1
+  Pb  Pb5  1  0.702113  0.265779  0.702113  1
+  Pb  Pb6  1  0.500000  0.000000  0.500000  1
+  Pb  Pb7  1  0.500000  0.500000  0.000000  1
+  Pb  Pb8  1  1.000000  0.500000  0.500000  1
+  Pb  Pb9  1  0.297887  0.297887  0.734221  1
+  Pb  Pb10  1  0.297887  0.734221  0.297887  1
+  Pb  Pb11  1  0.734221  0.297887  0.297887  1

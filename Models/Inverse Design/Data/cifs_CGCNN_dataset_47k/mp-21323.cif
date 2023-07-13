@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_DyGeIr
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.33114005
+_cell_length_b   6.90703207
+_cell_length_c   7.61652863
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   DyGeIr
+_chemical_formula_sum   'Dy4 Ge4 Ir4'
+_cell_volume   227.85091582
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Dy  Dy0  1  0.750000  0.497054  0.807696  1
+  Dy  Dy1  1  0.250000  0.002946  0.307696  1
+  Dy  Dy2  1  0.750000  0.997054  0.692304  1
+  Dy  Dy3  1  0.250000  0.502946  0.192304  1
+  Ge  Ge4  1  0.250000  0.792188  0.890785  1
+  Ge  Ge5  1  0.250000  0.292188  0.609215  1
+  Ge  Ge6  1  0.750000  0.207812  0.109215  1
+  Ge  Ge7  1  0.750000  0.707812  0.390785  1
+  Ir  Ir8  1  0.250000  0.661163  0.566483  1
+  Ir  Ir9  1  0.250000  0.161163  0.933517  1
+  Ir  Ir10  1  0.750000  0.838837  0.066483  1
+  Ir  Ir11  1  0.750000  0.338837  0.433517  1

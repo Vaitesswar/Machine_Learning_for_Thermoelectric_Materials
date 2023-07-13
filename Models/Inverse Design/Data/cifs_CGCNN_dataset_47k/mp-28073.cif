@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_UCuO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.51773240
+_cell_length_b   5.02529706
+_cell_length_c   6.27100119
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   111.72756249
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   UCuO4
+_chemical_formula_sum   'U2 Cu2 O8'
+_cell_volume   161.53020498
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  U  U0  1  0.000000  0.000000  0.000000  1
+  U  U1  1  0.000000  0.500000  0.500000  1
+  Cu  Cu2  1  0.500000  0.000000  0.500000  1
+  Cu  Cu3  1  0.500000  0.500000  0.000000  1
+  O  O4  1  0.688835  0.790454  0.926694  1
+  O  O5  1  0.311165  0.290454  0.573306  1
+  O  O6  1  0.311165  0.209546  0.073306  1
+  O  O7  1  0.688835  0.709546  0.426694  1
+  O  O8  1  0.831378  0.182995  0.663703  1
+  O  O9  1  0.168622  0.682995  0.836297  1
+  O  O10  1  0.168622  0.817005  0.336297  1
+  O  O11  1  0.831378  0.317005  0.163703  1

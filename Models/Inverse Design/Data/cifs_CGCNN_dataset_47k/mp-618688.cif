@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_Ba2CoSi2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.92490528
+_cell_length_b   6.92490528
+_cell_length_c   8.56900430
+_cell_angle_alpha   77.06383941
+_cell_angle_beta   102.93616059
+_cell_angle_gamma   76.30959322
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Ba2CoSi2O7
+_chemical_formula_sum   'Ba4 Co2 Si4 O14'
+_cell_volume   372.11159360
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.813652  0.268271  0.025863  1
+  Ba  Ba1  1  0.186348  0.731729  0.974137  1
+  Ba  Ba2  1  0.268271  0.813652  0.474137  1
+  Ba  Ba3  1  0.731729  0.186348  0.525863  1
+  Co  Co4  1  0.257387  0.257387  0.750000  1
+  Co  Co5  1  0.742613  0.742613  0.250000  1
+  Si  Si6  1  0.605603  0.832176  0.862212  1
+  Si  Si7  1  0.394397  0.167824  0.137788  1
+  Si  Si8  1  0.832176  0.605603  0.637788  1
+  Si  Si9  1  0.167824  0.394397  0.362212  1
+  O  O10  1  0.675602  0.621330  0.456456  1
+  O  O11  1  0.621330  0.675602  0.043544  1
+  O  O12  1  0.976676  0.758871  0.633158  1
+  O  O13  1  0.758871  0.976676  0.866842  1
+  O  O14  1  0.957003  0.357816  0.735479  1
+  O  O15  1  0.324398  0.378670  0.543544  1
+  O  O16  1  0.241129  0.023324  0.133158  1
+  O  O17  1  0.333442  0.333442  0.250000  1
+  O  O18  1  0.666558  0.666558  0.750000  1
+  O  O19  1  0.042997  0.642184  0.264521  1
+  O  O20  1  0.023324  0.241129  0.366842  1
+  O  O21  1  0.378670  0.324398  0.956456  1
+  O  O22  1  0.357816  0.957003  0.764521  1
+  O  O23  1  0.642184  0.042997  0.235479  1

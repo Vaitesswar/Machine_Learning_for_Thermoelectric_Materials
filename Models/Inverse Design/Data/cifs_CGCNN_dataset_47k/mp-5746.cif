@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_MgTe2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.04403610
+_cell_length_b   7.39787069
+_cell_length_c   10.83451833
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   MgTe2O5
+_chemical_formula_sum   'Mg4 Te8 O20'
+_cell_volume   484.44379115
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Mg  Mg0  1  0.250000  0.000000  0.441152  1
+  Mg  Mg1  1  0.750000  0.500000  0.058848  1
+  Mg  Mg2  1  0.750000  0.000000  0.558848  1
+  Mg  Mg3  1  0.250000  0.500000  0.941152  1
+  Te  Te4  1  0.489468  0.863093  0.153523  1
+  Te  Te5  1  0.989468  0.636907  0.346477  1
+  Te  Te6  1  0.510532  0.363093  0.346477  1
+  Te  Te7  1  0.010532  0.136907  0.153523  1
+  Te  Te8  1  0.989468  0.863093  0.846477  1
+  Te  Te9  1  0.489468  0.636907  0.653523  1
+  Te  Te10  1  0.010532  0.363093  0.653523  1
+  Te  Te11  1  0.510532  0.136907  0.846477  1
+  O  O12  1  0.250000  0.500000  0.560103  1
+  O  O13  1  0.750000  0.000000  0.939897  1
+  O  O14  1  0.750000  0.500000  0.439897  1
+  O  O15  1  0.250000  0.000000  0.060103  1
+  O  O16  1  0.550737  0.353374  0.934932  1
+  O  O17  1  0.050737  0.146626  0.565068  1
+  O  O18  1  0.449263  0.853374  0.565068  1
+  O  O19  1  0.949263  0.646626  0.934932  1
+  O  O20  1  0.449263  0.646626  0.065068  1
+  O  O21  1  0.949263  0.853374  0.434932  1
+  O  O22  1  0.550737  0.146626  0.434932  1
+  O  O23  1  0.050737  0.353374  0.065068  1
+  O  O24  1  0.186432  0.191301  0.294036  1
+  O  O25  1  0.686432  0.308699  0.205964  1
+  O  O26  1  0.813568  0.691301  0.205964  1
+  O  O27  1  0.313568  0.808699  0.294036  1
+  O  O28  1  0.813568  0.808699  0.705964  1
+  O  O29  1  0.313568  0.691301  0.794036  1
+  O  O30  1  0.186432  0.308699  0.794036  1
+  O  O31  1  0.686432  0.191301  0.705964  1

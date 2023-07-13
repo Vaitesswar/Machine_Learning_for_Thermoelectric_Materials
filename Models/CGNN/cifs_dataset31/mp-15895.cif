@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_Cu2SiS3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.42513224
+_cell_length_b   6.42513224
+_cell_length_c   6.33687174
+_cell_angle_alpha   81.04735908
+_cell_angle_beta   98.95264092
+_cell_angle_gamma   59.21502215
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Cu2SiS3
+_chemical_formula_sum   'Cu4 Si2 S6'
+_cell_volume   213.30002638
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.248216  0.241619  0.997419  1
+  Cu  Cu1  1  0.758381  0.751784  0.497419  1
+  Cu  Cu2  1  0.413098  0.411818  0.499161  1
+  Cu  Cu3  1  0.588182  0.586902  0.999161  1
+  Si  Si4  1  0.939944  0.890918  0.020587  1
+  Si  Si5  1  0.109082  0.060056  0.520587  1
+  S  S6  1  0.646683  0.876089  0.118156  1
+  S  S7  1  0.123911  0.353317  0.618156  1
+  S  S8  1  0.813444  0.034855  0.644947  1
+  S  S9  1  0.965145  0.186556  0.144947  1
+  S  S10  1  0.290513  0.540799  0.117031  1
+  S  S11  1  0.459201  0.709487  0.617031  1

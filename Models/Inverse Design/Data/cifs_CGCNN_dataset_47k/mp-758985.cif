@@ -1,0 +1,58 @@
+# generated using pymatgen
+data_RbTiPS5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.96464019
+_cell_length_b   9.96464019
+_cell_length_c   16.08908693
+_cell_angle_alpha   59.35092469
+_cell_angle_beta   120.64907531
+_cell_angle_gamma   137.84696738
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   RbTiPS5
+_chemical_formula_sum   'Rb4 Ti4 P4 S20'
+_cell_volume   897.99190274
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Rb  Rb0  1  0.336356  0.663644  0.137187  1
+  Rb  Rb1  1  0.298170  0.701830  0.642469  1
+  Rb  Rb2  1  0.701830  0.298170  0.357531  1
+  Rb  Rb3  1  0.663644  0.336356  0.862813  1
+  Ti  Ti4  1  0.724633  0.724633  0.000000  1
+  Ti  Ti5  1  0.275367  0.275367  0.000000  1
+  Ti  Ti6  1  0.780191  0.780191  0.500000  1
+  Ti  Ti7  1  0.219809  0.219809  0.500000  1
+  P  P8  1  0.667064  0.332936  0.594856  1
+  P  P9  1  0.924646  0.075354  0.098215  1
+  P  P10  1  0.075354  0.924646  0.901785  1
+  P  P11  1  0.332936  0.667064  0.405144  1
+  S  S12  1  0.828369  0.171631  0.116773  1
+  S  S13  1  0.877265  0.591410  0.653005  1
+  S  S14  1  0.408590  0.122735  0.653005  1
+  S  S15  1  0.023476  0.976524  0.414689  1
+  S  S16  1  0.559939  0.440061  0.448035  1
+  S  S17  1  0.890728  0.109272  0.950360  1
+  S  S18  1  0.769662  0.764666  0.152524  1
+  S  S19  1  0.235334  0.230338  0.152524  1
+  S  S20  1  0.393959  0.606041  0.912947  1
+  S  S21  1  0.779923  0.220077  0.610155  1
+  S  S22  1  0.220077  0.779923  0.389845  1
+  S  S23  1  0.606041  0.393959  0.087053  1
+  S  S24  1  0.230338  0.235334  0.847476  1
+  S  S25  1  0.764666  0.769662  0.847476  1
+  S  S26  1  0.109272  0.890728  0.049640  1
+  S  S27  1  0.440061  0.559939  0.551965  1
+  S  S28  1  0.976524  0.023476  0.585311  1
+  S  S29  1  0.591410  0.877265  0.346995  1
+  S  S30  1  0.122735  0.408590  0.346995  1
+  S  S31  1  0.171631  0.828369  0.883227  1

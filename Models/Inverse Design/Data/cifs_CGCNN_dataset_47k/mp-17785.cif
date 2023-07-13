@@ -1,0 +1,54 @@
+# generated using pymatgen
+data_KNa2GaO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.24559778
+_cell_length_b   6.56647384
+_cell_length_c   10.34757099
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   KNa2GaO3
+_chemical_formula_sum   'K4 Na8 Ga4 O12'
+_cell_volume   424.36997095
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.750000  0.159536  0.525894  1
+  K  K1  1  0.250000  0.340464  0.025894  1
+  K  K2  1  0.250000  0.840464  0.474106  1
+  K  K3  1  0.750000  0.659536  0.974106  1
+  Na  Na4  1  0.493338  0.492468  0.730941  1
+  Na  Na5  1  0.506662  0.007532  0.230941  1
+  Na  Na6  1  0.493338  0.992468  0.769059  1
+  Na  Na7  1  0.006662  0.492468  0.730941  1
+  Na  Na8  1  0.506662  0.507532  0.269059  1
+  Na  Na9  1  0.993338  0.507532  0.269059  1
+  Na  Na10  1  0.993338  0.007532  0.230941  1
+  Na  Na11  1  0.006662  0.992468  0.769059  1
+  Ga  Ga12  1  0.250000  0.330110  0.492049  1
+  Ga  Ga13  1  0.250000  0.830110  0.007951  1
+  Ga  Ga14  1  0.750000  0.169890  0.992049  1
+  Ga  Ga15  1  0.750000  0.669890  0.507951  1
+  O  O16  1  0.250000  0.213640  0.329891  1
+  O  O17  1  0.500000  0.000000  0.000000  1
+  O  O18  1  0.000000  0.000000  0.000000  1
+  O  O19  1  0.250000  0.674806  0.859242  1
+  O  O20  1  0.750000  0.325194  0.140758  1
+  O  O21  1  0.250000  0.174806  0.640758  1
+  O  O22  1  0.750000  0.825194  0.359242  1
+  O  O23  1  0.750000  0.286360  0.829891  1
+  O  O24  1  0.000000  0.500000  0.500000  1
+  O  O25  1  0.500000  0.500000  0.500000  1
+  O  O26  1  0.750000  0.786360  0.670109  1
+  O  O27  1  0.250000  0.713640  0.170109  1

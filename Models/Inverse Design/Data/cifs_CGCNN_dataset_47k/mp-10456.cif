@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_HfSiPt
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   3.90850381
+_cell_length_b   6.59483400
+_cell_length_c   7.57696669
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   HfSiPt
+_chemical_formula_sum   'Hf4 Si4 Pt4'
+_cell_volume   195.30339192
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Hf  Hf0  1  0.750000  0.474331  0.322885  1
+  Hf  Hf1  1  0.250000  0.025669  0.822885  1
+  Hf  Hf2  1  0.750000  0.974331  0.177115  1
+  Hf  Hf3  1  0.250000  0.525669  0.677115  1
+  Si  Si4  1  0.250000  0.260418  0.122458  1
+  Si  Si5  1  0.250000  0.760418  0.377542  1
+  Si  Si6  1  0.750000  0.739582  0.877542  1
+  Si  Si7  1  0.750000  0.239582  0.622458  1
+  Pt  Pt8  1  0.250000  0.645719  0.065523  1
+  Pt  Pt9  1  0.250000  0.145719  0.434477  1
+  Pt  Pt10  1  0.750000  0.854281  0.565523  1
+  Pt  Pt11  1  0.750000  0.354281  0.934477  1

@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_GdPaO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.63930813
+_cell_length_b   6.63930813
+_cell_length_c   6.63930813
+_cell_angle_alpha   131.59786609
+_cell_angle_beta   131.59786609
+_cell_angle_gamma   70.86490003
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   GdPaO4
+_chemical_formula_sum   'Gd2 Pa2 O8'
+_cell_volume   160.29497106
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Gd  Gd0  1  0.500000  0.500000  0.000000  1
+  Gd  Gd1  1  0.250000  0.750000  0.500000  1
+  Pa  Pa2  1  0.000000  0.000000  0.000000  1
+  Pa  Pa3  1  0.750000  0.250000  0.500000  1
+  O  O4  1  0.875000  0.360747  0.985747  1
+  O  O5  1  0.639253  0.125000  0.014253  1
+  O  O6  1  0.375000  0.360747  0.485747  1
+  O  O7  1  0.110747  0.625000  0.985747  1
+  O  O8  1  0.375000  0.889253  0.014253  1
+  O  O9  1  0.875000  0.889253  0.514253  1
+  O  O10  1  0.110747  0.125000  0.485747  1
+  O  O11  1  0.639253  0.625000  0.514253  1

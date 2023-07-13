@@ -1,0 +1,39 @@
+# generated using pymatgen
+data_La3Cu4(P2O)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   13.75078570
+_cell_length_b   13.75078570
+_cell_length_c   13.75078570
+_cell_angle_alpha   163.06464916
+_cell_angle_beta   163.06464916
+_cell_angle_gamma   24.03904291
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   La3Cu4(P2O)2
+_chemical_formula_sum   'La3 Cu4 P4 O2'
+_cell_volume   220.56388241
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  La  La0  1  0.295963  0.295963  0.000000  1
+  La  La1  1  0.704037  0.704037  0.000000  1
+  La  La2  1  0.000000  0.000000  0.000000  1
+  Cu  Cu3  1  0.906131  0.406131  0.500000  1
+  Cu  Cu4  1  0.593869  0.093869  0.500000  1
+  Cu  Cu5  1  0.093869  0.593869  0.500000  1
+  Cu  Cu6  1  0.406131  0.906131  0.500000  1
+  P  P7  1  0.457975  0.457975  0.000000  1
+  P  P8  1  0.138096  0.138096  0.000000  1
+  P  P9  1  0.861904  0.861904  0.000000  1
+  P  P10  1  0.542025  0.542025  0.000000  1
+  O  O11  1  0.250000  0.750000  0.500000  1
+  O  O12  1  0.750000  0.250000  0.500000  1

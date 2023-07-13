@@ -1,0 +1,52 @@
+# generated using pymatgen
+data_Sr2CoSe2(ClO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.42450193
+_cell_length_b   6.51151472
+_cell_length_c   13.42092479
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   110.91617871
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Sr2CoSe2(ClO3)2
+_chemical_formula_sum   'Sr4 Co2 Se4 Cl4 O12'
+_cell_volume   442.81205110
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Sr  Sr0  1  0.221428  0.299229  0.234243  1
+  Sr  Sr1  1  0.778572  0.700771  0.765757  1
+  Sr  Sr2  1  0.778572  0.799229  0.265757  1
+  Sr  Sr3  1  0.221428  0.200771  0.734243  1
+  Co  Co4  1  0.500000  0.000000  0.500000  1
+  Co  Co5  1  0.500000  0.500000  0.000000  1
+  Se  Se6  1  0.080217  0.762511  0.075041  1
+  Se  Se7  1  0.080217  0.737489  0.575041  1
+  Se  Se8  1  0.919783  0.262511  0.424959  1
+  Se  Se9  1  0.919783  0.237489  0.924959  1
+  Cl  Cl10  1  0.440166  0.826421  0.894344  1
+  Cl  Cl11  1  0.440166  0.673579  0.394344  1
+  Cl  Cl12  1  0.559834  0.173579  0.105656  1
+  Cl  Cl13  1  0.559834  0.326421  0.605656  1
+  O  O14  1  0.624257  0.376240  0.879469  1
+  O  O15  1  0.881156  0.427775  0.322044  1
+  O  O16  1  0.375743  0.623760  0.120531  1
+  O  O17  1  0.375743  0.876240  0.620531  1
+  O  O18  1  0.882620  0.922774  0.605529  1
+  O  O19  1  0.117380  0.422774  0.894471  1
+  O  O20  1  0.118844  0.572225  0.677956  1
+  O  O21  1  0.117380  0.077226  0.394471  1
+  O  O22  1  0.881156  0.072225  0.822044  1
+  O  O23  1  0.624257  0.123760  0.379469  1
+  O  O24  1  0.882620  0.577226  0.105529  1
+  O  O25  1  0.118844  0.927775  0.177956  1

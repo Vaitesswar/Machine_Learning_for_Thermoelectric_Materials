@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_ZrCrO4
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.75513780
+_cell_length_b   4.93525248
+_cell_length_c   11.84144835
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   ZrCrO4
+_chemical_formula_sum   'Zr4 Cr4 O16'
+_cell_volume   277.89280793
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Zr  Zr0  1  0.000000  0.250000  0.671487  1
+  Zr  Zr1  1  0.000000  0.750000  0.328513  1
+  Zr  Zr2  1  0.500000  0.250000  0.171487  1
+  Zr  Zr3  1  0.500000  0.750000  0.828513  1
+  Cr  Cr4  1  0.000000  0.250000  0.933724  1
+  Cr  Cr5  1  0.000000  0.750000  0.066276  1
+  Cr  Cr6  1  0.500000  0.750000  0.566276  1
+  Cr  Cr7  1  0.500000  0.250000  0.433724  1
+  O  O8  1  0.778753  0.089677  0.815883  1
+  O  O9  1  0.778753  0.589677  0.184117  1
+  O  O10  1  0.723958  0.068236  0.554810  1
+  O  O11  1  0.723958  0.568236  0.445190  1
+  O  O12  1  0.776042  0.568236  0.945190  1
+  O  O13  1  0.776042  0.068236  0.054810  1
+  O  O14  1  0.721247  0.589677  0.684117  1
+  O  O15  1  0.721247  0.089677  0.315883  1
+  O  O16  1  0.278753  0.910323  0.684117  1
+  O  O17  1  0.278753  0.410323  0.315883  1
+  O  O18  1  0.223958  0.931764  0.945190  1
+  O  O19  1  0.223958  0.431764  0.054810  1
+  O  O20  1  0.276042  0.431764  0.554810  1
+  O  O21  1  0.276042  0.931764  0.445190  1
+  O  O22  1  0.221247  0.910323  0.184117  1
+  O  O23  1  0.221247  0.410323  0.815883  1

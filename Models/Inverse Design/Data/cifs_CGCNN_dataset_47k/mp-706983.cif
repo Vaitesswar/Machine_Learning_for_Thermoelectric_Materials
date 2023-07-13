@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_K3HPtS2(ClO3)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.32406715
+_cell_length_b   9.32406715
+_cell_length_c   7.14976815
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   110.30669795
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   K3HPtS2(ClO3)2
+_chemical_formula_sum   'K6 H2 Pt2 S4 Cl4 O12'
+_cell_volume   582.95545688
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  K  K0  1  0.420090  0.859939  0.101002  1
+  K  K1  1  0.859939  0.420090  0.101002  1
+  K  K2  1  0.579910  0.140061  0.601002  1
+  K  K3  1  0.140061  0.579910  0.601002  1
+  K  K4  1  0.876528  0.876528  0.282582  1
+  K  K5  1  0.123472  0.123472  0.782582  1
+  H  H6  1  0.515164  0.515164  0.533465  1
+  H  H7  1  0.484836  0.484836  0.033465  1
+  Pt  Pt8  1  0.754915  0.754915  0.749467  1
+  Pt  Pt9  1  0.245085  0.245085  0.249467  1
+  S  S10  1  0.543055  0.761449  0.598069  1
+  S  S11  1  0.761449  0.543055  0.598068  1
+  S  S12  1  0.456945  0.238551  0.098069  1
+  S  S13  1  0.238551  0.456945  0.098069  1
+  Cl  Cl14  1  0.770958  0.989758  0.904101  1
+  Cl  Cl15  1  0.989758  0.770958  0.904101  1
+  Cl  Cl16  1  0.229042  0.010242  0.404101  1
+  Cl  Cl17  1  0.010242  0.229042  0.404101  1
+  O  O18  1  0.442764  0.820131  0.711522  1
+  O  O19  1  0.820131  0.442764  0.711522  1
+  O  O20  1  0.557236  0.179869  0.211521  1
+  O  O21  1  0.179869  0.557236  0.211521  1
+  O  O22  1  0.596291  0.858216  0.427578  1
+  O  O23  1  0.858216  0.596291  0.427578  1
+  O  O24  1  0.403709  0.141784  0.927578  1
+  O  O25  1  0.141784  0.403709  0.927578  1
+  O  O26  1  0.442285  0.599192  0.536122  1
+  O  O27  1  0.599192  0.442285  0.536122  1
+  O  O28  1  0.557715  0.400808  0.036122  1
+  O  O29  1  0.400808  0.557715  0.036122  1

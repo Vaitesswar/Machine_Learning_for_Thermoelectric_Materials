@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_TiAl2O5
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.06213842
+_cell_length_b   5.06213842
+_cell_length_c   9.77663716
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   138.10632980
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAl2O5
+_chemical_formula_sum   'Ti2 Al4 O10'
+_cell_volume   167.29063814
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.817255  0.182745  0.750000  1
+  Ti  Ti1  1  0.182745  0.817255  0.250000  1
+  Al  Al2  1  0.859237  0.140764  0.444368  1
+  Al  Al3  1  0.140764  0.859236  0.555632  1
+  Al  Al4  1  0.859237  0.140764  0.055632  1
+  Al  Al5  1  0.140764  0.859236  0.944368  1
+  O  O6  1  0.688081  0.311919  0.566516  1
+  O  O7  1  0.311919  0.688081  0.433484  1
+  O  O8  1  0.311919  0.688081  0.066516  1
+  O  O9  1  0.688081  0.311919  0.933484  1
+  O  O10  1  0.956015  0.043985  0.616987  1
+  O  O11  1  0.043985  0.956015  0.383013  1
+  O  O12  1  0.236555  0.763445  0.750000  1
+  O  O13  1  0.763445  0.236555  0.250000  1
+  O  O14  1  0.956015  0.043985  0.883013  1
+  O  O15  1  0.043985  0.956015  0.116987  1

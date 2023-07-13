@@ -1,0 +1,38 @@
+# generated using pymatgen
+data_CaMgSn
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.72007011
+_cell_length_b   7.88123335
+_cell_length_c   8.81831455
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CaMgSn
+_chemical_formula_sum   'Ca4 Mg4 Sn4'
+_cell_volume   328.04107168
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ca  Ca0  1  0.750000  0.480804  0.684096  1
+  Ca  Ca1  1  0.750000  0.980804  0.815904  1
+  Ca  Ca2  1  0.250000  0.519196  0.315904  1
+  Ca  Ca3  1  0.250000  0.019196  0.184096  1
+  Mg  Mg4  1  0.750000  0.855643  0.436731  1
+  Mg  Mg5  1  0.250000  0.144357  0.563269  1
+  Mg  Mg6  1  0.250000  0.644357  0.936731  1
+  Mg  Mg7  1  0.750000  0.355643  0.063269  1
+  Sn  Sn8  1  0.750000  0.735039  0.115522  1
+  Sn  Sn9  1  0.250000  0.264961  0.884478  1
+  Sn  Sn10  1  0.750000  0.235039  0.384478  1
+  Sn  Sn11  1  0.250000  0.764961  0.615522  1

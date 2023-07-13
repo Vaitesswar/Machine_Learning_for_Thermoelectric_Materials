@@ -1,0 +1,56 @@
+# generated using pymatgen
+data_BaMnO3
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   10.05463217
+_cell_length_b   10.05463217
+_cell_length_c   5.04545574
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   120.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   BaMnO3
+_chemical_formula_sum   'Ba6 Mn6 O18'
+_cell_volume   441.73662378
+_cell_formula_units_Z   6
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ba  Ba0  1  0.666000  0.666000  0.737547  1
+  Ba  Ba1  1  0.000000  0.666000  0.237547  1
+  Ba  Ba2  1  0.666000  0.000000  0.237547  1
+  Ba  Ba3  1  0.334000  0.000000  0.737547  1
+  Ba  Ba4  1  0.000000  0.334000  0.737547  1
+  Ba  Ba5  1  0.334000  0.334000  0.237547  1
+  Mn  Mn6  1  0.333333  0.666667  0.909545  1
+  Mn  Mn7  1  0.666667  0.333333  0.409545  1
+  Mn  Mn8  1  0.333333  0.666667  0.409545  1
+  Mn  Mn9  1  0.666667  0.333333  0.909545  1
+  Mn  Mn10  1  0.000000  0.000000  0.576677  1
+  Mn  Mn11  1  0.000000  0.000000  0.076677  1
+  O  O12  1  0.332976  0.813593  0.156679  1
+  O  O13  1  0.186407  0.519383  0.156679  1
+  O  O14  1  0.480617  0.667024  0.156679  1
+  O  O15  1  0.519383  0.332976  0.656679  1
+  O  O16  1  0.667024  0.186407  0.656679  1
+  O  O17  1  0.813593  0.480617  0.656679  1
+  O  O18  1  0.332976  0.519383  0.656679  1
+  O  O19  1  0.813593  0.332976  0.156679  1
+  O  O20  1  0.519383  0.186407  0.156679  1
+  O  O21  1  0.480617  0.813593  0.656679  1
+  O  O22  1  0.186407  0.667024  0.656679  1
+  O  O23  1  0.667024  0.480617  0.156679  1
+  O  O24  1  0.000000  0.147116  0.329840  1
+  O  O25  1  0.852884  0.000000  0.829840  1
+  O  O26  1  0.147116  0.147116  0.829840  1
+  O  O27  1  0.852884  0.852884  0.329840  1
+  O  O28  1  0.147116  0.000000  0.329840  1
+  O  O29  1  0.000000  0.852884  0.829840  1

@@ -1,0 +1,55 @@
+# generated using pymatgen
+data_Tl5(Cu7Se5)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   9.41849414
+_cell_length_b   9.41849414
+_cell_length_c   18.45442428
+_cell_angle_alpha   62.60023406
+_cell_angle_beta   117.39976594
+_cell_angle_gamma   155.91419920
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   Tl5(Cu7Se5)2
+_chemical_formula_sum   'Tl5 Cu14 Se10'
+_cell_volume   589.50341525
+_cell_formula_units_Z   1
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Tl  Tl0  1  0.222732  0.777268  0.178627  1
+  Tl  Tl1  1  0.777268  0.222732  0.821373  1
+  Tl  Tl2  1  0.886940  0.113060  0.401159  1
+  Tl  Tl3  1  0.113060  0.886940  0.598841  1
+  Tl  Tl4  1  0.000000  0.000000  0.000000  1
+  Cu  Cu5  1  0.024214  0.975786  0.216113  1
+  Cu  Cu6  1  0.090053  0.909947  0.380409  1
+  Cu  Cu7  1  0.909947  0.090053  0.619591  1
+  Cu  Cu8  1  0.635808  0.364192  0.314264  1
+  Cu  Cu9  1  0.364192  0.635808  0.685736  1
+  Cu  Cu10  1  0.580698  0.419302  0.872132  1
+  Cu  Cu11  1  0.419302  0.580698  0.127868  1
+  Cu  Cu12  1  0.695721  0.304279  0.469544  1
+  Cu  Cu13  1  0.304279  0.695721  0.530456  1
+  Cu  Cu14  1  0.809210  0.190790  0.047986  1
+  Cu  Cu15  1  0.190790  0.809210  0.952014  1
+  Cu  Cu16  1  0.523542  0.476458  0.717727  1
+  Cu  Cu17  1  0.476458  0.523542  0.282273  1
+  Cu  Cu18  1  0.975786  0.024214  0.783887  1
+  Se  Se19  1  0.455488  0.544512  0.570501  1
+  Se  Se20  1  0.227304  0.772696  0.383017  1
+  Se  Se21  1  0.429749  0.570251  0.832073  1
+  Se  Se22  1  0.570251  0.429749  0.167927  1
+  Se  Se23  1  0.544512  0.455488  0.429499  1
+  Se  Se24  1  0.884536  0.115464  0.206326  1
+  Se  Se25  1  0.115464  0.884536  0.793674  1
+  Se  Se26  1  0.663149  0.336851  0.018904  1
+  Se  Se27  1  0.336851  0.663149  0.981096  1
+  Se  Se28  1  0.772696  0.227304  0.616983  1

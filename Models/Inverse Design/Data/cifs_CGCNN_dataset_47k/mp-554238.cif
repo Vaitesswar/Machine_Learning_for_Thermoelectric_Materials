@@ -1,0 +1,36 @@
+# generated using pymatgen
+data_CuBiSCl2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   6.82319854
+_cell_length_b   6.82319854
+_cell_length_c   8.48403153
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   145.38626157
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   CuBiSCl2
+_chemical_formula_sum   'Cu2 Bi2 S2 Cl4'
+_cell_volume   224.36651950
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Cu  Cu0  1  0.000000  0.000000  0.000000  1
+  Cu  Cu1  1  0.000000  0.000000  0.500000  1
+  Bi  Bi2  1  0.297678  0.702322  0.250000  1
+  Bi  Bi3  1  0.702322  0.297678  0.750000  1
+  S  S4  1  0.063191  0.936809  0.750000  1
+  S  S5  1  0.936809  0.063191  0.250000  1
+  Cl  Cl6  1  0.648425  0.351575  0.063013  1
+  Cl  Cl7  1  0.648425  0.351575  0.436987  1
+  Cl  Cl8  1  0.351575  0.648425  0.936987  1
+  Cl  Cl9  1  0.351575  0.648425  0.563013  1

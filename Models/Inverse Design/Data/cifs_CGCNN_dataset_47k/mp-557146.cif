@@ -1,0 +1,46 @@
+# generated using pymatgen
+data_TiAs2O7
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.36042478
+_cell_length_b   5.36042478
+_cell_length_c   9.58269993
+_cell_angle_alpha   80.87933561
+_cell_angle_beta   99.12066439
+_cell_angle_gamma   81.76649634
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   TiAs2O7
+_chemical_formula_sum   'Ti2 As4 O14'
+_cell_volume   264.40003469
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Ti  Ti0  1  0.000000  0.000000  0.500000  1
+  Ti  Ti1  1  0.000000  0.000000  0.000000  1
+  As  As2  1  0.171525  0.560902  0.301730  1
+  As  As3  1  0.439098  0.828475  0.801730  1
+  As  As4  1  0.560902  0.171525  0.198270  1
+  As  As5  1  0.828475  0.439098  0.698270  1
+  O  O6  1  0.075722  0.286250  0.370874  1
+  O  O7  1  0.767342  0.248419  0.576224  1
+  O  O8  1  0.289010  0.031663  0.645817  1
+  O  O9  1  0.031663  0.289010  0.854183  1
+  O  O10  1  0.472528  0.472528  0.250000  1
+  O  O11  1  0.713750  0.924278  0.870874  1
+  O  O12  1  0.751581  0.232658  0.076224  1
+  O  O13  1  0.248419  0.767342  0.923776  1
+  O  O14  1  0.232658  0.751581  0.423776  1
+  O  O15  1  0.710990  0.968337  0.354183  1
+  O  O16  1  0.924278  0.713750  0.629126  1
+  O  O17  1  0.968337  0.710990  0.145817  1
+  O  O18  1  0.286250  0.075722  0.129126  1
+  O  O19  1  0.527472  0.527472  0.750000  1

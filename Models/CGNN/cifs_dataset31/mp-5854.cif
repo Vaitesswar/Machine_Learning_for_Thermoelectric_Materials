@@ -1,0 +1,42 @@
+# generated using pymatgen
+data_LiGaO2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   5.09411159
+_cell_length_b   5.46649998
+_cell_length_c   6.45705077
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   90.00000000
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   LiGaO2
+_chemical_formula_sum   'Li4 Ga4 O8'
+_cell_volume   179.80924035
+_cell_formula_units_Z   4
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Li  Li0  1  0.000146  0.582337  0.875622  1
+  Li  Li1  1  0.500146  0.917663  0.375622  1
+  Li  Li2  1  0.000146  0.082337  0.624378  1
+  Li  Li3  1  0.500146  0.417663  0.124378  1
+  Ga  Ga4  1  0.004557  0.581071  0.373866  1
+  Ga  Ga5  1  0.504557  0.418929  0.626134  1
+  Ga  Ga6  1  0.504557  0.918929  0.873866  1
+  Ga  Ga7  1  0.004557  0.081071  0.126134  1
+  O  O8  1  0.372590  0.068836  0.112464  1
+  O  O9  1  0.372590  0.568836  0.387536  1
+  O  O10  1  0.872590  0.931164  0.887536  1
+  O  O11  1  0.872590  0.431164  0.612464  1
+  O  O12  1  0.895907  0.407226  0.138213  1
+  O  O13  1  0.395907  0.592774  0.861787  1
+  O  O14  1  0.395907  0.092774  0.638213  1
+  O  O15  1  0.895907  0.907226  0.361787  1

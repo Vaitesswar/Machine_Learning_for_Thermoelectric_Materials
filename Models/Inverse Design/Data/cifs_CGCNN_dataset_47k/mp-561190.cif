@@ -1,0 +1,50 @@
+# generated using pymatgen
+data_NaAu(SO4)2
+_symmetry_space_group_name_H-M   'P 1'
+_cell_length_a   4.79769693
+_cell_length_b   8.61016485
+_cell_length_c   9.41098814
+_cell_angle_alpha   90.00000000
+_cell_angle_beta   115.21855453
+_cell_angle_gamma   90.00000000
+_symmetry_Int_Tables_number   1
+_chemical_formula_structural   NaAu(SO4)2
+_chemical_formula_sum   'Na2 Au2 S4 O16'
+_cell_volume   351.70526596
+_cell_formula_units_Z   2
+loop_
+ _symmetry_equiv_pos_site_id
+ _symmetry_equiv_pos_as_xyz
+  1  'x, y, z'
+loop_
+ _atom_site_type_symbol
+ _atom_site_label
+ _atom_site_symmetry_multiplicity
+ _atom_site_fract_x
+ _atom_site_fract_y
+ _atom_site_fract_z
+ _atom_site_occupancy
+  Na  Na0  1  0.500000  0.000000  0.000000  1
+  Na  Na1  1  0.500000  0.500000  0.500000  1
+  Au  Au2  1  0.500000  0.000000  0.500000  1
+  Au  Au3  1  0.500000  0.500000  0.000000  1
+  S  S4  1  0.106516  0.207115  0.613197  1
+  S  S5  1  0.106516  0.292885  0.113197  1
+  S  S6  1  0.893484  0.792885  0.386803  1
+  S  S7  1  0.893484  0.707115  0.886803  1
+  O  O8  1  0.136570  0.360234  0.966985  1
+  O  O9  1  0.863430  0.639766  0.033015  1
+  O  O10  1  0.136570  0.139766  0.466985  1
+  O  O11  1  0.752230  0.201618  0.560988  1
+  O  O12  1  0.247770  0.701618  0.939012  1
+  O  O13  1  0.726312  0.611849  0.750577  1
+  O  O14  1  0.247770  0.798382  0.439012  1
+  O  O15  1  0.863430  0.860234  0.533015  1
+  O  O16  1  0.177726  0.371881  0.626227  1
+  O  O17  1  0.273688  0.388151  0.249423  1
+  O  O18  1  0.726312  0.888151  0.250577  1
+  O  O19  1  0.177726  0.128119  0.126227  1
+  O  O20  1  0.752230  0.298382  0.060988  1
+  O  O21  1  0.822274  0.628119  0.373773  1
+  O  O22  1  0.273688  0.111849  0.749423  1
+  O  O23  1  0.822274  0.871881  0.873773  1
