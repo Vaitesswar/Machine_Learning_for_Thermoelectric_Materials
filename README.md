@@ -47,3 +47,6 @@ The different machine learning models and inverse design algorithmic model can b
 ## Training & Testing ##
 Run the respective machine learning .py files to train and test the models. Ensure that the paths to the respective external files are
 set correctly.
+
+## References ##
+Crystal graph convolutional neural networks. Available at: https://github.com/txie-93/cgcnn.
