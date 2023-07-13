@@ -35,8 +35,9 @@ The code is built with the following libraries:
 
 - Python 3.6
 - Anaconda
-- PyTorch 1.3
+- PyTorch
 - Scikit-learn
+- Keras
 - Pymatgen
 
 ## Data Preparation ##
