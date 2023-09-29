@@ -39,6 +39,8 @@ The code is built with the following libraries:
 - Scikit-learn
 - Keras
 - Pymatgen
+- XGBoost
+- xlsxwriter
 
 ## Data Preparation ##
 In this project, the dataset was obtained from the work of _Ricci, F. et al. An Ab Initio Electronic Transport Database for
