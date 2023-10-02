@@ -38,6 +38,7 @@ The code is built with the following libraries:
 - PyTorch
 - Scikit-learn
 - Keras
+- TensorFlow
 - Pymatgen
 - XGBoost
 - xlsxwriter
