@@ -139,9 +139,8 @@ class CIFData(Dataset):
     ├── id0.cif
     ├── id1.cif
     ├── ...
-    id_prop.csv: a CSV file with two columns. The first column recodes a
-    unique ID for each crystal, and the second column recodes the value of
-    target property.
+    id_prop.csv: a CSV file with 16 columns. The first column recodes a
+    unique ID for each crystal, and the other columns denotes features.
     atom_init.json: a JSON file that stores the initialization vector for each
     element.
     ID.cif: a CIF file that recodes the crystal structure, where ID is the
