@@ -33,15 +33,15 @@ The 3 phases involved in the forward model training are retrieving data from ope
 ## Prerequisites ##
 The code is built with the following libraries:
 
-- Python 3.6
-- Anaconda
-- PyTorch
-- Scikit-learn
-- Keras
-- TensorFlow
-- Pymatgen
-- XGBoost
-- xlsxwriter
+- Python (3.6)
+- Anaconda Navigator (2.4.2)
+- PyTorch (2.0.1)
+- Scikit-learn (1.3.1)
+- Keras (2.14.0)
+- TensorFlow (2.14.0)
+- Pymatgen (2023.9.25)
+- XGBoost (2.0.0)
+- XlsxWriter (3.1.5)
 
 ## Data Preparation ##
 In this project, the dataset was obtained from the work of _Ricci, F. et al. An Ab Initio Electronic Transport Database for
